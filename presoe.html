@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PRESOE · Panel de seguimiento judicial</title>
+
+<!-- Vista previa al compartir el enlace (WhatsApp, X, Telegram, Facebook…) -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="PRESOE · Panel de seguimiento judicial">
+<meta property="og:description" content="Mapa de conexiones, causas, implicados y relojes de cuenta atrás de los casos de corrupción vinculados al PSOE desde 2018.">
+<meta property="og:image" content="https://TUUSUARIO.github.io/PRESOEV2/presoe-preview.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://TUUSUARIO.github.io/PRESOEV2/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PRESOE · Panel de seguimiento judicial">
+<meta name="twitter:description" content="Mapa de conexiones, causas, implicados y relojes de cuenta atrás de los casos de corrupción vinculados al PSOE desde 2018.">
+<meta name="twitter:image" content="https://TUUSUARIO.github.io/PRESOEV2/presoe-preview.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg0:#07090f;         /* fondo sala de máquinas */
+  --bg1:#0b101b;         /* paneles */
+  --bg2:#101725;         /* tarjetas */
+  --line:rgba(148,163,199,.14);
+  --line2:rgba(148,163,199,.26);
+  --tinta:#e9edf7;
+  --apagado:#8b96ad;
+  --rojo:#e4132b;        /* rojo de marca (logo) */
+  --carmin:#ff3b5c;      /* condenado */
+  --naranja:#ff8b3d;     /* a juicio */
+  --ambar:#f5c542;       /* investigado */
+  --gris:#8b96ad;        /* contexto */
+  --cian:#6fe3f2;        /* acentos técnicos */
+  --disp:'Chakra Petch',system-ui,sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+  --sans:'IBM Plex Sans',system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{
+  background:
+    radial-gradient(1200px 700px at 70% -10%, rgba(228,19,43,.07), transparent 60%),
+    radial-gradient(900px 600px at 0% 110%, rgba(111,227,242,.05), transparent 60%),
+    var(--bg0);
+  color:var(--tinta);
+  font-family:var(--sans);
+  font-size:14px;
+  line-height:1.5;
+  overflow:hidden;
+}
+body::after{ /* scanlines sutilísimas */
+  content:"";position:fixed;inset:0;pointer-events:none;z-index:60;
+  background:repeating-linear-gradient(0deg, rgba(255,255,255,.028) 0 1px, transparent 1px 3px);
+  mix-blend-mode:overlay;
+}
+#app{display:flex;flex-direction:column;height:100vh;height:100dvh}
+
+/* ---------- CABECERA ---------- */
+header{
+  display:flex;align-items:center;gap:18px;
+  padding:10px 18px;border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg, rgba(16,23,37,.9), rgba(11,16,27,.9));
+  flex:0 0 auto;
+}
+.logo{display:flex;align-items:center;gap:14px;min-width:0}
+.brand h1{
+  font-family:var(--disp);font-weight:700;font-size:30px;letter-spacing:.12em;line-height:1;
+  color:#fff;text-shadow:0 0 22px rgba(228,19,43,.3);
+}
+.brand h1 span{color:var(--carmin)}
+.brand p{font-family:var(--mono);font-size:10.5px;color:var(--apagado);letter-spacing:.08em;margin-top:6px;text-transform:uppercase}
+.headstats{display:flex;gap:10px;margin-left:auto;align-items:center;flex-wrap:wrap;justify-content:flex-end}
+.hs{border:1px solid var(--line);background:var(--bg1);border-radius:8px;padding:6px 12px;text-align:center;min-width:74px}
+.hs b{display:block;font-family:var(--disp);font-size:19px;line-height:1;color:#fff}
+.hs span{font-family:var(--mono);font-size:9px;letter-spacing:.12em;color:var(--apagado);text-transform:uppercase}
+.hs.alerta b{color:var(--carmin)}
+.reloj{font-family:var(--mono);text-align:right;border-left:1px solid var(--line);padding-left:16px}
+.reloj b{font-size:19px;letter-spacing:.06em;color:var(--cian);font-weight:500}
+.reloj span{display:block;font-size:9.5px;color:var(--apagado);letter-spacing:.14em;text-transform:uppercase}
+
+/* ---------- TICKER ---------- */
+.ticker{border-bottom:1px solid var(--line);background:rgba(228,19,43,.05);overflow:hidden;flex:0 0 auto}
+.ticker .tape{display:flex;width:max-content;animation:tape 70s linear infinite;padding:6px 0}
+.ticker:hover .tape{animation-play-state:paused}
+.tk{font-family:var(--mono);font-size:11px;color:var(--apagado);white-space:nowrap;padding:0 28px;display:flex;gap:9px;align-items:center}
+.tk b{color:var(--tinta);font-weight:500}
+.tk .d{color:var(--carmin);font-weight:600}
+@keyframes tape{to{transform:translateX(-50%)}}
+
+/* ---------- FILTROS ---------- */
+.filtros{display:flex;gap:8px;align-items:center;padding:8px 18px;border-bottom:1px solid var(--line);flex:0 0 auto;overflow-x:auto;scrollbar-width:none}
+.filtros::-webkit-scrollbar{display:none}
+.filtros .tag{font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;color:var(--apagado);text-transform:uppercase;flex:0 0 auto;margin-right:4px}
+.chip{
+  flex:0 0 auto;display:flex;align-items:center;gap:7px;cursor:pointer;
+  font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--apagado);
+  border:1px solid var(--line);border-radius:999px;padding:5px 12px;background:transparent;
+  transition:all .15s;
+}
+.chip .pt{width:8px;height:8px;border-radius:50%;background:var(--gris)}
+.chip[data-f="condenado"] .pt{background:var(--carmin)}
+.chip[data-f="prision"]  .pt{background:var(--carmin);box-shadow:0 0 0 3px rgba(255,59,92,.25)}
+.chip[data-f="juicio"]   .pt{background:var(--naranja)}
+.chip[data-f="investigado"] .pt{background:var(--ambar)}
+.chip[data-f="contexto"] .pt{background:var(--gris)}
+.chip:hover{border-color:var(--line2);color:var(--tinta)}
+.chip.on{border-color:var(--carmin);color:#fff;background:rgba(255,59,92,.09)}
+
+/* ---------- REJILLA PRINCIPAL ---------- */
+main{flex:1 1 auto;display:grid;grid-template-columns:274px 1fr 316px;min-height:0}
+aside{border-right:1px solid var(--line);background:var(--bg1);display:flex;flex-direction:column;min-height:0}
+aside.dcha{border-right:0;border-left:1px solid var(--line)}
+.pane-h{
+  font-family:var(--disp);font-weight:600;font-size:12px;letter-spacing:.2em;color:var(--tinta);
+  padding:12px 14px 8px;text-transform:uppercase;display:flex;align-items:center;gap:8px;flex:0 0 auto;
+}
+.pane-h::before{content:"";width:7px;height:7px;background:var(--carmin);display:inline-block;transform:rotate(45deg)}
+.pane-h small{margin-left:auto;font-family:var(--mono);font-size:10px;color:var(--apagado);letter-spacing:0}
+.buscar{padding:0 14px 10px;flex:0 0 auto}
+.buscar input{
+  width:100%;background:var(--bg0);border:1px solid var(--line);border-radius:8px;color:var(--tinta);
+  font-family:var(--mono);font-size:12px;padding:7px 10px;outline:none;
+}
+.buscar input:focus{border-color:var(--cian)}
+.lista{overflow-y:auto;flex:1 1 auto;padding:2px 8px 14px;scrollbar-width:thin;scrollbar-color:var(--line2) transparent}
+.lista::-webkit-scrollbar{width:8px}.lista::-webkit-scrollbar-thumb{background:var(--line);border-radius:8px}
+
+.p-row{
+  display:flex;gap:10px;align-items:center;padding:8px 8px;border-radius:9px;cursor:pointer;
+  border:1px solid transparent;transition:background .12s,border-color .12s;
+}
+.p-row:hover{background:var(--bg2)}
+.p-row.sel{border-color:var(--carmin);background:rgba(255,59,92,.07)}
+.p-ava{width:30px;height:30px;border-radius:50%;flex:0 0 auto;position:relative;border:2px solid var(--gris);background:var(--bg0);display:flex;align-items:center;justify-content:center}
+.p-ava img{width:100%;height:100%;border-radius:50%;object-fit:cover;display:block}
+.p-ava b{font-family:var(--mono);font-size:9px;color:var(--apagado);letter-spacing:.02em}
+.p-ava.condenado{border-color:var(--carmin)}
+.p-ava.juicio{border-color:var(--naranja)}
+.p-ava.investigado{border-color:var(--ambar)}
+.p-ava.contexto{border-color:var(--gris)}
+.p-ava .lock{position:absolute;top:-8px;right:-6px;font-size:10px}
+.p-tx{min-width:0}
+.p-tx b{display:block;font-size:12.6px;font-weight:600;color:var(--tinta);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.p-tx span{display:block;font-family:var(--mono);font-size:9.6px;color:var(--apagado);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;letter-spacing:.02em}
+.p-est{margin-left:auto;font-family:var(--mono);font-size:8.4px;letter-spacing:.1em;color:var(--apagado);text-transform:uppercase;flex:0 0 auto}
+
+.c-row{padding:9px 10px;border:1px solid var(--line);border-radius:10px;margin:0 6px 8px;cursor:pointer;background:var(--bg2);transition:border-color .12s}
+.c-row:hover{border-color:var(--line2)}
+.c-row.sel{border-color:var(--carmin)}
+.c-top{display:flex;align-items:center;gap:8px}
+.c-code{font-family:var(--mono);font-size:9.5px;color:var(--cian);letter-spacing:.08em;border:1px solid rgba(111,227,242,.3);border-radius:5px;padding:1px 6px}
+.c-top b{font-family:var(--disp);font-size:12.5px;font-weight:600;letter-spacing:.04em}
+.c-org{font-family:var(--mono);font-size:9.6px;color:var(--apagado);margin-top:4px}
+.pill{margin-left:auto;font-family:var(--mono);font-size:8.4px;letter-spacing:.1em;padding:2.5px 7px;border-radius:999px;text-transform:uppercase;flex:0 0 auto}
+.f-sent{background:rgba(255,59,92,.14);color:var(--carmin);border:1px solid rgba(255,59,92,.4)}
+.f-juicio{background:rgba(255,139,61,.13);color:var(--naranja);border:1px solid rgba(255,139,61,.4)}
+.f-inst{background:rgba(245,197,66,.11);color:var(--ambar);border:1px solid rgba(245,197,66,.35)}
+.f-parc{background:linear-gradient(90deg,rgba(255,59,92,.15),rgba(255,139,61,.15));color:#ffb08a;border:1px solid rgba(255,139,61,.4)}
+
+/* ---------- RELOJES ---------- */
+.reloj-card{border:1px solid var(--line);border-radius:10px;margin:0 6px 8px;padding:10px 12px;background:linear-gradient(180deg,var(--bg2),var(--bg1))}
+.rc-t{display:flex;align-items:center;gap:8px}
+.rc-t b{font-size:12px;font-weight:600}
+.rc-t .c-code{font-size:8.6px}
+.rc-sub{font-family:var(--mono);font-size:9.6px;color:var(--apagado);margin:3px 0 8px;line-height:1.45}
+.digits{font-family:var(--mono);font-weight:600;font-size:19px;letter-spacing:.04em;color:var(--cian);display:flex;gap:2px;align-items:baseline}
+.digits.abajo{color:var(--carmin)}
+.digits.arriba{color:var(--ambar)}
+.digits small{font-size:8.6px;color:var(--apagado);letter-spacing:.08em;margin-right:7px;text-transform:uppercase}
+.standby{font-family:var(--mono);font-size:15px;letter-spacing:.12em;color:var(--apagado)}
+.standby .blink{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--naranja);margin-right:9px;animation:blink 1.4s infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.15}}
+
+/* ---------- MAPA ---------- */
+.mapa-wrap{position:relative;min-width:0;min-height:0;background:
+  linear-gradient(rgba(148,163,199,.05) 1px, transparent 1px),
+  linear-gradient(90deg, rgba(148,163,199,.05) 1px, transparent 1px);
+  background-size:44px 44px;background-position:center;
+}
+#mapa{width:100%;height:100%;display:block;cursor:grab;touch-action:none}
+#mapa.arrastre{cursor:grabbing}
+.map-ctl{position:absolute;top:12px;right:12px;display:flex;flex-direction:column;gap:6px;z-index:5}
+.map-ctl button{
+  width:34px;height:34px;border-radius:8px;border:1px solid var(--line2);background:rgba(11,16,27,.9);
+  color:var(--tinta);font-family:var(--mono);font-size:15px;cursor:pointer;
+}
+.map-ctl button:hover{border-color:var(--cian);color:var(--cian)}
+.map-leyenda{
+  position:absolute;left:12px;bottom:12px;z-index:5;font-family:var(--mono);font-size:9.6px;color:var(--apagado);
+  background:rgba(11,16,27,.85);border:1px solid var(--line);border-radius:8px;padding:7px 11px;line-height:1.9;
+}
+.map-leyenda .l1{border-bottom:2px solid rgba(148,163,199,.5);padding:0 12px;margin-right:6px}
+.map-leyenda .l2{border-bottom:2px dashed rgba(111,227,242,.6);padding:0 12px;margin-right:6px}
+.map-aviso{position:absolute;right:12px;bottom:12px;z-index:5;max-width:300px;font-family:var(--mono);font-size:9.6px;line-height:1.6;color:var(--ambar);background:rgba(11,16,27,.9);border:1px solid rgba(245,197,66,.4);border-radius:8px;padding:7px 11px}
+.map-titulo{
+  position:absolute;top:12px;left:14px;z-index:5;font-family:var(--mono);font-size:9.6px;letter-spacing:.16em;
+  color:var(--apagado);text-transform:uppercase;background:rgba(11,16,27,.7);padding:5px 9px;border-radius:6px;border:1px solid var(--line);
+}
+
+/* nodos svg */
+.eje{stroke:rgba(148,163,199,.30);stroke-width:1.1}
+.rel{stroke:rgba(111,227,242,.42);stroke-width:1.1;stroke-dasharray:5 5}
+.rel-tx{font-family:var(--mono);font-size:9.5px;fill:rgba(111,227,242,.62);paint-order:stroke;stroke:var(--bg0);stroke-width:3px}
+.hub-poly{fill:#0d1422;stroke:rgba(148,163,199,.5);stroke-width:1.3}
+.hub-code{font-family:var(--mono);font-size:10.5px;fill:var(--cian);text-anchor:middle;letter-spacing:.08em}
+.hub-nom{font-family:'Chakra Petch';font-weight:600;font-size:12.5px;fill:var(--tinta);text-anchor:middle;letter-spacing:.1em}
+.hub-fase{font-family:var(--mono);font-size:8.6px;text-anchor:middle;letter-spacing:.12em}
+.n{cursor:pointer}
+.n .halo{opacity:.16}
+.n .core{fill:#0d1422;stroke-width:2.4}
+.n .anillo2{fill:none;stroke-width:1;opacity:.75}
+.n .ini{font-family:'Chakra Petch';font-weight:700;font-size:12.5px;fill:#fff;text-anchor:middle;letter-spacing:.03em}
+.n .nom{font-family:var(--sans);font-weight:600;font-size:11.6px;fill:var(--tinta);text-anchor:middle;paint-order:stroke;stroke:var(--bg0);stroke-width:4px}
+.n .sub{font-family:var(--mono);font-size:8.4px;fill:var(--apagado);text-anchor:middle;letter-spacing:.06em;paint-order:stroke;stroke:var(--bg0);stroke-width:3px}
+.n:hover .core{stroke-width:3.4}
+.badge-lock circle{fill:var(--carmin)}
+.badge-lock path{stroke:#fff;stroke-width:1.6;fill:none}
+.badge-lock rect{fill:#fff}
+svg.enfocado .n:not(.hot),svg.enfocado .hub:not(.hot){opacity:.13}
+svg.enfocado .eje:not(.hot),svg.enfocado .rel:not(.hot),svg.enfocado .rel-tx:not(.hot){opacity:.06}
+.n.off,.eje.off,.rel.off{opacity:.10;pointer-events:none}
+.pulso{animation:pulso 2.2s ease-in-out infinite}
+@keyframes pulso{0%,100%{opacity:.16}50%{opacity:.42}}
+
+/* ---------- PANEL DE DETALLE ---------- */
+.scrim{position:fixed;inset:0;background:rgba(4,6,10,.5);opacity:0;pointer-events:none;transition:opacity .2s;z-index:80}
+.scrim.open{opacity:1;pointer-events:auto}
+.detalle{
+  position:fixed;top:0;right:0;height:100%;width:min(480px,100%);z-index:90;background:var(--bg1);
+  border-left:1px solid var(--line2);transform:translateX(102%);transition:transform .25s ease;
+  display:flex;flex-direction:column;box-shadow:-30px 0 60px rgba(0,0,0,.5);
+}
+.detalle.open{transform:translateX(0)}
+.det-h{padding:16px 96px 12px 18px;position:relative;border-bottom:1px solid var(--line);flex:0 0 auto}
+.det-kicker{font-family:var(--mono);font-size:9.6px;letter-spacing:.18em;color:var(--cian);text-transform:uppercase;display:flex;align-items:center;gap:10px}
+.det-h h2{font-family:var(--disp);font-weight:700;font-size:21px;letter-spacing:.03em;margin-top:5px;line-height:1.2}
+.det-h .rolx{font-family:var(--mono);font-size:11px;color:var(--apagado);margin-top:4px}
+.det-badges{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.badge{font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;padding:3px 9px;border-radius:999px;border:1px solid}
+.b-condenado{color:var(--carmin);border-color:rgba(255,59,92,.5);background:rgba(255,59,92,.09)}
+.b-juicio{color:var(--naranja);border-color:rgba(255,139,61,.5);background:rgba(255,139,61,.09)}
+.b-investigado{color:var(--ambar);border-color:rgba(245,197,66,.45);background:rgba(245,197,66,.08)}
+.b-contexto{color:var(--gris);border-color:rgba(139,150,173,.45)}
+.b-prision{color:#fff;border-color:var(--carmin);background:var(--carmin);animation:blink 2s infinite}
+.det-x{position:absolute;top:12px;right:12px;width:32px;height:32px;border-radius:8px;border:1px solid var(--line2);background:var(--bg2);color:var(--tinta);font-size:15px;cursor:pointer}
+.det-x:hover{border-color:var(--carmin);color:var(--carmin)}
+.det-ava{position:absolute;top:50px;right:16px;width:60px;height:60px;border-radius:50%;border:2.5px solid var(--gris);overflow:hidden;background:var(--bg0)}
+.det-ava img{width:100%;height:100%;object-fit:cover;display:block}
+.det-b{overflow-y:auto;padding:16px 18px 28px;scrollbar-width:thin;scrollbar-color:var(--line2) transparent}
+.det-b h3{font-family:var(--mono);font-size:10px;letter-spacing:.2em;color:var(--apagado);text-transform:uppercase;margin:18px 0 8px;display:flex;gap:8px;align-items:center}
+.det-b h3::after{content:"";height:1px;background:var(--line);flex:1}
+.det-b h3:first-child{margin-top:0}
+.det-b p{font-size:13.4px;color:#cfd6e6;line-height:1.65}
+.fallo{border-left:3px solid var(--carmin);background:rgba(255,59,92,.06);border-radius:0 9px 9px 0;padding:11px 13px;font-size:13px;color:#f2d7dd;line-height:1.6}
+.hito{display:flex;gap:12px;padding:6px 0;border-bottom:1px dashed var(--line)}
+.hito:last-child{border-bottom:0}
+.hito .f{font-family:var(--mono);font-size:10.6px;color:var(--cian);flex:0 0 84px;padding-top:2px}
+.hito .t{font-size:12.8px;color:#c6cddd;line-height:1.5}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips button{
+  font-family:var(--mono);font-size:10.4px;color:var(--tinta);background:var(--bg2);border:1px solid var(--line);
+  border-radius:7px;padding:5px 9px;cursor:pointer;display:flex;align-items:center;gap:7px;
+}
+.chips button:hover{border-color:var(--cian)}
+.chips .pt{width:7px;height:7px;border-radius:50%}
+.delito{font-family:var(--mono);font-size:10px;color:#dfc9ce;border:1px dashed rgba(255,59,92,.45);border-radius:6px;padding:3px 8px}
+
+/* ---------- PIE ---------- */
+footer{
+  flex:0 0 auto;border-top:1px solid var(--line);padding:7px 18px;display:flex;gap:16px;align-items:center;
+  font-family:var(--mono);font-size:9.6px;color:var(--apagado);background:var(--bg1);flex-wrap:wrap;line-height:1.5;
+}
+footer .ley{color:var(--ambar)}
+footer .src{margin-left:auto;text-align:right}
+
+/* ---------- MÓVIL ---------- */
+.tabbar{display:none}
+@media (max-width:1060px){
+  main{grid-template-columns:1fr;position:relative}
+  aside{position:absolute;inset:0;z-index:20;border:0;display:none}
+  aside.dcha{border:0}
+  main[data-vista="gente"] .izq{display:flex}
+  main[data-vista="casos"] .dcha{display:flex}
+  .mapa-wrap{position:relative;height:100%}
+  header{flex-wrap:wrap;gap:10px;padding:10px 12px}
+  .headstats{margin-left:0;order:3;width:100%;justify-content:flex-start}
+  .reloj{margin-left:auto;border:0;padding:0}
+  .tabbar{
+    display:flex;flex:0 0 auto;border-top:1px solid var(--line);background:var(--bg1);
+  }
+  .tabbar button{
+    flex:1;background:none;border:0;color:var(--apagado);font-family:var(--mono);font-size:10px;
+    letter-spacing:.12em;text-transform:uppercase;padding:11px 0;cursor:pointer;border-top:2px solid transparent;
+  }
+  .tabbar button.on{color:var(--carmin);border-top-color:var(--carmin)}
+  footer{padding:5px 12px;font-size:8.6px}
+  footer .src, footer span:nth-child(2){display:none}
+}
+@media (prefers-reduced-motion:reduce){
+  .ticker .tape{animation:none}
+  .pulso,.standby .blink,.b-prision{animation:none}
+  .detalle{transition:none}
+}
+</style>
+</head>
+<body>
+<div id="app">
+
+<header>
+  <div class="logo" aria-label="PRESOE">
+    <div class="brand">
+      <h1>PRE<span>SOE</span></h1>
+      <p>Panel de seguimiento judicial · Casos vinculados al PSOE · era Sánchez (2018–2026)</p>
+    </div>
+  </div>
+  <div class="headstats" id="headstats"></div>
+  <div class="reloj"><b id="hora">--:--:--</b><span id="fecha">MADRID</span></div>
+</header>
+
+<div class="ticker" aria-hidden="true"><div class="tape" id="tape"></div></div>
+
+<div class="filtros" id="filtros">
+  <span class="tag">Filtro de estado</span>
+  <button class="chip on" data-f="todos"><span class="pt" style="background:var(--cian)"></span>Todos</button>
+  <button class="chip" data-f="condenado"><span class="pt"></span>Condenados <b id="n-condenado"></b></button>
+  <button class="chip" data-f="prision"><span class="pt"></span>En prisión <b id="n-prision"></b></button>
+  <button class="chip" data-f="juicio"><span class="pt"></span>A la espera de juicio <b id="n-juicio"></b></button>
+  <button class="chip" data-f="investigado"><span class="pt"></span>Investigados <b id="n-investigado"></b></button>
+  <button class="chip" data-f="contexto"><span class="pt"></span>Contexto <b id="n-contexto"></b></button>
+</div>
+
+<main id="main" data-vista="mapa">
+
+  <aside class="izq">
+    <div class="pane-h">Implicados <small id="cuenta-gente"></small></div>
+    <div class="buscar"><input id="buscador" type="search" placeholder="Buscar persona…" autocomplete="off"></div>
+    <div class="lista" id="lista-gente"></div>
+  </aside>
+
+  <section class="mapa-wrap">
+    <div class="map-titulo">Mapa de conexiones · arrastra para mover · rueda para zoom</div>
+    <svg id="mapa" viewBox="0 0 1700 1160" preserveAspectRatio="xMidYMid meet" role="application" aria-label="Mapa de conexiones"></svg>
+    <div class="map-ctl">
+      <button id="z-mas" title="Acercar">+</button>
+      <button id="z-menos" title="Alejar">−</button>
+      <button id="z-reset" title="Vista general">⤾</button>
+    </div>
+    <div class="map-leyenda">
+      <span class="l1"></span>vínculo con la causa &nbsp;&nbsp; <span class="l2"></span>relación personal / orgánica
+    </div>
+    <div class="map-aviso" id="aviso-fotos" hidden>⚠ Retratos no cargados: sin acceso a la API de Wikipedia (vista aislada o sin conexión). En la web publicada o abriendo el archivo con internet aparecerán solos.</div>
+  </section>
+
+  <aside class="dcha">
+    <div class="pane-h">Causas <small id="cuenta-casos"></small></div>
+    <div class="lista" id="lista-casos" style="flex:0 1 auto;max-height:46%"></div>
+    <div class="pane-h" style="border-top:1px solid var(--line)">Señalamientos · relojes</div>
+    <div class="lista" id="lista-relojes"></div>
+  </aside>
+
+</main>
+
+<footer>
+  <span class="ley">⚖ Presunción de inocencia: toda persona no condenada por sentencia es inocente. Las condenas recurribles no son firmes.</span>
+  <span id="stamp">Datos verificados: —</span>
+  <span class="src">Fuentes: resoluciones judiciales (CGPJ / Poder Judicial), informes UCO y hemeroteca (elDiario.es, Demócrata, Público, The Objective, Infobae, El Independiente, Libertad Digital, Wikipedia). Fotografías: Wikipedia / Wikimedia Commons (licencias CC), cargadas desde la API de Wikipedia. Sitio satírico-informativo no oficial, sin afiliación con el PSOE.</span>
+</footer>
+
+<nav class="tabbar" id="tabbar">
+  <button data-v="mapa" class="on">Mapa</button>
+  <button data-v="gente">Implicados</button>
+  <button data-v="casos">Causas + relojes</button>
+</nav>
+
+</div>
+
+<div class="scrim" id="scrim"></div>
+<section class="detalle" id="detalle" role="dialog" aria-modal="true" aria-labelledby="det-titulo">
+  <div class="det-h">
+    <button class="det-x" id="det-x" aria-label="Cerrar">✕</button>
+    <div class="det-ava" id="det-ava" hidden></div>
+    <div class="det-kicker" id="det-kicker"></div>
+    <h2 id="det-titulo"></h2>
+    <div class="rolx" id="det-rol"></div>
+    <div class="det-badges" id="det-badges"></div>
+  </div>
+  <div class="det-b" id="det-cuerpo"></div>
+</section>
+
+<script src="datos.js"></script>
+<script>
+"use strict";
+/* =====================================================================
+   CONFIGURACIÓN VISUAL (los datos están en datos.js)
+   ===================================================================== */
+
+const COLOR = {condenado:"#ff3b5c", juicio:"#ff8b3d", investigado:"#f5c542", contexto:"#8b96ad"};
+const ESTADO_TXT = {condenado:"Condenado", juicio:"A la espera de juicio", investigado:"Investigado", contexto:"Sin causa"};
+const EST_CORTO  = {condenado:"cond.", juicio:"a juicio", investigado:"invest.", contexto:"—"};
+const FASE_META = {
+  sent:{txt:"SENTENCIADO", cls:"f-sent", col:"#ff3b5c"},
+  juicio:{txt:"A JUICIO", cls:"f-juicio", col:"#ff8b3d"},
+  inst:{txt:"INSTRUCCIÓN", cls:"f-inst", col:"#f5c542"},
+  parc:{txt:"PARCIAL", cls:"f-parc", col:"#ffb08a"}
+};
+
+/* Los datos (casos, personas, relaciones, ticker, relojes, fotos) viven en datos.js
+   —window.PRESOE_DATOS— para que los robots de GitHub Actions puedan actualizarlos
+   sin tocar este archivo. */
+const D=window.PRESOE_DATOS;
+if(!D){document.body.innerHTML="<div style=\"font-family:monospace;color:#ff3b5c;padding:40px\">ERROR: falta el archivo datos.js junto a este HTML.</div>";throw new Error("datos.js ausente");}
+const CASOS=D.casos,GENTE=D.gente,RELACIONES=D.relaciones,TICKER=D.ticker,RELOJES=D.relojes,FOTOS_WIKI=D.fotos_wiki,HUB=D.hub;
+
+/* =====================================================================
+   MOTOR
+   ===================================================================== */
+const $=s=>document.querySelector(s);
+const NS="http://www.w3.org/2000/svg";
+const porId=Object.fromEntries(GENTE.map(p=>[p.id,p]));
+const casoPorId=Object.fromEntries(CASOS.map(c=>[c.id,c]));
+let filtro="todos", seleccion=null;
+
+/* --- estadísticas de cabecera y contadores de filtros --- */
+(function(){
+  const n=e=>GENTE.filter(p=>p.estado===e).length;
+  const pres=GENTE.filter(p=>p.prision).length;
+  $("#headstats").innerHTML=
+    `<div class="hs"><b>${CASOS.length}</b><span>causas</span></div>`+
+    `<div class="hs"><b>${GENTE.length}</b><span>implicados</span></div>`+
+    `<div class="hs alerta"><b>${n("condenado")}</b><span>condenados</span></div>`+
+    `<div class="hs alerta"><b>${pres}</b><span>en prisión</span></div>`+
+    `<div class="hs"><b>${n("juicio")}</b><span>a juicio</span></div>`+
+    `<div class="hs"><b>${n("investigado")}</b><span>investigados</span></div>`;
+  const set=(id,v)=>{const el=$(id);if(el)el.textContent=v};
+  set("#n-condenado",n("condenado")); set("#n-prision",pres); set("#n-juicio",n("juicio"));
+  set("#n-investigado",n("investigado")); set("#n-contexto",n("contexto"));
+})();
+
+/* --- reloj de cabecera (hora de Madrid) --- */
+(function(){
+  const fh=new Intl.DateTimeFormat("es-ES",{timeZone:"Europe/Madrid",hour:"2-digit",minute:"2-digit",second:"2-digit",hour12:false});
+  const fd=new Intl.DateTimeFormat("es-ES",{timeZone:"Europe/Madrid",weekday:"short",day:"2-digit",month:"short",year:"numeric"});
+  const tic=()=>{const d=new Date();$("#hora").textContent=fh.format(d);$("#fecha").textContent="MADRID · "+fd.format(d).toUpperCase().replace(/\./g,"");};
+  tic();setInterval(tic,1000);
+})();
+
+/* --- ticker --- */
+(function(){
+  const html=TICKER.map(([d,t])=>`<span class="tk"><span class="d">▮ ${d}</span><b>${t}</b></span>`).join("");
+  $("#tape").innerHTML=html+html; // bucle continuo
+})();
+
+/* --- barras laterales --- */
+function pintaGente(q){
+  q=(q||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+  const cont=$("#lista-gente");cont.innerHTML="";
+  GENTE.forEach(p=>{
+    const nom=p.nombre.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+    if(q && !nom.includes(q))return;
+    if(!pasaFiltro(p))return;
+    const row=document.createElement("div");
+    row.className="p-row"+(seleccion&&seleccion.tipo==="p"&&seleccion.id===p.id?" sel":"");
+    const foto=FOTOS[p.id];
+    row.innerHTML=`<span class="p-ava ${p.estado}">${foto?`<img src="${foto}" alt="" loading="lazy">`:`<b>${p.ini}</b>`}${p.prision?'<span class="lock">🔒</span>':''}</span>
+      <span class="p-tx"><b>${p.nombre}</b><span>${p.rol}</span></span>
+      <span class="p-est">${p.prision?"prisión":EST_CORTO[p.estado]}</span>`;
+    row.onclick=()=>{abrirPersona(p.id);enfocar(p.x,p.y)};
+    cont.appendChild(row);
+  });
+  $("#cuenta-gente").textContent=cont.children.length+" / "+GENTE.length;
+}
+function pintaCasos(){
+  const cont=$("#lista-casos");cont.innerHTML="";
+  CASOS.forEach(c=>{
+    const m=FASE_META[c.fase];
+    const row=document.createElement("div");
+    row.className="c-row"+(seleccion&&seleccion.tipo==="c"&&seleccion.id===c.id?" sel":"");
+    row.innerHTML=`<div class="c-top"><span class="c-code">${c.code}</span><b>${c.nombre}</b><span class="pill ${m.cls}">${m.txt}</span></div>
+      <div class="c-org">${c.alias}</div>`;
+    row.onclick=()=>{abrirCaso(c.id);const h=HUB[c.id];enfocar(h[0],h[1])};
+    cont.appendChild(row);
+  });
+  $("#cuenta-casos").textContent=CASOS.length;
+}
+
+/* --- relojes --- */
+function pintaRelojes(){
+  const cont=$("#lista-relojes");cont.innerHTML="";
+  RELOJES.forEach((r,i)=>{
+    const card=document.createElement("div");card.className="reloj-card";
+    let cuerpo;
+    if(r.tipo==="standby"){
+      cuerpo=`<div class="standby"><span class="blink"></span>— —d : ——h : ——m · POR SEÑALAR</div>`;
+    }else{
+      cuerpo=`<div class="digits ${r.tipo==="countup"?"arriba":"abajo"}" id="rl-${i}">…</div>`;
+    }
+    card.innerHTML=`<div class="rc-t"><span class="c-code">${r.caso}</span><b>${r.titulo}</b></div>
+      <div class="rc-sub">${r.sub}</div>${cuerpo}`;
+    cont.appendChild(card);
+  });
+  function tic(){
+    const ahora=Date.now();
+    RELOJES.forEach((r,i)=>{
+      if(r.tipo==="standby")return;
+      const el=$("#rl-"+i);if(!el)return;
+      let ms=r.tipo==="countdown"?(new Date(r.objetivo)-ahora):(ahora-new Date(r.objetivo));
+      let pref="";
+      if(r.tipo==="countdown"&&ms<0){el.innerHTML='<small>plazo</small>VENCIDO';return;}
+      const d=Math.floor(ms/864e5), h=Math.floor(ms%864e5/36e5), m=Math.floor(ms%36e5/6e4), s=Math.floor(ms%6e4/1e3);
+      const pp=v=>String(v).padStart(2,"0");
+      el.innerHTML=`<small>${r.tipo==="countup"?"T+":"T−"}</small>${d}d : ${pp(h)}h : ${pp(m)}m : ${pp(s)}s`;
+    });
+  }
+  tic();setInterval(tic,1000);
+}
+
+/* --- mapa svg --- */
+const svg=$("#mapa");
+const defs=crea("defs");svg.appendChild(defs);
+const capa={ejes:crea("g"),rels:crea("g"),hubs:crea("g"),nodos:crea("g")};
+Object.values(capa).forEach(g=>svg.appendChild(g));
+function crea(t,at){const e=document.createElementNS(NS,t);if(at)for(const k in at)e.setAttribute(k,at[k]);return e}
+
+const ady={}; // id -> Set de ids de nodos/hubs conectados
+function conecta(a,b){(ady[a]=ady[a]||new Set()).add(b);(ady[b]=ady[b]||new Set()).add(a)}
+
+GENTE.forEach(p=>p.casos.forEach(cid=>{
+  const h=HUB[cid];
+  const l=crea("line",{x1:p.x,y1:p.y,x2:h[0],y2:h[1],class:"eje","data-a":p.id,"data-b":cid});
+  capa.ejes.appendChild(l);conecta(p.id,cid);
+}));
+RELACIONES.forEach(r=>{
+  const A=porId[r.a],B=porId[r.b];
+  const l=crea("line",{x1:A.x,y1:A.y,x2:B.x,y2:B.y,class:"rel","data-a":r.a,"data-b":r.b});
+  capa.rels.appendChild(l);
+  const tx=crea("text",{x:(A.x+B.x)/2,y:(A.y+B.y)/2-5,class:"rel-tx","text-anchor":"middle","data-a":r.a,"data-b":r.b});
+  tx.textContent=r.t;capa.rels.appendChild(tx);conecta(r.a,r.b);
+});
+
+function hexPath(cx,cy,r){
+  let d="";for(let i=0;i<6;i++){const a=Math.PI/3*i-Math.PI/6;d+=(i?"L":"M")+(cx+r*Math.cos(a)).toFixed(1)+" "+(cy+r*Math.sin(a)).toFixed(1)}
+  return d+"Z";
+}
+CASOS.forEach(c=>{
+  const [cx,cy]=HUB[c.id],m=FASE_META[c.fase];
+  const g=crea("g",{class:"hub n","data-id":c.id});
+  const halo=crea("path",{d:hexPath(cx,cy,56),fill:m.col,class:"halo"+(c.fase==="juicio"?" pulso":"")});
+  const cuerpo=crea("path",{d:hexPath(cx,cy,46),class:"hub-poly"});
+  cuerpo.style.stroke=m.col;
+  const t1=crea("text",{x:cx,y:cy-8,class:"hub-code"});t1.textContent=c.code;
+  const t2=crea("text",{x:cx,y:cy+9,class:"hub-nom"});t2.textContent=c.nombre;
+  const t3=crea("text",{x:cx,y:cy+24,class:"hub-fase"});t3.textContent=m.txt;t3.setAttribute("fill",m.col);
+  g.append(halo,cuerpo,t1,t2,t3);
+  g.addEventListener("click",e=>{e.stopPropagation();abrirCaso(c.id)});
+  g.addEventListener("mouseenter",()=>foco(c.id));
+  g.addEventListener("mouseleave",desfoco);
+  capa.hubs.appendChild(g);
+});
+
+GENTE.forEach(p=>{
+  const col=COLOR[p.estado];
+  const g=crea("g",{class:"n nodo","data-id":p.id,"data-estado":p.estado,tabindex:"0"});
+  g.appendChild(crea("circle",{cx:p.x,cy:p.y,r:34,fill:col,class:"halo"+(p.prision?" pulso":"")}));
+  if(p.estado==="condenado")g.appendChild(crea("circle",{cx:p.x,cy:p.y,r:29,class:"anillo2",stroke:col}));
+  const core=crea("circle",{cx:p.x,cy:p.y,r:23,class:"core",stroke:col});g.appendChild(core);
+  const ini=crea("text",{x:p.x,y:p.y+4.5,class:"ini"});ini.textContent=p.ini;g.appendChild(ini);
+  const nom=crea("text",{x:p.x,y:p.y+42,class:"nom"});nom.textContent=p.nombre;g.appendChild(nom);
+  const sub=crea("text",{x:p.x,y:p.y+55,class:"sub"});
+  sub.textContent=(p.prision?"⬛ EN PRISIÓN · ":"")+ESTADO_TXT[p.estado].toUpperCase();g.appendChild(sub);
+  if(p.prision){
+    const b=crea("g",{class:"badge-lock"});
+    b.appendChild(crea("circle",{cx:p.x+18,cy:p.y-18,r:9.5}));
+    b.appendChild(crea("path",{d:`M ${p.x+15} ${p.y-19} v-2.4 a3 3 0 0 1 6 0 v2.4`}));
+    b.appendChild(crea("rect",{x:p.x+14,y:p.y-19,width:8,height:6.4,rx:1.4}));
+    g.appendChild(b);
+  }
+  g.addEventListener("click",e=>{e.stopPropagation();abrirPersona(p.id)});
+  g.addEventListener("keydown",e=>{if(e.key==="Enter")abrirPersona(p.id)});
+  g.addEventListener("mouseenter",()=>foco(p.id));
+  g.addEventListener("mouseleave",desfoco);
+  capa.nodos.appendChild(g);
+});
+
+/* foco al pasar el ratón */
+function foco(id){
+  svg.classList.add("enfocado");
+  const set=ady[id]||new Set();
+  svg.querySelectorAll(".n").forEach(n=>{
+    n.classList.toggle("hot",n.dataset.id===id||set.has(n.dataset.id));
+  });
+  svg.querySelectorAll(".eje,.rel,.rel-tx").forEach(l=>{
+    l.classList.toggle("hot",l.dataset.a===id||l.dataset.b===id);
+  });
+}
+function desfoco(){svg.classList.remove("enfocado");svg.querySelectorAll(".hot").forEach(e=>e.classList.remove("hot"))}
+
+/* filtros de estado */
+function pasaFiltro(p){
+  if(filtro==="todos")return true;
+  if(filtro==="prision")return p.prision;
+  return p.estado===filtro;
+}
+function aplicaFiltro(){
+  svg.querySelectorAll(".nodo").forEach(n=>{
+    n.classList.toggle("off",!pasaFiltro(porId[n.dataset.id]));
+  });
+  svg.querySelectorAll(".eje,.rel").forEach(l=>{
+    const A=porId[l.dataset.a],B=porId[l.dataset.b];
+    const okA=!A||pasaFiltro(A),okB=!B||pasaFiltro(B);
+    l.classList.toggle("off",!(okA&&okB));
+  });
+  pintaGente($("#buscador").value);
+}
+document.querySelectorAll(".chip").forEach(ch=>ch.addEventListener("click",()=>{
+  document.querySelectorAll(".chip").forEach(c=>c.classList.remove("on"));
+  ch.classList.add("on");filtro=ch.dataset.f;aplicaFiltro();
+}));
+$("#buscador").addEventListener("input",e=>pintaGente(e.target.value));
+
+/* --- panel de detalle --- */
+const det=$("#detalle"),scrim=$("#scrim");
+function abre(){det.classList.add("open");scrim.classList.add("open")}
+function cierra(){det.classList.remove("open");scrim.classList.remove("open");seleccion=null;pintaGente($("#buscador").value);pintaCasos()}
+$("#det-x").onclick=cierra;scrim.onclick=cierra;
+document.addEventListener("keydown",e=>{if(e.key==="Escape")cierra()});
+svg.addEventListener("click",()=>{ /* clic en vacío: nada, se conserva el panel si está abierto */ });
+
+function chipsPersona(ids){
+  return `<div class="chips">`+ids.map(id=>{const p=porId[id];
+    return `<button data-p="${id}"><span class="pt" style="background:${COLOR[p.estado]}"></span>${p.nombre}${p.prision?" 🔒":""}</button>`;
+  }).join("")+`</div>`;
+}
+function chipsCaso(ids){
+  return `<div class="chips">`+ids.map(id=>{const c=casoPorId[id];const m=FASE_META[c.fase];
+    return `<button data-c="${id}"><span class="pt" style="background:${m.col}"></span>${c.code} · ${c.nombre}</button>`;
+  }).join("")+`</div>`;
+}
+function engancha(){
+  $("#det-cuerpo").querySelectorAll("[data-p]").forEach(b=>b.onclick=()=>{const p=porId[b.dataset.p];abrirPersona(p.id);enfocar(p.x,p.y)});
+  $("#det-cuerpo").querySelectorAll("[data-c]").forEach(b=>b.onclick=()=>{abrirCaso(b.dataset.c);const h=HUB[b.dataset.c];enfocar(h[0],h[1])});
+}
+
+function abrirPersona(id){
+  const p=porId[id];seleccion={tipo:"p",id};
+  $("#det-kicker").innerHTML=`EXPEDIENTE PERSONAL · ${p.ini}`;
+  $("#det-titulo").textContent=p.nombre;
+  $("#det-rol").textContent=p.rol;
+  let b=`<span class="badge b-${p.estado}">${ESTADO_TXT[p.estado]}</span>`;
+  if(p.prision)b+=`<span class="badge b-prision">🔒 en prisión</span>`;
+  $("#det-badges").innerHTML=b;
+  const av=$("#det-ava");
+  if(FOTOS[p.id]){av.hidden=false;av.style.borderColor=COLOR[p.estado];av.innerHTML=`<img src="${FOTOS[p.id]}" alt="${p.nombre}">`;}
+  else{av.hidden=true;av.innerHTML="";}
+  let h=`<h3>Situación procesal</h3><p>${p.resumen}</p>`;
+  if(p.fallo)h+=`<h3>Fallo · resumen de la condena</h3><div class="fallo">${p.fallo}</div>`;
+  if(p.casos.length)h+=`<h3>Causas vinculadas</h3>${chipsCaso(p.casos)}`;
+  $("#det-cuerpo").innerHTML=h;$("#det-cuerpo").scrollTop=0;
+  engancha();pintaGente($("#buscador").value);pintaCasos();abre();
+}
+function abrirCaso(id){
+  const c=casoPorId[id];seleccion={tipo:"c",id};
+  const m=FASE_META[c.fase];
+  $("#det-kicker").innerHTML=`CAUSA ${c.code}`;
+  $("#det-ava").hidden=true;
+  $("#det-titulo").textContent=c.nombre;
+  $("#det-rol").textContent=c.alias+" · "+c.organo;
+  $("#det-badges").innerHTML=`<span class="pill ${m.cls}" style="margin-left:0">${m.txt}</span>`;
+  let h=`<h3>Delitos objeto de la causa</h3><div class="chips">${c.delitos.map(d=>`<span class="delito">${d}</span>`).join("")}</div>`;
+  h+=`<h3>Resumen</h3><p>${c.resumen}</p>`;
+  if(c.fallo)h+=`<h3>Fallo · resumen de la condena</h3><div class="fallo">${c.fallo}</div>`;
+  h+=`<h3>Cronología</h3>`+c.hitos.map(x=>`<div class="hito"><span class="f">${x.f}</span><span class="t">${x.t}</span></div>`).join("");
+  h+=`<h3>Implicados en esta causa</h3>${chipsPersona(c.gente)}`;
+  $("#det-cuerpo").innerHTML=h;$("#det-cuerpo").scrollTop=0;
+  engancha();pintaGente($("#buscador").value);pintaCasos();abre();
+}
+
+/* --- encuadre, zoom y arrastre --- */
+const VB0={x:0,y:0,w:1700,h:1160};let vb={...VB0};
+function aplicaVB(){svg.setAttribute("viewBox",`${vb.x} ${vb.y} ${vb.w} ${vb.h}`)}
+function tween(dest){
+  const ini={...vb},t0=performance.now(),dur=320;
+  function paso(t){
+    const k=Math.min(1,(t-t0)/dur),e=1-Math.pow(1-k,3);
+    vb={x:ini.x+(dest.x-ini.x)*e,y:ini.y+(dest.y-ini.y)*e,w:ini.w+(dest.w-ini.w)*e,h:ini.h+(dest.h-ini.h)*e};
+    aplicaVB();if(k<1)requestAnimationFrame(paso);
+  }
+  requestAnimationFrame(paso);
+}
+function enfocar(cx,cy){
+  const w=Math.min(vb.w,860),h=w*(VB0.h/VB0.w);
+  tween({x:cx-w/2,y:cy-h/2,w,h});
+}
+function zoom(f,px,py){
+  const w=Math.max(480,Math.min(2600,vb.w*f));if(w===vb.w)return;
+  const h=w*(vb.h/vb.w);
+  const kx=(px-vb.x)/vb.w,ky=(py-vb.y)/vb.h;
+  vb={x:px-kx*w,y:py-ky*h,w,h};aplicaVB();
+}
+function puntoSVG(e){
+  const r=svg.getBoundingClientRect();
+  return[vb.x+(e.clientX-r.left)/r.width*vb.w, vb.y+(e.clientY-r.top)/r.height*vb.h];
+}
+svg.addEventListener("wheel",e=>{e.preventDefault();const[px,py]=puntoSVG(e);zoom(e.deltaY>0?1.12:0.89,px,py)},{passive:false});
+let drag=null;
+svg.addEventListener("pointerdown",e=>{
+  if(e.target.closest(".n"))return;
+  drag={x:e.clientX,y:e.clientY,vb:{...vb}};svg.classList.add("arrastre");svg.setPointerCapture(e.pointerId);
+});
+svg.addEventListener("pointermove",e=>{
+  if(!drag)return;
+  const r=svg.getBoundingClientRect();
+  vb.x=drag.vb.x-(e.clientX-drag.x)/r.width*vb.w;
+  vb.y=drag.vb.y-(e.clientY-drag.y)/r.height*vb.h;
+  aplicaVB();
+});
+["pointerup","pointercancel"].forEach(ev=>svg.addEventListener(ev,()=>{drag=null;svg.classList.remove("arrastre")}));
+$("#z-mas").onclick=()=>zoom(0.8,vb.x+vb.w/2,vb.y+vb.h/2);
+$("#z-menos").onclick=()=>zoom(1.25,vb.x+vb.w/2,vb.y+vb.h/2);
+$("#z-reset").onclick=()=>tween({...VB0});
+
+/* --- pestañas móviles --- */
+document.querySelectorAll("#tabbar button").forEach(b=>b.onclick=()=>{
+  document.querySelectorAll("#tabbar button").forEach(x=>x.classList.remove("on"));
+  b.classList.add("on");$("#main").dataset.vista=b.dataset.v;
+});
+
+/* --- fotografías (miniaturas de Wikipedia, licencias CC; sin artículo o sin foto, quedan las iniciales).
+   Se usa la API de consultas con origin=* (CORS universal): una sola petición para todos,
+   con resolución de redirecciones y descarte de páginas de desambiguación. --- */
+const FOTOS={};
+function avisoFotos(ok){const el=$("#aviso-fotos");if(el)el.hidden=!!ok;}
+function pintaFotoSVG(p){
+  const g=svg.querySelector('.nodo[data-id="'+p.id+'"]');
+  if(!g||g.querySelector("image"))return;
+  const cp=crea("clipPath",{id:"cp-"+p.id});
+  cp.appendChild(crea("circle",{cx:p.x,cy:p.y,r:21.5}));
+  defs.appendChild(cp);
+  const im=crea("image",{x:p.x-21.5,y:p.y-21.5,width:43,height:43,"clip-path":"url(#cp-"+p.id+")",preserveAspectRatio:"xMidYMid slice"});
+  im.setAttribute("href",FOTOS[p.id]);
+  im.setAttributeNS("http://www.w3.org/1999/xlink","xlink:href",FOTOS[p.id]);
+  im.addEventListener("error",()=>im.remove());
+  g.insertBefore(im,g.querySelector(".nom"));
+}
+async function cargaFotos(){
+  const ids=Object.keys(FOTOS_WIKI).filter(id=>porId[id]);
+  const titulos=ids.map(id=>FOTOS_WIKI[id].replace(/ /g,"_"));
+  const url="https://es.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*"
+    +"&redirects=1&prop=pageimages%7Cpageprops&piprop=thumbnail&pithumbsize=240&ppprop=disambiguation"
+    +"&titles="+encodeURIComponent(titulos.join("|"));
+  let datos=null;
+  try{
+    const r=await fetch(url);
+    if(r.ok)datos=await r.json();
+  }catch(e){}
+  if(!datos||!datos.query||!datos.query.pages){avisoFotos(false);return;}
+  const q=datos.query;
+  const aPedido={};   // título final → título solicitado (con espacios)
+  (q.normalized||[]).forEach(n=>{aPedido[n.to]=n.from.replace(/_/g," ")});
+  (q.redirects||[]).forEach(rd=>{aPedido[rd.to]=aPedido[rd.from]||rd.from});
+  const idPorTitulo={};
+  ids.forEach(id=>{idPorTitulo[FOTOS_WIKI[id]]=id});
+  let alguna=false;
+  q.pages.forEach(pg=>{
+    if(pg.missing||pg.invalid)return;
+    if(pg.pageprops&&Object.prototype.hasOwnProperty.call(pg.pageprops,"disambiguation"))return;
+    const pedido=aPedido[pg.title]||pg.title;
+    const id=idPorTitulo[pedido];
+    if(!id||!pg.thumbnail||!pg.thumbnail.source)return;
+    FOTOS[id]=pg.thumbnail.source;
+    alguna=true;
+    pintaFotoSVG(porId[id]);
+  });
+  avisoFotos(alguna);
+  pintaGente($("#buscador").value);
+  if(seleccion&&seleccion.tipo==="p"&&FOTOS[seleccion.id])abrirPersona(seleccion.id);
+}
+
+/* --- arranque --- */
+$("#stamp").textContent="Datos verificados: "+(D.actualizado_datos||"—")+" · Titulares: "+(D.actualizado_ticker||"—")+".";
+pintaGente("");pintaCasos();pintaRelojes();aplicaVB();cargaFotos();
+</script>
+</body>
+</html>
