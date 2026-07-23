@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-PRESOE · propuesta diaria con IA (revisión humana obligatoria).
+PRESOE · propuesta diaria con IA (revisión humana obligatoria) — v2 endurecida.
 
 Recoge los titulares del día, se los pasa a la API de Anthropic junto con el
 datos.js actual y pide una versión actualizada del JSON. El resultado NO se
@@ -8,16 +8,22 @@ publica: se valida aquí y, si hay cambios, el workflow abre un Pull Request
 para que lo revises y lo fusiones tú. Los cambios de estado procesal o de
 fallos se marcan como SENSIBLES en la descripción del PR.
 
+Novedades v2: mensajes de error claros en el registro (saldo, clave, saturación),
+reintentos automáticos, detección de respuesta truncada y JSON compacto.
+
 Requiere el secreto ANTHROPIC_API_KEY en el repositorio.
 """
-import json, os, sys, urllib.request
+import json, os, sys, time, urllib.error, urllib.request
 from datetime import datetime, timezone
+
+sys.stdout.reconfigure(line_buffering=True)
 
 # reutilizamos la descarga de titulares del robot del ticker
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from actualiza_ticker import CONSULTAS, descarga_rss, parsea_rss, lee_datos, escribe_datos
 
 MODELO = "claude-sonnet-4-6"
+MAX_SALIDA = 24000
 CLAVES = {"actualizado_datos","actualizado_ticker","hub","casos","gente",
           "relaciones","ticker","relojes","fotos_wiki"}
 ESTADOS = {"condenado","juicio","investigado","contexto"}
@@ -39,26 +45,66 @@ titulares (elige coordenadas x/y libres, a más de 120 px de los nodos existente
 dentro de 60-1650 × 60-1100, y añade su hub si es una causa).
 5. Si cambias algo sustantivo, pon "actualizado_datos" en la fecha de hoy.
 6. Si ningún titular aporta nada fiable, devuelve el JSON EXACTAMENTE igual.
-Responde ÚNICAMENTE con el JSON completo actualizado, sin comentarios ni marcado."""
+Responde ÚNICAMENTE con el JSON completo actualizado, sin comentarios ni marcado, \
+en formato compacto (una sola línea, sin sangrías ni saltos de línea)."""
 
 def llama_api(clave, sistema, usuario):
     cuerpo = json.dumps({
         "model": MODELO,
-        "max_tokens": 16000,
+        "max_tokens": MAX_SALIDA,
         "system": sistema,
         "messages": [{"role": "user", "content": usuario}],
     }).encode("utf-8")
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
-        data=cuerpo,
-        headers={
-            "content-type": "application/json",
-            "x-api-key": clave,
-            "anthropic-version": "2023-06-01",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=180) as r:
-        respuesta = json.loads(r.read().decode("utf-8"))
+    intentos = 0
+    while True:
+        intentos += 1
+        req = urllib.request.Request(
+            "https://api.anthropic.com/v1/messages",
+            data=cuerpo,
+            headers={
+                "content-type": "application/json",
+                "x-api-key": clave,
+                "anthropic-version": "2023-06-01",
+            },
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=480) as r:
+                respuesta = json.loads(r.read().decode("utf-8"))
+            break
+        except urllib.error.HTTPError as e:
+            detalle = ""
+            try:
+                detalle = e.read().decode("utf-8", "replace")[:600]
+            except Exception:
+                pass
+            if e.code in (429, 529) and intentos < 3:
+                print(f"La API está ocupada (HTTP {e.code}); reintento en 30 s…")
+                time.sleep(30)
+                continue
+            if e.code == 401:
+                print("ERROR: la API rechazó la clave (HTTP 401). El secreto "
+                      "ANTHROPIC_API_KEY está mal pegado o la clave fue revocada: "
+                      "crea una nueva en console.anthropic.com → API Keys y "
+                      "actualiza el secreto.", file=sys.stderr)
+            elif e.code == 400 and "credit" in detalle.lower():
+                print("ERROR: no hay saldo en la cuenta de Anthropic "
+                      "('credit balance is too low'). Carga crédito en "
+                      "console.anthropic.com → Billing y vuelve a lanzar.", file=sys.stderr)
+            else:
+                print(f"ERROR de la API (HTTP {e.code}): {detalle}", file=sys.stderr)
+            sys.exit(1)
+        except Exception as e:
+            if intentos < 2:
+                print(f"Fallo de red al llamar a la API ({e}); reintento en 30 s…")
+                time.sleep(30)
+                continue
+            print(f"ERROR: no se pudo completar la llamada a la API: {e}", file=sys.stderr)
+            sys.exit(1)
+    if respuesta.get("stop_reason") == "max_tokens":
+        print("ERROR: la respuesta de la IA quedó truncada por el límite de salida. "
+              "Sube MAX_SALIDA en scripts/propuesta_ia.py (p. ej. a 32000) y relanza.",
+              file=sys.stderr)
+        sys.exit(1)
     return "".join(b.get("text", "") for b in respuesta.get("content", []))
 
 def valida(d, referencia):
@@ -106,7 +152,9 @@ def cambios_sensibles(antes, despues):
 def main():
     clave = os.environ.get("ANTHROPIC_API_KEY")
     if not clave:
-        print("Falta ANTHROPIC_API_KEY", file=sys.stderr)
+        print("ERROR: falta el secreto ANTHROPIC_API_KEY en el repositorio "
+              "(Settings → Secrets and variables → Actions → Repository secrets).",
+              file=sys.stderr)
         sys.exit(1)
 
     datos = lee_datos()
@@ -118,6 +166,7 @@ def main():
         except Exception:
             pass
     titulares = list(dict.fromkeys(titulares))[:60]
+    print(f"Titulares recogidos: {len(titulares)}")
     if not titulares:
         open("cambios_pr.md","w",encoding="utf-8").write("Sin titulares hoy: sin propuesta.")
         print("Sin titulares; no se llama a la API.")
@@ -129,20 +178,23 @@ def main():
                "\n\nJSON ACTUAL DE datos.js:\n" +
                json.dumps(datos, ensure_ascii=False))
 
+    print("Llamando a la API (puede tardar 2-4 minutos)…")
     texto = llama_api(clave, SISTEMA, usuario)
+    print(f"Respuesta recibida: {len(texto)} caracteres.")
+
     inicio, fin = texto.find("{"), texto.rfind("}")
     if inicio < 0 or fin < 0:
-        print("La respuesta no contiene JSON", file=sys.stderr)
+        print("ERROR: la respuesta de la IA no contiene JSON.", file=sys.stderr)
         sys.exit(1)
     try:
         propuesta = json.loads(texto[inicio:fin+1])
     except Exception as e:
-        print(f"JSON inválido en la respuesta: {e}", file=sys.stderr)
+        print(f"ERROR: el JSON de la respuesta no es válido ({e}).", file=sys.stderr)
         sys.exit(1)
 
     error = valida(propuesta, datos)
     if error:
-        print(f"Propuesta rechazada por validación: {error}", file=sys.stderr)
+        print(f"ERROR: propuesta rechazada por validación: {error}.", file=sys.stderr)
         sys.exit(1)
 
     if propuesta == datos:
