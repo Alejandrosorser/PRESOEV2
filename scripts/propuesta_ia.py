@@ -1,0 +1,166 @@
+# -*- coding: utf-8 -*-
+"""
+PRESOE · propuesta diaria con IA (revisión humana obligatoria).
+
+Recoge los titulares del día, se los pasa a la API de Anthropic junto con el
+datos.js actual y pide una versión actualizada del JSON. El resultado NO se
+publica: se valida aquí y, si hay cambios, el workflow abre un Pull Request
+para que lo revises y lo fusiones tú. Los cambios de estado procesal o de
+fallos se marcan como SENSIBLES en la descripción del PR.
+
+Requiere el secreto ANTHROPIC_API_KEY en el repositorio.
+"""
+import json, os, sys, urllib.request
+from datetime import datetime, timezone
+
+# reutilizamos la descarga de titulares del robot del ticker
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from actualiza_ticker import CONSULTAS, descarga_rss, parsea_rss, lee_datos, escribe_datos
+
+MODELO = "claude-sonnet-4-6"
+CLAVES = {"actualizado_datos","actualizado_ticker","hub","casos","gente",
+          "relaciones","ticker","relojes","fotos_wiki"}
+ESTADOS = {"condenado","juicio","investigado","contexto"}
+
+SISTEMA = """Mantienes datos.js, la base de datos de PRESOE, un panel público que sigue \
+causas judiciales vinculadas al PSOE en España. Reglas innegociables:
+1. Tu ÚNICA evidencia son los titulares que te paso. No uses conocimiento propio para \
+afirmar hechos nuevos: si un titular no lo dice, no existe.
+2. NUNCA cambies el campo "estado" de una persona ni añadas o modifiques un "fallo" \
+salvo que un titular informe expresamente de esa resolución judicial (condena, \
+absolución, procesamiento, archivo). Si lo haces, incluye el medio entre paréntesis \
+en el texto del hito correspondiente.
+3. Mantén siempre el lenguaje de presunción: «presunto», «según el instructor», \
+«la defensa niega». Las condenas recurribles no son firmes: dilo.
+4. Puedes: añadir hitos con fecha a las cronologías, matizar resúmenes, añadir un \
+reloj tipo "countdown" con "objetivo" en ISO si un titular da fecha exacta de un \
+señalamiento, y añadir personas o causas nuevas SOLO con evidencia sólida en varios \
+titulares (elige coordenadas x/y libres, a más de 120 px de los nodos existentes, \
+dentro de 60-1650 × 60-1100, y añade su hub si es una causa).
+5. Si cambias algo sustantivo, pon "actualizado_datos" en la fecha de hoy.
+6. Si ningún titular aporta nada fiable, devuelve el JSON EXACTAMENTE igual.
+Responde ÚNICAMENTE con el JSON completo actualizado, sin comentarios ni marcado."""
+
+def llama_api(clave, sistema, usuario):
+    cuerpo = json.dumps({
+        "model": MODELO,
+        "max_tokens": 16000,
+        "system": sistema,
+        "messages": [{"role": "user", "content": usuario}],
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages",
+        data=cuerpo,
+        headers={
+            "content-type": "application/json",
+            "x-api-key": clave,
+            "anthropic-version": "2023-06-01",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=180) as r:
+        respuesta = json.loads(r.read().decode("utf-8"))
+    return "".join(b.get("text", "") for b in respuesta.get("content", []))
+
+def valida(d, referencia):
+    if set(d) != CLAVES:
+        return "claves de nivel superior alteradas"
+    ids_gente = {p.get("id") for p in d["gente"]}
+    ids_casos = {c.get("id") for c in d["casos"]}
+    for p in d["gente"]:
+        for campo in ("id","nombre","ini","estado","x","y","casos","rol","resumen"):
+            if campo not in p:
+                return f"persona sin campo «{campo}»"
+        if p["estado"] not in ESTADOS:
+            return f"estado inválido: {p['estado']}"
+        if not set(p["casos"]) <= ids_casos:
+            return f"persona {p['id']} con causa inexistente"
+    for c in d["casos"]:
+        if not set(c.get("gente", [])) <= ids_gente:
+            return f"causa {c.get('id')} con persona inexistente"
+        if c.get("id") not in d["hub"]:
+            return f"causa {c.get('id')} sin coordenadas de hub"
+    for r in d["relojes"]:
+        if r.get("tipo") not in {"countdown","countup","standby"}:
+            return "reloj con tipo inválido"
+    return None
+
+def cambios_sensibles(antes, despues):
+    est_antes = {p["id"]: p.get("estado") for p in antes["gente"]}
+    fal_antes = {p["id"]: p.get("fallo") for p in antes["gente"]}
+    avisos = []
+    for p in despues["gente"]:
+        pid = p["id"]
+        if pid not in est_antes:
+            avisos.append(f"- ⚠ Persona NUEVA: **{p.get('nombre')}** (estado: {p.get('estado')})")
+            continue
+        if p.get("estado") != est_antes[pid]:
+            avisos.append(f"- ⚠ Cambio de estado de **{p.get('nombre')}**: "
+                          f"`{est_antes[pid]}` → `{p.get('estado')}`")
+        if p.get("fallo") != fal_antes.get(pid):
+            avisos.append(f"- ⚠ Fallo modificado o añadido para **{p.get('nombre')}**")
+    nuevos_casos = {c["id"] for c in despues["casos"]} - {c["id"] for c in antes["casos"]}
+    for cid in nuevos_casos:
+        avisos.append(f"- ⚠ Causa NUEVA: `{cid}`")
+    return avisos
+
+def main():
+    clave = os.environ.get("ANTHROPIC_API_KEY")
+    if not clave:
+        print("Falta ANTHROPIC_API_KEY", file=sys.stderr)
+        sys.exit(1)
+
+    datos = lee_datos()
+    titulares = []
+    for consulta in CONSULTAS:
+        try:
+            for fecha, titulo, fuente in parsea_rss(descarga_rss(consulta))[:8]:
+                titulares.append(f"[{fecha:%d-%m-%Y}] {titulo} ({fuente})")
+        except Exception:
+            pass
+    titulares = list(dict.fromkeys(titulares))[:60]
+    if not titulares:
+        open("cambios_pr.md","w",encoding="utf-8").write("Sin titulares hoy: sin propuesta.")
+        print("Sin titulares; no se llama a la API.")
+        return
+
+    hoy = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    usuario = (f"Fecha de hoy: {hoy}.\n\nTITULARES RECOGIDOS HOY:\n" +
+               "\n".join(titulares) +
+               "\n\nJSON ACTUAL DE datos.js:\n" +
+               json.dumps(datos, ensure_ascii=False))
+
+    texto = llama_api(clave, SISTEMA, usuario)
+    inicio, fin = texto.find("{"), texto.rfind("}")
+    if inicio < 0 or fin < 0:
+        print("La respuesta no contiene JSON", file=sys.stderr)
+        sys.exit(1)
+    try:
+        propuesta = json.loads(texto[inicio:fin+1])
+    except Exception as e:
+        print(f"JSON inválido en la respuesta: {e}", file=sys.stderr)
+        sys.exit(1)
+
+    error = valida(propuesta, datos)
+    if error:
+        print(f"Propuesta rechazada por validación: {error}", file=sys.stderr)
+        sys.exit(1)
+
+    if propuesta == datos:
+        open("cambios_pr.md","w",encoding="utf-8").write("La IA no propone cambios hoy.")
+        print("Sin cambios propuestos.")
+        return
+
+    avisos = cambios_sensibles(datos, propuesta)
+    lineas = ["## Propuesta automática de actualización de PRESOE",
+              f"Generada el {hoy} a partir de {len(titulares)} titulares.", "",
+              "**Revisa antes de fusionar.** En especial:"]
+    lineas += avisos if avisos else ["- (sin cambios de estado, fallos ni altas: solo cronologías/resúmenes/relojes)"]
+    lineas += ["", "Titulares usados como evidencia:", ""]
+    lineas += [f"- {t}" for t in titulares[:25]]
+    open("cambios_pr.md","w",encoding="utf-8").write("\n".join(lineas))
+
+    escribe_datos(propuesta)
+    print(f"Propuesta escrita en datos.js ({len(avisos)} cambios sensibles).")
+
+if __name__ == "__main__":
+    main()
