@@ -1,0 +1,35 @@
+name: Propuesta IA (con revisión humana)
+
+on:
+  schedule:
+    - cron: "30 6 * * *"   # media hora después del robot del ticker
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  propuesta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar propuesta con IA
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/propuesta_ia.py
+
+      - name: Abrir Pull Request para revisión
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: propuesta-ia
+          title: "Propuesta automática de actualización de datos"
+          body-path: cambios_pr.md
+          commit-message: "Propuesta IA de actualización de datos.js"
+          add-paths: datos.js
+          delete-branch: true
