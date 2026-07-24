@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-23",
-  "actualizado_ticker": "2026-07-23",
+  "actualizado_ticker": "2026-07-24",
   "hub": {
     "k1": [
       430,
@@ -930,56 +930,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "22 JUL",
-      "Zapatero anuncia en TVE su primera entrevista tras declarar imputado por el caso Plus Ultra"
+      "24 JUL",
+      "Todas las explicaciones que Zapatero debería dar y aún no ha dado — LaSexta"
     ],
     [
-      "20 JUL",
-      "Julio Martínez ratifica ante el juez el cobro del 1% del rescate de Plus Ultra (~530.000 €)"
+      "24 JUL",
+      "Zapatero insiste en su inocencia en el caso Plus Ultra: “No hablé con nadie ni de la SEPI ni del Gobierno” — EL PAÍS"
     ],
     [
-      "17 JUL",
-      "Informe UCO: el entorno de Cerdán habría manejado 323.178 € no declarados (2015-2024)"
+      "24 JUL",
+      "Los dos directivos de Plus Ultra complican la nulidad del caso al usar en su defensa los mensajes de móvil que discute Zapatero — El Debate"
     ],
     [
-      "16 JUL",
-      "La Audiencia de Madrid avala el jurado para Begoña Gómez, solo por 2 delitos, y obliga a rehacer la apertura de juicio"
+      "24 JUL",
+      "Conde-Pumpido, obligado a abstenerse en el caso Plus Ultra por su \"estrecha amistad\" con Zapatero — Libertad Digital"
     ],
     [
-      "16 JUL",
-      "Declaran imputados la directora general de la Guardia Civil y el DAO en el caso Leire Díez"
+      "24 JUL",
+      "Abascal denuncia que RTVE blanquea a Zapatero investigado en el caso Plus Ultra — moncloa.com"
     ],
     [
-      "14 JUL",
-      "Condenados David Sánchez y Gallardo: 9 años de inhabilitación por prevaricación (recurrible)"
+      "24 JUL",
+      "Julio Martínez seguirá colaborando con la Justicia y apunta al presunto cobro de mordidas de Zapatero por el petróleo venezolano — Onda Cero"
     ],
     [
-      "09 JUL",
-      "Claudio Rivas (hidrocarburos) declara como testigo en el caso Leire: las causas se cruzan"
+      "24 JUL",
+      "Moncloa mantiene su postura respecto a la investigación a Zapatero y reclama respeto para su presunción de inocencia — Diario Red"
     ],
     [
-      "07 JUL",
-      "El Supremo fija en 39.009 € las costas que debe pagar García Ortiz"
+      "24 JUL",
+      "Acta sonora de la reunión de las cloacas tras su paso secreto por la Fiscalía General — OkDiario"
     ],
     [
-      "17 JUN",
-      "Zapatero declara 3½ horas como investigado: niega toda influencia y el juez rechaza cautelares"
+      "24 JUL",
+      "La primera entrevista de Zapatero desde su imputación no despeja las incógnitas del caso: “Hay mucho que explicar de esas joyas todavía” — EL PAÍS"
     ],
     [
-      "JUN",
-      "Sentencia del caso mascarillas: 24 años y 3 meses para Ábalos, 19 años y 8 meses para Koldo, 4½ suspendidos para Aldama"
+      "24 JUL",
+      "Rodríguez Zapatero lo niega todo — Segre.com"
     ],
     [
-      "JUN",
-      "Caso Mediador: la Fiscalía pide 8, 11 y 13 años en la pieza principal, pendiente de señalamiento"
+      "24 JUL",
+      "Zapatero designó a su ‘testaferro’ interlocutor con Plus Ultra un año antes del rescate — The Objective"
     ],
     [
-      "30 MAY",
-      "Tres líneas de investigación sitúan a Cerdán como presunto cabecilla: obras, SEPI y desestabilización de causas"
+      "24 JUL",
+      "El PSOE mantiene el apoyo a Zapatero pero crecen las voces críticas: «No convence» — The Objective"
     ],
     [
-      "19 MAY",
-      "El juez Calama imputa a Zapatero como presunto líder de una estructura de tráfico de influencias"
+      "24 JUL",
+      "Caso Koldo: el juez ofrece al Estado personarse por los sueldos de la ex novia de Ábalos — moncloa.com"
     ]
   ],
   "relojes": [
