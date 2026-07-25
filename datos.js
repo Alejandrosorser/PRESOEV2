@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-23",
-  "actualizado_ticker": "2026-07-24",
+  "actualizado_ticker": "2026-07-25",
   "hub": {
     "k1": [
       430,
@@ -930,56 +930,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "24 JUL",
-      "Todas las explicaciones que Zapatero debería dar y aún no ha dado — LaSexta"
+      "25 JUL",
+      "Dimiten el presidente y el CEO de Plus Ultra, investigados por el rescate de 53 millones concedido en 2021 — Elplural.com"
     ],
     [
-      "24 JUL",
-      "Zapatero insiste en su inocencia en el caso Plus Ultra: “No hablé con nadie ni de la SEPI ni del Gobierno” — EL PAÍS"
+      "25 JUL",
+      "¿Se presentó fuera de plazo o no? La batalla procesal entre el juez Calama y el abogado de Zapatero puede marcar el futuro del caso Plus Ultra — Economist & Jurist"
     ],
     [
-      "24 JUL",
-      "Los dos directivos de Plus Ultra complican la nulidad del caso al usar en su defensa los mensajes de móvil que discute Zapatero — El Debate"
+      "25 JUL",
+      "Dimiten el presidente y el CEO de Plus Ultra tras inculpar a Zapatero en una «mordida» por el rescate — El Correo"
     ],
     [
-      "24 JUL",
-      "Conde-Pumpido, obligado a abstenerse en el caso Plus Ultra por su \"estrecha amistad\" con Zapatero — Libertad Digital"
+      "25 JUL",
+      "La intensidad de las causas que afectan al Gobierno: Zapatero, tipo 2 — Elplural.com"
     ],
     [
-      "24 JUL",
-      "Abascal denuncia que RTVE blanquea a Zapatero investigado en el caso Plus Ultra — moncloa.com"
+      "25 JUL",
+      "Quién es José Luis Calama, el juez que reactiva el caso Plus Ultra — Demócrata"
     ],
     [
-      "24 JUL",
-      "Julio Martínez seguirá colaborando con la Justicia y apunta al presunto cobro de mordidas de Zapatero por el petróleo venezolano — Onda Cero"
+      "25 JUL",
+      "‘Caso Zapatero’: Anticorrupción pide ampliar el informe sobre sus joyas, y el juez cita a declarar a directivos de Plus Ultra que le señalan — EL PAÍS"
     ],
     [
-      "24 JUL",
-      "Moncloa mantiene su postura respecto a la investigación a Zapatero y reclama respeto para su presunción de inocencia — Diario Red"
+      "25 JUL",
+      "El juez cita al presidente y al CEO de Plus Ultra el 7 de septiembre como imputados — Diario de León"
     ],
     [
-      "24 JUL",
-      "Acta sonora de la reunión de las cloacas tras su paso secreto por la Fiscalía General — OkDiario"
+      "25 JUL",
+      "Plus Ultra amplía un 13% su capital tras incumplir el pago del rescate y estallar el ‘caso Zapatero’ — The Objective"
     ],
     [
-      "24 JUL",
-      "La primera entrevista de Zapatero desde su imputación no despeja las incógnitas del caso: “Hay mucho que explicar de esas joyas todavía” — EL PAÍS"
+      "25 JUL",
+      "Un número oculto y Julito como peón: Zapatero escondió todo rastro de sus manejos con Plus Ultra — Vozpopuli"
     ],
     [
-      "24 JUL",
-      "Rodríguez Zapatero lo niega todo — Segre.com"
+      "25 JUL",
+      "Las pistas del socio de Zapatero al juez que dejan al descubierto al expresidente: Las pistas del socio de Zap — El Debate"
     ],
     [
-      "24 JUL",
-      "Zapatero designó a su ‘testaferro’ interlocutor con Plus Ultra un año antes del rescate — The Objective"
+      "25 JUL",
+      "El último «salvavidas» de Montero: en Andalucía se cree que, si cae Zapatero, «la siguiente será ella» — El Debate"
     ],
     [
-      "24 JUL",
-      "El PSOE mantiene el apoyo a Zapatero pero crecen las voces críticas: «No convence» — The Objective"
+      "25 JUL",
+      "Bieito Rubido y Ana Martín revelan que todavía es el principio del caso Zapatero: «Hay mucha más tela que cortar» — El Debate"
     ],
     [
-      "24 JUL",
-      "Caso Koldo: el juez ofrece al Estado personarse por los sueldos de la ex novia de Ábalos — moncloa.com"
+      "25 JUL",
+      "La cúpula de Plus Ultra dimite tras vincular a Zapatero al rescate de la SEPI — MUNDIARIO"
     ]
   ],
   "relojes": [
