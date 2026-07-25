@@ -955,10 +955,6 @@ window.PRESOE_DATOS =
     ],
     [
       "25 JUL",
-      "El juez cita al presidente y al CEO de Plus Ultra el 7 de septiembre como imputados — Diario de León"
-    ],
-    [
-      "25 JUL",
       "Plus Ultra amplía un 13% su capital tras incumplir el pago del rescate y estallar el ‘caso Zapatero’ — The Objective"
     ],
     [
@@ -980,6 +976,10 @@ window.PRESOE_DATOS =
     [
       "25 JUL",
       "La cúpula de Plus Ultra dimite tras vincular a Zapatero al rescate de la SEPI — MUNDIARIO"
+    ],
+    [
+      "24 JUL",
+      "Dimite presidente y el CEO de Plus Ultra, aerolínea española imputada en caso que golpea a Zapatero — BioBioChile"
     ]
   ],
   "relojes": [
