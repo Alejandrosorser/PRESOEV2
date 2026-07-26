@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-23",
-  "actualizado_ticker": "2026-07-25",
+  "actualizado_ticker": "2026-07-26",
   "hub": {
     "k1": [
       430,
@@ -930,56 +930,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "25 JUL",
-      "Dimiten el presidente y el CEO de Plus Ultra, investigados por el rescate de 53 millones concedido en 2021 — Elplural.com"
+      "26 JUL",
+      "Piden que declare el fiscal de Badajoz para saber si la Fiscalía General metió mano en una denuncia contra Leire Díez — Libertad Digital"
+    ],
+    [
+      "26 JUL",
+      "Begoña Gómez aprovecha la inexistencia de norma sobre la figura del cónyuge para buscar su absolución frente al jurado — El Periódico"
+    ],
+    [
+      "26 JUL",
+      "Begoña Gómez, ante el jurado — La Vanguardia"
+    ],
+    [
+      "26 JUL",
+      "La semana que dejó a Zapatero aislado en la red de Plus Ultra — EL PAÍS"
+    ],
+    [
+      "26 JUL",
+      "El PSOE respalda a Zapatero pese a que sí apartó a Ábalos sin estar imputado — The Objective"
+    ],
+    [
+      "26 JUL",
+      "El PSOE se resiste a romper con Zapatero pese a la falta de explicaciones — La Voz de Galicia"
+    ],
+    [
+      "26 JUL",
+      "Le chiavi dell'intervista di Zapatero: le sue spiegazioni su Plus Ultra, i gioielli e la sua relazione con Julio Martínez — Demócrata"
+    ],
+    [
+      "26 JUL",
+      "Así se rescató Plus Ultra y así se filtró la decisión — El Debate"
     ],
     [
       "25 JUL",
-      "¿Se presentó fuera de plazo o no? La batalla procesal entre el juez Calama y el abogado de Zapatero puede marcar el futuro del caso Plus Ultra — Economist & Jurist"
+      "Zapatero y la nulidad de actuaciones del caso Plus Ultra: Dos años de agenda, veinte días de plazo — Law&Trends"
     ],
     [
       "25 JUL",
-      "Dimiten el presidente y el CEO de Plus Ultra tras inculpar a Zapatero en una «mordida» por el rescate — El Correo"
+      "El pagador de Zapatero preparó durante un mes su confesión tras una cita con Anticorrupción — El Mundo"
     ],
     [
       "25 JUL",
-      "La intensidad de las causas que afectan al Gobierno: Zapatero, tipo 2 — Elplural.com"
+      "📷 Novedades en el caso Plus Ultra: el presidente de la aerolínea, Julio Martínez Sola, y el consejero delegado, Roberto Roselli, investigados por el rescate… — instagram.com"
     ],
     [
       "25 JUL",
-      "Quién es José Luis Calama, el juez que reactiva el caso Plus Ultra — Demócrata"
+      "Dimite la cúpula de Plus Ultra tras confesar el pago a un amigo de Zapatero para lograr el rescate — El Economista"
     ],
     [
       "25 JUL",
-      "‘Caso Zapatero’: Anticorrupción pide ampliar el informe sobre sus joyas, y el juez cita a declarar a directivos de Plus Ultra que le señalan — EL PAÍS"
-    ],
-    [
-      "25 JUL",
-      "Plus Ultra amplía un 13% su capital tras incumplir el pago del rescate y estallar el ‘caso Zapatero’ — The Objective"
-    ],
-    [
-      "25 JUL",
-      "Un número oculto y Julito como peón: Zapatero escondió todo rastro de sus manejos con Plus Ultra — Vozpopuli"
-    ],
-    [
-      "25 JUL",
-      "Las pistas del socio de Zapatero al juez que dejan al descubierto al expresidente: Las pistas del socio de Zap — El Debate"
-    ],
-    [
-      "25 JUL",
-      "El último «salvavidas» de Montero: en Andalucía se cree que, si cae Zapatero, «la siguiente será ella» — El Debate"
-    ],
-    [
-      "25 JUL",
-      "Bieito Rubido y Ana Martín revelan que todavía es el principio del caso Zapatero: «Hay mucha más tela que cortar» — El Debate"
-    ],
-    [
-      "25 JUL",
-      "La cúpula de Plus Ultra dimite tras vincular a Zapatero al rescate de la SEPI — MUNDIARIO"
-    ],
-    [
-      "24 JUL",
-      "Dimite presidente y el CEO de Plus Ultra, aerolínea española imputada en caso que golpea a Zapatero — BioBioChile"
+      "El juez Calama rechaza el intento de Zapatero de anular la causa y cita a los directivos de Plus Ultra — La Voz de Galicia"
     ]
   ],
   "relojes": [
