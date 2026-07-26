@@ -935,10 +935,6 @@ window.PRESOE_DATOS =
     ],
     [
       "26 JUL",
-      "Begoña Gómez aprovecha la inexistencia de norma sobre la figura del cónyuge para buscar su absolución frente al jurado — El Periódico"
-    ],
-    [
-      "26 JUL",
       "Begoña Gómez, ante el jurado — La Vanguardia"
     ],
     [
@@ -980,6 +976,10 @@ window.PRESOE_DATOS =
     [
       "25 JUL",
       "El juez Calama rechaza el intento de Zapatero de anular la causa y cita a los directivos de Plus Ultra — La Voz de Galicia"
+    ],
+    [
+      "25 JUL",
+      "‘Caso Zapatero’: Anticorrupción pide ampliar el informe sobre sus joyas, y el juez cita a declarar a directivos de Plus Ultra que le señalan — EL PAÍS"
     ]
   ],
   "relojes": [
