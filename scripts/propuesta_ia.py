@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-PRESOE · propuesta diaria con IA (revisión humana obligatoria) — v2 endurecida.
+PRESOE · propuesta diaria con IA (revisión humana obligatoria) — v3 con streaming.
 
 Recoge los titulares del día, se los pasa a la API de Anthropic junto con el
 datos.js actual y pide una versión actualizada del JSON. El resultado NO se
@@ -8,8 +8,9 @@ publica: se valida aquí y, si hay cambios, el workflow abre un Pull Request
 para que lo revises y lo fusiones tú. Los cambios de estado procesal o de
 fallos se marcan como SENSIBLES en la descripción del PR.
 
-Novedades v2: mensajes de error claros en el registro (saldo, clave, saturación),
-reintentos automáticos, detección de respuesta truncada y JSON compacto.
+Novedades v3: la respuesta de la IA llega por goteo (streaming), de modo que no
+hay límite práctico de duración; techo de salida ampliado; y se mantienen los
+mensajes de error claros, los reintentos y la detección de truncado de la v2.
 
 Requiere el secreto ANTHROPIC_API_KEY en el repositorio.
 """
@@ -23,7 +24,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from actualiza_ticker import CONSULTAS, descarga_rss, parsea_rss, lee_datos, escribe_datos
 
 MODELO = "claude-sonnet-4-6"
-MAX_SALIDA = 24000
+MAX_SALIDA = 32000
 CLAVES = {"actualizado_datos","actualizado_ticker","hub","casos","gente",
           "relaciones","ticker","relojes","fotos_wiki"}
 ESTADOS = {"condenado","juicio","investigado","contexto"}
@@ -52,6 +53,7 @@ def llama_api(clave, sistema, usuario):
     cuerpo = json.dumps({
         "model": MODELO,
         "max_tokens": MAX_SALIDA,
+        "stream": True,
         "system": sistema,
         "messages": [{"role": "user", "content": usuario}],
     }).encode("utf-8")
@@ -65,11 +67,38 @@ def llama_api(clave, sistema, usuario):
                 "content-type": "application/json",
                 "x-api-key": clave,
                 "anthropic-version": "2023-06-01",
+                "accept": "text/event-stream",
             },
         )
         try:
-            with urllib.request.urlopen(req, timeout=480) as r:
-                respuesta = json.loads(r.read().decode("utf-8"))
+            trozos, stop, eventos = [], None, 0
+            with urllib.request.urlopen(req, timeout=120) as r:
+                for linea_b in r:
+                    linea = linea_b.decode("utf-8", "replace").strip()
+                    if not linea.startswith("data:"):
+                        continue
+                    dato = linea[5:].strip()
+                    if dato == "[DONE]":
+                        break
+                    try:
+                        ev = json.loads(dato)
+                    except Exception:
+                        continue
+                    tipo = ev.get("type")
+                    if tipo == "content_block_delta":
+                        delta = ev.get("delta", {})
+                        if delta.get("type") == "text_delta":
+                            trozos.append(delta.get("text", ""))
+                            eventos += 1
+                            if eventos % 500 == 0:
+                                print(f"  …generando ({sum(len(t) for t in trozos)} caracteres)")
+                    elif tipo == "message_delta":
+                        stop = ev.get("delta", {}).get("stop_reason") or stop
+                    elif tipo == "error":
+                        raise RuntimeError(ev.get("error", {}).get("message", "error de la API en el stream"))
+            texto = "".join(trozos)
+            if not texto:
+                raise RuntimeError("la API devolvió un stream vacío")
             break
         except urllib.error.HTTPError as e:
             detalle = ""
@@ -95,17 +124,17 @@ def llama_api(clave, sistema, usuario):
             sys.exit(1)
         except Exception as e:
             if intentos < 2:
-                print(f"Fallo de red al llamar a la API ({e}); reintento en 30 s…")
+                print(f"Fallo de red durante la llamada a la API ({e}); reintento en 30 s…")
                 time.sleep(30)
                 continue
             print(f"ERROR: no se pudo completar la llamada a la API: {e}", file=sys.stderr)
             sys.exit(1)
-    if respuesta.get("stop_reason") == "max_tokens":
+    if stop == "max_tokens":
         print("ERROR: la respuesta de la IA quedó truncada por el límite de salida. "
-              "Sube MAX_SALIDA en scripts/propuesta_ia.py (p. ej. a 32000) y relanza.",
+              "Sube MAX_SALIDA en scripts/propuesta_ia.py (p. ej. a 48000) y relanza.",
               file=sys.stderr)
         sys.exit(1)
-    return "".join(b.get("text", "") for b in respuesta.get("content", []))
+    return texto
 
 def valida(d, referencia):
     if set(d) != CLAVES:
