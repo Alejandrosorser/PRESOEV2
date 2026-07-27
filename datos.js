@@ -959,15 +959,11 @@ window.PRESOE_DATOS =
     ],
     [
       "27 JUL",
-      "Avalan al juez que rechazó investigar si Leire Díez maniobró en el caso de David Sánchez — La Voz de Galicia"
+      "Avalan al juez que rechazó investigar si Leire Díez maniobró en el caso de David Sánchez — El Periódico"
     ],
     [
       "27 JUL",
       "El caso Zapatero sigue abierto: joyas, Plus Ultra y Martínez — Demócrata"
-    ],
-    [
-      "27 JUL",
-      "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez — El Periódico"
     ],
     [
       "27 JUL",
@@ -980,6 +976,10 @@ window.PRESOE_DATOS =
     [
       "27 JUL",
       "El PP y Vox suben después del caso Zapatero y amplían la brecha con el PSOE y sus socios — El Progreso de Lugo"
+    ],
+    [
+      "27 JUL",
+      "La direttrice della Guardia Civil si dichiara \"vittima\" di Santos Cerdán e nega di aver interferito nella UCO — Demócrata"
     ]
   ],
   "relojes": [
