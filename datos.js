@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-23",
-  "actualizado_ticker": "2026-07-26",
+  "actualizado_ticker": "2026-07-27",
   "hub": {
     "k1": [
       430,
@@ -930,56 +930,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "26 JUL",
-      "Piden que declare el fiscal de Badajoz para saber si la Fiscalía General metió mano en una denuncia contra Leire Díez — Libertad Digital"
+      "27 JUL",
+      "La acusación popular pide 13 años de cárcel para Begoña Gómez — infoLibre"
     ],
     [
-      "26 JUL",
-      "Begoña Gómez, ante el jurado — La Vanguardia"
+      "27 JUL",
+      "La acusación popular rebaja su petición de cárcel para Begoña Gómez — OkDiario"
     ],
     [
-      "26 JUL",
-      "La semana que dejó a Zapatero aislado en la red de Plus Ultra — EL PAÍS"
+      "27 JUL",
+      "Preocupación en Moncloa: piden 13 años de cárcel para Begoña Gómez y que Pedro Sánchez declare en el juicio como testigo — ESdiario"
     ],
     [
-      "26 JUL",
-      "El PSOE respalda a Zapatero pese a que sí apartó a Ábalos sin estar imputado — The Objective"
+      "27 JUL",
+      "Gabriel Rufián vaticina que Begoña Gómez será condenada: \"Absolutamente es lawfare\" — Elplural.com"
     ],
     [
-      "26 JUL",
-      "El PSOE se resiste a romper con Zapatero pese a la falta de explicaciones — La Voz de Galicia"
+      "27 JUL",
+      "Las acusaciones ajustan su petición de cárcel para Begoña a los 13 años pero mantienen la necesidad de interrogar a Sánchez ante el jurado — El Periódico"
     ],
     [
-      "26 JUL",
-      "Le chiavi dell'intervista di Zapatero: le sue spiegazioni su Plus Ultra, i gioielli e la sua relazione con Julio Martínez — Demócrata"
+      "27 JUL",
+      "La acusación popular pide 13 años de prisión para Begoña Gómez y que testifique Sánchez — The Objective"
     ],
     [
-      "26 JUL",
-      "Así se rescató Plus Ultra y así se filtró la decisión — El Debate"
+      "27 JUL",
+      "Hazte Oír solicita 13 años de cárcel para Begoña Gómez y pide que declare Sánchez en el juicio — Vozpopuli"
     ],
     [
-      "25 JUL",
-      "Zapatero y la nulidad de actuaciones del caso Plus Ultra: Dos años de agenda, veinte días de plazo — Law&Trends"
+      "27 JUL",
+      "Avalan al juez que rechazó investigar si Leire Díez maniobró en el caso de David Sánchez — La Voz de Galicia"
     ],
     [
-      "25 JUL",
-      "El pagador de Zapatero preparó durante un mes su confesión tras una cita con Anticorrupción — El Mundo"
+      "27 JUL",
+      "El caso Zapatero sigue abierto: joyas, Plus Ultra y Martínez — Demócrata"
     ],
     [
-      "25 JUL",
-      "📷 Novedades en el caso Plus Ultra: el presidente de la aerolínea, Julio Martínez Sola, y el consejero delegado, Roberto Roselli, investigados por el rescate… — instagram.com"
+      "27 JUL",
+      "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez — El Periódico"
     ],
     [
-      "25 JUL",
-      "Dimite la cúpula de Plus Ultra tras confesar el pago a un amigo de Zapatero para lograr el rescate — El Economista"
+      "27 JUL",
+      "Última hora de la trama del PSOE, en directo: caso Plus Ultra, Zapatero, Begoña Gómez y Leire Díez — El Periódico"
     ],
     [
-      "25 JUL",
-      "El juez Calama rechaza el intento de Zapatero de anular la causa y cita a los directivos de Plus Ultra — La Voz de Galicia"
+      "27 JUL",
+      "Caso Leire Díez: el ex jefe de gabinete de Sánchez citado el 5 de agosto para clonar su móvil — moncloa.com"
     ],
     [
-      "25 JUL",
-      "‘Caso Zapatero’: Anticorrupción pide ampliar el informe sobre sus joyas, y el juez cita a declarar a directivos de Plus Ultra que le señalan — EL PAÍS"
+      "27 JUL",
+      "El PP y Vox suben después del caso Zapatero y amplían la brecha con el PSOE y sus socios — El Progreso de Lugo"
     ]
   ],
   "relojes": [
