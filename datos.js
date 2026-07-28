@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-07-27",
+  "actualizado_ticker": "2026-07-28",
   "hub": {
     "k1": [
       430,
@@ -994,92 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "27 JUL",
-      "Acusación popular rebaja de 24 a 13 años la petición de cárcel para Begoña Gómez y pide que Sánchez testifique — El Mundo"
+      "28 JUL",
+      "De un año a casi dos décadas: radiografía de los tiempos de las Justicia en los grandes casos políticos — El Boletín"
     ],
     [
-      "27 JUL",
-      "Las acusaciones ajustan su petición de cárcel para Begoña a los 13 años pero mantienen la necesidad de interrogar a Sánchez ante el jurado — El Periódico"
+      "28 JUL",
+      "La empresa de las hijas de Zapatero declara 2 millones de ingresos desde 2021 con 5 empleados — OkDiario"
     ],
     [
-      "27 JUL",
-      "Hazte Oír solicita 13 años de cárcel para Begoña Gómez y pide que declare Sánchez en el juicio — Vozpopuli"
+      "28 JUL",
+      "Los billetes de Leire llevan a Ferraz ante Pedraz: dos empleadas del PSOE aclaran quién pagaba sus viajes — ESdiario"
     ],
     [
-      "27 JUL",
-      "La acusación popular pide 13 años de prisión para Begoña Gómez y que testifique Sánchez — The Objective"
+      "28 JUL",
+      "Autorizan a la UCO a ampliar la investigación a Santos Cerdán y analizar cuentas bancarias de su familia — Elplural.com"
     ],
     [
-      "27 JUL",
-      "La acusación popular pide 13 años de cárcel para Begoña Gómez — infoLibre"
+      "28 JUL",
+      "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — Demócrata"
     ],
     [
-      "27 JUL",
-      "Caso Leire Díez: el ex jefe de gabinete de Sánchez citado el 5 de agosto para clonar su móvil — moncloa.com"
+      "28 JUL",
+      "La UCO señala por segunda vez al Consejo de Ministros de Sánchez con el rescate de una aerolínea — El Debate"
     ],
     [
-      "27 JUL",
-      "Avalan al juez que rechazó investigar si Leire Díez maniobró en el caso de David Sánchez — La Voz de Galicia"
+      "28 JUL",
+      "El más allá de Plus Ultra y ZP — El Economista"
     ],
     [
-      "27 JUL",
-      "Última hora de la trama del PSOE, en directo: caso Plus Ultra, Zapatero, Begoña Gómez y Leire Díez — El Periódico"
+      "28 JUL",
+      "Una decena de menciones a Sánchez: las acusaciones populares centran el tráfico de influencias de Begoña Gómez en su posición institucional — El Periódico"
     ],
     [
-      "26 JUL",
-      "La semana que dejó a Zapatero aislado en la red de Plus Ultra — EL PAÍS"
+      "28 JUL",
+      "El ‘caso Cerdán’ se reimpulsa con nuevas indagaciones — EL PAÍS"
     ],
     [
-      "26 JUL",
-      "Dos administrativas del PSOE aportarán al juez conversaciones clave con Santos Cerdán — Navarra.com"
+      "28 JUL",
+      "Caso Plus Ultra: la dificultad para probar el tráfico de influencias de Zapatero — moncloa.com"
     ],
     [
-      "26 JUL",
-      "El juez del caso Leire cierra la ronda de interrogatorios con cuatro testigos, entre ellos dos empleadas del PSOE — El Diario de Madrid"
+      "28 JUL",
+      "Las hijas de Zapatero firman nuevas cuentas que elevan su negocio a 2,16 millones en pleno caso Plus Ultra — Vozpopuli"
     ],
     [
-      "25 JUL",
-      "Dimite la cúpula de Plus Ultra tras confesar el pago a un amigo de Zapatero para lograr el rescate — El Economista"
+      "28 JUL",
+      "El juez citará a las hijas de Zapatero tras escuchar las revelaciones de los directivos de Plus Ultra — Vozpopuli"
     ],
     [
-      "24 JUL",
-      "El juez confirma la imputación de la expareja de Ábalos y ofrece al Estado personarse por sus sueldos en Ineco — El Progreso de Lugo / moncloa.com"
-    ],
-    [
-      "24 JUL",
-      "El juez del caso Zapatero cita a declarar como imputados al presidente y al CEO de Plus Ultra el 7 y 8 de septiembre — LaSexta"
-    ],
-    [
-      "24 JUL",
-      "El juez rechaza la nulidad del caso Plus Ultra pedida por Zapatero porque recurrió fuera de plazo — ABC"
-    ],
-    [
-      "24 JUL",
-      "El PP pide la imputación de Leire Díez y cuatro cargos más por crear un puesto a medida en Correos — La Vanguardia"
-    ],
-    [
-      "23 JUL",
-      "El juez pide a cinco bancos información de más de 30 cuentas vinculadas al entorno familiar de Santos Cerdán — antena3.com"
-    ],
-    [
-      "23 JUL",
-      "Un investigado en hidrocarburos asegura por escrito al juez que la comisión por rescatar Plus Ultra subía al 20% — El Confidencial"
-    ],
-    [
-      "22 JUL",
-      "El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado — El Mundo"
-    ],
-    [
-      "22 JUL",
-      "El Supremo levanta las cautelares a Aldama pero deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos — RTVE.es"
-    ],
-    [
-      "20 JUL",
-      "La expareja de Ábalos y el hermano de Koldo García se niegan a declarar sobre la contratación de ella en Ineco — EL PAÍS"
-    ],
-    [
-      "15 JUL",
-      "El número dos del exfiscal general admite que informó a García Ortiz de sus reuniones con Leire Díez — El Mundo / El Confidencial"
+      "28 JUL",
+      "La Audiencia de Madrid rechaza una nueva imputación de la directora de la Guardia Civil por su relación Leire Díez — Vozpopuli"
     ]
   ],
   "relojes": [
