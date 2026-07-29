@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-07-28",
+  "actualizado_ticker": "2026-07-29",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "28 JUL",
-      "De un año a casi dos décadas: radiografía de los tiempos de las Justicia en los grandes casos políticos — El Boletín"
+      "29 JUL",
+      "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez — El Periódico"
     ],
     [
-      "28 JUL",
-      "La empresa de las hijas de Zapatero declara 2 millones de ingresos desde 2021 con 5 empleados — OkDiario"
+      "29 JUL",
+      "La Fiscalía Europea irrumpe en la trama de obra pública del caso Koldo para saber si Bruselas financió sus proyectos — Libertad Digital"
     ],
     [
-      "28 JUL",
-      "Los billetes de Leire llevan a Ferraz ante Pedraz: dos empleadas del PSOE aclaran quién pagaba sus viajes — ESdiario"
+      "29 JUL",
+      "Malestar en la defensa de Zapatero tras su entrevista en TVE sobre el caso Plus Ultra — Libertad Digital"
     ],
     [
-      "28 JUL",
-      "Autorizan a la UCO a ampliar la investigación a Santos Cerdán y analizar cuentas bancarias de su familia — Elplural.com"
+      "29 JUL",
+      "Trabajadoras del PSOE declaran que actuaron por indicación de Cerdán y que Leire usó varias veces el parking de Ferraz — Diario Red"
     ],
     [
-      "28 JUL",
+      "29 JUL",
+      "Sánchez reitera su respaldo a Zapatero y muestra \"absoluta tranquilidad\" con el rescate de Plus Ultra — Diario Red"
+    ],
+    [
+      "29 JUL",
+      "A Pilar Sánchez Acera el Gobierno le devuelve el favor — OkDiario"
+    ],
+    [
+      "29 JUL",
+      "Los accionistas de Plus Ultra que usaron a Zapatero para el rescate querían que les rehabilitara ante el ch... — OkDiario"
+    ],
+    [
+      "29 JUL",
+      "Durísimo informe fiscal: «a la defensa de Zapatero le disgusta que la investigación avance» — moncloa.com"
+    ],
+    [
+      "29 JUL",
+      "Cerdán evitó registrar las visitas de Leire Díez a la sede del PSOE para no dejar rastro — The Objective"
+    ],
+    [
+      "29 JUL",
       "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — Demócrata"
     ],
     [
-      "28 JUL",
-      "La UCO señala por segunda vez al Consejo de Ministros de Sánchez con el rescate de una aerolínea — El Debate"
+      "29 JUL",
+      "La comida con Ábalos \"que por cierto se durmió\" que preocupa a Zapatero — Artículo 14"
     ],
     [
-      "28 JUL",
-      "El más allá de Plus Ultra y ZP — El Economista"
+      "29 JUL",
+      "Las secretarias de Ferraz estrechan el cerco sobre Cerdán — Artículo 14"
     ],
     [
-      "28 JUL",
-      "Una decena de menciones a Sánchez: las acusaciones populares centran el tráfico de influencias de Begoña Gómez en su posición institucional — El Periódico"
-    ],
-    [
-      "28 JUL",
-      "El ‘caso Cerdán’ se reimpulsa con nuevas indagaciones — EL PAÍS"
-    ],
-    [
-      "28 JUL",
-      "Caso Plus Ultra: la dificultad para probar el tráfico de influencias de Zapatero — moncloa.com"
-    ],
-    [
-      "28 JUL",
-      "Las hijas de Zapatero firman nuevas cuentas que elevan su negocio a 2,16 millones en pleno caso Plus Ultra — Vozpopuli"
-    ],
-    [
-      "28 JUL",
-      "El juez citará a las hijas de Zapatero tras escuchar las revelaciones de los directivos de Plus Ultra — Vozpopuli"
-    ],
-    [
-      "28 JUL",
-      "La Audiencia de Madrid rechaza una nueva imputación de la directora de la Guardia Civil por su relación Leire Díez — Vozpopuli"
+      "29 JUL",
+      "Secretarias del PSOE atribuyen a Cerdán las gestiones de Ferraz para Leire Díez — MUNDIARIO"
     ]
   ],
   "relojes": [
