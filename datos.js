@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-07-29",
+  "actualizado_ticker": "2026-07-30",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "29 JUL",
+      "30 JUL",
+      "Las claves de la investigación a Zapatero en el 'caso Plus Ultra': el juez autoriza el acceso a sus cuentas bancarias — moncloa.com"
+    ],
+    [
+      "30 JUL",
+      "El juez autoriza a la UDEF investigar las cuentas de Zapatero, de sus hijas y de su secretaria — Aragón Digital"
+    ],
+    [
+      "30 JUL",
+      "Begoña Gómez cambia de abogado para el juicio con jurado popular: el penalista Jaime Campaner asume su defensa — moncloa.com"
+    ],
+    [
+      "30 JUL",
+      "Pedraz pone septiembre como límite para unificar el caso Leire y llevará el bloqueo al Supremo — ESdiario"
+    ],
+    [
+      "30 JUL",
+      "El juez autoriza investigar más de 60 cuentas bancarias en el caso Plus Ultra — Heraldo de León"
+    ],
+    [
+      "30 JUL",
+      "El DAO justifica ante el juez la investigación interna a la UCO por caso Leire — MUNDIARIO"
+    ],
+    [
+      "30 JUL",
       "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez — El Periódico"
     ],
     [
-      "29 JUL",
-      "La Fiscalía Europea irrumpe en la trama de obra pública del caso Koldo para saber si Bruselas financió sus proyectos — Libertad Digital"
+      "30 JUL",
+      "Jaime Campaner, un abogado didáctico y acostumbrado a los focos para defender a Begoña Gómez ante el jurado — Elplural.com"
     ],
     [
-      "29 JUL",
-      "Malestar en la defensa de Zapatero tras su entrevista en TVE sobre el caso Plus Ultra — Libertad Digital"
+      "30 JUL",
+      "El juez del 'caso Plus Ultra' autoriza a la UDEF a investigar las cuentas bancarias de Rodríguez Zapatero y de su entorno — MARCA"
     ],
     [
-      "29 JUL",
-      "Trabajadoras del PSOE declaran que actuaron por indicación de Cerdán y que Leire usó varias veces el parking de Ferraz — Diario Red"
+      "30 JUL",
+      "El juez Pedraz imputa al exdirector de la Guardia Civil Leonardo Marcos por presuntas presiones a la UCO en el caso Leire Díez — moncloa.com"
     ],
     [
-      "29 JUL",
-      "Sánchez reitera su respaldo a Zapatero y muestra \"absoluta tranquilidad\" con el rescate de Plus Ultra — Diario Red"
+      "30 JUL",
+      "Calama pone el foco en Escrivá por el aplazamiento de la deuda a Plus Ultra para facilitar el rescate — Libertad Digital"
     ],
     [
-      "29 JUL",
-      "A Pilar Sánchez Acera el Gobierno le devuelve el favor — OkDiario"
+      "30 JUL",
+      "Pedraz cita al fiscal jefe de Badajoz por la denuncia contra Leire Díez — Canal Extremadura"
     ],
     [
-      "29 JUL",
-      "Los accionistas de Plus Ultra que usaron a Zapatero para el rescate querían que les rehabilitara ante el ch... — OkDiario"
-    ],
-    [
-      "29 JUL",
-      "Durísimo informe fiscal: «a la defensa de Zapatero le disgusta que la investigación avance» — moncloa.com"
-    ],
-    [
-      "29 JUL",
-      "Cerdán evitó registrar las visitas de Leire Díez a la sede del PSOE para no dejar rastro — The Objective"
-    ],
-    [
-      "29 JUL",
-      "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — Demócrata"
-    ],
-    [
-      "29 JUL",
-      "La comida con Ábalos \"que por cierto se durmió\" que preocupa a Zapatero — Artículo 14"
-    ],
-    [
-      "29 JUL",
-      "Las secretarias de Ferraz estrechan el cerco sobre Cerdán — Artículo 14"
-    ],
-    [
-      "29 JUL",
-      "Secretarias del PSOE atribuyen a Cerdán las gestiones de Ferraz para Leire Díez — MUNDIARIO"
+      "30 JUL",
+      "El pulso soterrado de la Audiencia Nacional para retener el caso Leire Díez — MUNDIARIO"
     ]
   ],
   "relojes": [
