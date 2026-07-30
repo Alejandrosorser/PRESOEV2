@@ -1015,7 +1015,7 @@ window.PRESOE_DATOS =
     ],
     [
       "30 JUL",
-      "El DAO justifica ante el juez la investigación interna a la UCO por caso Leire — MUNDIARIO"
+      "El DAO justifica ante el juez la investigación interna a la UCO por caso Leire — mundiario.com"
     ],
     [
       "30 JUL",
@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "30 JUL",
-      "El pulso soterrado de la Audiencia Nacional para retener el caso Leire Díez — MUNDIARIO"
+      "El pulso soterrado de la Audiencia Nacional para retener el caso Leire Díez — mundiario.com"
     ]
   ],
   "relojes": [
