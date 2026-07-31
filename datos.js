@@ -1019,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "30 JUL",
-      "¿Por qué 'La compañía' celebró la posible caída de la fiscal general Dolores Delgado?: \"Me dicen que Pedro Sánchez se va a quitar a Lola después del 4M\" — elindependiente.com"
+      "¿Por qué 'La compañía' celebró la posible caída de la fiscal general Dolores Delgado?: \"Me dicen que Pedro Sánchez se va a quitar a Lola después del 4M\" — El Independiente"
     ],
     [
       "30 JUL",
@@ -1039,11 +1039,11 @@ window.PRESOE_DATOS =
     ],
     [
       "30 JUL",
-      "El juez del ‘caso Plus Ultra’ ordena a Hacienda seguir con la inspección a Zapatero — elboletin.com"
+      "El juez del ‘caso Plus Ultra’ ordena a Hacienda seguir con la inspección a Zapatero — El Boletín"
     ],
     [
       "30 JUL",
-      "Esposa de José Luis Rodríguez Zapatero también está en la mira de la justicia de España — Diario Las Américas"
+      "Esposa de José Luis Rodríguez Zapatero también está en la mira de la justicia de España — diariolasamericas.com"
     ]
   ],
   "relojes": [
