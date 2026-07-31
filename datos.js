@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-07-30",
+  "actualizado_ticker": "2026-07-31",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "30 JUL",
-      "Las claves de la investigación a Zapatero en el 'caso Plus Ultra': el juez autoriza el acceso a sus cuentas bancarias — moncloa.com"
-    ],
-    [
-      "30 JUL",
-      "El juez autoriza a la UDEF investigar las cuentas de Zapatero, de sus hijas y de su secretaria — Aragón Digital"
-    ],
-    [
-      "30 JUL",
-      "Begoña Gómez cambia de abogado para el juicio con jurado popular: el penalista Jaime Campaner asume su defensa — moncloa.com"
-    ],
-    [
-      "30 JUL",
-      "Pedraz pone septiembre como límite para unificar el caso Leire y llevará el bloqueo al Supremo — ESdiario"
-    ],
-    [
-      "30 JUL",
-      "El juez autoriza investigar más de 60 cuentas bancarias en el caso Plus Ultra — Heraldo de León"
-    ],
-    [
-      "30 JUL",
-      "El DAO justifica ante el juez la investigación interna a la UCO por caso Leire — mundiario.com"
-    ],
-    [
-      "30 JUL",
+      "31 JUL",
       "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez — El Periódico"
     ],
     [
-      "30 JUL",
-      "Jaime Campaner, un abogado didáctico y acostumbrado a los focos para defender a Begoña Gómez ante el jurado — Elplural.com"
+      "31 JUL",
+      "Peinado da 7 días al nuevo abogado de Begoña Gómez para presentar su escrito de defensa — Confilegal"
+    ],
+    [
+      "31 JUL",
+      "El juez desoye a Zapatero y rechaza suspender las inspecciones de Hacienda al expresidente y su familia — La Voz de Galicia"
+    ],
+    [
+      "31 JUL",
+      "Las 27 sociedades que manejaba Julio Martínez, ‘socio’ de Zapatero — moncloa.com"
+    ],
+    [
+      "31 JUL",
+      "Plus Ultra aguarda a la Sepi para nombrar al piloto Hugo Castaño nuevo presidente y consejero delegado — Economía Digital"
+    ],
+    [
+      "31 JUL",
+      "La direttrice della Guardia Civil si dichiara \"vittima\" di Santos Cerdán e nega di aver interferito nella UCO — Demócrata"
     ],
     [
       "30 JUL",
-      "El juez del 'caso Plus Ultra' autoriza a la UDEF a investigar las cuentas bancarias de Rodríguez Zapatero y de su entorno — MARCA"
+      "¿Por qué 'La compañía' celebró la posible caída de la fiscal general Dolores Delgado?: \"Me dicen que Pedro Sánchez se va a quitar a Lola después del 4M\" — elindependiente.com"
     ],
     [
       "30 JUL",
-      "El juez Pedraz imputa al exdirector de la Guardia Civil Leonardo Marcos por presuntas presiones a la UCO en el caso Leire Díez — moncloa.com"
+      "El juez Calama permitirá a la UDEF que investigue a las hijas, secretaria y empresas del expresidente Zapatero — GaliciaPress"
     ],
     [
       "30 JUL",
-      "Calama pone el foco en Escrivá por el aplazamiento de la deuda a Plus Ultra para facilitar el rescate — Libertad Digital"
+      "El juez Pedraz amenaza al magistrado Zamarriego con un conflicto de competencias para asumir todo el caso Leire Díaz — La Voz de Galicia"
     ],
     [
       "30 JUL",
-      "Pedraz cita al fiscal jefe de Badajoz por la denuncia contra Leire Díez — Canal Extremadura"
+      "La UDEF eleva a más de tres millones los ingresos de Zapatero como consultor tras detectar nuevos pagos de Plus Ultra a una empresa pantalla — El Economista"
     ],
     [
       "30 JUL",
-      "El pulso soterrado de la Audiencia Nacional para retener el caso Leire Díez — mundiario.com"
+      "Tellado cree que Zapatero pudo hablar directamente con Sánchez del rescate de Plus Ultra: «La situación se les complica» — Ultima Hora"
+    ],
+    [
+      "30 JUL",
+      "El juez del ‘caso Plus Ultra’ ordena a Hacienda seguir con la inspección a Zapatero — elboletin.com"
+    ],
+    [
+      "30 JUL",
+      "Esposa de José Luis Rodríguez Zapatero también está en la mira de la justicia de España — Diario Las Américas"
     ]
   ],
   "relojes": [
