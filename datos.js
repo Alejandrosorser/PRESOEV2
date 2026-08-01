@@ -995,7 +995,7 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "01 AGO",
-      "Juez Calama recula y acepta la petición de Zapatero contra el caso Plus Ultra — MUNDIARIO"
+      "Juez Calama recula y acepta la petición de Zapatero contra el caso Plus Ultra — mundiario.com"
     ],
     [
       "01 AGO",
@@ -1003,7 +1003,7 @@ window.PRESOE_DATOS =
     ],
     [
       "01 AGO",
-      "El juez reabre parte del recurso de Zapatero en el caso Plus Ultra tras revisar los plazos — tribunavalladolid.com"
+      "El juez reabre parte del recurso de Zapatero en el caso Plus Ultra tras revisar los plazos — Tribuna de Valladolid."
     ],
     [
       "01 AGO",
@@ -1015,7 +1015,7 @@ window.PRESOE_DATOS =
     ],
     [
       "01 AGO",
-      "La Audiencia Nacional rastrea decenas de cuentas del PSOE por Leire Díez — MUNDIARIO"
+      "La Audiencia Nacional rastrea decenas de cuentas del PSOE por Leire Díez — mundiario.com"
     ],
     [
       "31 JUL",
@@ -1027,7 +1027,7 @@ window.PRESOE_DATOS =
     ],
     [
       "31 JUL",
-      "El juez Calama da marcha atrás y estudiará si el inicio del 'caso Plus Ultra' vulneró los derechos de Zapatero — elconstitucional.es"
+      "El juez Calama da marcha atrás y estudiará si el inicio del 'caso Plus Ultra' vulneró los derechos de Zapatero — El Constitucional"
     ],
     [
       "31 JUL",
@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "31 JUL",
-      "El exjefe de gabinete de Sánchez pide no clonar su móvil — diariopalentino.es"
+      "El exjefe de gabinete de Sánchez pide no clonar su móvil — Diario Palentino"
     ]
   ],
   "relojes": [
