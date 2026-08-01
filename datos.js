@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-07-31",
+  "actualizado_ticker": "2026-08-01",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "31 JUL",
+      "01 AGO",
+      "Juez Calama recula y acepta la petición de Zapatero contra el caso Plus Ultra — MUNDIARIO"
+    ],
+    [
+      "01 AGO",
       "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez — El Periódico"
     ],
     [
-      "31 JUL",
-      "Peinado da 7 días al nuevo abogado de Begoña Gómez para presentar su escrito de defensa — Confilegal"
+      "01 AGO",
+      "El juez reabre parte del recurso de Zapatero en el caso Plus Ultra tras revisar los plazos — tribunavalladolid.com"
+    ],
+    [
+      "01 AGO",
+      "El juez del 'caso Leire Díez' abre una pieza separada para investigar los pagos del PSOE a la exmilitante — Diario Red"
+    ],
+    [
+      "01 AGO",
+      "Zapatero, Pedro Sánchez y Carmen Calvo, un triángulo en el oscuro rescate de Plus Ultra — Vozpopuli"
+    ],
+    [
+      "01 AGO",
+      "La Audiencia Nacional rastrea decenas de cuentas del PSOE por Leire Díez — MUNDIARIO"
     ],
     [
       "31 JUL",
-      "El juez desoye a Zapatero y rechaza suspender las inspecciones de Hacienda al expresidente y su familia — La Voz de Galicia"
+      "El juez Pedraz abre la puerta a imputar al PSOE en el caso Leire Díez al permitir el análisis de seis de sus cuentas bancarias — elDiario.es"
     ],
     [
       "31 JUL",
-      "Las 27 sociedades que manejaba Julio Martínez, ‘socio’ de Zapatero — moncloa.com"
+      "El exvicepresidente socialista de Andalucía solicita al juez que solo investigue la cuenta en la que hubo pagos a Leire Díez — Onda Cero"
     ],
     [
       "31 JUL",
-      "Plus Ultra aguarda a la Sepi para nombrar al piloto Hugo Castaño nuevo presidente y consejero delegado — Economía Digital"
+      "El juez Calama da marcha atrás y estudiará si el inicio del 'caso Plus Ultra' vulneró los derechos de Zapatero — elconstitucional.es"
     ],
     [
       "31 JUL",
-      "La direttrice della Guardia Civil si dichiara \"vittima\" di Santos Cerdán e nega di aver interferito nella UCO — Demócrata"
+      "Calama rectifica y admite estudiar parte de la nulidad del caso solicitada por Zapatero — La Voz de Galicia"
     ],
     [
-      "30 JUL",
-      "¿Por qué 'La compañía' celebró la posible caída de la fiscal general Dolores Delgado?: \"Me dicen que Pedro Sánchez se va a quitar a Lola después del 4M\" — El Independiente"
+      "31 JUL",
+      "El juez rectifica y admite la petición de Zapatero de anular la causa — El Mundo"
     ],
     [
-      "30 JUL",
-      "El juez Calama permitirá a la UDEF que investigue a las hijas, secretaria y empresas del expresidente Zapatero — GaliciaPress"
+      "31 JUL",
+      "El juez del caso Plus Ultra estudiará el recurso de nulidad de Zapatero por presunta vulneración de derechos fundamentales — Onda Cero"
     ],
     [
-      "30 JUL",
-      "El juez Pedraz amenaza al magistrado Zamarriego con un conflicto de competencias para asumir todo el caso Leire Díaz — La Voz de Galicia"
-    ],
-    [
-      "30 JUL",
-      "La UDEF eleva a más de tres millones los ingresos de Zapatero como consultor tras detectar nuevos pagos de Plus Ultra a una empresa pantalla — El Economista"
-    ],
-    [
-      "30 JUL",
-      "Tellado cree que Zapatero pudo hablar directamente con Sánchez del rescate de Plus Ultra: «La situación se les complica» — Ultima Hora"
-    ],
-    [
-      "30 JUL",
-      "El juez del ‘caso Plus Ultra’ ordena a Hacienda seguir con la inspección a Zapatero — El Boletín"
-    ],
-    [
-      "30 JUL",
-      "Esposa de José Luis Rodríguez Zapatero también está en la mira de la justicia de España — diariolasamericas.com"
+      "31 JUL",
+      "El exjefe de gabinete de Sánchez pide no clonar su móvil — diariopalentino.es"
     ]
   ],
   "relojes": [
