@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-01",
+  "actualizado_ticker": "2026-08-02",
   "hub": {
     "k1": [
       430,
@@ -994,12 +994,32 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "02 AGO",
+      "PSOE y Gobierno circunscriben a Cerdán el 'caso Leire' aunque evitan tomar acciones judiciales contra él — Servimedia"
+    ],
+    [
+      "02 AGO",
+      "Pedraz no llamará a declarar a Leire Díez hasta que se resuelva el conflicto de competencias del caso cloacas del PSOE — Libertad Digital"
+    ],
+    [
+      "02 AGO",
+      "La extraña joyería del ‘caso Plus Ultra’: de Caracas a la Castellana, pasando por Panamá — The Objective"
+    ],
+    [
       "01 AGO",
-      "Juez Calama recula y acepta la petición de Zapatero contra el caso Plus Ultra — mundiario.com"
+      "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — Demócrata"
+    ],
+    [
+      "01 AGO",
+      "Juez Calama recula y acepta la petición de Zapatero contra el caso Plus Ultra — MUNDIARIO"
     ],
     [
       "01 AGO",
       "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez — El Periódico"
+    ],
+    [
+      "01 AGO",
+      "Calama rectifica y admite estudiar parte de la nulidad del caso solicitada por Zapatero — La Voz de Galicia"
     ],
     [
       "01 AGO",
@@ -1011,39 +1031,19 @@ window.PRESOE_DATOS =
     ],
     [
       "01 AGO",
-      "Zapatero, Pedro Sánchez y Carmen Calvo, un triángulo en el oscuro rescate de Plus Ultra — Vozpopuli"
+      "Zapatero, Pedro Sánchez y Carmen Calvo, un triángulo en el oscuro rescate de Plus Ultra — vozpopuli.com"
     ],
     [
       "01 AGO",
-      "La Audiencia Nacional rastrea decenas de cuentas del PSOE por Leire Díez — mundiario.com"
+      "La Audiencia Nacional rastrea decenas de cuentas del PSOE por Leire Díez — MUNDIARIO"
     ],
     [
       "31 JUL",
-      "El juez Pedraz abre la puerta a imputar al PSOE en el caso Leire Díez al permitir el análisis de seis de sus cuentas bancarias — elDiario.es"
+      "El juez Pedraz abre la puerta a imputar al PSOE en el caso Leire Díez al permitir el análisis de seis de sus cuentas bancarias — eldiario.es"
     ],
     [
       "31 JUL",
       "El exvicepresidente socialista de Andalucía solicita al juez que solo investigue la cuenta en la que hubo pagos a Leire Díez — Onda Cero"
-    ],
-    [
-      "31 JUL",
-      "El juez Calama da marcha atrás y estudiará si el inicio del 'caso Plus Ultra' vulneró los derechos de Zapatero — El Constitucional"
-    ],
-    [
-      "31 JUL",
-      "Calama rectifica y admite estudiar parte de la nulidad del caso solicitada por Zapatero — La Voz de Galicia"
-    ],
-    [
-      "31 JUL",
-      "El juez rectifica y admite la petición de Zapatero de anular la causa — El Mundo"
-    ],
-    [
-      "31 JUL",
-      "El juez del caso Plus Ultra estudiará el recurso de nulidad de Zapatero por presunta vulneración de derechos fundamentales — Onda Cero"
-    ],
-    [
-      "31 JUL",
-      "El exjefe de gabinete de Sánchez pide no clonar su móvil — Diario Palentino"
     ]
   ],
   "relojes": [
