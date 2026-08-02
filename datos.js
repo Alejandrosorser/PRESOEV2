@@ -1003,11 +1003,11 @@ window.PRESOE_DATOS =
     ],
     [
       "02 AGO",
-      "La extraña joyería del ‘caso Plus Ultra’: de Caracas a la Castellana, pasando por Panamá — The Objective"
+      "La extraña joyería del ‘caso Plus Ultra’: de Caracas a la Castellana, pasando por Panamá — theobjective.com"
     ],
     [
       "01 AGO",
-      "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — Demócrata"
+      "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — democrata.es"
     ],
     [
       "01 AGO",
@@ -1031,7 +1031,7 @@ window.PRESOE_DATOS =
     ],
     [
       "01 AGO",
-      "Zapatero, Pedro Sánchez y Carmen Calvo, un triángulo en el oscuro rescate de Plus Ultra — vozpopuli.com"
+      "Zapatero, Pedro Sánchez y Carmen Calvo, un triángulo en el oscuro rescate de Plus Ultra — Vozpopuli"
     ],
     [
       "01 AGO",
