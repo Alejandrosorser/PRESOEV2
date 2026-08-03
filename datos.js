@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-02",
+  "actualizado_ticker": "2026-08-03",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,26 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "03 AGO",
+      "Las mil y una caras del ‘caso Leire Díez’ — Diario de Noticias de Navarra"
+    ],
+    [
+      "03 AGO",
+      "Imputación de Zapatero: el juez autoriza la auditoría de 60 cuentas bancarias en el caso Plus Ultra — moncloa.com"
+    ],
+    [
+      "03 AGO",
+      "La vía extremeña del Caso Leire se activa desde la Audiencia Nacional — moncloa.com"
+    ],
+    [
+      "02 AGO",
+      "Zapatero encadena veinte reveses judiciales desde el estallido del 'caso Plus Ultra' — El Correo"
+    ],
+    [
+      "02 AGO",
+      "La Audiencia mantiene abiertas las inspecciones fiscales a Zapatero pese al caso Plus Ultra — 101tvsevilla.es"
+    ],
+    [
       "02 AGO",
       "PSOE y Gobierno circunscriben a Cerdán el 'caso Leire' aunque evitan tomar acciones judiciales contra él — Servimedia"
     ],
@@ -1003,19 +1023,19 @@ window.PRESOE_DATOS =
     ],
     [
       "02 AGO",
-      "La extraña joyería del ‘caso Plus Ultra’: de Caracas a la Castellana, pasando por Panamá — theobjective.com"
+      "La extraña joyería del ‘caso Plus Ultra’: de Caracas a la Castellana, pasando por Panamá — The Objective"
     ],
     [
       "01 AGO",
-      "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — democrata.es"
+      "Diez semanas de la imputación de Zapatero: los indicios que cuestionan al expresidente — elDiario.es"
+    ],
+    [
+      "01 AGO",
+      "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — Demócrata"
     ],
     [
       "01 AGO",
       "Juez Calama recula y acepta la petición de Zapatero contra el caso Plus Ultra — MUNDIARIO"
-    ],
-    [
-      "01 AGO",
-      "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez — El Periódico"
     ],
     [
       "01 AGO",
@@ -1024,26 +1044,6 @@ window.PRESOE_DATOS =
     [
       "01 AGO",
       "El juez reabre parte del recurso de Zapatero en el caso Plus Ultra tras revisar los plazos — Tribuna de Valladolid."
-    ],
-    [
-      "01 AGO",
-      "El juez del 'caso Leire Díez' abre una pieza separada para investigar los pagos del PSOE a la exmilitante — Diario Red"
-    ],
-    [
-      "01 AGO",
-      "Zapatero, Pedro Sánchez y Carmen Calvo, un triángulo en el oscuro rescate de Plus Ultra — Vozpopuli"
-    ],
-    [
-      "01 AGO",
-      "La Audiencia Nacional rastrea decenas de cuentas del PSOE por Leire Díez — MUNDIARIO"
-    ],
-    [
-      "31 JUL",
-      "El juez Pedraz abre la puerta a imputar al PSOE en el caso Leire Díez al permitir el análisis de seis de sus cuentas bancarias — eldiario.es"
-    ],
-    [
-      "31 JUL",
-      "El exvicepresidente socialista de Andalucía solicita al juez que solo investigue la cuenta en la que hubo pagos a Leire Díez — Onda Cero"
     ]
   ],
   "relojes": [
