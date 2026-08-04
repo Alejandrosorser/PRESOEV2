@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-03",
+  "actualizado_ticker": "2026-08-04",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "03 AGO",
-      "Las mil y una caras del ‘caso Leire Díez’ — Diario de Noticias de Navarra"
+      "04 AGO",
+      "Zapatero maniobra para impedir el rastreo de sus cuentas bancarias — MUNDIARIO"
+    ],
+    [
+      "04 AGO",
+      "El empresario venezolano Alejandro Betancourt, al que el juez Pedraz archivó la causa por blanqueo, reaparece en los papeles de Leire Díez — articulo14.es"
     ],
     [
       "03 AGO",
-      "Imputación de Zapatero: el juez autoriza la auditoría de 60 cuentas bancarias en el caso Plus Ultra — moncloa.com"
+      "José Rodríguez Zapatero no quiere que les investiguen sus cuentas bancarias, ni las de su entorno — Emisora Costa del Sol 93.1 FM"
     ],
     [
       "03 AGO",
-      "La vía extremeña del Caso Leire se activa desde la Audiencia Nacional — moncloa.com"
+      "Zapatero pide al juez establecer \"límites\" a la UDEF en la investigación de sus cuentas: \"Su tesis es elucubrativa\" — RTVE.es"
     ],
     [
-      "02 AGO",
-      "Zapatero encadena veinte reveses judiciales desde el estallido del 'caso Plus Ultra' — El Correo"
+      "03 AGO",
+      "Zapatero maniobra para entorpecer la investigación policial de sus cuentas bancarias — Vozpopuli"
     ],
     [
-      "02 AGO",
-      "La Audiencia mantiene abiertas las inspecciones fiscales a Zapatero pese al caso Plus Ultra — 101tvsevilla.es"
+      "03 AGO",
+      "Zapatero pide al juez Calama que retire la carta blanca a la UDEF para investigar sus cuentas — El Constitucional"
     ],
     [
-      "02 AGO",
-      "PSOE y Gobierno circunscriben a Cerdán el 'caso Leire' aunque evitan tomar acciones judiciales contra él — Servimedia"
+      "03 AGO",
+      "Zapatero pide al juez que ponga \"límites\" a la UDEF a la hora de investigar sus cuentas — LaSexta"
     ],
     [
-      "02 AGO",
-      "Pedraz no llamará a declarar a Leire Díez hasta que se resuelva el conflicto de competencias del caso cloacas del PSOE — Libertad Digital"
+      "03 AGO",
+      "Zapatero recurre la investigación de sus cuentas bancarias — Diario de Burgos"
     ],
     [
-      "02 AGO",
-      "La extraña joyería del ‘caso Plus Ultra’: de Caracas a la Castellana, pasando por Panamá — The Objective"
+      "03 AGO",
+      "Zapatero recurre el rastreo de sus cuentas y acusa al juez de permitir una investigación \"prospectiva\" de la UDEF — La Razón"
     ],
     [
-      "01 AGO",
-      "Diez semanas de la imputación de Zapatero: los indicios que cuestionan al expresidente — elDiario.es"
+      "03 AGO",
+      "Zarrías recurre que se investiguen ocho de sus cuentas bancarias cuando sólo desde una de ellas se pagó a Leire Díez — Diario de Ibiza"
     ],
     [
-      "01 AGO",
-      "Hazte Oír réclame 13 ans de prison pour Begoña Gómez et que Pedro Sánchez déclare au procès. — Demócrata"
+      "03 AGO",
+      "Diario de la corrupción sanchista. Zapatero niega haber influido en el rescate a Plus Ultra... pero se reunió hasta ocho veces con María a Jesús Montero, de… — Hispanidad"
     ],
     [
-      "01 AGO",
-      "Juez Calama recula y acepta la petición de Zapatero contra el caso Plus Ultra — MUNDIARIO"
+      "03 AGO",
+      "La Junta exige a María Jesús Montero explicaciones del caso Plus Ultra — Libertad Digital"
     ],
     [
-      "01 AGO",
-      "Calama rectifica y admite estudiar parte de la nulidad del caso solicitada por Zapatero — La Voz de Galicia"
-    ],
-    [
-      "01 AGO",
-      "El juez reabre parte del recurso de Zapatero en el caso Plus Ultra tras revisar los plazos — Tribuna de Valladolid."
+      "03 AGO",
+      "Las mil y una caras del ‘caso Leire Díez’ — Deia"
     ]
   ],
   "relojes": [
