@@ -995,10 +995,6 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "05 AGO",
-      "La Audiencia de Madrid avala la decisión del juez Peinado de no citar a Aldama en el 'caso Begoña Gómez' — publico.es"
-    ],
-    [
-      "05 AGO",
       "Zapatero se reunió seis veces con Bolaños en plena investigación judicial por el rescate de Plus Ultra — El Economista"
     ],
     [
@@ -1023,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "04 AGO",
-      "Koldo rompe con Ábalos y propone ahora un pacto a la Fiscalía para proteger a su familia — vozpopuli.com"
+      "Koldo rompe con Ábalos y propone ahora un pacto a la Fiscalía para proteger a su familia — Vozpopuli"
     ],
     [
       "04 AGO",
@@ -1039,11 +1035,15 @@ window.PRESOE_DATOS =
     ],
     [
       "04 AGO",
-      "El juez del 'caso Zapatero' autoriza un informe \"exhaustivo\" sobre el capital venezolano de Plus Ultra — vozpopuli.com"
+      "El juez del 'caso Zapatero' autoriza un informe \"exhaustivo\" sobre el capital venezolano de Plus Ultra — Vozpopuli"
     ],
     [
       "04 AGO",
       "El juez Calama encarga a la UDEF un informe exhaustivo de todos los cambios de propiedad de Plus Ultra — Demócrata"
+    ],
+    [
+      "04 AGO",
+      "La Abogacía del Estado representará a Ineco y Tragsatec por los enchufes de la exnovia de Ábalos en el \"caso Koldo\" — La Razón"
     ]
   ],
   "relojes": [
