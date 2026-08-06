@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-05",
+  "actualizado_ticker": "2026-08-06",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "05 AGO",
-      "Zapatero se reunió seis veces con Bolaños en plena investigación judicial por el rescate de Plus Ultra — El Economista"
+      "06 AGO",
+      "La UCO comunica al juez que no ha accedido a 15 teléfonos y memorias de Aldama y Koldo García por estar cifrados — El Español"
+    ],
+    [
+      "06 AGO",
+      "El juez de las \"cloacas\" desestima el espionaje ilegal a Leire Díez — La Razón"
     ],
     [
       "05 AGO",
-      "Zapatero insiste al juez en que su mujer es \"ajena al procedimiento\" — La Razón"
+      "Opinión| El caso Zapatero y los límites de la instrucción: ¿ampliación legítima o investigación prospectiva? — Confilegal"
     ],
     [
-      "04 AGO",
-      "La Abogacía del Estado representará a las empresas públicas Ineco y Tragsatec por la contratación de la ex de Ábalos — La Voz de Galicia"
+      "05 AGO",
+      "El juez del caso Koldo prorroga hasta marzo de 2027 la instrucción por el análisis pendiente de los dispositivos — antena3.com"
     ],
     [
-      "04 AGO",
-      "El juez del caso Zapatero pide a la UDEF que rastree la entrada de capital venezolano a Plus Ultra — Artículo 14"
+      "05 AGO",
+      "El juez prorroga seis meses más la investigación del caso Koldo mientras la UCO analiza las pruebas digitales — La Gaceta de Canarias"
     ],
     [
-      "04 AGO",
-      "El juez pide un informe \"exhaustivo\" a la UDEF para conocer la propiedad venezolana de Plus Ultra — RTVE.es"
+      "05 AGO",
+      "El juez prorroga seis meses más el caso Koldo por el ingente material incautado por la UCO — libertaddigital.com"
     ],
     [
-      "04 AGO",
-      "Justicia española exige respuestas sobre capital venezolano de Plus Ultra, aerolínea vinculada al caso Zapatero — AlbertoNews - Periodismo sin censura"
+      "05 AGO",
+      "El contenido pendiente de los dispositivos de Koldo mantiene en vilo al PSOE y más aún después de la última decisión del juez — ESdiario"
     ],
     [
-      "04 AGO",
-      "Koldo rompe con Ábalos y propone ahora un pacto a la Fiscalía para proteger a su familia — Vozpopuli"
+      "05 AGO",
+      "Zamarriego tumba la petición de Leire Díez para citar a dos excargos del PSOE — ESdiario"
     ],
     [
-      "04 AGO",
-      "La Abogacía del Estado asumirá la defensa de Ineco y Tragsatec por la contratación de la ex de Ábalos — Demócrata"
+      "05 AGO",
+      "Caso Plus Ultra: Zapatero defiende a su entorno mientras la investigación avanza — marruecom.com"
     ],
     [
-      "04 AGO",
-      "El juez del caso Zapatero pide a la UDEF un informe \"exhaustivo\" sobre la evolución de la propiedad de Plus Ultra — 20Minutos"
+      "05 AGO",
+      "El juez prorroga seis meses más la investigación del \"caso Koldo\" — La Razón"
     ],
     [
-      "04 AGO",
-      "El juez del caso Zapatero pide a la UDEF que investigue si la entrada de capital venezolano en Plus Ultra influyó en su rescate — elDiario.es"
+      "05 AGO",
+      "El bebé de 20 meses fallecido en Fuerteventura tras ser olvidado en el coche en plena ola de calor era nieto de 'Tito Berni' — Canarias7"
     ],
     [
-      "04 AGO",
-      "El juez del 'caso Zapatero' autoriza un informe \"exhaustivo\" sobre el capital venezolano de Plus Ultra — Vozpopuli"
+      "05 AGO",
+      "Zamarriego vuelve a rechazar que se cite el ex 'número dos' de Cerdán y un exdirector de comunicación de PSOE en el caso Leire Díez — Confilegal"
     ],
     [
-      "04 AGO",
-      "El juez Calama encarga a la UDEF un informe exhaustivo de todos los cambios de propiedad de Plus Ultra — Demócrata"
-    ],
-    [
-      "04 AGO",
-      "La Abogacía del Estado representará a Ineco y Tragsatec por los enchufes de la exnovia de Ábalos en el \"caso Koldo\" — La Razón"
+      "05 AGO",
+      "El bebé fallecido por un golpe de calor en Fuerteventura es un nieto de Tito Berni — La Provincia"
     ]
   ],
   "relojes": [
