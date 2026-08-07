@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-06",
+  "actualizado_ticker": "2026-08-07",
   "hub": {
     "k1": [
       430,
@@ -994,12 +994,44 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "06 AGO",
-      "La UCO comunica al juez que no ha accedido a 15 teléfonos y memorias de Aldama y Koldo García por estar cifrados — El Español"
+      "07 AGO",
+      "La expresidenta de Adif analiza ocho conversaciones de Koldo para defender que ella \"bloqueó\" a la trama de amaños de Cerdán — El Periódico"
     ],
     [
       "06 AGO",
-      "El juez de las \"cloacas\" desestima el espionaje ilegal a Leire Díez — La Razón"
+      "El cifrado impide a la UCO acceder a 15 dispositivos clave de Koldo y Aldama — El Correo"
+    ],
+    [
+      "06 AGO",
+      "Diario de la corrupción sanchista. La Audiencia Nacional prorroga seis meses la investigación del caso Koldo, ante el ingente material incautado por la UCO — Hispanidad"
+    ],
+    [
+      "06 AGO",
+      "La UCO comunica al juez que no ha podido acceder al contenido de varios teléfonos y memorias de Aldama y... — gaceta.es"
+    ],
+    [
+      "06 AGO",
+      "El bebé fallecido por un golpe de calor en Fuerteventura era nieto del socialista 'Tito Berni' — Libertad Digital"
+    ],
+    [
+      "06 AGO",
+      "Un empresario ratifica al juez que Leire Díez le dijo que \"Pedro\" estaba al tanto de todo — vozpopuli.com"
+    ],
+    [
+      "06 AGO",
+      "La estrategia que hay detrás de la división del caso Plus Ultra en piezas separadas que afectan a Zapatero — ESdiario"
+    ],
+    [
+      "06 AGO",
+      "La UCO comunica al juez que no ha accedido a 15 teléfonos y memorias de Aldama y Koldo García por estar cifrados — elespanol.com"
+    ],
+    [
+      "06 AGO",
+      "La Audiencia de Madrid revisará la negativa a que el juez García-Castellón pueda acusar por presiones de la trama Leire — El Periódico"
+    ],
+    [
+      "06 AGO",
+      "El juez de las \"cloacas\" desestima el espionaje ilegal a Leire Díez — larazon.es"
     ],
     [
       "05 AGO",
@@ -1012,38 +1044,6 @@ window.PRESOE_DATOS =
     [
       "05 AGO",
       "El juez prorroga seis meses más la investigación del caso Koldo mientras la UCO analiza las pruebas digitales — La Gaceta de Canarias"
-    ],
-    [
-      "05 AGO",
-      "El juez prorroga seis meses más el caso Koldo por el ingente material incautado por la UCO — libertaddigital.com"
-    ],
-    [
-      "05 AGO",
-      "El contenido pendiente de los dispositivos de Koldo mantiene en vilo al PSOE y más aún después de la última decisión del juez — ESdiario"
-    ],
-    [
-      "05 AGO",
-      "Zamarriego tumba la petición de Leire Díez para citar a dos excargos del PSOE — ESdiario"
-    ],
-    [
-      "05 AGO",
-      "Caso Plus Ultra: Zapatero defiende a su entorno mientras la investigación avanza — marruecom.com"
-    ],
-    [
-      "05 AGO",
-      "El juez prorroga seis meses más la investigación del \"caso Koldo\" — La Razón"
-    ],
-    [
-      "05 AGO",
-      "El bebé de 20 meses fallecido en Fuerteventura tras ser olvidado en el coche en plena ola de calor era nieto de 'Tito Berni' — Canarias7"
-    ],
-    [
-      "05 AGO",
-      "Zamarriego vuelve a rechazar que se cite el ex 'número dos' de Cerdán y un exdirector de comunicación de PSOE en el caso Leire Díez — Confilegal"
-    ],
-    [
-      "05 AGO",
-      "El bebé fallecido por un golpe de calor en Fuerteventura es un nieto de Tito Berni — La Provincia"
     ]
   ],
   "relojes": [
