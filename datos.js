@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-07",
+  "actualizado_ticker": "2026-08-08",
   "hub": {
     "k1": [
       430,
@@ -995,6 +995,26 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "07 AGO",
+      "Leire Díez niega que su “investigación” buscara “desestabilizar ningún tipo de causa judicial que afectara al PSOE” — eldiariocantabria.es"
+    ],
+    [
+      "07 AGO",
+      "Leire Díez niega haber protegido al PSOE y denuncia una \"campaña de desprestigio\" con audios \"cortados\" — El Constitucional"
+    ],
+    [
+      "07 AGO",
+      "Leire Díez niega que buscara desestabilizar causas judiciales del PSOE y sostiene que actuó únicamente como periodista — Confilegal"
+    ],
+    [
+      "07 AGO",
+      "Leire Díez rechaza que su “investigación” buscara “desestabilizar” causas “que afectaran a los intereses del PSOE” — Demócrata"
+    ],
+    [
+      "07 AGO",
+      "Un empresario ratifica al juez que Leire Díez le dijo que \"Pedro\" estaba al tanto de todo — Vozpopuli"
+    ],
+    [
+      "07 AGO",
       "La expresidenta de Adif analiza ocho conversaciones de Koldo para defender que ella \"bloqueó\" a la trama de amaños de Cerdán — El Periódico"
     ],
     [
@@ -1015,35 +1035,15 @@ window.PRESOE_DATOS =
     ],
     [
       "06 AGO",
-      "Un empresario ratifica al juez que Leire Díez le dijo que \"Pedro\" estaba al tanto de todo — vozpopuli.com"
-    ],
-    [
-      "06 AGO",
       "La estrategia que hay detrás de la división del caso Plus Ultra en piezas separadas que afectan a Zapatero — ESdiario"
     ],
     [
       "06 AGO",
-      "La UCO comunica al juez que no ha accedido a 15 teléfonos y memorias de Aldama y Koldo García por estar cifrados — elespanol.com"
+      "La UCO comunica al juez que no ha accedido a 15 teléfonos y memorias de Aldama y Koldo García por estar cifrados — El Español"
     ],
     [
       "06 AGO",
       "La Audiencia de Madrid revisará la negativa a que el juez García-Castellón pueda acusar por presiones de la trama Leire — El Periódico"
-    ],
-    [
-      "06 AGO",
-      "El juez de las \"cloacas\" desestima el espionaje ilegal a Leire Díez — larazon.es"
-    ],
-    [
-      "05 AGO",
-      "Opinión| El caso Zapatero y los límites de la instrucción: ¿ampliación legítima o investigación prospectiva? — Confilegal"
-    ],
-    [
-      "05 AGO",
-      "El juez del caso Koldo prorroga hasta marzo de 2027 la instrucción por el análisis pendiente de los dispositivos — antena3.com"
-    ],
-    [
-      "05 AGO",
-      "El juez prorroga seis meses más la investigación del caso Koldo mientras la UCO analiza las pruebas digitales — La Gaceta de Canarias"
     ]
   ],
   "relojes": [
