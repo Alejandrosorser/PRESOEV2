@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-08",
+  "actualizado_ticker": "2026-08-09",
   "hub": {
     "k1": [
       430,
@@ -994,16 +994,28 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "09 AGO",
+      "Caso Cloacas del PSOE: las claves de las declaraciones ante el juez Pedraz — Libertad Digital"
+    ],
+    [
+      "09 AGO",
+      "El ‘testaferro’ de Zapatero alejó a su familia de sus empresas tras lograr el rescate de Plus Ultra — The Objective"
+    ],
+    [
+      "09 AGO",
+      "Corrupción sanchista para 'dummies' (parte I): Zapatero y el rescate de Plus Ultra — Vozpopuli"
+    ],
+    [
+      "08 AGO",
+      "Caso Plus Ultra: los pasos de Calama en septiembre tras escuchar a Zapatero y Julio Martínez — Libertad Digital"
+    ],
+    [
       "07 AGO",
       "Leire Díez niega que su “investigación” buscara “desestabilizar ningún tipo de causa judicial que afectara al PSOE” — eldiariocantabria.es"
     ],
     [
       "07 AGO",
       "Leire Díez niega haber protegido al PSOE y denuncia una \"campaña de desprestigio\" con audios \"cortados\" — El Constitucional"
-    ],
-    [
-      "07 AGO",
-      "Leire Díez niega que buscara desestabilizar causas judiciales del PSOE y sostiene que actuó únicamente como periodista — Confilegal"
     ],
     [
       "07 AGO",
@@ -1015,6 +1027,10 @@ window.PRESOE_DATOS =
     ],
     [
       "07 AGO",
+      "Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse — La Razón"
+    ],
+    [
+      "07 AGO",
       "La expresidenta de Adif analiza ocho conversaciones de Koldo para defender que ella \"bloqueó\" a la trama de amaños de Cerdán — El Periódico"
     ],
     [
@@ -1023,27 +1039,11 @@ window.PRESOE_DATOS =
     ],
     [
       "06 AGO",
-      "Diario de la corrupción sanchista. La Audiencia Nacional prorroga seis meses la investigación del caso Koldo, ante el ingente material incautado por la UCO — Hispanidad"
-    ],
-    [
-      "06 AGO",
       "La UCO comunica al juez que no ha podido acceder al contenido de varios teléfonos y memorias de Aldama y... — gaceta.es"
     ],
     [
       "06 AGO",
       "El bebé fallecido por un golpe de calor en Fuerteventura era nieto del socialista 'Tito Berni' — Libertad Digital"
-    ],
-    [
-      "06 AGO",
-      "La estrategia que hay detrás de la división del caso Plus Ultra en piezas separadas que afectan a Zapatero — ESdiario"
-    ],
-    [
-      "06 AGO",
-      "La UCO comunica al juez que no ha accedido a 15 teléfonos y memorias de Aldama y Koldo García por estar cifrados — El Español"
-    ],
-    [
-      "06 AGO",
-      "La Audiencia de Madrid revisará la negativa a que el juez García-Castellón pueda acusar por presiones de la trama Leire — El Periódico"
     ]
   ],
   "relojes": [
