@@ -1039,11 +1039,11 @@ window.PRESOE_DATOS =
     ],
     [
       "06 AGO",
-      "El cifrado impide a la UCO acceder a 15 dispositivos clave de Koldo y Aldama — El Correo"
+      "El cifrado impide a la UCO acceder a 15 dispositivos clave de Koldo y Aldama — elcorreo.com"
     ],
     [
       "06 AGO",
-      "El bebé fallecido por un golpe de calor en Fuerteventura era nieto del socialista 'Tito Berni' — Libertad Digital"
+      "La UCO comunica al juez que no ha podido acceder al contenido de varios teléfonos y memorias de Aldama y... — gaceta.es"
     ]
   ],
   "relojes": [
