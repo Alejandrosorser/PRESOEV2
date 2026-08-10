@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-09",
+  "actualizado_ticker": "2026-08-10",
   "hub": {
     "k1": [
       430,
@@ -994,12 +994,24 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "10 AGO",
+      "La fiscal general crea una red nacional de fiscales especialistas en jurado popular tras confirmarse que se celebrará el de Begoña Gómez — El Periódico"
+    ],
+    [
+      "10 AGO",
+      "La Audiencia Nacional tumba una nueva querella contra Leire Díez por tres delitos — Vozpopuli"
+    ],
+    [
       "09 AGO",
       "Caso Cloacas del PSOE: las claves de las declaraciones ante el juez Pedraz — Libertad Digital"
     ],
     [
       "09 AGO",
       "El ‘testaferro’ de Zapatero alejó a su familia de sus empresas tras lograr el rescate de Plus Ultra — The Objective"
+    ],
+    [
+      "09 AGO",
+      "El dueño de la joyería del ‘caso Zapatero’ fue socio del entorno familiar de Maduro — The Objective"
     ],
     [
       "09 AGO",
@@ -1015,15 +1027,7 @@ window.PRESOE_DATOS =
     ],
     [
       "07 AGO",
-      "Leire Díez niega haber protegido al PSOE y denuncia una \"campaña de desprestigio\" con audios \"cortados\" — El Constitucional"
-    ],
-    [
-      "07 AGO",
-      "Leire Díez rechaza que su “investigación” buscara “desestabilizar” causas “que afectaran a los intereses del PSOE” — Demócrata"
-    ],
-    [
-      "07 AGO",
-      "Un empresario ratifica al juez que Leire Díez le dijo que \"Pedro\" estaba al tanto de todo — Vozpopuli"
+      "Leire Díez niega que buscara desestabilizar causas judiciales del PSOE y sostiene que actuó únicamente como periodista — Confilegal"
     ],
     [
       "07 AGO",
@@ -1036,10 +1040,6 @@ window.PRESOE_DATOS =
     [
       "06 AGO",
       "El cifrado impide a la UCO acceder a 15 dispositivos clave de Koldo y Aldama — El Correo"
-    ],
-    [
-      "06 AGO",
-      "La UCO comunica al juez que no ha podido acceder al contenido de varios teléfonos y memorias de Aldama y... — gaceta.es"
     ],
     [
       "06 AGO",
