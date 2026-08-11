@@ -999,11 +999,11 @@ window.PRESOE_DATOS =
     ],
     [
       "11 AGO",
-      "La sentencia del fiscal general y las instituciones — elconfidencial.com"
+      "La sentencia del fiscal general y las instituciones — El Confidencial"
     ],
     [
       "10 AGO",
-      "Jueces y fiscales discrepan sobre la red de fiscales para el jurado: de la especialización necesaria a las \"dudas razonables\" por el caso Begoña — elperiodico.com"
+      "Jueces y fiscales discrepan sobre la red de fiscales para el jurado: de la especialización necesaria a las \"dudas razonables\" por el caso Begoña — El Periódico"
     ],
     [
       "10 AGO",
@@ -1015,11 +1015,11 @@ window.PRESOE_DATOS =
     ],
     [
       "10 AGO",
-      "La fiscal general crea una red nacional de fiscales especialistas en jurado popular tras confirmarse que se celebrará el de Begoña Gómez — elperiodico.com"
+      "La fiscal general crea una red nacional de fiscales especialistas en jurado popular tras confirmarse que se celebrará el de Begoña Gómez — El Periódico"
     ],
     [
       "10 AGO",
-      "La Audiencia Nacional tumba una nueva querella contra Leire Díez por tres delitos — vozpopuli.com"
+      "La Audiencia Nacional tumba una nueva querella contra Leire Díez por tres delitos — Vozpopuli"
     ],
     [
       "09 AGO",
@@ -1035,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "09 AGO",
-      "Corrupción sanchista para 'dummies' (parte I): Zapatero y el rescate de Plus Ultra — vozpopuli.com"
+      "Corrupción sanchista para 'dummies' (parte I): Zapatero y el rescate de Plus Ultra — Vozpopuli"
     ],
     [
       "08 AGO",
