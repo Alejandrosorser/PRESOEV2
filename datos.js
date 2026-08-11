@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-10",
+  "actualizado_ticker": "2026-08-11",
   "hub": {
     "k1": [
       430,
@@ -994,12 +994,32 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "10 AGO",
-      "La fiscal general crea una red nacional de fiscales especialistas en jurado popular tras confirmarse que se celebrará el de Begoña Gómez — El Periódico"
+      "11 AGO",
+      "La SEPI de Montero se negó actuar en Plus Ultra pese a la aparición de denuncias por irregularidades de los venezolanos — Libertad Digital"
+    ],
+    [
+      "11 AGO",
+      "La sentencia del fiscal general y las instituciones — elconfidencial.com"
     ],
     [
       "10 AGO",
-      "La Audiencia Nacional tumba una nueva querella contra Leire Díez por tres delitos — Vozpopuli"
+      "Jueces y fiscales discrepan sobre la red de fiscales para el jurado: de la especialización necesaria a las \"dudas razonables\" por el caso Begoña — elperiodico.com"
+    ],
+    [
+      "10 AGO",
+      "Morant insiste en que detrás de la imputación de Zapatero hay una conspiración internacional de EE.UU y Donald Trump contra Sánchez — ESdiario"
+    ],
+    [
+      "10 AGO",
+      "La fiscal general crea una red nacional de fiscales especialistas en el jurado popular — El Pueblo de Ceuta"
+    ],
+    [
+      "10 AGO",
+      "La fiscal general crea una red nacional de fiscales especialistas en jurado popular tras confirmarse que se celebrará el de Begoña Gómez — elperiodico.com"
+    ],
+    [
+      "10 AGO",
+      "La Audiencia Nacional tumba una nueva querella contra Leire Díez por tres delitos — vozpopuli.com"
     ],
     [
       "09 AGO",
@@ -1015,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "09 AGO",
-      "Corrupción sanchista para 'dummies' (parte I): Zapatero y el rescate de Plus Ultra — Vozpopuli"
+      "Corrupción sanchista para 'dummies' (parte I): Zapatero y el rescate de Plus Ultra — vozpopuli.com"
     ],
     [
       "08 AGO",
@@ -1024,26 +1044,6 @@ window.PRESOE_DATOS =
     [
       "07 AGO",
       "Leire Díez niega que su “investigación” buscara “desestabilizar ningún tipo de causa judicial que afectara al PSOE” — eldiariocantabria.es"
-    ],
-    [
-      "07 AGO",
-      "Leire Díez niega que buscara desestabilizar causas judiciales del PSOE y sostiene que actuó únicamente como periodista — Confilegal"
-    ],
-    [
-      "07 AGO",
-      "Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse — La Razón"
-    ],
-    [
-      "07 AGO",
-      "La expresidenta de Adif analiza ocho conversaciones de Koldo para defender que ella \"bloqueó\" a la trama de amaños de Cerdán — El Periódico"
-    ],
-    [
-      "06 AGO",
-      "El cifrado impide a la UCO acceder a 15 dispositivos clave de Koldo y Aldama — elcorreo.com"
-    ],
-    [
-      "06 AGO",
-      "La UCO comunica al juez que no ha podido acceder al contenido de varios teléfonos y memorias de Aldama y... — gaceta.es"
     ]
   ],
   "relojes": [
