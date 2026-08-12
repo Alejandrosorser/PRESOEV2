@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-11",
+  "actualizado_ticker": "2026-08-12",
   "hub": {
     "k1": [
       430,
@@ -994,8 +994,24 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "12 AGO",
+      "El jefe de la UDEF seguirá al mando del 'caso Zapatero' tras no lograr plaza en una embajada — Vozpopuli"
+    ],
+    [
       "11 AGO",
-      "La SEPI de Montero se negó actuar en Plus Ultra pese a la aparición de denuncias por irregularidades de los venezolanos — Libertad Digital"
+      "El juez del 'caso Leire' descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña — El Mundo"
+    ],
+    [
+      "11 AGO",
+      "El juez del caso Leire rechaza que el jefe de la investigación del 1-O se persone como acusación — Demócrata"
+    ],
+    [
+      "11 AGO",
+      "El juez cierra la puerta al coronel que investigó el procés por falta de indicios de que Leire Díez maniobrase en su contra — Cadena SER"
+    ],
+    [
+      "11 AGO",
+      "La SEPI de Montero se negó a actuar en Plus Ultra pese a aparecer denuncias por irregularidades de los venezolanos — Libertad Digital"
     ],
     [
       "11 AGO",
@@ -1007,7 +1023,11 @@ window.PRESOE_DATOS =
     ],
     [
       "10 AGO",
-      "Morant insiste en que detrás de la imputación de Zapatero hay una conspiración internacional de EE.UU y Donald Trump contra Sánchez — ESdiario"
+      "Peinado pisa el acelerador para decidir si sienta a Begoña Gómez en el banquillo antes de jubilarse — ESdiario"
+    ],
+    [
+      "10 AGO",
+      "La fiscal general dedica su primera instrucción al jurado popular en pleno caso Begoña — El Confidencial"
     ],
     [
       "10 AGO",
@@ -1024,26 +1044,6 @@ window.PRESOE_DATOS =
     [
       "09 AGO",
       "Caso Cloacas del PSOE: las claves de las declaraciones ante el juez Pedraz — Libertad Digital"
-    ],
-    [
-      "09 AGO",
-      "El ‘testaferro’ de Zapatero alejó a su familia de sus empresas tras lograr el rescate de Plus Ultra — The Objective"
-    ],
-    [
-      "09 AGO",
-      "El dueño de la joyería del ‘caso Zapatero’ fue socio del entorno familiar de Maduro — The Objective"
-    ],
-    [
-      "09 AGO",
-      "Corrupción sanchista para 'dummies' (parte I): Zapatero y el rescate de Plus Ultra — Vozpopuli"
-    ],
-    [
-      "08 AGO",
-      "Caso Plus Ultra: los pasos de Calama en septiembre tras escuchar a Zapatero y Julio Martínez — Libertad Digital"
-    ],
-    [
-      "07 AGO",
-      "Leire Díez niega que su “investigación” buscara “desestabilizar ningún tipo de causa judicial que afectara al PSOE” — eldiariocantabria.es"
     ]
   ],
   "relojes": [
