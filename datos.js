@@ -1023,11 +1023,11 @@ window.PRESOE_DATOS =
     ],
     [
       "12 AGO",
-      "El primer juez del 'caso Leire Díez' entrega la investigación a la Audiencia Nacional, que asumirá — lanzadigital.com"
+      "El primer juez del 'caso Leire Díez' entrega la investigación a la Audiencia Nacional, que asumirá — Lanza Digital"
     ],
     [
       "12 AGO",
-      "El juez de Madrid acepta enviar todo el caso Leire a la Audiencia Nacional — es.ara.cat"
+      "El juez de Madrid acepta enviar todo el caso Leire a la Audiencia Nacional — Diari ARA"
     ],
     [
       "12 AGO",
@@ -1035,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "12 AGO",
-      "El juez de Madrid que investigaba a Leire Díez deja el caso a la Audiencia Nacional — 20minutos.es"
+      "El juez de Madrid que investigaba a Leire Díez deja el caso a la Audiencia Nacional — 20Minutos"
     ],
     [
       "12 AGO",
@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "12 AGO",
-      "El ‘caso Leire Díez’ queda en manos de Pedraz tras aceptar Zamarriego remitirle toda su investigación — Confilegal"
+      "El ‘caso Leire Díez’ queda en manos de Pedraz tras aceptar Zamarriego remitirle toda su investigación — confilegal.com"
     ]
   ],
   "relojes": [
