@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-12",
+  "actualizado_ticker": "2026-08-13",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "13 AGO",
+      "La Audiencia Nacional se queda el caso de las cloacas del PSOE — MUNDIARIO"
+    ],
+    [
+      "13 AGO",
+      "El juez Pedraz asume en la Audiencia Nacional el caso Leire Díez por las presuntas maniobras contra la UCO — moncloa.com"
+    ],
+    [
+      "13 AGO",
+      "El primer juez del caso cloacas lo deja superado por la UCO y tras minimizar el papel de Cerdán — El Confidencial"
+    ],
+    [
       "12 AGO",
-      "El jefe de la UDEF seguirá al mando del 'caso Zapatero' tras no lograr plaza en una embajada — Vozpopuli"
+      "El juez Zamarriego entrega a Pedraz la causa sobre Leire Díez y las cloacas del PSOE — gaceta.es"
     ],
     [
-      "11 AGO",
-      "El juez del 'caso Leire' descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña — El Mundo"
+      "12 AGO",
+      "El juez que abrió el ‘caso Leire Díez’ en Madrid remite su investigación a la Audiencia Nacional — Elplural.com"
     ],
     [
-      "11 AGO",
-      "El juez del caso Leire rechaza que el jefe de la investigación del 1-O se persone como acusación — Demócrata"
+      "12 AGO",
+      "El juez de Madrid cede y acepta unificar toda la investigación sobre el caso Leire Díez bajo la tutela de Pedraz — La Voz de Galicia"
     ],
     [
-      "11 AGO",
-      "El juez cierra la puerta al coronel que investigó el procés por falta de indicios de que Leire Díez maniobrase en su contra — Cadena SER"
+      "12 AGO",
+      "El primer juez del caso Leire Díez remite la investigación a la AN — Córdoba Buenas Noticias"
     ],
     [
-      "11 AGO",
-      "La SEPI de Montero se negó a actuar en Plus Ultra pese a aparecer denuncias por irregularidades de los venezolanos — Libertad Digital"
+      "12 AGO",
+      "El primer juez del 'caso Leire Díez' entrega la investigación a la Audiencia Nacional, que asumirá — lanzadigital.com"
     ],
     [
-      "11 AGO",
-      "La sentencia del fiscal general y las instituciones — El Confidencial"
+      "12 AGO",
+      "El juez de Madrid acepta enviar todo el caso Leire a la Audiencia Nacional — es.ara.cat"
     ],
     [
-      "10 AGO",
-      "Jueces y fiscales discrepan sobre la red de fiscales para el jurado: de la especialización necesaria a las \"dudas razonables\" por el caso Begoña — El Periódico"
+      "12 AGO",
+      "El juez que abrió el caso Leire Díez en Madrid se inhibe y remite la causa a la Audiencia Nacional — Demócrata"
     ],
     [
-      "10 AGO",
-      "Peinado pisa el acelerador para decidir si sienta a Begoña Gómez en el banquillo antes de jubilarse — ESdiario"
+      "12 AGO",
+      "El juez de Madrid que investigaba a Leire Díez deja el caso a la Audiencia Nacional — 20minutos.es"
     ],
     [
-      "10 AGO",
-      "La fiscal general dedica su primera instrucción al jurado popular en pleno caso Begoña — El Confidencial"
+      "12 AGO",
+      "El juez Zamarriego acepta unificar la investigación de las cloacas del PSOE en la Audiencia Nacional — OkDiario"
     ],
     [
-      "10 AGO",
-      "La fiscal general crea una red nacional de fiscales especialistas en el jurado popular — El Pueblo de Ceuta"
-    ],
-    [
-      "10 AGO",
-      "La fiscal general crea una red nacional de fiscales especialistas en jurado popular tras confirmarse que se celebrará el de Begoña Gómez — El Periódico"
-    ],
-    [
-      "10 AGO",
-      "La Audiencia Nacional tumba una nueva querella contra Leire Díez por tres delitos — Vozpopuli"
-    ],
-    [
-      "09 AGO",
-      "Caso Cloacas del PSOE: las claves de las declaraciones ante el juez Pedraz — Libertad Digital"
+      "12 AGO",
+      "El ‘caso Leire Díez’ queda en manos de Pedraz tras aceptar Zamarriego remitirle toda su investigación — Confilegal"
     ]
   ],
   "relojes": [
