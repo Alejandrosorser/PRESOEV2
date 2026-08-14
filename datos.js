@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-13",
+  "actualizado_ticker": "2026-08-14",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "13 AGO",
-      "La Audiencia Nacional se queda el caso de las cloacas del PSOE — MUNDIARIO"
+      "14 AGO",
+      "La SEPI facilitó el rescate de Plus Ultra a los 5 días de citarse Zapatero con la empresa y hablar de negocios chinos — Libertad Digital"
+    ],
+    [
+      "14 AGO",
+      "Le juge qui a ouvert le cas Leire Díez à Madrid renvoie l'affaire à l'Audiencia Nacional, qui assumera toute l'enquête. — Demócrata"
+    ],
+    [
+      "14 AGO",
+      "El caso de las cloacas del PSOE escalará en la Audiencia Nacional tras el parón de verano — Vozpopuli"
+    ],
+    [
+      "14 AGO",
+      "El juez Zamarriego destaca que el PSOE usó «fondos del partido» para pagar a las cloacas — El Debate"
+    ],
+    [
+      "14 AGO",
+      "El juez Pedraz subraya que el fin de las cloacas era \"proteger\" al PSOE — La Razón"
     ],
     [
       "13 AGO",
-      "El juez Pedraz asume en la Audiencia Nacional el caso Leire Díez por las presuntas maniobras contra la UCO — moncloa.com"
+      "caso Leire Díez apunta a personas de mayor “jerarquía” en las cloacas del PSOE — MUNDIARIO"
     ],
     [
       "13 AGO",
-      "El primer juez del caso cloacas lo deja superado por la UCO y tras minimizar el papel de Cerdán — El Confidencial"
+      "El primer juez del caso Leire apunta a \"otras personas de mayor jerarquía\" dentro de la trama — Onda Cero Radio"
     ],
     [
-      "12 AGO",
-      "El juez Zamarriego entrega a Pedraz la causa sobre Leire Díez y las cloacas del PSOE — gaceta.es"
+      "13 AGO",
+      "El caso Leire sube de nivel: el primer juez ve una trama con responsables de mayor jerarquía — MUNDIARIO"
     ],
     [
-      "12 AGO",
-      "El juez que abrió el ‘caso Leire Díez’ en Madrid remite su investigación a la Audiencia Nacional — Elplural.com"
+      "13 AGO",
+      "El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores» — ABC"
     ],
     [
-      "12 AGO",
-      "El juez de Madrid cede y acepta unificar toda la investigación sobre el caso Leire Díez bajo la tutela de Pedraz — La Voz de Galicia"
+      "13 AGO",
+      "La pista que une a Leire Díez con Santos Cerdán eleva el caso a otro nivel y complica la posición de la gerente del PSOE — ESdiario"
     ],
     [
-      "12 AGO",
-      "El primer juez del caso Leire Díez remite la investigación a la AN — Córdoba Buenas Noticias"
+      "13 AGO",
+      "El primer juez del 'caso Leire' apunta a \"otras personas con mayor nivel de jerarquía en el entramado\" de las cloacas del PSOE — El Mundo"
     ],
     [
-      "12 AGO",
-      "El primer juez del 'caso Leire Díez' entrega la investigación a la Audiencia Nacional, que asumirá — Lanza Digital"
+      "13 AGO",
+      "Zamarriego vincula a Santos Cerdán con los pagos a Díez — madridactual.es"
     ],
     [
-      "12 AGO",
-      "El juez de Madrid acepta enviar todo el caso Leire a la Audiencia Nacional — Diari ARA"
-    ],
-    [
-      "12 AGO",
-      "El juez que abrió el caso Leire Díez en Madrid se inhibe y remite la causa a la Audiencia Nacional — Demócrata"
-    ],
-    [
-      "12 AGO",
-      "El juez de Madrid que investigaba a Leire Díez deja el caso a la Audiencia Nacional — 20Minutos"
-    ],
-    [
-      "12 AGO",
-      "El juez Zamarriego acepta unificar la investigación de las cloacas del PSOE en la Audiencia Nacional — OkDiario"
-    ],
-    [
-      "12 AGO",
-      "El ‘caso Leire Díez’ queda en manos de Pedraz tras aceptar Zamarriego remitirle toda su investigación — confilegal.com"
+      "13 AGO",
+      "La abogada de Koldo intenta «maniobrar» en el caso contra Zapatero — PressReader"
     ]
   ],
   "relojes": [
