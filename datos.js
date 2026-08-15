@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-14",
+  "actualizado_ticker": "2026-08-15",
   "hub": {
     "k1": [
       430,
@@ -994,12 +994,36 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "14 AGO",
-      "La SEPI facilitó el rescate de Plus Ultra a los 5 días de citarse Zapatero con la empresa y hablar de negocios chinos — Libertad Digital"
+      "15 AGO",
+      "La UDEF rastrea el pago de 300.000 euros de un accionista de Plus Ultra al testaferro de Zapatero — El Periódico"
+    ],
+    [
+      "15 AGO",
+      "La Audiencia Nacional recibe la causa de las cloacas del PSOE que esperaba para citar a Leire — OkDiario"
     ],
     [
       "14 AGO",
-      "Le juge qui a ouvert le cas Leire Díez à Madrid renvoie l'affaire à l'Audiencia Nacional, qui assumera toute l'enquête. — Demócrata"
+      "Diario de la corrupción sanchista. La SEPI decidió el rescate de Plus Ultra cinco días después de una entrevista entre Zapatero y directivos de la aerolínea — Hispanidad"
+    ],
+    [
+      "14 AGO",
+      "El juez Zamarriego eleva la investigación del 'caso Leire' a la Audiencia Nacional — Negocios.com"
+    ],
+    [
+      "14 AGO",
+      "El juez de Madrid cede y acepta unificar toda la investigación sobre el caso Leire Díez bajo la tutela de Pedraz — La Voz de Galicia"
+    ],
+    [
+      "14 AGO",
+      "La Audiencia Nacional se queda con todo le cas Leire et concentre dans Pedraz l'enquête sur la ‘fontanera’ — Demócrata"
+    ],
+    [
+      "14 AGO",
+      "Sánchez se aferra al Supremo para no enseñar el expediente de Plus Ultra — ESdiario"
+    ],
+    [
+      "14 AGO",
+      "La SEPI facilitó el rescate de Plus Ultra a los 5 días de citarse Zapatero con la empresa y hablar de negocios chinos — Libertad Digital"
     ],
     [
       "14 AGO",
@@ -1020,30 +1044,6 @@ window.PRESOE_DATOS =
     [
       "13 AGO",
       "El primer juez del caso Leire apunta a \"otras personas de mayor jerarquía\" dentro de la trama — Onda Cero Radio"
-    ],
-    [
-      "13 AGO",
-      "El caso Leire sube de nivel: el primer juez ve una trama con responsables de mayor jerarquía — MUNDIARIO"
-    ],
-    [
-      "13 AGO",
-      "El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores» — ABC"
-    ],
-    [
-      "13 AGO",
-      "La pista que une a Leire Díez con Santos Cerdán eleva el caso a otro nivel y complica la posición de la gerente del PSOE — ESdiario"
-    ],
-    [
-      "13 AGO",
-      "El primer juez del 'caso Leire' apunta a \"otras personas con mayor nivel de jerarquía en el entramado\" de las cloacas del PSOE — El Mundo"
-    ],
-    [
-      "13 AGO",
-      "Zamarriego vincula a Santos Cerdán con los pagos a Díez — madridactual.es"
-    ],
-    [
-      "13 AGO",
-      "La abogada de Koldo intenta «maniobrar» en el caso contra Zapatero — PressReader"
     ]
   ],
   "relojes": [
