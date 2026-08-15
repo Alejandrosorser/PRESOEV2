@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "13 AGO",
-      "El primer juez del caso Leire apunta a \"otras personas de mayor jerarquía\" dentro de la trama — Onda Cero Radio"
+      "El primer juez del caso Leire apunta a \"otras personas de mayor jerarquía\" dentro de la trama — ondacero.es"
     ]
   ],
   "relojes": [
