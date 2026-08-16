@@ -1019,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "14 AGO",
-      "El juez de Madrid cede y acepta unificar toda la investigación sobre el caso Leire Díez bajo la tutela de Pedraz — lavozdegalicia.es"
+      "El juez de Madrid cede y acepta unificar toda la investigación sobre el caso Leire Díez bajo la tutela de Pedraz — La Voz de Galicia"
     ],
     [
       "14 AGO",
