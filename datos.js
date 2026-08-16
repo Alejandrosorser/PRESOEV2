@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-15",
+  "actualizado_ticker": "2026-08-16",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,18 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "16 AGO",
+      "Hasta la Fiscalía tumba el relato del Gobierno: advierte de «las dificultades» para repatriar a los inmigra... — OkDiario"
+    ],
+    [
+      "16 AGO",
+      "Corrupción sanchista para 'dummies' (parte II): las cloacas del PSOE y Leire Díez — Vozpopuli"
+    ],
+    [
+      "15 AGO",
+      "El caos ferroviario y el caso Koldo pusieron a Óscar Puente en el punto de mira — ESdiario"
+    ],
+    [
       "15 AGO",
       "La UDEF rastrea el pago de 300.000 euros de un accionista de Plus Ultra al testaferro de Zapatero — El Periódico"
     ],
@@ -1003,19 +1015,19 @@ window.PRESOE_DATOS =
     ],
     [
       "14 AGO",
-      "Diario de la corrupción sanchista. La SEPI decidió el rescate de Plus Ultra cinco días después de una entrevista entre Zapatero y directivos de la aerolínea — Hispanidad"
-    ],
-    [
-      "14 AGO",
       "El juez Zamarriego eleva la investigación del 'caso Leire' a la Audiencia Nacional — Negocios.com"
     ],
     [
       "14 AGO",
-      "El juez de Madrid cede y acepta unificar toda la investigación sobre el caso Leire Díez bajo la tutela de Pedraz — La Voz de Galicia"
+      "El juez de Madrid cede y acepta unificar toda la investigación sobre el caso Leire Díez bajo la tutela de Pedraz — lavozdegalicia.es"
     ],
     [
       "14 AGO",
       "La Audiencia Nacional se queda con todo le cas Leire et concentre dans Pedraz l'enquête sur la ‘fontanera’ — Demócrata"
+    ],
+    [
+      "14 AGO",
+      "Pedraz subraya que el fin de las cloacas era «proteger» al PSOE — PressReader"
     ],
     [
       "14 AGO",
@@ -1032,18 +1044,6 @@ window.PRESOE_DATOS =
     [
       "14 AGO",
       "El juez Zamarriego destaca que el PSOE usó «fondos del partido» para pagar a las cloacas — El Debate"
-    ],
-    [
-      "14 AGO",
-      "El juez Pedraz subraya que el fin de las cloacas era \"proteger\" al PSOE — La Razón"
-    ],
-    [
-      "13 AGO",
-      "caso Leire Díez apunta a personas de mayor “jerarquía” en las cloacas del PSOE — MUNDIARIO"
-    ],
-    [
-      "13 AGO",
-      "El primer juez del caso Leire apunta a \"otras personas de mayor jerarquía\" dentro de la trama — ondacero.es"
     ]
   ],
   "relojes": [
