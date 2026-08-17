@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-16",
+  "actualizado_ticker": "2026-08-17",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "16 AGO",
-      "Hasta la Fiscalía tumba el relato del Gobierno: advierte de «las dificultades» para repatriar a los inmigra... — OkDiario"
+      "17 AGO",
+      "Europa y el Constitucional, ante las injusticias cometidas con el ex fiscal general del Estado — Elplural.com"
+    ],
+    [
+      "17 AGO",
+      "Caso Leire Díez: por qué el juez cita a Juan Manuel Serrano, exjefe de gabinete de Sánchez, para clonar su móvil — moncloa.com"
+    ],
+    [
+      "17 AGO",
+      "El dinero de Plus Ultra fluyó hasta mayo al entorno de Zapatero — heraldo.es"
+    ],
+    [
+      "17 AGO",
+      "El líder de la trama de los hidrocarburos arma su 'ejército' de abogados con un tercer fichaje — El Confidencial"
     ],
     [
       "16 AGO",
-      "Corrupción sanchista para 'dummies' (parte II): las cloacas del PSOE y Leire Díez — Vozpopuli"
+      "Choque de Leire Díez con guardias civiles en los tribunales por el caso de las 'cloacas' del PSOE — ABC"
     ],
     [
-      "15 AGO",
-      "El caos ferroviario y el caso Koldo pusieron a Óscar Puente en el punto de mira — ESdiario"
+      "16 AGO",
+      "La fiscala general informa a la Comisión Europea de las irregularidades en el proceso contra García Ortiz — infoLibre"
+    ],
+    [
+      "16 AGO",
+      "El exjefe de gabinete de Sánchez declara el martes por el 'caso Leire Díez' — Noticias de Gipuzkoa"
+    ],
+    [
+      "16 AGO",
+      "El exjefe de gabinete de Sánchez, citado este martes en el caso Leire Díez — Diario en Positivo"
+    ],
+    [
+      "16 AGO",
+      "El juez del 'caso Leire Díez' cita este martes al exjefe de gabinete de Sánchez para el clonado de su móvil — Europa Press"
+    ],
+    [
+      "16 AGO",
+      "El ‘caso Leire’ vuelve a la Audiencia Nacional con el móvil del exjefe de gabinete de Sánchez en el centro de la investigación — murciaeconomia.com"
+    ],
+    [
+      "16 AGO",
+      "La Audiencia Nacional recibe la causa de las cloacas del PSOE que esperaba para citar a Leire — OkDiario"
+    ],
+    [
+      "16 AGO",
+      "Corrupción sanchista para 'dummies' (parte II): las cloacas del PSOE y Leire Díez — vozpopuli.com"
     ],
     [
       "15 AGO",
       "La UDEF rastrea el pago de 300.000 euros de un accionista de Plus Ultra al testaferro de Zapatero — El Periódico"
-    ],
-    [
-      "15 AGO",
-      "La Audiencia Nacional recibe la causa de las cloacas del PSOE que esperaba para citar a Leire — OkDiario"
-    ],
-    [
-      "14 AGO",
-      "El juez Zamarriego eleva la investigación del 'caso Leire' a la Audiencia Nacional — Negocios.com"
-    ],
-    [
-      "14 AGO",
-      "El juez de Madrid cede y acepta unificar toda la investigación sobre el caso Leire Díez bajo la tutela de Pedraz — La Voz de Galicia"
-    ],
-    [
-      "14 AGO",
-      "La Audiencia Nacional se queda con todo le cas Leire et concentre dans Pedraz l'enquête sur la ‘fontanera’ — Demócrata"
-    ],
-    [
-      "14 AGO",
-      "Pedraz subraya que el fin de las cloacas era «proteger» al PSOE — PressReader"
-    ],
-    [
-      "14 AGO",
-      "Sánchez se aferra al Supremo para no enseñar el expediente de Plus Ultra — ESdiario"
-    ],
-    [
-      "14 AGO",
-      "La SEPI facilitó el rescate de Plus Ultra a los 5 días de citarse Zapatero con la empresa y hablar de negocios chinos — Libertad Digital"
-    ],
-    [
-      "14 AGO",
-      "El caso de las cloacas del PSOE escalará en la Audiencia Nacional tras el parón de verano — Vozpopuli"
-    ],
-    [
-      "14 AGO",
-      "El juez Zamarriego destaca que el PSOE usó «fondos del partido» para pagar a las cloacas — El Debate"
     ]
   ],
   "relojes": [
