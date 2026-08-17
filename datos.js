@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "15 AGO",
-      "La UDEF rastrea el pago de 300.000 euros de un accionista de Plus Ultra al testaferro de Zapatero — El Periódico"
+      "El caos ferroviario y el caso Koldo pusieron a Óscar Puente en el punto de mira — ESdiario"
     ]
   ],
   "relojes": [
