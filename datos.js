@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-17",
+  "actualizado_ticker": "2026-08-18",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "17 AGO",
-      "Europa y el Constitucional, ante las injusticias cometidas con el ex fiscal general del Estado — Elplural.com"
+      "18 AGO",
+      "El Supremo contradice a la Fiscalía y presume ante Bruselas del juicio contra García Ortiz — elplural.com"
+    ],
+    [
+      "18 AGO",
+      "Caso Leire | El exjefe de gabinete de Sánchez comparece ante el juez — RTVE.es"
+    ],
+    [
+      "18 AGO",
+      "Juan Manuel Serrano, exjefe de gabinete de Pedro Sánchez, citado hoy en la Audiencia Nacional para \"verificar\" el clonado de su móvil — antena3.com"
+    ],
+    [
+      "18 AGO",
+      "El exjefe de gabinete de Sánchez que propició la entrada de Leire Díez en la Administración comparece ante el juez para el volcado de su móvil — El Periódico"
+    ],
+    [
+      "18 AGO",
+      "El expresidente de Correos y exjefe de gabinete de Sánchez comparece ante el juez del caso Leire para verificar el volcado de su teléfono móvil — Cadena SER"
+    ],
+    [
+      "18 AGO",
+      "El exjefe de gabinete de Sánchez, citado en la Audiencia Nacional por el clonado del móvil — efe.com"
+    ],
+    [
+      "18 AGO",
+      "Caso Leire: El ex jefe de gabinete de Pedro Sánchez se enfrenta a la prueba del teléfono móvil — moncloa.com"
+    ],
+    [
+      "18 AGO",
+      "La Audiencia Nacional concentra el caso Leire Díez en 14 tomos — MUNDIARIO"
     ],
     [
       "17 AGO",
-      "Caso Leire Díez: por qué el juez cita a Juan Manuel Serrano, exjefe de gabinete de Sánchez, para clonar su móvil — moncloa.com"
+      "El exjefe de Gabinete de Sánchez acude hoy a la Audiencia Nacional para intentar anular el volcado de su móvil — El Correo"
     ],
     [
       "17 AGO",
-      "El dinero de Plus Ultra fluyó hasta mayo al entorno de Zapatero — heraldo.es"
+      "Los 'whatsapp' entre Leire Díez y el exasesor de Sánchez tras el retiro de cinco días del presidente: \"A este hombre hay que ayudarle. Se lo merece\" — El Periódico"
     ],
     [
       "17 AGO",
-      "El líder de la trama de los hidrocarburos arma su 'ejército' de abogados con un tercer fichaje — El Confidencial"
+      "El juez Pedraz asume toda la investigación vinculada con el caso de Leire Díez — Diario de Pontevedra"
     ],
     [
-      "16 AGO",
-      "Choque de Leire Díez con guardias civiles en los tribunales por el caso de las 'cloacas' del PSOE — ABC"
+      "17 AGO",
+      "El Supremo vende en Bruselas como hito de transparencia el juicio al fiscal general pese a que prohibió emitirlo — infoLibre"
     ],
     [
-      "16 AGO",
-      "La fiscala general informa a la Comisión Europea de las irregularidades en el proceso contra García Ortiz — infoLibre"
-    ],
-    [
-      "16 AGO",
-      "El exjefe de gabinete de Sánchez declara el martes por el 'caso Leire Díez' — Noticias de Gipuzkoa"
-    ],
-    [
-      "16 AGO",
-      "El exjefe de gabinete de Sánchez, citado este martes en el caso Leire Díez — Diario en Positivo"
-    ],
-    [
-      "16 AGO",
-      "El juez del 'caso Leire Díez' cita este martes al exjefe de gabinete de Sánchez para el clonado de su móvil — Europa Press"
-    ],
-    [
-      "16 AGO",
-      "El ‘caso Leire’ vuelve a la Audiencia Nacional con el móvil del exjefe de gabinete de Sánchez en el centro de la investigación — murciaeconomia.com"
-    ],
-    [
-      "16 AGO",
-      "La Audiencia Nacional recibe la causa de las cloacas del PSOE que esperaba para citar a Leire — OkDiario"
-    ],
-    [
-      "16 AGO",
-      "Corrupción sanchista para 'dummies' (parte II): las cloacas del PSOE y Leire Díez — vozpopuli.com"
-    ],
-    [
-      "15 AGO",
-      "El caos ferroviario y el caso Koldo pusieron a Óscar Puente en el punto de mira — ESdiario"
+      "17 AGO",
+      "Estados Unidos decomisa tres mansiones en Florida de los joyeros del caso Rodríguez Zapatero, por el saqueo de PDVSA — El Informador Venezuela"
     ]
   ],
   "relojes": [
