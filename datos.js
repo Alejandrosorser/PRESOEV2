@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-18",
+  "actualizado_ticker": "2026-08-19",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "18 AGO",
-      "El Supremo contradice a la Fiscalía y presume ante Bruselas del juicio contra García Ortiz — elplural.com"
+      "19 AGO",
+      "Pedraz ordena a la UCO volver a volcar el teléfono del exjefe de gabinete de Sánchez — Onda Cero Radio"
+    ],
+    [
+      "19 AGO",
+      "El juez Pedraz blinda los mensajes del exjefe de Correos — MUNDIARIO"
     ],
     [
       "18 AGO",
-      "Caso Leire | El exjefe de gabinete de Sánchez comparece ante el juez — RTVE.es"
+      "La Audiencia Nacional vuelve a clonar el móvil del expresidente de Correos, que rechazó la copia realizada por la UCO en el 'caso Leire' — Cadena SER"
     ],
     [
       "18 AGO",
-      "Juan Manuel Serrano, exjefe de gabinete de Pedro Sánchez, citado hoy en la Audiencia Nacional para \"verificar\" el clonado de su móvil — antena3.com"
+      "La Audiencia Nacional ordena de nuevo el clonado del móvil del ex jefe de gabinete de Pedro Sánchez por el caso Leire — lavozdelsur.es"
     ],
     [
       "18 AGO",
-      "El exjefe de gabinete de Sánchez que propició la entrada de Leire Díez en la Administración comparece ante el juez para el volcado de su móvil — El Periódico"
+      "Montero, atrapada entre Leire Díez, Air Europa y Zapatero: crecen las preguntas que todavía no responde — ESdiario"
     ],
     [
       "18 AGO",
-      "El expresidente de Correos y exjefe de gabinete de Sánchez comparece ante el juez del caso Leire para verificar el volcado de su teléfono móvil — Cadena SER"
+      "Juanma Serrano, el hombre que puso su Mercedes al servicio de Pedro Sánchez para que volviese a Ferraz y cuyo móvil guarda miles de mensajes que intercambió… — Infobae"
     ],
     [
       "18 AGO",
-      "El exjefe de gabinete de Sánchez, citado en la Audiencia Nacional por el clonado del móvil — efe.com"
+      "El juez Pedraz asume toda la investigación del caso de Leire Díez — Diario de León"
     ],
     [
       "18 AGO",
-      "Caso Leire: El ex jefe de gabinete de Pedro Sánchez se enfrenta a la prueba del teléfono móvil — moncloa.com"
+      "Diario de la corrupción sanchista. La Audiencia Nacional pospone a mañana la indagación en el teléfono móvil del secretario de Pedro Sánchez, Juan Manuel Ser… — Hispanidad"
     ],
     [
       "18 AGO",
-      "La Audiencia Nacional concentra el caso Leire Díez en 14 tomos — MUNDIARIO"
+      "La Audiencia Nacional clona de nuevo el móvil del exjefe de gabinete de Sánchez por el caso Leire — El Nacional.cat"
     ],
     [
-      "17 AGO",
-      "El exjefe de Gabinete de Sánchez acude hoy a la Audiencia Nacional para intentar anular el volcado de su móvil — El Correo"
+      "18 AGO",
+      "Pedraz ordena repetir el volcado del teléfono de Juan Manuel Serrano por el caso Leire Díez — ESdiario"
     ],
     [
-      "17 AGO",
-      "Los 'whatsapp' entre Leire Díez y el exasesor de Sánchez tras el retiro de cinco días del presidente: \"A este hombre hay que ayudarle. Se lo merece\" — El Periódico"
+      "18 AGO",
+      "Pedraz ordena un nuevo clonado del teléfono del exjefe de gabinete de Pedro Sánchez — Telecinco"
     ],
     [
-      "17 AGO",
-      "El juez Pedraz asume toda la investigación vinculada con el caso de Leire Díez — Diario de Pontevedra"
+      "18 AGO",
+      "Pedraz ordena repetir el clonado del móvil del ex jefe de gabinete de Sánchez tras cuestionarse las garantías del primero — Elplural.com"
     ],
     [
-      "17 AGO",
-      "El Supremo vende en Bruselas como hito de transparencia el juicio al fiscal general pese a que prohibió emitirlo — infoLibre"
-    ],
-    [
-      "17 AGO",
-      "Estados Unidos decomisa tres mansiones en Florida de los joyeros del caso Rodríguez Zapatero, por el saqueo de PDVSA — El Informador Venezuela"
+      "18 AGO",
+      "El \"caso Leire Díez\" golpea al entorno de Sánchez: Pedraz invalida el clonado del móvil de su exjefe de... — gaceta.es"
     ]
   ],
   "relojes": [
