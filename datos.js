@@ -1003,7 +1003,7 @@ window.PRESOE_DATOS =
     ],
     [
       "18 AGO",
-      "La Audiencia Nacional vuelve a clonar el móvil del expresidente de Correos, que rechazó la copia realizada por la UCO en el 'caso Leire' — Cadena SER"
+      "La Audiencia Nacional vuelve a clonar el móvil del expresidente de Correos, que rechazó la copia realizada por la UCO en el 'caso Leire' — cadenaser.com"
     ],
     [
       "18 AGO",
@@ -1023,7 +1023,7 @@ window.PRESOE_DATOS =
     ],
     [
       "18 AGO",
-      "Diario de la corrupción sanchista. La Audiencia Nacional pospone a mañana la indagación en el teléfono móvil del secretario de Pedro Sánchez, Juan Manuel Ser… — Hispanidad"
+      "Diario de la corrupción sanchista. La Audiencia Nacional pospone a mañana la indagación en el teléfono móvil del secretario de Pedro Sánchez, Juan Manuel Ser… — hispanidad.com"
     ],
     [
       "18 AGO",
