@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-19",
+  "actualizado_ticker": "2026-08-20",
   "hub": {
     "k1": [
       430,
@@ -995,6 +995,34 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "19 AGO",
+      "El móvil de Serrano ya está en manos de la UCO tras un nuevo clonado en la Audiencia Nacional — Tribuna de Ávila."
+    ],
+    [
+      "19 AGO",
+      "Zapatero, acorralado: el juez constata transferencias del rescate de Plus Ultra a sus cuentas — Libertad Digital"
+    ],
+    [
+      "19 AGO",
+      "La UCO ya tiene en su poder el clonado del móvil del exjefe de gabinete de Sánchez — Diario de León"
+    ],
+    [
+      "19 AGO",
+      "La UCO finaliza el clonado del móvil del exjefe de gabinete de Sánchez para determinar su implicación en el caso Leire — El Periódico"
+    ],
+    [
+      "19 AGO",
+      "El móvil del hombre de Sánchez abre otra puerta en el caso Leire: 11.000 mensajes bajo la lupa — ESdiario"
+    ],
+    [
+      "19 AGO",
+      "Correos adjudicó 24 millones de euros a la empresa de la trama Koldo siendo presidente Juanma Serrano — Libertad Digital"
+    ],
+    [
+      "19 AGO",
+      "El juez vuelca el móvil del ex jefe de Gabinete de Sánchez: 10.000 mensajes con Leire Díez y nuevos indicios contra el 'One' — El Español"
+    ],
+    [
+      "19 AGO",
       "Pedraz ordena a la UCO volver a volcar el teléfono del exjefe de gabinete de Sánchez — Onda Cero Radio"
     ],
     [
@@ -1003,7 +1031,7 @@ window.PRESOE_DATOS =
     ],
     [
       "18 AGO",
-      "La Audiencia Nacional vuelve a clonar el móvil del expresidente de Correos, que rechazó la copia realizada por la UCO en el 'caso Leire' — cadenaser.com"
+      "La Audiencia Nacional vuelve a clonar el móvil del expresidente de Correos, que rechazó la copia realizada por la UCO en el 'caso Leire' — Cadena SER"
     ],
     [
       "18 AGO",
@@ -1016,34 +1044,6 @@ window.PRESOE_DATOS =
     [
       "18 AGO",
       "Juanma Serrano, el hombre que puso su Mercedes al servicio de Pedro Sánchez para que volviese a Ferraz y cuyo móvil guarda miles de mensajes que intercambió… — Infobae"
-    ],
-    [
-      "18 AGO",
-      "El juez Pedraz asume toda la investigación del caso de Leire Díez — Diario de León"
-    ],
-    [
-      "18 AGO",
-      "Diario de la corrupción sanchista. La Audiencia Nacional pospone a mañana la indagación en el teléfono móvil del secretario de Pedro Sánchez, Juan Manuel Ser… — hispanidad.com"
-    ],
-    [
-      "18 AGO",
-      "La Audiencia Nacional clona de nuevo el móvil del exjefe de gabinete de Sánchez por el caso Leire — El Nacional.cat"
-    ],
-    [
-      "18 AGO",
-      "Pedraz ordena repetir el volcado del teléfono de Juan Manuel Serrano por el caso Leire Díez — ESdiario"
-    ],
-    [
-      "18 AGO",
-      "Pedraz ordena un nuevo clonado del teléfono del exjefe de gabinete de Pedro Sánchez — Telecinco"
-    ],
-    [
-      "18 AGO",
-      "Pedraz ordena repetir el clonado del móvil del ex jefe de gabinete de Sánchez tras cuestionarse las garantías del primero — Elplural.com"
-    ],
-    [
-      "18 AGO",
-      "El \"caso Leire Díez\" golpea al entorno de Sánchez: Pedraz invalida el clonado del móvil de su exjefe de... — gaceta.es"
     ]
   ],
   "relojes": [
