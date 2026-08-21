@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-20",
+  "actualizado_ticker": "2026-08-21",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "19 AGO",
-      "El móvil de Serrano ya está en manos de la UCO tras un nuevo clonado en la Audiencia Nacional — Tribuna de Ávila."
+      "21 AGO",
+      "La estrategia de Leire Díez: cargar contra la UCO y Pedraz para evitar el juicio en la Audiencia Nacional — Elplural.com"
     ],
     [
-      "19 AGO",
-      "Zapatero, acorralado: el juez constata transferencias del rescate de Plus Ultra a sus cuentas — Libertad Digital"
+      "21 AGO",
+      "Las evidencias que complican la situación de Zapatero en el caso Plus Ultra — El Debate"
     ],
     [
-      "19 AGO",
-      "La UCO ya tiene en su poder el clonado del móvil del exjefe de gabinete de Sánchez — Diario de León"
+      "20 AGO",
+      "Hacienda mantiene abiertas 35 investigaciones por el fraude en hidrocarburos tras el caso Aldama — elDiario.es"
     ],
     [
-      "19 AGO",
-      "La UCO finaliza el clonado del móvil del exjefe de gabinete de Sánchez para determinar su implicación en el caso Leire — El Periódico"
+      "20 AGO",
+      "Leire Díez se opone a la decisión de la Audiencia Nacional de asumir toda la investigación sobre ella — antena3.com"
     ],
     [
-      "19 AGO",
-      "El móvil del hombre de Sánchez abre otra puerta en el caso Leire: 11.000 mensajes bajo la lupa — ESdiario"
+      "20 AGO",
+      "Leire Díez se opone a que la Audiencia Nacional asuma su causa — Diari ARA"
     ],
     [
-      "19 AGO",
-      "Correos adjudicó 24 millones de euros a la empresa de la trama Koldo siendo presidente Juanma Serrano — Libertad Digital"
+      "20 AGO",
+      "Leire Díez tiene verdadero miedo al juez que mejor conoce su caso: mueve ficha para intentar escapar de Pedraz — ESdiario"
     ],
     [
-      "19 AGO",
-      "El juez vuelca el móvil del ex jefe de Gabinete de Sánchez: 10.000 mensajes con Leire Díez y nuevos indicios contra el 'One' — El Español"
+      "20 AGO",
+      "Leire Díez carga contra el juez Pedraz y la UCO para frenar la unificación de sus causas en la Audiencia Nacional — El Constitucional"
     ],
     [
-      "19 AGO",
-      "Pedraz ordena a la UCO volver a volcar el teléfono del exjefe de gabinete de Sánchez — Onda Cero Radio"
+      "20 AGO",
+      "Leire Díez se opone a que la Audiencia Nacional asuma toda la investigación en su contra — Diario Público"
     ],
     [
-      "19 AGO",
-      "El juez Pedraz blinda los mensajes del exjefe de Correos — MUNDIARIO"
+      "20 AGO",
+      "Leire Díez recurre que la Audiencia Nacional asuma todo el caso y acusa a la UCO de una \"investigación paralela\" — Demócrata"
     ],
     [
-      "18 AGO",
-      "La Audiencia Nacional vuelve a clonar el móvil del expresidente de Correos, que rechazó la copia realizada por la UCO en el 'caso Leire' — Cadena SER"
+      "20 AGO",
+      "Leire Díez rechaza que la Audiencia Nacional asuma toda la investigación en su contra — Noticias de Gipuzkoa"
     ],
     [
-      "18 AGO",
-      "La Audiencia Nacional ordena de nuevo el clonado del móvil del ex jefe de gabinete de Pedro Sánchez por el caso Leire — lavozdelsur.es"
+      "20 AGO",
+      "Leire Díez denuncia una \"investigación paralela\" de la UCO y pide que el caso cloacas no escale a la Audiencia Nacional — El Confidencial"
     ],
     [
-      "18 AGO",
-      "Montero, atrapada entre Leire Díez, Air Europa y Zapatero: crecen las preguntas que todavía no responde — ESdiario"
+      "20 AGO",
+      "Sánchez se esconde, pero no se libra: la lista de los casos de corrupción lo persigue hasta La Mareta — ESdiario"
     ],
     [
-      "18 AGO",
-      "Juanma Serrano, el hombre que puso su Mercedes al servicio de Pedro Sánchez para que volviese a Ferraz y cuyo móvil guarda miles de mensajes que intercambió… — Infobae"
+      "20 AGO",
+      "Leire Díez acusa a la UCO de investigar sus presuntas maniobras a sabiendas de que ya había un caso abierto en un juzgado de Madrid — Cadena SER"
     ]
   ],
   "relojes": [
