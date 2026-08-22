@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-21",
+  "actualizado_ticker": "2026-08-22",
   "hub": {
     "k1": [
       430,
@@ -995,6 +995,34 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "21 AGO",
+      "El exjefe de gabinete de Pedro Sánchez pide al juez del caso Leire que le devuelva su teléfono tras ser clonado — Cantabria Liberal"
+    ],
+    [
+      "21 AGO",
+      "La declaración de los directivos de Plus Ultra y el origen de las joyas marcan el presente judicial de Zapatero — elDiario.es"
+    ],
+    [
+      "21 AGO",
+      "El exjefe de gabinete de Sánchez pide al juez del caso Leire que le devuelva su teléfono tras ser clonado — El Debate"
+    ],
+    [
+      "21 AGO",
+      "El exjefe de gabinete de Sánchez reclama al juez del caso Leire la devolución de su móvil tras un nuevo clonado — Demócrata"
+    ],
+    [
+      "21 AGO",
+      "Diario de la corrupción sanchista. El pitorreo de Zapatero con sus joyas: 65 días después de declarar ante el juez, todavía no las ha justificado... en ningú… — Hispanidad"
+    ],
+    [
+      "21 AGO",
+      "Peramato se va a Bruselas a ‘chivarse’ del Supremo por la condena a García Ortiz: los fiscales le paran los pies — ESdiario"
+    ],
+    [
+      "21 AGO",
+      "Leire Díez denuncia una “investigación paralela” de la Audiencia Nacional — MUNDIARIO"
+    ],
+    [
+      "21 AGO",
       "La estrategia de Leire Díez: cargar contra la UCO y Pedraz para evitar el juicio en la Audiencia Nacional — Elplural.com"
     ],
     [
@@ -1016,34 +1044,6 @@ window.PRESOE_DATOS =
     [
       "20 AGO",
       "Leire Díez tiene verdadero miedo al juez que mejor conoce su caso: mueve ficha para intentar escapar de Pedraz — ESdiario"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez carga contra el juez Pedraz y la UCO para frenar la unificación de sus causas en la Audiencia Nacional — El Constitucional"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez se opone a que la Audiencia Nacional asuma toda la investigación en su contra — Diario Público"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez recurre que la Audiencia Nacional asuma todo el caso y acusa a la UCO de una \"investigación paralela\" — Demócrata"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez rechaza que la Audiencia Nacional asuma toda la investigación en su contra — Noticias de Gipuzkoa"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez denuncia una \"investigación paralela\" de la UCO y pide que el caso cloacas no escale a la Audiencia Nacional — El Confidencial"
-    ],
-    [
-      "20 AGO",
-      "Sánchez se esconde, pero no se libra: la lista de los casos de corrupción lo persigue hasta La Mareta — ESdiario"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez acusa a la UCO de investigar sus presuntas maniobras a sabiendas de que ya había un caso abierto en un juzgado de Madrid — Cadena SER"
     ]
   ],
   "relojes": [
