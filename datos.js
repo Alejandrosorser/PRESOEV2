@@ -1027,10 +1027,6 @@ window.PRESOE_DATOS =
     ],
     [
       "21 AGO",
-      "El exjefe de gabinete de Pedro Sánchez pide al juez del caso Leire que le devuelva su teléfono tras ser clonado — Cantabria Liberal"
-    ],
-    [
-      "21 AGO",
       "La declaración de los directivos de Plus Ultra y el origen de las joyas marcan el presente judicial de Zapatero — elDiario.es"
     ],
     [
@@ -1044,6 +1040,10 @@ window.PRESOE_DATOS =
     [
       "21 AGO",
       "El exjefe de gabinete de Sánchez reclama al juez del caso Leire la devolución de su móvil tras un nuevo clonado — Demócrata"
+    ],
+    [
+      "21 AGO",
+      "Diario de la corrupción sanchista. El pitorreo de Zapatero con sus joyas: 65 días después de declarar ante el juez, todavía no las ha justificado... en ningú… — Hispanidad"
     ]
   ],
   "relojes": [
