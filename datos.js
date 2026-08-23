@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-22",
+  "actualizado_ticker": "2026-08-23",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,38 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "23 AGO",
+      "Corrupción sanchista para 'dummies' (parte III): Begoña Gómez y el jurado popular — Vozpopuli"
+    ],
+    [
+      "23 AGO",
+      "Begoña Gómez buscará su absolución ante el jurado popular alegando el vacío legal de las 'primeras damas' en España — El Debate"
+    ],
+    [
+      "23 AGO",
+      "Denuncia contra Leire: la actuación de la Fiscalía de la que recela el juez — La Razón"
+    ],
+    [
+      "22 AGO",
+      "La Audiencia Nacional avala la investigación del caso Zapatero y descarta una \"intencionalidad espuria\": \"No ha existido ninguna infracción\" — El Periódico"
+    ],
+    [
+      "22 AGO",
+      "El exjefe de gabinete de Sánchez pide a la Audiencia Nacional que declare nulo el clonado de su móvil — El Periódico"
+    ],
+    [
+      "22 AGO",
+      "El caso Zapatero, se recrudece: los directivos de Plus Ultra declaran por la comisión de 530.000 euros y sus joyas — moncloa.com"
+    ],
+    [
+      "22 AGO",
+      "La UCO destapa cómo la cloaca influye en la Fiscalía para blindar al entorno de Sánchez — Libertad Digital"
+    ],
+    [
+      "22 AGO",
+      "El contrato de pago de Plus Ultra al entramado de Zapatero duró justo lo mismo que el plazo de tramitación del rescate — Libertad Digital"
+    ],
+    [
       "21 AGO",
       "El exjefe de gabinete de Pedro Sánchez pide al juez del caso Leire que le devuelva su teléfono tras ser clonado — Cantabria Liberal"
     ],
@@ -1007,43 +1039,11 @@ window.PRESOE_DATOS =
     ],
     [
       "21 AGO",
+      "Serrano pide al juez que le devuelva su móvil tras ser clonado — Diario Palentino"
+    ],
+    [
+      "21 AGO",
       "El exjefe de gabinete de Sánchez reclama al juez del caso Leire la devolución de su móvil tras un nuevo clonado — Demócrata"
-    ],
-    [
-      "21 AGO",
-      "Diario de la corrupción sanchista. El pitorreo de Zapatero con sus joyas: 65 días después de declarar ante el juez, todavía no las ha justificado... en ningú… — Hispanidad"
-    ],
-    [
-      "21 AGO",
-      "Peramato se va a Bruselas a ‘chivarse’ del Supremo por la condena a García Ortiz: los fiscales le paran los pies — ESdiario"
-    ],
-    [
-      "21 AGO",
-      "Leire Díez denuncia una “investigación paralela” de la Audiencia Nacional — MUNDIARIO"
-    ],
-    [
-      "21 AGO",
-      "La estrategia de Leire Díez: cargar contra la UCO y Pedraz para evitar el juicio en la Audiencia Nacional — Elplural.com"
-    ],
-    [
-      "21 AGO",
-      "Las evidencias que complican la situación de Zapatero en el caso Plus Ultra — El Debate"
-    ],
-    [
-      "20 AGO",
-      "Hacienda mantiene abiertas 35 investigaciones por el fraude en hidrocarburos tras el caso Aldama — elDiario.es"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez se opone a la decisión de la Audiencia Nacional de asumir toda la investigación sobre ella — antena3.com"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez se opone a que la Audiencia Nacional asuma su causa — Diari ARA"
-    ],
-    [
-      "20 AGO",
-      "Leire Díez tiene verdadero miedo al juez que mejor conoce su caso: mueve ficha para intentar escapar de Pedraz — ESdiario"
     ]
   ],
   "relojes": [
