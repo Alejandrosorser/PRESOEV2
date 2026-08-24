@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-23",
+  "actualizado_ticker": "2026-08-24",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,42 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "24 AGO",
+      "La UCO y Anticorrupción rastrean 81 cuentas para hallar quién financió la trama de Leire Díez — Demócrata"
+    ],
+    [
+      "24 AGO",
+      "La Audiencia Nacional reactiva el 'caso Leire Díez' tras el verano con la investigada afincada en Vega de Pas — ALERTA El Diario de Cantabria"
+    ],
+    [
+      "24 AGO",
+      "La UCO y las fiscales del ‘caso Leire Díez’ siguen el rastro del dinero — EL PAÍS"
+    ],
+    [
+      "24 AGO",
+      "Zapatero pierde toda su credibilidad ante el juez tras callar dos meses sobre el origen de las joyas — El Confidencial"
+    ],
+    [
+      "24 AGO",
+      "🎙 PODCAST | ESPECIAL | Ayuso vs. el fiscal general (y III): la sentencia — elDiario.es"
+    ],
+    [
+      "23 AGO",
+      "Una tasa de condena de más del 90% y un juez al mando: así funciona un jurado como el que decidirá sobre Begoña Gómez — infoLibre"
+    ],
+    [
+      "23 AGO",
+      "La Justicia se prepara para reactivar los casos ‘Leire Díez’ y ‘Plus Ultra’, así como resolver la ‘ley de nietos’ y la amnistía tras el verano — eldiariocantabria.es"
+    ],
+    [
+      "23 AGO",
+      "La declaración de los directivos de Plus Ultra y el origen de las joyas marcan el presente judicial de Zapatero — elDiario.es"
+    ],
+    [
+      "23 AGO",
+      "El caso Leire Díez entra en una nueva fase judicial tras recurrir la decisión de la Audiencia Nacional — Elplural.com"
+    ],
+    [
       "23 AGO",
       "Corrupción sanchista para 'dummies' (parte III): Begoña Gómez y el jurado popular — Vozpopuli"
     ],
@@ -1008,42 +1044,6 @@ window.PRESOE_DATOS =
     [
       "22 AGO",
       "La Audiencia Nacional avala la investigación del caso Zapatero y descarta una \"intencionalidad espuria\": \"No ha existido ninguna infracción\" — El Periódico"
-    ],
-    [
-      "22 AGO",
-      "El exjefe de gabinete de Sánchez pide a la Audiencia Nacional que declare nulo el clonado de su móvil — El Periódico"
-    ],
-    [
-      "22 AGO",
-      "El caso Zapatero, se recrudece: los directivos de Plus Ultra declaran por la comisión de 530.000 euros y sus joyas — moncloa.com"
-    ],
-    [
-      "22 AGO",
-      "La UCO destapa cómo la cloaca influye en la Fiscalía para blindar al entorno de Sánchez — Libertad Digital"
-    ],
-    [
-      "22 AGO",
-      "El contrato de pago de Plus Ultra al entramado de Zapatero duró justo lo mismo que el plazo de tramitación del rescate — Libertad Digital"
-    ],
-    [
-      "21 AGO",
-      "La declaración de los directivos de Plus Ultra y el origen de las joyas marcan el presente judicial de Zapatero — elDiario.es"
-    ],
-    [
-      "21 AGO",
-      "El exjefe de gabinete de Sánchez pide al juez del caso Leire que le devuelva su teléfono tras ser clonado — El Debate"
-    ],
-    [
-      "21 AGO",
-      "Serrano pide al juez que le devuelva su móvil tras ser clonado — Diario Palentino"
-    ],
-    [
-      "21 AGO",
-      "El exjefe de gabinete de Sánchez reclama al juez del caso Leire la devolución de su móvil tras un nuevo clonado — Demócrata"
-    ],
-    [
-      "21 AGO",
-      "Diario de la corrupción sanchista. El pitorreo de Zapatero con sus joyas: 65 días después de declarar ante el juez, todavía no las ha justificado... en ningú… — Hispanidad"
     ]
   ],
   "relojes": [
