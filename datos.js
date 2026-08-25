@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-24",
+  "actualizado_ticker": "2026-08-25",
   "hub": {
     "k1": [
       430,
@@ -995,6 +995,14 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "24 AGO",
+      "Los 109 nombres del caso Koldo en el Senado — El Correo"
+    ],
+    [
+      "24 AGO",
+      "🎙 PODCAST | ESPECIAL | Ayuso vs. el fiscal general (y III): la sentencia — elDiario.es"
+    ],
+    [
+      "24 AGO",
       "La UCO y Anticorrupción rastrean 81 cuentas para hallar quién financió la trama de Leire Díez — Demócrata"
     ],
     [
@@ -1008,10 +1016,6 @@ window.PRESOE_DATOS =
     [
       "24 AGO",
       "Zapatero pierde toda su credibilidad ante el juez tras callar dos meses sobre el origen de las joyas — El Confidencial"
-    ],
-    [
-      "24 AGO",
-      "🎙 PODCAST | ESPECIAL | Ayuso vs. el fiscal general (y III): la sentencia — elDiario.es"
     ],
     [
       "23 AGO",
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "23 AGO",
       "Denuncia contra Leire: la actuación de la Fiscalía de la que recela el juez — La Razón"
-    ],
-    [
-      "22 AGO",
-      "La Audiencia Nacional avala la investigación del caso Zapatero y descarta una \"intencionalidad espuria\": \"No ha existido ninguna infracción\" — El Periódico"
     ]
   ],
   "relojes": [
