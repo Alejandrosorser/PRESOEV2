@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-26",
+  "actualizado_ticker": "2026-08-27",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "25 AGO",
-      "La regulación de los lobbies alcanza a Zapatero por dos vías: qué tendrá que revelar sobre sus trabajos y gestiones ante el Gobierno — Demócrata"
+      "27 AGO",
+      "Caso Koldo: Anticorrupción respalda investigar a la expareja de Ábalos por sus contratos en Ineco y Tragsatec — El Diario de Madrid"
     ],
     [
-      "25 AGO",
-      "La Audiencia Nacional confirma la imputación de la abogada de Koldo en el caso Leire: \"Es lógico y razonable que el juez quiera investigarla\" — El Periódico"
+      "27 AGO",
+      "La complicidad entre el fugado Hamlyn y Leire Díez: \"Decía que la había invitado a Dubái\" — Libertad Digital"
     ],
     [
-      "25 AGO",
-      "Víctor de Aldama, el comisionista del caso Koldo, de vacaciones en Ibiza tras su condena — Periódico de Ibiza y Formentera"
+      "27 AGO",
+      "El difícil reto para el nuevo abogado de Begoña Gómez: el jurado popular condena al 92% — moncloa.com"
     ],
     [
-      "25 AGO",
-      "Julito Martínez recibió el control de 9 empresas de su hermano tras el rescate de Plus Ultra para mover 800.000 euros — Libertad Digital"
+      "27 AGO",
+      "La Fiscalía pide mantener imputada a la expareja de Ábalos en el caso Koldo — MUNDIARIO"
     ],
     [
-      "25 AGO",
-      "La Audiencia Nacional reactiva el 'caso Leire Díez' tras el verano con la investigada afincada en Vega de Pas — ALERTA El Diario de Cantabria"
+      "26 AGO",
+      "La Fiscalía pide mantener la imputación de Jéssica Rodríguez por el caso Koldo — LaSexta"
     ],
     [
-      "24 AGO",
-      "Los 109 nombres del caso Koldo en el Senado — El Correo"
+      "26 AGO",
+      "Anticorrupción avala imputar a la ex de Ábalos tras admitir que cobró sin acudir al trabajo — Demócrata"
     ],
     [
-      "24 AGO",
-      "🎙 PODCAST | ESPECIAL | Ayuso vs. el fiscal general (y III): la sentencia — elDiario.es"
+      "26 AGO",
+      "Interpol detiene en Abu Dabi a Alejandro Hamlyn — Diario de Burgos"
     ],
     [
-      "24 AGO",
-      "La Justicia se prepara para reactivar los casos 'Leire' y 'Plus Ultra' y resolver la 'ley de nietos' y la amnistía — Diario Red"
+      "26 AGO",
+      "Anticorrupción insiste en que la expareja de Ábalos Jésica Rodríguez siga investigada en el caso Koldo — elDiario.es"
     ],
     [
-      "24 AGO",
-      "La UCO y las fiscales del ‘caso Leire Díez’ siguen el rastro del dinero — EL PAÍS"
+      "26 AGO",
+      "Interpol detiene en Abu Dabi a Alejandro Hamlyn, encausado en una trama de hidrocarburos y vinculado a Leire Díez — Telemadrid"
     ],
     [
-      "24 AGO",
-      "Zapatero pierde toda su credibilidad ante el juez tras callar dos meses sobre el origen de las joyas — El Confidencial"
+      "26 AGO",
+      "Detienen en Abu Dabi a Alejandro Hamlyn, el empresario huido relacionado con Leire Díez — Canal Sur"
     ],
     [
-      "23 AGO",
-      "Una tasa de condena de más del 90% y un juez al mando: así funciona un jurado como el que decidirá sobre Begoña Gómez — infoLibre"
+      "26 AGO",
+      "Alejandro Hamlyn, el empresario fugado cuya grabación destapó el caso Leire — El Periódico"
     ],
     [
-      "23 AGO",
-      "La declaración de los directivos de Plus Ultra y el origen de las joyas marcan el presente judicial de Zapatero — elDiario.es"
+      "26 AGO",
+      "Quién es Alejandro Hamlyn, el empresario detenido en Abu Dabi que conecta el fraude de los hidrocarburos con Leire Díez — Demócrata"
     ],
     [
-      "23 AGO",
-      "El caso Leire Díez entra en una nueva fase judicial tras recurrir la decisión de la Audiencia Nacional — Elplural.com"
+      "26 AGO",
+      "Alejandro Hamlyn, el empresario que se reunió con Leire Díez detenido en Abu Dabi tras huir de la Justicia en 2025 — El Constitucional"
     ]
   ],
   "relojes": [
