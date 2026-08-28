@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-27",
+  "actualizado_ticker": "2026-08-28",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,18 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "28 AGO",
+      "Asamblea Nacional chavista aprueba que vinculado a fraude en España sea embajador en Egipto — Diario Las Américas"
+    ],
+    [
+      "28 AGO",
+      "Las declaraciones de los directivos de Plus Ultra marcan la agenda del caso Zapatero — Artículo 14"
+    ],
+    [
+      "28 AGO",
+      "Empresas chinas que vinculan con Zapatero amenazan con tensar el mercado constructor español — El Debate"
+    ],
+    [
       "27 AGO",
       "Caso Koldo: Anticorrupción respalda investigar a la expareja de Ábalos por sus contratos en Ineco y Tragsatec — El Diario de Madrid"
     ],
@@ -1032,18 +1044,6 @@ window.PRESOE_DATOS =
     [
       "26 AGO",
       "Detienen en Abu Dabi a Alejandro Hamlyn, el empresario huido relacionado con Leire Díez — Canal Sur"
-    ],
-    [
-      "26 AGO",
-      "Alejandro Hamlyn, el empresario fugado cuya grabación destapó el caso Leire — El Periódico"
-    ],
-    [
-      "26 AGO",
-      "Quién es Alejandro Hamlyn, el empresario detenido en Abu Dabi que conecta el fraude de los hidrocarburos con Leire Díez — Demócrata"
-    ],
-    [
-      "26 AGO",
-      "Alejandro Hamlyn, el empresario que se reunió con Leire Díez detenido en Abu Dabi tras huir de la Justicia en 2025 — El Constitucional"
     ]
   ],
   "relojes": [
