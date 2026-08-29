@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-28",
+  "actualizado_ticker": "2026-08-29",
   "hub": {
     "k1": [
       430,
@@ -995,6 +995,10 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "28 AGO",
+      "Especial Ceuta, de lunes a jueves en 'El Objetivo' con Ana Pastor — atresplayer"
+    ],
+    [
+      "28 AGO",
       "Asamblea Nacional chavista aprueba que vinculado a fraude en España sea embajador en Egipto — Diario Las Américas"
     ],
     [
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "26 AGO",
       "Interpol detiene en Abu Dabi a Alejandro Hamlyn, encausado en una trama de hidrocarburos y vinculado a Leire Díez — Telemadrid"
-    ],
-    [
-      "26 AGO",
-      "Detienen en Abu Dabi a Alejandro Hamlyn, el empresario huido relacionado con Leire Díez — Canal Sur"
     ]
   ],
   "relojes": [
