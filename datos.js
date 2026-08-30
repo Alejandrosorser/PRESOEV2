@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-29",
+  "actualizado_ticker": "2026-08-30",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,22 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "30 AGO",
+      "La Audiencia Nacional indaga la estrategia que llevó a cabo Plus Ultra para \"cortar\" la investigación judicial del rescate de 53 millones — El Periódico"
+    ],
+    [
+      "30 AGO",
+      "Septiembre judicial: Plus Ultra, Begoña Gómez, Cerdán y Leire Díez vuelven al foco — Demócrata"
+    ],
+    [
+      "30 AGO",
+      "¿Dónde está Zapatero? | NR | Periodismo alternativo — NR | Periodismo alternativo"
+    ],
+    [
+      "30 AGO",
+      "La corrupción vuelve a los banquillos — Diario de Sevilla"
+    ],
+    [
       "28 AGO",
       "Especial Ceuta, de lunes a jueves en 'El Objetivo' con Ana Pastor — atresplayer"
     ],
@@ -1027,23 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "26 AGO",
-      "La Fiscalía pide mantener la imputación de Jéssica Rodríguez por el caso Koldo — LaSexta"
-    ],
-    [
-      "26 AGO",
       "Anticorrupción avala imputar a la ex de Ábalos tras admitir que cobró sin acudir al trabajo — Demócrata"
-    ],
-    [
-      "26 AGO",
-      "Interpol detiene en Abu Dabi a Alejandro Hamlyn — Diario de Burgos"
-    ],
-    [
-      "26 AGO",
-      "Anticorrupción insiste en que la expareja de Ábalos Jésica Rodríguez siga investigada en el caso Koldo — elDiario.es"
-    ],
-    [
-      "26 AGO",
-      "Interpol detiene en Abu Dabi a Alejandro Hamlyn, encausado en una trama de hidrocarburos y vinculado a Leire Díez — Telemadrid"
     ]
   ],
   "relojes": [
