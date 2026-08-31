@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-30",
+  "actualizado_ticker": "2026-08-31",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,42 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "31 AGO",
+      "La UDEF tira del hilo con la pista menos conocida del caso Zapatero: Miami, Islas Vírgenes y 653.874 dólares — ESdiario"
+    ],
+    [
+      "31 AGO",
+      "Sánchez sostiene que Zapatero avaló la legalidad de las joyas y que jamás le mencionó Plus Ultra — Andalucía Información"
+    ],
+    [
+      "31 AGO",
+      "Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias” — EL PAÍS"
+    ],
+    [
+      "31 AGO",
+      "La UDEF ya ha confiscado en el caso Plus Ultra 490.000 euros en metálico, 564.000 euros en Miami, relojes por 240.000 euros y las joyas de Zapatero — El Periódico"
+    ],
+    [
+      "31 AGO",
+      "El otoño judicial arranca en la Audiencia Nacional: Zapatero, Leire Díez y las tramas del PSOE — El Independiente"
+    ],
+    [
+      "31 AGO",
+      "Los casos de Zapatero, Leire Díez o los pagos del PSOE: la ‘vuelta al cole’ judicial — EFE - Agencia de noticias"
+    ],
+    [
+      "31 AGO",
+      "Septiembre desata el caos judicial de Sánchez: seis tramas y un posible juicio a Begoña antes de las elecciones — Libertad Digital"
+    ],
+    [
+      "31 AGO",
+      "La Seguridad Social permitió rescatar Plus Ultra con una deuda de 451.000 euros y bloqueó a empresas que debían 13 euros — Libertad Digital"
+    ],
+    [
+      "31 AGO",
+      "El caso Leire, las joyas de Zapatero, el caso Montoro o el juicio por corrupción del novio de Ayuso: El curso político arranca con una densa agenda judicial — Diario Red"
+    ],
+    [
       "30 AGO",
       "La Audiencia Nacional indaga la estrategia que llevó a cabo Plus Ultra para \"cortar\" la investigación judicial del rescate de 53 millones — El Periódico"
     ],
@@ -1008,42 +1044,6 @@ window.PRESOE_DATOS =
     [
       "30 AGO",
       "La corrupción vuelve a los banquillos — Diario de Sevilla"
-    ],
-    [
-      "28 AGO",
-      "Especial Ceuta, de lunes a jueves en 'El Objetivo' con Ana Pastor — atresplayer"
-    ],
-    [
-      "28 AGO",
-      "Asamblea Nacional chavista aprueba que vinculado a fraude en España sea embajador en Egipto — Diario Las Américas"
-    ],
-    [
-      "28 AGO",
-      "Las declaraciones de los directivos de Plus Ultra marcan la agenda del caso Zapatero — Artículo 14"
-    ],
-    [
-      "28 AGO",
-      "Empresas chinas que vinculan con Zapatero amenazan con tensar el mercado constructor español — El Debate"
-    ],
-    [
-      "27 AGO",
-      "Caso Koldo: Anticorrupción respalda investigar a la expareja de Ábalos por sus contratos en Ineco y Tragsatec — El Diario de Madrid"
-    ],
-    [
-      "27 AGO",
-      "La complicidad entre el fugado Hamlyn y Leire Díez: \"Decía que la había invitado a Dubái\" — Libertad Digital"
-    ],
-    [
-      "27 AGO",
-      "El difícil reto para el nuevo abogado de Begoña Gómez: el jurado popular condena al 92% — moncloa.com"
-    ],
-    [
-      "27 AGO",
-      "La Fiscalía pide mantener imputada a la expareja de Ábalos en el caso Koldo — MUNDIARIO"
-    ],
-    [
-      "26 AGO",
-      "Anticorrupción avala imputar a la ex de Ábalos tras admitir que cobró sin acudir al trabajo — Demócrata"
     ]
   ],
   "relojes": [
