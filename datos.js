@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-08-31",
+  "actualizado_ticker": "2026-09-01",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "31 AGO",
-      "La UDEF tira del hilo con la pista menos conocida del caso Zapatero: Miami, Islas Vírgenes y 653.874 dólares — ESdiario"
+      "01 SEP",
+      "Serrano, exjefe de gabinete de Sánchez, pide ahora anular el clonado de su móvil en el que tenía 10.000 'wasaps' con Leire — El Español"
+    ],
+    [
+      "01 SEP",
+      "Anticorrupción pide al Supremo que rechace el incidente de nulidad de Ábalos y Koldo en el ‘caso mascarillas’ — Confilegal"
+    ],
+    [
+      "01 SEP",
+      "Anticorrupción pide al Supremo rechazar la petición de Ábalos y Koldo para anular la sentencia del caso mascarillas — La Voz de Galicia"
+    ],
+    [
+      "01 SEP",
+      "Anticorrupción solicita al Supremo que rechace la petición de Ábalos y Koldo para anular su sentencia del 'caso mascarillas' — El Constitucional"
+    ],
+    [
+      "01 SEP",
+      "Anticorrupción pide desestimar las nulidades que plantean Ábalos y Koldo para sus condenas: \"Abocadas al fracaso\" — La Razón"
+    ],
+    [
+      "01 SEP",
+      "Luzón rechaza los incidentes de nulidad de Ábalos y Koldo contra la sentencia del Supremo: \"están abocados al fracaso\" — Libertad Digital"
+    ],
+    [
+      "01 SEP",
+      "Anticorrupción se opone a revisar la sentencia del 'caso mascarillas' como piden Ábalos y Koldo — Andalucía Información"
+    ],
+    [
+      "01 SEP",
+      "El PSOE pide al juez Pedraz restringir a la Fiscalía el acceso a sus cuentas — Noticias de Gipuzkoa"
+    ],
+    [
+      "01 SEP",
+      "Anticorrupción planta cara al enésimo intento de Ábalos y Koldo de anular su condena — El Confidencial"
+    ],
+    [
+      "01 SEP",
+      "El PSOE reclama al juez del caso Leire Díez que solo la Fiscalía pueda ver el rastreo de sus cuentas bancarias — elDiario.es"
+    ],
+    [
+      "01 SEP",
+      "El año judicial golpea de lleno a Sánchez: Zapatero, Santos Cerdán, Leire Díez y Begoña Gómez — moncloa.com"
+    ],
+    [
+      "01 SEP",
+      "Díez maniobró contra el sistema de escuchas de Interior para favorecer al abogado de Puigdemont — Artículo 14"
     ],
     [
       "31 AGO",
-      "Sánchez sostiene que Zapatero avaló la legalidad de las joyas y que jamás le mencionó Plus Ultra — Andalucía Información"
-    ],
-    [
-      "31 AGO",
-      "Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias” — EL PAÍS"
-    ],
-    [
-      "31 AGO",
-      "La UDEF ya ha confiscado en el caso Plus Ultra 490.000 euros en metálico, 564.000 euros en Miami, relojes por 240.000 euros y las joyas de Zapatero — El Periódico"
-    ],
-    [
-      "31 AGO",
-      "El otoño judicial arranca en la Audiencia Nacional: Zapatero, Leire Díez y las tramas del PSOE — El Independiente"
-    ],
-    [
-      "31 AGO",
-      "Los casos de Zapatero, Leire Díez o los pagos del PSOE: la ‘vuelta al cole’ judicial — EFE - Agencia de noticias"
-    ],
-    [
-      "31 AGO",
-      "Septiembre desata el caos judicial de Sánchez: seis tramas y un posible juicio a Begoña antes de las elecciones — Libertad Digital"
-    ],
-    [
-      "31 AGO",
-      "La Seguridad Social permitió rescatar Plus Ultra con una deuda de 451.000 euros y bloqueó a empresas que debían 13 euros — Libertad Digital"
-    ],
-    [
-      "31 AGO",
-      "El caso Leire, las joyas de Zapatero, el caso Montoro o el juicio por corrupción del novio de Ayuso: El curso político arranca con una densa agenda judicial — Diario Red"
-    ],
-    [
-      "30 AGO",
-      "La Audiencia Nacional indaga la estrategia que llevó a cabo Plus Ultra para \"cortar\" la investigación judicial del rescate de 53 millones — El Periódico"
-    ],
-    [
-      "30 AGO",
-      "Septiembre judicial: Plus Ultra, Begoña Gómez, Cerdán y Leire Díez vuelven al foco — Demócrata"
-    ],
-    [
-      "30 AGO",
-      "¿Dónde está Zapatero? | NR | Periodismo alternativo — NR | Periodismo alternativo"
-    ],
-    [
-      "30 AGO",
-      "La corrupción vuelve a los banquillos — Diario de Sevilla"
+      "Conde-Pumpido, sobre el caso García Ortiz: «No podemos indultar a nadie, esa potestad corresponde al Gobierno» — El Debate"
     ]
   ],
   "relojes": [
