@@ -1011,7 +1011,7 @@ window.PRESOE_DATOS =
     ],
     [
       "02 SEP",
-      "El PSOE pide al juez de las 'cloacas' que solo Anticorrupción pueda acceder a sus datos bancarios — diariodeleon.es"
+      "El PSOE pide al juez de las 'cloacas' que solo Anticorrupción pueda acceder a sus datos bancarios — Diario de León"
     ],
     [
       "02 SEP",
@@ -1027,11 +1027,11 @@ window.PRESOE_DATOS =
     ],
     [
       "01 SEP",
-      "El exjefe de gabinete de Sánchez pide destruir los dos volcados de su móvil en el \"caso Leire Díez\" — noticiasdegipuzkoa.eus"
+      "El exjefe de gabinete de Sánchez pide destruir los dos volcados de su móvil en el \"caso Leire Díez\" — Noticias de Gipuzkoa"
     ],
     [
       "01 SEP",
-      "El exjefe de gabinete de Sánchez solicita anular y destruir los dos volcados de su móvil en el 'caso Leire Díez' — europapress.es"
+      "El exjefe de gabinete de Sánchez solicita anular y destruir los dos volcados de su móvil en el 'caso Leire Díez' — Europa Press"
     ],
     [
       "01 SEP",
