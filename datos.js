@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-01",
+  "actualizado_ticker": "2026-09-02",
   "hub": {
     "k1": [
       430,
@@ -994,8 +994,48 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "02 SEP",
+      "Pedraz niega a la abogada de Koldo incluir unas declaraciones de Aldama para encubrir su supuesto soborno a Carmen Pano — Libertad Digital"
+    ],
+    [
+      "02 SEP",
+      "La Fiscalía Europea revela que Aldama y otros empresarios desviaron 27,9 — MUNDIARIO"
+    ],
+    [
+      "02 SEP",
+      "La Fiscalía Europea informa al juez de la implicación de Aldama en una trama que blanqueó 27,9 millones en Portugal — El Periódico"
+    ],
+    [
+      "02 SEP",
+      "La Fiscalía Europea acusa a Aldama y sus socios de blanquear 27,9 millones en el fraude de los hidrocarburos — Elplural.com"
+    ],
+    [
+      "02 SEP",
+      "El PSOE pide al juez de las 'cloacas' que solo Anticorrupción pueda acceder a sus datos bancarios — diariodeleon.es"
+    ],
+    [
+      "02 SEP",
+      "La Fiscalía Europea irrumpe en el ‘caso hidrocarburos’ y revela que Aldama y otros empresarios desviaron 27,9 millones a Portugal — EL PAÍS"
+    ],
+    [
+      "02 SEP",
+      "Fiscalía Anticorrupción pide al Supremo mantener condenas de Ábalos y Koldo por el Caso Mascarillas — moncloa.com"
+    ],
+    [
       "01 SEP",
-      "Serrano, exjefe de gabinete de Sánchez, pide ahora anular el clonado de su móvil en el que tenía 10.000 'wasaps' con Leire — El Español"
+      "El PSOE pide al juez que no se revelen datos bancarios del partido ajenos al 'caso Leire' — heraldo.es"
+    ],
+    [
+      "01 SEP",
+      "El exjefe de gabinete de Sánchez pide destruir los dos volcados de su móvil en el \"caso Leire Díez\" — noticiasdegipuzkoa.eus"
+    ],
+    [
+      "01 SEP",
+      "El exjefe de gabinete de Sánchez solicita anular y destruir los dos volcados de su móvil en el 'caso Leire Díez' — europapress.es"
+    ],
+    [
+      "01 SEP",
+      "Anticorrupción pide al TS rechazar la petición de Ábalos y Koldo para anular la sentencia del 'caso mascarillas' — Teleprensa"
     ],
     [
       "01 SEP",
@@ -1003,47 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "01 SEP",
-      "Anticorrupción pide al Supremo rechazar la petición de Ábalos y Koldo para anular la sentencia del caso mascarillas — La Voz de Galicia"
-    ],
-    [
-      "01 SEP",
-      "Anticorrupción solicita al Supremo que rechace la petición de Ábalos y Koldo para anular su sentencia del 'caso mascarillas' — El Constitucional"
-    ],
-    [
-      "01 SEP",
-      "Anticorrupción pide desestimar las nulidades que plantean Ábalos y Koldo para sus condenas: \"Abocadas al fracaso\" — La Razón"
-    ],
-    [
-      "01 SEP",
-      "Luzón rechaza los incidentes de nulidad de Ábalos y Koldo contra la sentencia del Supremo: \"están abocados al fracaso\" — Libertad Digital"
-    ],
-    [
-      "01 SEP",
-      "Anticorrupción se opone a revisar la sentencia del 'caso mascarillas' como piden Ábalos y Koldo — Andalucía Información"
-    ],
-    [
-      "01 SEP",
-      "El PSOE pide al juez Pedraz restringir a la Fiscalía el acceso a sus cuentas — Noticias de Gipuzkoa"
-    ],
-    [
-      "01 SEP",
-      "Anticorrupción planta cara al enésimo intento de Ábalos y Koldo de anular su condena — El Confidencial"
-    ],
-    [
-      "01 SEP",
-      "El PSOE reclama al juez del caso Leire Díez que solo la Fiscalía pueda ver el rastreo de sus cuentas bancarias — elDiario.es"
-    ],
-    [
-      "01 SEP",
-      "El año judicial golpea de lleno a Sánchez: Zapatero, Santos Cerdán, Leire Díez y Begoña Gómez — moncloa.com"
-    ],
-    [
-      "01 SEP",
-      "Díez maniobró contra el sistema de escuchas de Interior para favorecer al abogado de Puigdemont — Artículo 14"
-    ],
-    [
-      "31 AGO",
-      "Conde-Pumpido, sobre el caso García Ortiz: «No podemos indultar a nadie, esa potestad corresponde al Gobierno» — El Debate"
+      "Anticorrupción pide a Supremo rechazar petición de Ábalos y Koldo para anular la sentencia del 'caso mascarillas' — Diario de Noticias de Álava"
     ]
   ],
   "relojes": [
