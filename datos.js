@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-02",
+  "actualizado_ticker": "2026-09-03",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "02 SEP",
-      "Pedraz niega a la abogada de Koldo incluir unas declaraciones de Aldama para encubrir su supuesto soborno a Carmen Pano — Libertad Digital"
+      "03 SEP",
+      "Un exchófer de Sánchez reconoce reuniones con Ábalos por temas del PSOE y negocios con Aldama que nunca fructificaron — El Periódico"
+    ],
+    [
+      "03 SEP",
+      "Exchófer de Sánchez confirma encuentros con Ábalos sobre PSOE — diarioenpositivo.com"
+    ],
+    [
+      "03 SEP",
+      "El juez interroga este jueves como testigo a un exchófer de Pedro Sánchez en el 'caso hidrocarburos' — Europa Press"
     ],
     [
       "02 SEP",
-      "La Fiscalía Europea revela que Aldama y otros empresarios desviaron 27,9 — MUNDIARIO"
+      "El objetivo - Temporada 12 - Ceuta (02-09-26) — atresplayer"
     ],
     [
       "02 SEP",
-      "La Fiscalía Europea informa al juez de la implicación de Aldama en una trama que blanqueó 27,9 millones en Portugal — El Periódico"
+      "El juez Pedraz pide al chófer de la empresaria que dijo llevar dinero a Ferraz los 'whatsapp' que pueden incriminar a la abogada de Koldo — Levante-EMV"
     ],
     [
       "02 SEP",
-      "La Fiscalía Europea acusa a Aldama y sus socios de blanquear 27,9 millones en el fraude de los hidrocarburos — Elplural.com"
+      "La Fiscalía implica a Aldama en el desvío de 28 millones a Portugal por el fraude de hidrocarburos — La Crónica de Salamanca"
     ],
     [
       "02 SEP",
-      "El PSOE pide al juez de las 'cloacas' que solo Anticorrupción pueda acceder a sus datos bancarios — Diario de León"
+      "Fiscalía Europea señala a Aldama por desvío de 27,9 millones a Portugal en caso hidrocarburos — diarioenpositivo.com"
     ],
     [
       "02 SEP",
-      "La Fiscalía Europea irrumpe en el ‘caso hidrocarburos’ y revela que Aldama y otros empresarios desviaron 27,9 millones a Portugal — EL PAÍS"
+      "Aldama aparece en la pista portuguesa de los 27,9 millones del caso hidrocarburos que la Fiscalía Europea remite a Pedraz — ESdiario"
     ],
     [
       "02 SEP",
-      "Fiscalía Anticorrupción pide al Supremo mantener condenas de Ábalos y Koldo por el Caso Mascarillas — moncloa.com"
+      "Justicia subastará por 241.000 euros un Ferrari incautado a Aldama en el ‘caso hidrocarburos’ — EL PAÍS"
     ],
     [
-      "01 SEP",
-      "El PSOE pide al juez que no se revelen datos bancarios del partido ajenos al 'caso Leire' — heraldo.es"
+      "02 SEP",
+      "La Fiscalía Europea informa al juez de que Aldama pudo enviar dinero de sus empresas a Portugal para no pagar el IVA de hidrocarburos — ABC"
     ],
     [
-      "01 SEP",
-      "El exjefe de gabinete de Sánchez pide destruir los dos volcados de su móvil en el \"caso Leire Díez\" — Noticias de Gipuzkoa"
+      "02 SEP",
+      "Salamanca Fuel envió millones de euros al sistema bancario portugués para blanquear dinero de los hidrocarburos — Salamanca24horas"
     ],
     [
-      "01 SEP",
-      "El exjefe de gabinete de Sánchez solicita anular y destruir los dos volcados de su móvil en el 'caso Leire Díez' — Europa Press"
+      "02 SEP",
+      "Fiscalía Europea sitúa a Aldama en el desvío de 27,9 millones a Portugal con empresas del 'caso hidrocarburos' — Europa Press"
     ],
     [
-      "01 SEP",
-      "Anticorrupción pide al TS rechazar la petición de Ábalos y Koldo para anular la sentencia del 'caso mascarillas' — Teleprensa"
-    ],
-    [
-      "01 SEP",
-      "Anticorrupción pide al Supremo que rechace el incidente de nulidad de Ábalos y Koldo en el ‘caso mascarillas’ — Confilegal"
-    ],
-    [
-      "01 SEP",
-      "Anticorrupción pide a Supremo rechazar petición de Ábalos y Koldo para anular la sentencia del 'caso mascarillas' — Diario de Noticias de Álava"
+      "02 SEP",
+      "Justicia saca a subasta el Ferrari F12 de Aldama por 241.000 euros — elDiario.es"
     ]
   ],
   "relojes": [
