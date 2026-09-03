@@ -999,7 +999,7 @@ window.PRESOE_DATOS =
     ],
     [
       "03 SEP",
-      "Exchófer de Sánchez confirma encuentros con Ábalos sobre PSOE — diarioenpositivo.com"
+      "Exchófer de Sánchez confirma encuentros con Ábalos sobre PSOE — Diario en Positivo"
     ],
     [
       "03 SEP",
@@ -1019,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "02 SEP",
-      "Fiscalía Europea señala a Aldama por desvío de 27,9 millones a Portugal en caso hidrocarburos — diarioenpositivo.com"
+      "Fiscalía Europea señala a Aldama por desvío de 27,9 millones a Portugal en caso hidrocarburos — Diario en Positivo"
     ],
     [
       "02 SEP",
