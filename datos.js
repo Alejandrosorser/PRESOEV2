@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-03",
+  "actualizado_ticker": "2026-09-04",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "03 SEP",
-      "Un exchófer de Sánchez reconoce reuniones con Ábalos por temas del PSOE y negocios con Aldama que nunca fructificaron — El Periódico"
+      "04 SEP",
+      "Aldama pide vender por su cuenta sus 13 coches incautados entre Ferrari y Land Rover: Hacienda los valora en 635.700 euros y él cree que puede sacarles más d… — Infobae"
+    ],
+    [
+      "04 SEP",
+      "Aldama solicita vender él sus coches incautados porque cree que la justicia no lo hará a buen precio — La Vanguardia"
+    ],
+    [
+      "04 SEP",
+      "Robles asciende a coronel a Balas y garantiza su continuidad en la UCO — MUNDIARIO"
+    ],
+    [
+      "04 SEP",
+      "El Gobierno usa la Fiscalía para controlar la causa de la invasión de Ceuta: cambian al fiscal por un afín — ESdiario"
+    ],
+    [
+      "04 SEP",
+      "Antonio Balas asciende a coronel y permanece al frente de la UCO — Diario de Sevilla"
+    ],
+    [
+      "04 SEP",
+      "Robles firma el ascenso a coronel de Antonio Balas y seguirá en la UCO como pidió el juez del 'caso Koldo' — El Correo"
+    ],
+    [
+      "04 SEP",
+      "Robles firma el ascenso a coronel de Antonio Balas, pero seguirá trabajando en la UCO como pidió el juez del caso Koldo — 20Minutos"
+    ],
+    [
+      "04 SEP",
+      "Antonio Balas asciende a coronel y continuará en la UCO como pidió el juez del caso Koldo — Demócrata"
+    ],
+    [
+      "04 SEP",
+      "Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del 'caso Koldo' — Europa Press"
+    ],
+    [
+      "04 SEP",
+      "Caso Hidrocarburos: la Fiscalía Europea aporta su investigación de las empresas portuguesas — moncloa.com"
     ],
     [
       "03 SEP",
-      "Exchófer de Sánchez confirma encuentros con Ábalos sobre PSOE — Diario en Positivo"
+      "Portugal detectó un desvío de 7,4 millones de la trama de hidrocarburos a una empresa de Aldama que no tenía actividad — El Independiente"
     ],
     [
       "03 SEP",
-      "El juez interroga este jueves como testigo a un exchófer de Pedro Sánchez en el 'caso hidrocarburos' — Europa Press"
+      "Un antiguo chófer de Sánchez admite haberse reunido con Ábalos y Aldama — La Voz de Galicia"
     ],
     [
-      "02 SEP",
-      "El objetivo - Temporada 12 - Ceuta (02-09-26) — atresplayer"
-    ],
-    [
-      "02 SEP",
-      "El juez Pedraz pide al chófer de la empresaria que dijo llevar dinero a Ferraz los 'whatsapp' que pueden incriminar a la abogada de Koldo — Levante-EMV"
-    ],
-    [
-      "02 SEP",
-      "La Fiscalía implica a Aldama en el desvío de 28 millones a Portugal por el fraude de hidrocarburos — La Crónica de Salamanca"
-    ],
-    [
-      "02 SEP",
-      "Fiscalía Europea señala a Aldama por desvío de 27,9 millones a Portugal en caso hidrocarburos — Diario en Positivo"
-    ],
-    [
-      "02 SEP",
-      "Aldama aparece en la pista portuguesa de los 27,9 millones del caso hidrocarburos que la Fiscalía Europea remite a Pedraz — ESdiario"
-    ],
-    [
-      "02 SEP",
-      "Justicia subastará por 241.000 euros un Ferrari incautado a Aldama en el ‘caso hidrocarburos’ — EL PAÍS"
-    ],
-    [
-      "02 SEP",
-      "La Fiscalía Europea informa al juez de que Aldama pudo enviar dinero de sus empresas a Portugal para no pagar el IVA de hidrocarburos — ABC"
-    ],
-    [
-      "02 SEP",
-      "Salamanca Fuel envió millones de euros al sistema bancario portugués para blanquear dinero de los hidrocarburos — Salamanca24horas"
-    ],
-    [
-      "02 SEP",
-      "Fiscalía Europea sitúa a Aldama en el desvío de 27,9 millones a Portugal con empresas del 'caso hidrocarburos' — Europa Press"
-    ],
-    [
-      "02 SEP",
-      "Justicia saca a subasta el Ferrari F12 de Aldama por 241.000 euros — elDiario.es"
+      "03 SEP",
+      "La asesora de Begoña Gómez pide su absolución al argumentar que no participó en el registro del 'sofware' de la UCM — Noticias de Gipuzkoa"
     ]
   ],
   "relojes": [
