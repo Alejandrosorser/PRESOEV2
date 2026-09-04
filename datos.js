@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-07-27",
+  "actualizado_datos": "2026-09-04",
   "actualizado_ticker": "2026-09-04",
   "hub": {
     "k1": [
@@ -80,6 +80,10 @@ window.PRESOE_DATOS =
         {
           "f": "20-07-2026",
           "t": "La expareja de Ábalos y el hermano de Koldo García se niegan a declarar sobre la contratación de ella en Ineco (EL PAÍS)."
+        },
+        {
+          "f": "01-09-2026",
+          "t": "Anticorrupción presenta escrito ante el Supremo pidiendo rechazar las solicitudes de nulidad de la sentencia formuladas por Ábalos y Koldo, calificando sus alegaciones de «abocadas al fracaso» (El Correo / vozpopuli.com / La Razón)."
         }
       ],
       "gente": [
@@ -135,6 +139,10 @@ window.PRESOE_DATOS =
         {
           "f": "26-07-2026",
           "t": "Dos administrativas del PSOE aportarán al juez conversaciones clave con Santos Cerdán (Navarra.com)."
+        },
+        {
+          "f": "07-08-2026",
+          "t": "La expresidenta de Adif analiza ocho conversaciones de Koldo para defender que ella «bloqueó» a la trama de presuntos amaños (El Periódico)."
         }
       ],
       "gente": [
@@ -181,6 +189,26 @@ window.PRESOE_DATOS =
         {
           "f": "27-07-2026",
           "t": "La acusación popular (Hazte Oír) rebaja su petición de pena de 24 a 13 años de prisión, ajustándose a los delitos validados por la Audiencia de Madrid, y solicita que Pedro Sánchez testifique en el juicio (El Mundo / RTVE.es / The Objective / Vozpopuli). La Fiscalía sigue sin acusar."
+        },
+        {
+          "f": "23-08-2026",
+          "t": "Begoña Gómez buscará su absolución ante el jurado alegando el vacío legal de las «primeras damas» en España, según fuentes de la defensa (El Debate)."
+        },
+        {
+          "f": "01-09-2026",
+          "t": "Begoña Gómez apurará el plazo para presentar su escrito de defensa, dejando unos 20 días a Peinado para resolver el caso antes de su jubilación (Artículo 14)."
+        },
+        {
+          "f": "02-09-2026",
+          "t": "Begoña Gómez citada a declarar por la presunta denuncia falsa interpuesta contra el periodista Vito Quiles, al que acusó de agresión (vozpopuli.com)."
+        },
+        {
+          "f": "03-09-2026",
+          "t": "La asesora de Begoña Gómez (Cristina Álvarez) pide su absolución al sostener que no participó en el registro del software de la UCM (Cadena SER / Noticias de Gipuzkoa)."
+        },
+        {
+          "f": "03-09-2026",
+          "t": "La Justicia archiva la queja contra el juez Peinado por insinuar que los escoltas de Begoña Gómez podrían ayudarla a huir (EL PAÍS)."
         },
         {
           "f": "27-09-2026",
@@ -334,6 +362,42 @@ window.PRESOE_DATOS =
         {
           "f": "27-07-2026",
           "t": "El ex jefe de gabinete de Sánchez citado el 5 de agosto para clonar su móvil en el marco de la investigación (moncloa.com)."
+        },
+        {
+          "f": "01-09-2026",
+          "t": "El PSOE solicita al juez Pedraz que solo la Fiscalía —y no el resto de partes— pueda acceder al análisis de sus cuentas bancarias, alegando que «la intimidad debe quedar salvaguardada» (antena3.com / The Objective / elDiario.es)."
+        },
+        {
+          "f": "02-09-2026",
+          "t": "El juez Pedraz solicita al chófer de la empresaria que afirmó llevar dinero a Ferraz los mensajes de WhatsApp que podrían incriminar a la abogada de Koldo (El Periódico)."
+        },
+        {
+          "f": "02-09-2026",
+          "t": "El exjefe de gabinete de Sánchez solicita anular y destruir los dos volcados de su móvil obtenidos en la investigación (Diario Red)."
+        },
+        {
+          "f": "03-09-2026",
+          "t": "Según un titular de ESdiario, ante el juez Pedraz habría aflorado un nexo entre Sánchez, Ábalos, Koldo y Aldama. Información de un único medio; pendiente de contraste."
+        },
+        {
+          "f": "12-08-2026",
+          "t": "El juez Zamarriego acepta unificar la investigación de las presuntas cloacas del PSOE en la Audiencia Nacional, según un titular (OkDiario). Un solo medio; pendiente de contraste."
+        },
+        {
+          "f": "14-08-2026",
+          "t": "El juez Pedraz subraya en un auto que el fin presunto de las cloacas era «proteger» al PSOE (La Razón)."
+        },
+        {
+          "f": "20-08-2026",
+          "t": "Leire Díez se opone a que la Audiencia Nacional asuma toda la investigación en su contra (LaSexta)."
+        },
+        {
+          "f": "13-08-2026",
+          "t": "Una pista señalada por medios vincula a Leire Díez con Santos Cerdán, elevando el caso a un nivel superior según el instructor, lo que complicaría la posición de la gerente del PSOE (ESdiario)."
+        },
+        {
+          "f": "15-08-2026",
+          "t": "El primer juez del caso Leire apunta a que, según el instructor, Cerdán pagó a la exmilitante con dinero del PSOE «por sus servicios» (Diario Red)."
         }
       ],
       "gente": [
@@ -358,7 +422,7 @@ window.PRESOE_DATOS =
         "Cohecho",
         "Tráfico de influencias"
       ],
-      "resumen": "Macrofraude del IVA en la venta de hidrocarburos articulado, según la UCO, en torno a la operadora Villafuel, que obtuvo su licencia en 2022 pagando cerca de un millón de euros para «comprar voluntades» en el Gobierno, de acuerdo con los investigadores. La Guardia Civil sitúa a Rivas y Aldama «en la cúspide» de la organización, cuantifica el fraude inicial en 182,5 millones de euros y rastrea 74 millones transferidos a Portugal, Macao y Colombia. En el juicio del caso mascarillas, Carmen Pano ratificó que llevó 90.000 € en efectivo a la sede del PSOE en Ferraz por orden de Aldama —su hija Leonor corroboró el relato—; el partido lo niega rotundamente.",
+      "resumen": "Macrofraude del IVA en la venta de hidrocarburos articulado, según la UCO, en torno a la operadora Villafuel, que obtuvo su licencia en 2022 pagando cerca de un millón de euros para «comprar voluntades» en el Gobierno, de acuerdo con los investigadores. La Guardia Civil sitúa a Rivas y Aldama «en la cúspide» de la organización, cuantifica el fraude inicial en 182,5 millones de euros y rastrea 74 millones transferidos a Portugal, Macao y Colombia. En el juicio del caso mascarillas, Carmen Pano ratificó que llevó 90.000 € en efectivo a la sede del PSOE en Ferraz por orden de Aldama —su hija Leonor corroboró el relato—; el partido lo niega rotundamente. La Fiscalía Europea ha irrumpido en la causa señalando un presunto desvío de 27,9 millones a Portugal.",
       "fallo": null,
       "hitos": [
         {
@@ -388,6 +452,14 @@ window.PRESOE_DATOS =
         {
           "f": "23-07-2026",
           "t": "Un investigado en hidrocarburos asegura por escrito al juez que la comisión pactada por rescatar Plus Ultra subía al 20% del importe del préstamo público (El Confidencial)."
+        },
+        {
+          "f": "02-09-2026",
+          "t": "La Fiscalía Europea irrumpe en la causa y acusa a Aldama y otros empresarios de desviar presuntamente 27,9 millones de euros a Portugal (EL PAÍS / RTVE.es / Libertad Digital / Elplural.com)."
+        },
+        {
+          "f": "03-09-2026",
+          "t": "Portugal detectó un desvío de 7,4 millones de la trama a una empresa de Aldama que, según las autoridades portuguesas, no tenía actividad real (El Independiente)."
         }
       ],
       "gente": [
@@ -487,7 +559,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "24-07-2026",
-          "t": "El juez rechaza la nulidad del caso pedida por Zapatero porque recurrió fuera de plazo (ABC). El juez cita a declarar como imputados al presidente y al CEO de Plus Ultra los días 7 y 8 de septiembre de 2026 (LaSexta). Conde-Pumpido, magistrado del TC, obligado a abstenerse en el caso Plus Ultra por su «estrecha amistad» con Zapatero (Libertad Digital)."
+          "t": "El juez rechaza la nulidad del caso pedida por Zapatero porque recurrió fuera de plazo (ABC). El juez cita a declarar como investigados al presidente y al CEO de Plus Ultra los días 7 y 8 de septiembre de 2026 (LaSexta). Conde-Pumpido, magistrado del TC, obligado a abstenerse en el caso Plus Ultra por su «estrecha amistad» con Zapatero (Libertad Digital)."
         },
         {
           "f": "25-07-2026",
@@ -496,6 +568,30 @@ window.PRESOE_DATOS =
         {
           "f": "26-07-2026",
           "t": "La semana que dejó a Zapatero aislado en la red de Plus Ultra, según análisis de medios (EL PAÍS)."
+        },
+        {
+          "f": "14-08-2026",
+          "t": "Según un titular, la SEPI facilitó el rescate de Plus Ultra a los 5 días de que Zapatero se citara con la empresa y hablara de negocios chinos (Libertad Digital)."
+        },
+        {
+          "f": "17-08-2026",
+          "t": "El dinero de Plus Ultra siguió llegando al entorno de Zapatero hasta mayo de 2026, según informaciones periodísticas (El Correo)."
+        },
+        {
+          "f": "23-08-2026",
+          "t": "La declaración de los directivos de Plus Ultra y el origen de las joyas marcan el presente judicial del caso (elDiario.es)."
+        },
+        {
+          "f": "28-08-2026",
+          "t": "Las declaraciones de los directivos de Plus Ultra marcan la agenda judicial del caso Zapatero (Artículo 14)."
+        },
+        {
+          "f": "31-08-2026",
+          "t": "La UDEF ha confiscado en la causa 490.000 € en metálico, 564.000 € en Miami, relojes por 240.000 € y las joyas de Zapatero, según informaciones periodísticas (El Periódico)."
+        },
+        {
+          "f": "31-08-2026",
+          "t": "Declaraciones en la causa cuestionan la versión de Zapatero, según medios (El Independiente)."
         }
       ],
       "gente": [
@@ -514,7 +610,7 @@ window.PRESOE_DATOS =
       "x": 850,
       "y": 555,
       "rol": "Presidente del Gobierno · secretario general del PSOE",
-      "resumen": "En el poder desde junio de 2018. No está investigado en ninguna causa. En su círculo íntimo y orgánico: su esposa, procesada; su hermano, condenado (sentencia recurrible); sus dos secretarios de Organización, uno condenado y otro investigado; y el fiscal general que su Gobierno propuso, condenado. En 2025 declaró como testigo en la comisión de investigación del Senado sobre el caso Koldo. Las acusaciones populares en el caso Begoña Gómez solicitan que declare como testigo ante el jurado (27-07-2026).",
+      "resumen": "En el poder desde junio de 2018. No está investigado en ninguna causa. En su círculo íntimo y orgánico: su esposa, procesada; su hermano, condenado (sentencia recurrible); sus dos secretarios de Organización, uno condenado y otro investigado; y el fiscal general que su Gobierno propuso, condenado. En 2025 declaró como testigo en la comisión de investigación del Senado sobre el caso Koldo. Las acusaciones populares en el caso Begoña Gómez solicitan que declare como testigo ante el jurado (27-07-2026). El 31-08-2026 defendió públicamente a Zapatero y afirmó que los expresidentes se dedican al lobby «en la amplísima mayoría de democracias» (EL PAÍS).",
       "casos": []
     },
     {
@@ -526,7 +622,7 @@ window.PRESOE_DATOS =
       "x": 605,
       "y": 300,
       "rol": "Exministro de Transportes · ex secretario de Organización del PSOE (2017-2021)",
-      "resumen": "Condenado por el Tribunal Supremo a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias en el caso mascarillas. En prisión desde el 27-11-2025: fue el primer diputado en activo encarcelado desde 1978. Sigue investigado en la Audiencia Nacional por los presuntos amaños de obra pública. En julio de 2026 el juez del caso Koldo confirma la imputación de su expareja (Jésica Rodríguez) y según medios presentó una queja ante el instructor por obstáculos a un vis a vis con ella (El Periódico, 23-07-2026).",
+      "resumen": "Condenado por el Tribunal Supremo a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias en el caso mascarillas. En prisión desde el 27-11-2025: fue el primer diputado en activo encarcelado desde 1978. Sigue investigado en la Audiencia Nacional por los presuntos amaños de obra pública. En julio de 2026 el juez del caso Koldo confirma la imputación de su expareja (Jésica Rodríguez). El 01-09-2026 Anticorrupción pidió al Supremo rechazar su solicitud de nulidad de la sentencia, calificando sus alegaciones de «abocadas al fracaso» (El Correo / vozpopuli.com / La Razón).",
       "fallo": "24 años y 3 meses de prisión (sentencia unánime del TS, junio de 2026) como autor de delitos de organización criminal, cohecho, malversación y tráfico de influencias por la adjudicación del suministro de 13 millones de mascarillas.",
       "casos": [
         "k1",
@@ -542,7 +638,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias. En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026).",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias. En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. El 01-09-2026 Anticorrupción pidió al Supremo rechazar su solicitud de nulidad de la sentencia, calificando sus alegaciones de «abocadas al fracaso» (El Correo / vozpopuli.com / La Razón).",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -558,7 +654,7 @@ window.PRESOE_DATOS =
       "x": 250,
       "y": 325,
       "rol": "Empresario · comisionista de la trama",
-      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA.",
+      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA. El 02-09-2026 la Fiscalía Europea le acusó de desviar presuntamente 27,9 millones a Portugal (EL PAÍS / RTVE.es).",
       "fallo": "4 años y 6 meses de prisión por organización criminal y cohecho, con la ejecución suspendida a condición de no delinquir, presentar un informe semestral de actividades y realizar trabajos en beneficio de la comunidad durante un año.",
       "casos": [
         "k1",
@@ -589,7 +685,7 @@ window.PRESOE_DATOS =
       "x": 1015,
       "y": 305,
       "rol": "Ex secretario de Organización del PSOE (2021-2025)",
-      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. Niega todos los hechos.",
+      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. Según el primer juez del caso Leire, Cerdán presuntamente pagó a la exmilitante con dinero del PSOE «por sus servicios» (Diario Red, 15-08-2026). Niega todos los hechos.",
       "casos": [
         "k2",
         "k6"
@@ -647,7 +743,7 @@ window.PRESOE_DATOS =
       "x": 700,
       "y": 72,
       "rol": "Expresidenta de Adif",
-      "resumen": "Investigada en la Audiencia Nacional como máxima responsable de parte de las adjudicaciones ferroviarias bajo sospecha en la trama de obra pública.",
+      "resumen": "Investigada en la Audiencia Nacional como máxima responsable de parte de las adjudicaciones ferroviarias bajo sospecha en la trama de obra pública. En agosto de 2026 analizó ocho conversaciones de Koldo para defender que ella «bloqueó» a la trama de presuntos amaños (El Periódico, 07-08-2026).",
       "casos": [
         "k2"
       ]
@@ -661,7 +757,7 @@ window.PRESOE_DATOS =
       "x": 1215,
       "y": 528,
       "rol": "Esposa de Pedro Sánchez",
-      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. En junio se le impusieron cautelares (retirada de pasaporte, prohibición de salir de España), en un auto de apertura que la Audiencia invalidó y que debe rehacerse. El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
+      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. En junio se le impusieron cautelares (retirada de pasaporte, prohibición de salir de España), en un auto de apertura que la Audiencia invalidó y que debe rehacerse. El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). El 02-09-2026 fue citada a declarar por la presunta denuncia falsa contra el periodista Vito Quiles (vozpopuli.com). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -675,7 +771,7 @@ window.PRESOE_DATOS =
       "x": 1332,
       "y": 695,
       "rol": "Asesora de Moncloa al servicio de Begoña Gómez",
-      "resumen": "Procesada (jurado) únicamente por presunta malversación: se dilucidará si dedicó su puesto público a los asuntos privados de Gómez. Presunción de inocencia íntegra.",
+      "resumen": "Procesada (jurado) únicamente por presunta malversación: se dilucidará si dedicó su puesto público a los asuntos privados de Gómez. El 03-09-2026 solicitó su absolución al argumentar que no participó en el registro del software de la UCM (Cadena SER / Noticias de Gipuzkoa). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -748,7 +844,7 @@ window.PRESOE_DATOS =
       "x": 1195,
       "y": 330,
       "rol": "Exmilitante del PSOE",
-      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026).",
+      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026). El 20-08-2026 se opuso a que la Audiencia Nacional asumiera toda la investigación en su contra (LaSexta).",
       "casos": [
         "k6"
       ]
@@ -876,7 +972,7 @@ window.PRESOE_DATOS =
       "x": 688,
       "y": 578,
       "rol": "Expresidente del Gobierno (2004-2011)",
-      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y citó a declarar como investigados al presidente y CEO de Plus Ultra los días 7 y 8 de septiembre (LaSexta). Ese mismo día Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). Defiende su inocencia.",
+      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y citó a declarar como investigados al presidente y CEO de Plus Ultra los días 7 y 8 de septiembre (LaSexta). Ese mismo día Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). La UDEF ha confiscado en la causa 490.000 € en metálico, 564.000 € en Miami, relojes por 240.000 € y las joyas (El Periódico, 31-08-2026). Defiende su inocencia.",
       "casos": [
         "k9"
       ]
@@ -995,43 +1091,15 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "04 SEP",
-      "Aldama pide vender por su cuenta sus 13 coches incautados entre Ferrari y Land Rover: Hacienda los valora en 635.700 euros y él cree que puede sacarles más d… — Infobae"
+      "Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del 'caso Koldo' (Europa Press / 20Minutos / MUNDIARIO)"
     ],
     [
       "04 SEP",
-      "Aldama solicita vender él sus coches incautados porque cree que la justicia no lo hará a buen precio — La Vanguardia"
-    ],
-    [
-      "04 SEP",
-      "Robles asciende a coronel a Balas y garantiza su continuidad en la UCO — MUNDIARIO"
+      "Robles firma el ascenso a coronel de Antonio Balas garantizando su continuidad en la UCO — El Correo / Defensa"
     ],
     [
       "04 SEP",
       "El Gobierno usa la Fiscalía para controlar la causa de la invasión de Ceuta: cambian al fiscal por un afín — ESdiario"
-    ],
-    [
-      "04 SEP",
-      "Antonio Balas asciende a coronel y permanece al frente de la UCO — Diario de Sevilla"
-    ],
-    [
-      "04 SEP",
-      "Robles firma el ascenso a coronel de Antonio Balas y seguirá en la UCO como pidió el juez del 'caso Koldo' — El Correo"
-    ],
-    [
-      "04 SEP",
-      "Robles firma el ascenso a coronel de Antonio Balas, pero seguirá trabajando en la UCO como pidió el juez del caso Koldo — 20minutos.es"
-    ],
-    [
-      "04 SEP",
-      "Antonio Balas asciende a coronel y continuará en la UCO como pidió el juez del caso Koldo — Demócrata"
-    ],
-    [
-      "04 SEP",
-      "Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del 'caso Koldo' — Europa Press"
-    ],
-    [
-      "04 SEP",
-      "Caso Hidrocarburos: la Fiscalía Europea aporta su investigación de las empresas portuguesas — moncloa.com"
     ],
     [
       "03 SEP",
@@ -1039,11 +1107,43 @@ window.PRESOE_DATOS =
     ],
     [
       "03 SEP",
-      "Un antiguo chófer de Sánchez admite haberse reunido con Ábalos y Aldama — La Voz de Galicia"
+      "La asesora de Begoña Gómez (Cristina Álvarez) pide su absolución al argumentar que no participó en el registro del software de la UCM — Cadena SER"
     ],
     [
       "03 SEP",
-      "La asesora de Begoña Gómez pide su absolución al argumentar que no participó en el registro del 'sofware' de la UCM — Noticias de Gipuzkoa"
+      "La Justicia archiva la queja contra el juez Peinado por insinuar que los escoltas de Begoña Gómez podrían ayudarla a huir — EL PAÍS"
+    ],
+    [
+      "02 SEP",
+      "La Fiscalía Europea acusa a Aldama y sus socios de desviar presuntamente 27,9 millones de euros a Portugal en el caso hidrocarburos — EL PAÍS / RTVE.es"
+    ],
+    [
+      "02 SEP",
+      "El juez Pedraz solicita al chófer de la empresaria que dijo llevar dinero a Ferraz los WhatsApp que pueden incriminar a la abogada de Koldo — El Periódico"
+    ],
+    [
+      "02 SEP",
+      "El exjefe de gabinete de Sánchez solicita anular y destruir los dos volcados de su móvil en el caso Leire Díez — Diario Red"
+    ],
+    [
+      "02 SEP",
+      "Begoña Gómez citada a declarar por la presunta denuncia falsa que puso a Vito Quiles — vozpopuli.com"
+    ],
+    [
+      "01 SEP",
+      "Anticorrupción pide al Supremo rechazar la petición de Ábalos y Koldo para anular la sentencia del caso mascarillas: sus alegaciones están «abocadas al fracaso» — El Correo / La Razón / vozpopuli.com"
+    ],
+    [
+      "01 SEP",
+      "El PSOE pide al juez Pedraz que solo la Fiscalía acceda al análisis de sus cuentas en el caso Leire Díez — antena3.com / The Objective / elDiario.es"
+    ],
+    [
+      "31 AGO",
+      "La UDEF ha confiscado en el caso Plus Ultra 490.000 € en metálico, 564.000 € en Miami, relojes por 240.000 € y las joyas de Zapatero — El Periódico"
+    ],
+    [
+      "31 AGO",
+      "Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al lobby «en la amplísima mayoría de democracias» — EL PAÍS"
     ]
   ],
   "relojes": [
