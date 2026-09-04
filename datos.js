@@ -1019,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "04 SEP",
-      "Robles firma el ascenso a coronel de Antonio Balas, pero seguirá trabajando en la UCO como pidió el juez del caso Koldo — 20Minutos"
+      "Robles firma el ascenso a coronel de Antonio Balas, pero seguirá trabajando en la UCO como pidió el juez del caso Koldo — 20minutos.es"
     ],
     [
       "04 SEP",
