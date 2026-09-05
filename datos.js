@@ -1003,7 +1003,7 @@ window.PRESOE_DATOS =
     ],
     [
       "05 SEP",
-      "Caso Plus Ultra: el juez Calama rechaza la nulidad solicitada por Zapatero y mantiene abierta la investigación — El Diario de Madrid"
+      "Caso Plus Ultra: el juez Calama rechaza la nulidad solicitada por Zapatero y mantiene abierta la investigación — eldiariodemadrid.es"
     ],
     [
       "05 SEP",
@@ -1039,7 +1039,7 @@ window.PRESOE_DATOS =
     ],
     [
       "04 SEP",
-      "Juez español rechaza la nulidad del caso Plus Ultra — diarioavance.com"
+      "Juez español rechaza la nulidad del caso Plus Ultra — Diario Avance"
     ],
     [
       "04 SEP",
