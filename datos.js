@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-04",
+  "actualizado_ticker": "2026-09-05",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "04 SEP",
-      "Aldama pide vender por su cuenta sus 13 coches incautados entre Ferrari y Land Rover: Hacienda los valora en 635.700 euros y él cree que puede sacarles más d… — Infobae"
+      "05 SEP",
+      "Whathefav y el caso Plus Ultra: el dinero que recibió la empresa de las hijas de Zapatero — ESdiario"
+    ],
+    [
+      "05 SEP",
+      "Begoña Gómez pide su absolución y niega haberse aprovechado de su vínculo matrimonial — Canal Sur"
+    ],
+    [
+      "05 SEP",
+      "Caso Plus Ultra: el juez Calama rechaza la nulidad solicitada por Zapatero y mantiene abierta la investigación — El Diario de Madrid"
+    ],
+    [
+      "05 SEP",
+      "El juez Calama rechaza la nulidad de Zapatero en el caso Plus Ultra: la investigación sigue viva — moncloa.com"
+    ],
+    [
+      "05 SEP",
+      "Begoña Gómez se prepara para el jurado: pide la absolución y niega haberse beneficiado de ser la mujer de Sánchez — La Gaceta de Canarias"
+    ],
+    [
+      "05 SEP",
+      "Begoña Gómez pide al tribunal la absolución en el juicio por el software de la UCM: niega ánimo de enriquecerse — moncloa.com"
+    ],
+    [
+      "05 SEP",
+      "Una constructora del ‘caso Koldo’ que pagó mordidas cambia de dueño pero mantiene al mismo apoderado — OkDiario"
+    ],
+    [
+      "05 SEP",
+      "La Audiencia Nacional reactiva el rastreo económico del 'caso Cerdán' tras corregir errores en las cuentas bancarias — Vozpopuli"
+    ],
+    [
+      "05 SEP",
+      "El juez rechaza la “nulidad general” del caso Plus Ultra pedida por Zapatero — MUNDIARIO"
     ],
     [
       "04 SEP",
-      "Aldama solicita vender él sus coches incautados porque cree que la justicia no lo hará a buen precio — La Vanguardia"
+      "El juez tumba el intento de Zapatero de anular el caso Plus Ultra y mantiene viva la investigación — La Gaceta de Canarias"
     ],
     [
       "04 SEP",
-      "Robles asciende a coronel a Balas y garantiza su continuidad en la UCO — MUNDIARIO"
+      "El juez Calama rechaza la petición de Zapatero de anular el «caso Plus Ultra» — El Burgado Digital"
     ],
     [
       "04 SEP",
-      "El Gobierno usa la Fiscalía para controlar la causa de la invasión de Ceuta: cambian al fiscal por un afín — ESdiario"
+      "Juez español rechaza la nulidad del caso Plus Ultra — diarioavance.com"
     ],
     [
       "04 SEP",
-      "Antonio Balas asciende a coronel y permanece al frente de la UCO — Diario de Sevilla"
-    ],
-    [
-      "04 SEP",
-      "Robles firma el ascenso a coronel de Antonio Balas y seguirá en la UCO como pidió el juez del 'caso Koldo' — El Correo"
-    ],
-    [
-      "04 SEP",
-      "Robles firma el ascenso a coronel de Antonio Balas, pero seguirá trabajando en la UCO como pidió el juez del caso Koldo — 20minutos.es"
-    ],
-    [
-      "04 SEP",
-      "Antonio Balas asciende a coronel y continuará en la UCO como pidió el juez del caso Koldo — Demócrata"
-    ],
-    [
-      "04 SEP",
-      "Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del 'caso Koldo' — Europa Press"
-    ],
-    [
-      "04 SEP",
-      "Caso Hidrocarburos: la Fiscalía Europea aporta su investigación de las empresas portuguesas — moncloa.com"
-    ],
-    [
-      "03 SEP",
-      "Portugal detectó un desvío de 7,4 millones de la trama de hidrocarburos a una empresa de Aldama que no tenía actividad — El Independiente"
-    ],
-    [
-      "03 SEP",
-      "Un antiguo chófer de Sánchez admite haberse reunido con Ábalos y Aldama — La Voz de Galicia"
-    ],
-    [
-      "03 SEP",
-      "La asesora de Begoña Gómez pide su absolución al argumentar que no participó en el registro del 'sofware' de la UCM — Noticias de Gipuzkoa"
+      "El juez rechaza anular la causa Plus Ultra contra el expresidente español Rodríguez Zapatero — Euronews.com"
     ]
   ],
   "relojes": [
