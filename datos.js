@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-05",
+  "actualizado_ticker": "2026-09-06",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "06 SEP",
+      "La gerente del PSOE y el exabogado de Koldo, citados este miércoles como imputados en el 'caso Leire Díez' — Teleprensa"
+    ],
+    [
+      "06 SEP",
+      "El juez Peinado se jubila este mes... pero antes abrirá juicio oral a Begoña Gómez — lavozdelsur.es"
+    ],
+    [
+      "06 SEP",
+      "El juez Peinado prevé abrir juicio a Begoña Gómez antes de jubilarse a finales de mes — Infobae"
+    ],
+    [
+      "06 SEP",
+      "La causa contra Zapatero se retoma con los dos exdirectivos de Plus Ultra que le señalaron — ultimahora.es"
+    ],
+    [
+      "06 SEP",
+      "El caso Leire retoma su actividad con la gerente del PSOE y el exdirector de la Guardia Civil — diariodesantiago.es"
+    ],
+    [
+      "06 SEP",
+      "Plus Ultra 'coló' en la pandemia a la hija pequeña de Chávez en un avión a Caracas: \"La pasaremos de incógnito\" — El Periódico"
+    ],
+    [
+      "06 SEP",
+      "Calama interroga esta semana a la excúpula de Plus Ultra que admite haber pagado 540.000 € por la mediación de Zapatero en el rescate — Confilegal"
+    ],
+    [
+      "06 SEP",
+      "El TC arranca con una bronca sin resolver y la sombra de la recusación sobre la magistrada encargada del 'indulto' a García Ortiz — El Debate"
+    ],
+    [
+      "06 SEP",
+      "El juez cita a declarar a los cerebros de la empresa del \"caso Koldo\" — La Razón"
+    ],
+    [
+      "05 SEP",
+      "Cuatro días de infarto para el PSOE en la Audiencia Nacional sin salir aún de la crisis que sufre Ceuta — El Confidencial"
+    ],
+    [
+      "05 SEP",
+      "Sigue adelante la investigación contra Zapatero — Lancelot Digital"
+    ],
+    [
       "05 SEP",
       "Whathefav y el caso Plus Ultra: el dinero que recibió la empresa de las hijas de Zapatero — ESdiario"
     ],
     [
       "05 SEP",
       "Begoña Gómez pide su absolución y niega haberse aprovechado de su vínculo matrimonial — Canal Sur"
-    ],
-    [
-      "05 SEP",
-      "Caso Plus Ultra: el juez Calama rechaza la nulidad solicitada por Zapatero y mantiene abierta la investigación — eldiariodemadrid.es"
-    ],
-    [
-      "05 SEP",
-      "El juez Calama rechaza la nulidad de Zapatero en el caso Plus Ultra: la investigación sigue viva — moncloa.com"
-    ],
-    [
-      "05 SEP",
-      "Begoña Gómez se prepara para el jurado: pide la absolución y niega haberse beneficiado de ser la mujer de Sánchez — La Gaceta de Canarias"
-    ],
-    [
-      "05 SEP",
-      "Begoña Gómez pide al tribunal la absolución en el juicio por el software de la UCM: niega ánimo de enriquecerse — moncloa.com"
-    ],
-    [
-      "05 SEP",
-      "Una constructora del ‘caso Koldo’ que pagó mordidas cambia de dueño pero mantiene al mismo apoderado — OkDiario"
-    ],
-    [
-      "05 SEP",
-      "La Audiencia Nacional reactiva el rastreo económico del 'caso Cerdán' tras corregir errores en las cuentas bancarias — Vozpopuli"
-    ],
-    [
-      "05 SEP",
-      "El juez rechaza la “nulidad general” del caso Plus Ultra pedida por Zapatero — MUNDIARIO"
-    ],
-    [
-      "04 SEP",
-      "El juez tumba el intento de Zapatero de anular el caso Plus Ultra y mantiene viva la investigación — La Gaceta de Canarias"
-    ],
-    [
-      "04 SEP",
-      "El juez Calama rechaza la petición de Zapatero de anular el «caso Plus Ultra» — El Burgado Digital"
-    ],
-    [
-      "04 SEP",
-      "Juez español rechaza la nulidad del caso Plus Ultra — Diario Avance"
-    ],
-    [
-      "04 SEP",
-      "El juez rechaza anular la causa Plus Ultra contra el expresidente español Rodríguez Zapatero — Euronews.com"
     ]
   ],
   "relojes": [
