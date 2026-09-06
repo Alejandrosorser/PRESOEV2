@@ -999,19 +999,19 @@ window.PRESOE_DATOS =
     ],
     [
       "06 SEP",
+      "El juez Peinado prevé abrir juicio a Begoña Gómez antes de jubilarse a finales de mes — El HuffPost"
+    ],
+    [
+      "06 SEP",
       "El juez Peinado se jubila este mes... pero antes abrirá juicio oral a Begoña Gómez — lavozdelsur.es"
     ],
     [
       "06 SEP",
-      "El juez Peinado prevé abrir juicio a Begoña Gómez antes de jubilarse a finales de mes — Infobae"
+      "La causa contra Zapatero se retoma con los dos exdirectivos de Plus Ultra que le señalaron — Ultima Hora"
     ],
     [
       "06 SEP",
-      "La causa contra Zapatero se retoma con los dos exdirectivos de Plus Ultra que le señalaron — ultimahora.es"
-    ],
-    [
-      "06 SEP",
-      "El caso Leire retoma su actividad con la gerente del PSOE y el exdirector de la Guardia Civil — diariodesantiago.es"
+      "El caso Leire retoma su actividad con la gerente del PSOE y el exdirector de la Guardia Civil — Diario de Santiago"
     ],
     [
       "06 SEP",
@@ -1019,11 +1019,11 @@ window.PRESOE_DATOS =
     ],
     [
       "06 SEP",
-      "Calama interroga esta semana a la excúpula de Plus Ultra que admite haber pagado 540.000 € por la mediación de Zapatero en el rescate — Confilegal"
+      "Calama interroga esta semana a la excúpula de Plus Ultra que admite haber pagado 540.000 € por la mediación de Zapatero en el rescate — confilegal.com"
     ],
     [
       "06 SEP",
-      "El TC arranca con una bronca sin resolver y la sombra de la recusación sobre la magistrada encargada del 'indulto' a García Ortiz — El Debate"
+      "El TC arranca con una bronca sin resolver y la sombra de la recusación sobre la magistrada encargada del 'indulto' a García Ortiz — eldebate.com"
     ],
     [
       "06 SEP",
@@ -1035,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "05 SEP",
-      "Sigue adelante la investigación contra Zapatero — Lancelot Digital"
+      "Sigue adelante la investigación contra Zapatero — lancelotdigital.com"
     ],
     [
       "05 SEP",
