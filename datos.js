@@ -995,11 +995,15 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "07 SEP",
-      "El juez Peinado convoca este martes la audiencia previa al juicio de Begoña Gómez — Aragón Play"
+      "El juez Peinado convoca este martes la audiencia previa al juicio de Begoña Gómez — Radio Televisión Canaria"
     ],
     [
       "07 SEP",
       "El juez Peinado convoca a Begoña Gómez este martes para la audiencia preliminar del juicio con jurado popular — Europa Press"
+    ],
+    [
+      "07 SEP",
+      "El expresidente de Plus Ultra confirma ante el juez las comisiones a cambio del rescate de Zapatero — Euronews.com"
     ],
     [
       "07 SEP",
@@ -1011,7 +1015,11 @@ window.PRESOE_DATOS =
     ],
     [
       "07 SEP",
-      "Peinado cita mañana a Begoña Gómez para enviarla al banquillo — articulo14.es"
+      "Peinado cita a Begoña Gómez y a su asesora este martes para la audiencia preliminar antes del juicio con jurado — RTVE.es"
+    ],
+    [
+      "07 SEP",
+      "Peinado cita mañana a Begoña Gómez para enviarla al banquillo — Artículo 14"
     ],
     [
       "07 SEP",
@@ -1036,14 +1044,6 @@ window.PRESOE_DATOS =
     [
       "07 SEP",
       "El expresidente de Plus Ultra ratifica ante la Audiencia Nacional que pactó con el empresario de confianza de Zapatero una comisión del 1% del rescate de la… — Infobae"
-    ],
-    [
-      "07 SEP",
-      "Declara el exjefe de Plus Ultra y vuelve apuntar a que Zapatero recibió un 1% por la ayuda a la aerolínea — Telecinco"
-    ],
-    [
-      "07 SEP",
-      "El expresidente de Plus Ultra ratifica ante el juez que pagó una comisión del 1% a Zapatero por el rescate — El Nacional.cat"
     ]
   ],
   "relojes": [
