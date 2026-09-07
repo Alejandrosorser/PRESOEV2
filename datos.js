@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-06",
+  "actualizado_ticker": "2026-09-07",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "06 SEP",
-      "La gerente del PSOE y el exabogado de Koldo, citados este miércoles como imputados en el 'caso Leire Díez' — Teleprensa"
+      "07 SEP",
+      "El juez Peinado convoca este martes la audiencia previa al juicio de Begoña Gómez — Aragón Play"
     ],
     [
-      "06 SEP",
-      "El juez Peinado prevé abrir juicio a Begoña Gómez antes de jubilarse a finales de mes — El HuffPost"
+      "07 SEP",
+      "El juez Peinado convoca a Begoña Gómez este martes para la audiencia preliminar del juicio con jurado popular — Europa Press"
     ],
     [
-      "06 SEP",
-      "El juez Peinado se jubila este mes... pero antes abrirá juicio oral a Begoña Gómez — lavozdelsur.es"
+      "07 SEP",
+      "El juez Peinado cita a Begoña Gómez este martes en la última audiencia previa al juicio por corrupción — Vozpopuli"
     ],
     [
-      "06 SEP",
-      "La causa contra Zapatero se retoma con los dos exdirectivos de Plus Ultra que le señalaron — Ultima Hora"
+      "07 SEP",
+      "El juez Peinado cita a Begoña Gómez para la audiencia preliminar del juicio con jurado — Onda Cero"
     ],
     [
-      "06 SEP",
-      "El caso Leire retoma su actividad con la gerente del PSOE y el exdirector de la Guardia Civil — Diario de Santiago"
+      "07 SEP",
+      "Peinado cita mañana a Begoña Gómez para enviarla al banquillo — articulo14.es"
     ],
     [
-      "06 SEP",
-      "Plus Ultra 'coló' en la pandemia a la hija pequeña de Chávez en un avión a Caracas: \"La pasaremos de incógnito\" — El Periódico"
+      "07 SEP",
+      "El expresidente de Plus Ultra dice que asumió que el pago del 1 % iba al \"grupo Zapatero\" — Infobae"
     ],
     [
-      "06 SEP",
-      "Calama interroga esta semana a la excúpula de Plus Ultra que admite haber pagado 540.000 € por la mediación de Zapatero en el rescate — confilegal.com"
+      "07 SEP",
+      "El juez Peinado convoca este martes a Begoña Gómez para una última audiencia previa a la apertura de juicio contra ella — El Periódico"
     ],
     [
-      "06 SEP",
-      "El TC arranca con una bronca sin resolver y la sombra de la recusación sobre la magistrada encargada del 'indulto' a García Ortiz — eldebate.com"
+      "07 SEP",
+      "El juez Peinado convoca la audiencia previa al juicio de Begoña Gómez para este martes — El Debate"
     ],
     [
-      "06 SEP",
-      "El juez cita a declarar a los cerebros de la empresa del \"caso Koldo\" — La Razón"
+      "07 SEP",
+      "El expresidente de Plus Ultra confirma al juez que pagaron 530.000 euros por la supuesta mediación de Zapatero para lograr el rescate — Confilegal"
     ],
     [
-      "05 SEP",
-      "Cuatro días de infarto para el PSOE en la Audiencia Nacional sin salir aún de la crisis que sufre Ceuta — El Confidencial"
+      "07 SEP",
+      "El juez Peinado cita a Begoña Gómez este martes para la audiencia previa al juicio por jurado — Elplural.com"
     ],
     [
-      "05 SEP",
-      "Sigue adelante la investigación contra Zapatero — lancelotdigital.com"
+      "07 SEP",
+      "El expresidente de Plus Ultra ratifica ante la Audiencia Nacional que pactó con el empresario de confianza de Zapatero una comisión del 1% del rescate de la… — Infobae"
     ],
     [
-      "05 SEP",
-      "Whathefav y el caso Plus Ultra: el dinero que recibió la empresa de las hijas de Zapatero — ESdiario"
+      "07 SEP",
+      "Declara el exjefe de Plus Ultra y vuelve apuntar a que Zapatero recibió un 1% por la ayuda a la aerolínea — Telecinco"
     ],
     [
-      "05 SEP",
-      "Begoña Gómez pide su absolución y niega haberse aprovechado de su vínculo matrimonial — Canal Sur"
+      "07 SEP",
+      "El expresidente de Plus Ultra ratifica ante el juez que pagó una comisión del 1% a Zapatero por el rescate — El Nacional.cat"
     ]
   ],
   "relojes": [
