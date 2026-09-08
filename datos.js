@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-07",
+  "actualizado_ticker": "2026-09-08",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "07 SEP",
-      "El juez Peinado convoca este martes la audiencia previa al juicio de Begoña Gómez — Radio Televisión Canaria"
+      "08 SEP",
+      "Los relatos del expresidente y el exCEO de Plus Ultra coinciden: ambos apuntan a una comisión del 1% para el “grupo Zapatero” pero no concretan qué hizo el e… — infobae.com"
     ],
     [
-      "07 SEP",
-      "El juez Peinado convoca a Begoña Gómez este martes para la audiencia preliminar del juicio con jurado popular — Europa Press"
+      "08 SEP",
+      "El ex consejero delegado de Plus Ultra asegura ante el juez que contrataron a Zapatero para \"presionar a la SEPI\" y que concedieran el rescate — LaSexta"
     ],
     [
-      "07 SEP",
-      "El expresidente de Plus Ultra confirma ante el juez las comisiones a cambio del rescate de Zapatero — Euronews.com"
+      "08 SEP",
+      "El ex consejero de Plus Ultra también apunta a que se pagó una comisión de 1% al “grupo Zapatero” para conseguir el rescate — elpais.com"
     ],
     [
-      "07 SEP",
-      "El juez Peinado cita a Begoña Gómez este martes en la última audiencia previa al juicio por corrupción — Vozpopuli"
+      "08 SEP",
+      "El exCEO de Plus Ultra ratifica el pago del 1% a Zapatero a través de su amigo Julio Martínez Martínez — rtve.es"
     ],
     [
-      "07 SEP",
-      "El juez Peinado cita a Begoña Gómez para la audiencia preliminar del juicio con jurado — Onda Cero"
+      "08 SEP",
+      "El juez deja en evidencia a Zapatero por ‘la contradicción’ sobre sus cuentas bancarias — Radio Intereconomía"
     ],
     [
-      "07 SEP",
-      "Peinado cita a Begoña Gómez y a su asesora este martes para la audiencia preliminar antes del juicio con jurado — RTVE.es"
+      "08 SEP",
+      "El juez Peinado cita a Begoña Gómez para la audiencia previa al juicio con jurado popular — Fuentes Informadas"
     ],
     [
-      "07 SEP",
-      "Peinado cita mañana a Begoña Gómez para enviarla al banquillo — Artículo 14"
+      "08 SEP",
+      "Begoña Gómez insiste en aplazar la audiencia preliminar de este martes ante el plan del juez Peinado de mantenerla — elpais.com"
     ],
     [
-      "07 SEP",
-      "El expresidente de Plus Ultra dice que asumió que el pago del 1 % iba al \"grupo Zapatero\" — Infobae"
+      "08 SEP",
+      "Turno del segundo exdirectivo de Plus Ultra que apuntó a Zapatero y al pago de un 1% — noticiasdegipuzkoa.eus"
     ],
     [
-      "07 SEP",
-      "El juez Peinado convoca este martes a Begoña Gómez para una última audiencia previa a la apertura de juicio contra ella — El Periódico"
+      "08 SEP",
+      "Las prisas del juez Peinado con la preliminar con Begoña Gómez tienen que ver con sus vacaciones — Elplural.com"
     ],
     [
-      "07 SEP",
-      "El juez Peinado convoca la audiencia previa al juicio de Begoña Gómez para este martes — El Debate"
+      "08 SEP",
+      "El juez cita hoy a declarar al ex consejero delegado de Plus Ultra, Roberto Roselli, que también apuntó a Zapatero — antena3.com"
     ],
     [
-      "07 SEP",
-      "El expresidente de Plus Ultra confirma al juez que pagaron 530.000 euros por la supuesta mediación de Zapatero para lograr el rescate — Confilegal"
+      "08 SEP",
+      "El juez Peinado celebra la audiencia previa a la apertura de juicio a Begoña Gómez — Diario de Santiago"
     ],
     [
-      "07 SEP",
-      "El juez Peinado cita a Begoña Gómez este martes para la audiencia previa al juicio por jurado — Elplural.com"
+      "08 SEP",
+      "Begoña Gómez, citada este martes por el juez para una última vista antes de abrir juicio oral — elpais.com"
     ],
     [
-      "07 SEP",
-      "El expresidente de Plus Ultra ratifica ante la Audiencia Nacional que pactó con el empresario de confianza de Zapatero una comisión del 1% del rescate de la… — Infobae"
+      "08 SEP",
+      "Begoña Gómez afronta el último trámite antes de que Peinado decida si lleva su causa ante un jurado — ondacero.es"
     ]
   ],
   "relojes": [
