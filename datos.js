@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-08",
+  "actualizado_ticker": "2026-09-09",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "08 SEP",
-      "Los relatos del expresidente y el exCEO de Plus Ultra coinciden: ambos apuntan a una comisión del 1% para el “grupo Zapatero” pero no concretan qué hizo el e… — infobae.com"
+      "09 SEP",
+      "Pedro Sánchez arropa a Begoña Gómez tras el último trámite del juez Peinado antes de abrir juicio oral: “No se le ha hecho justicia” — Infobae"
     ],
     [
-      "08 SEP",
-      "El ex consejero delegado de Plus Ultra asegura ante el juez que contrataron a Zapatero para \"presionar a la SEPI\" y que concedieran el rescate — LaSexta"
+      "09 SEP",
+      "El exconsejero de Plus Ultra apunta también al 1% para el “grupo Zapatero” — MUNDIARIO"
     ],
     [
-      "08 SEP",
-      "El ex consejero de Plus Ultra también apunta a que se pagó una comisión de 1% al “grupo Zapatero” para conseguir el rescate — elpais.com"
+      "09 SEP",
+      "Pedro Sánchez vuelve a respaldar a Zapatero mientras se estrecha el cerco judicial sobre el expresidente en el ‘caso Plus Ultra’: “Voy a contar con él en la… — Infobae"
     ],
     [
-      "08 SEP",
-      "El exCEO de Plus Ultra ratifica el pago del 1% a Zapatero a través de su amigo Julio Martínez Martínez — rtve.es"
+      "09 SEP",
+      "Ana María Fuentes, gerente del PSOE, citada como investigada en la Audiencia Nacional por el \"caso Leire\" — antena3.com"
     ],
     [
-      "08 SEP",
-      "El juez deja en evidencia a Zapatero por ‘la contradicción’ sobre sus cuentas bancarias — Radio Intereconomía"
+      "09 SEP",
+      "El 'caso Leire Díez' vuelve a los tribunales: la gerente del PSOE declara ante el juez por los pagos a la exmilitante — El Constitucional"
     ],
     [
-      "08 SEP",
-      "El juez Peinado cita a Begoña Gómez para la audiencia previa al juicio con jurado popular — Fuentes Informadas"
+      "09 SEP",
+      "Caso Begoña Gómez: pide el sobreseimiento y rechaza ir a juicio con jurado popular por malversación y tráfico de influencias — El Diario de Madrid"
     ],
     [
-      "08 SEP",
-      "Begoña Gómez insiste en aplazar la audiencia preliminar de este martes ante el plan del juez Peinado de mantenerla — elpais.com"
+      "09 SEP",
+      "Declara ante el juez de la Audiencia Nacional la gerente del PSOE por los pagos del partido a Leire Díez — El Imparcial - Diario liberal e independiente"
     ],
     [
-      "08 SEP",
-      "Turno del segundo exdirectivo de Plus Ultra que apuntó a Zapatero y al pago de un 1% — noticiasdegipuzkoa.eus"
+      "09 SEP",
+      "Feijóo volverá a estar presente en la apertura del año judicial tras ausentarse por el fiscal general del Estado — Elplural.com"
     ],
     [
-      "08 SEP",
-      "Las prisas del juez Peinado con la preliminar con Begoña Gómez tienen que ver con sus vacaciones — Elplural.com"
+      "09 SEP",
+      "La gerente del PSOE y el exabogado de Koldo declaran como imputados por el 'caso Leire Díez' — Deia"
     ],
     [
-      "08 SEP",
-      "El juez cita hoy a declarar al ex consejero delegado de Plus Ultra, Roberto Roselli, que también apuntó a Zapatero — antena3.com"
+      "09 SEP",
+      "Más problemas para Sánchez: declara la gerente del PSOE en la Audiencia por pagos a la 'fontanera' de Ferraz — ESdiario"
     ],
     [
-      "08 SEP",
-      "El juez Peinado celebra la audiencia previa a la apertura de juicio a Begoña Gómez — Diario de Santiago"
+      "09 SEP",
+      "La UCO señala a la gerente del PSOE, hoy ante el juez, por ejecutar el plan de Cerdán y poner al partido \"a disposición\" de trama Leire — El Periódico"
     ],
     [
-      "08 SEP",
-      "Begoña Gómez, citada este martes por el juez para una última vista antes de abrir juicio oral — elpais.com"
+      "09 SEP",
+      "La fiscal del caso Zapatero investiga el uso de una empresa de Luxemburgo para financiar a Plus Ultra con 9 millones de capital venezolano — El Periódico"
     ],
     [
-      "08 SEP",
-      "Begoña Gómez afronta el último trámite antes de que Peinado decida si lleva su causa ante un jurado — ondacero.es"
+      "09 SEP",
+      "El PSOE eleva en más de un millón el gasto para imprevistos y \"obligaciones judiciales\" con su imputación en el horizonte — Artículo 14"
     ]
   ],
   "relojes": [
