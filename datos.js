@@ -995,6 +995,10 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "09 SEP",
+      "Sánchez dice que seguirá contando con Zapatero en la próxima campaña electoral y apela a la \"presunción de inocencia\" — teleprensa.com"
+    ],
+    [
+      "09 SEP",
       "Pedro Sánchez arropa a Begoña Gómez tras el último trámite del juez Peinado antes de abrir juicio oral: “No se le ha hecho justicia” — Infobae"
     ],
     [
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "09 SEP",
       "La fiscal del caso Zapatero investiga el uso de una empresa de Luxemburgo para financiar a Plus Ultra con 9 millones de capital venezolano — El Periódico"
-    ],
-    [
-      "09 SEP",
-      "El PSOE eleva en más de un millón el gasto para imprevistos y \"obligaciones judiciales\" con su imputación en el horizonte — Artículo 14"
     ]
   ],
   "relojes": [
