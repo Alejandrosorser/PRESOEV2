@@ -1003,7 +1003,7 @@ window.PRESOE_DATOS =
     ],
     [
       "10 SEP",
-      "La fiscal general anuncia que enviará tres fiscales de refuerzo a Ceuta, donde ve necesario que retorne la «seguridad y normalidad» — ABC"
+      "La fiscal general anuncia que enviará tres fiscales de refuerzo a Ceuta, donde ve necesario que retorne la «seguridad y normalidad» — abc.es"
     ],
     [
       "10 SEP",
@@ -1035,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "10 SEP",
-      "La memoria de la Fiscalía califica de \"hecho grave\" la condena a García Ortiz — articulo14.es"
+      "La memoria de la Fiscalía califica de \"hecho grave\" la condena a García Ortiz — Artículo 14"
     ],
     [
       "10 SEP",
