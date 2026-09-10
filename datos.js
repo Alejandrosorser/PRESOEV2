@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-09",
+  "actualizado_ticker": "2026-09-10",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "09 SEP",
-      "Sánchez dice que seguirá contando con Zapatero en la próxima campaña electoral y apela a la \"presunción de inocencia\" — teleprensa.com"
+      "10 SEP",
+      "La sucesora de García Ortiz reivindica la imparcialidad de la Fiscalía: «Se presenta nuestra actuación con ... — OkDiario"
     ],
     [
-      "09 SEP",
-      "Pedro Sánchez arropa a Begoña Gómez tras el último trámite del juez Peinado antes de abrir juicio oral: “No se le ha hecho justicia” — Infobae"
+      "10 SEP",
+      "La fiscal general se revuelve ante las críticas: \"No pueden confundirse con la descalificación sistemática de la institución\" — El Mundo"
     ],
     [
-      "09 SEP",
-      "El exconsejero de Plus Ultra apunta también al 1% para el “grupo Zapatero” — MUNDIARIO"
+      "10 SEP",
+      "La fiscal general anuncia que enviará tres fiscales de refuerzo a Ceuta, donde ve necesario que retorne la «seguridad y normalidad» — ABC"
     ],
     [
-      "09 SEP",
-      "Pedro Sánchez vuelve a respaldar a Zapatero mientras se estrecha el cerco judicial sobre el expresidente en el ‘caso Plus Ultra’: “Voy a contar con él en la… — Infobae"
+      "10 SEP",
+      "Teresa Peramato alerta de la “descalificación sistemática” de la Fiscalía — La Vanguardia"
     ],
     [
-      "09 SEP",
-      "Ana María Fuentes, gerente del PSOE, citada como investigada en la Audiencia Nacional por el \"caso Leire\" — antena3.com"
+      "10 SEP",
+      "Peramato se defiende frente a las críticas: «No pueden confundirse con la descalificación sistemática» de la Fiscalía — El Debate"
     ],
     [
-      "09 SEP",
-      "El 'caso Leire Díez' vuelve a los tribunales: la gerente del PSOE declara ante el juez por los pagos a la exmilitante — El Constitucional"
+      "10 SEP",
+      "Peramato exige blindar la «imparcialidad» de la Fiscalía frente a la «descalificación sistemática» de la política — El Correo"
     ],
     [
-      "09 SEP",
-      "Caso Begoña Gómez: pide el sobreseimiento y rechaza ir a juicio con jurado popular por malversación y tráfico de influencias — El Diario de Madrid"
+      "10 SEP",
+      "La Fiscalía justifica, en su Memoria, que la condena de García Ortiz no le hizo perder su condición de fiscal de carrera — Confilegal"
     ],
     [
-      "09 SEP",
-      "Declara ante el juez de la Audiencia Nacional la gerente del PSOE por los pagos del partido a Leire Díez — El Imparcial - Diario liberal e independiente"
+      "10 SEP",
+      "La Fiscalía General considera que la condena a García Ortiz ha sido un “hecho grave” e inédito” — Servimedia"
     ],
     [
-      "09 SEP",
-      "Feijóo volverá a estar presente en la apertura del año judicial tras ausentarse por el fiscal general del Estado — Elplural.com"
+      "10 SEP",
+      "El juez del caso Leire escucha hoy al exdirector general de la Guardia Civil Leonardo Marcos como imputado — La Voz de Galicia"
     ],
     [
-      "09 SEP",
-      "La gerente del PSOE y el exabogado de Koldo declaran como imputados por el 'caso Leire Díez' — Deia"
+      "10 SEP",
+      "La gerente del PSOE atribuye a Cerdán los encargos del caso Leire Díez — MUNDIARIO"
     ],
     [
-      "09 SEP",
-      "Más problemas para Sánchez: declara la gerente del PSOE en la Audiencia por pagos a la 'fontanera' de Ferraz — ESdiario"
+      "10 SEP",
+      "La memoria de la Fiscalía califica de \"hecho grave\" la condena a García Ortiz — articulo14.es"
     ],
     [
-      "09 SEP",
-      "La UCO señala a la gerente del PSOE, hoy ante el juez, por ejecutar el plan de Cerdán y poner al partido \"a disposición\" de trama Leire — El Periódico"
+      "10 SEP",
+      "Felipe VI preside la apertura del año judicial, en medio de la polémica por la decisión del Supremo sobre la ley de nietos y por la crisis en Ceuta, streamin… — antena3.com"
     ],
     [
-      "09 SEP",
-      "La fiscal del caso Zapatero investiga el uso de una empresa de Luxemburgo para financiar a Plus Ultra con 9 millones de capital venezolano — El Periódico"
+      "10 SEP",
+      "El juez del caso Leire interroga hoy como imputado al exdirector de la Guardia Civil Leonardo Marcos — Demócrata"
     ]
   ],
   "relojes": [
