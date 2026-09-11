@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-10",
+  "actualizado_ticker": "2026-09-11",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "10 SEP",
-      "La sucesora de García Ortiz reivindica la imparcialidad de la Fiscalía: «Se presenta nuestra actuación con ... — OkDiario"
+      "11 SEP",
+      "Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio en la calle y a las puertas de Ministerio de Transportes — El Periódico"
+    ],
+    [
+      "11 SEP",
+      "La Audiencia Nacional prepara un nuevo juicio a la trama Koldo: Ismael Moreno ultima otro caso Mascarillas — Libertad Digital"
+    ],
+    [
+      "11 SEP",
+      "Caso Zapatero: Suiza dice que no encuentra el dinero de Plus Ultra — moncloa.com"
     ],
     [
       "10 SEP",
-      "La fiscal general se revuelve ante las críticas: \"No pueden confundirse con la descalificación sistemática de la institución\" — El Mundo"
+      "El exdirector de la Guardia Civil niega haber presionado a la UCO para que se pusiera de perfil en el caso del hermano de Sánchez — La Voz de Galicia"
     ],
     [
       "10 SEP",
-      "La fiscal general anuncia que enviará tres fiscales de refuerzo a Ceuta, donde ve necesario que retorne la «seguridad y normalidad» — abc.es"
+      "El rechazo a la nulidad de actuaciones pedida por la defensa de Zapatero le hará modificar su estrategia de defensa — lawandtrends.com"
     ],
     [
       "10 SEP",
-      "Teresa Peramato alerta de la “descalificación sistemática” de la Fiscalía — La Vanguardia"
+      "El exdirector de la Guardia Civil niega ante el juez del caso Leire haber presionado a la UCO — heraldo.es"
     ],
     [
       "10 SEP",
-      "Peramato se defiende frente a las críticas: «No pueden confundirse con la descalificación sistemática» de la Fiscalía — El Debate"
+      "Exdirector de la Guardia Civil niega ante el juez del 'caso Leire' haber presionado a la UCO — Diario Público"
     ],
     [
       "10 SEP",
-      "Peramato exige blindar la «imparcialidad» de la Fiscalía frente a la «descalificación sistemática» de la política — El Correo"
+      "Leonardo Marcos niega presiones a la UCO pero admite que pidió \"que se dieran mucha prisa\" con el hermano de Sánchez — ESdiario"
     ],
     [
       "10 SEP",
-      "La Fiscalía justifica, en su Memoria, que la condena de García Ortiz no le hizo perder su condición de fiscal de carrera — Confilegal"
+      "El exdirector de la Guardia Civil implicado en el 'caso Leire' desmiente a los generales que le acusaron de favorecer al hermano de Sánchez — Cadena SER"
     ],
     [
       "10 SEP",
-      "La Fiscalía General considera que la condena a García Ortiz ha sido un “hecho grave” e inédito” — Servimedia"
+      "Un exdirector de la Guardia Civil rechaza haber presionado a la UCO en la investigación del hermano de Sánchez — Demócrata"
     ],
     [
       "10 SEP",
-      "El juez del caso Leire escucha hoy al exdirector general de la Guardia Civil Leonardo Marcos como imputado — La Voz de Galicia"
+      "El exdirector de la Guardia Civil desmiente que ordenara dejar \"limpio\" el informe de la UCO sobre el hermano de Sánchez — El Periódico"
     ],
     [
       "10 SEP",
-      "La gerente del PSOE atribuye a Cerdán los encargos del caso Leire Díez — MUNDIARIO"
+      "Peramato justifica que García Ortiz siga ejerciendo como fiscal para evitar un \"plus aflictivo\" — Vozpopuli"
     ],
     [
       "10 SEP",
-      "La memoria de la Fiscalía califica de \"hecho grave\" la condena a García Ortiz — Artículo 14"
-    ],
-    [
-      "10 SEP",
-      "Felipe VI preside la apertura del año judicial, en medio de la polémica por la decisión del Supremo sobre la ley de nietos y por la crisis en Ceuta, streamin… — antena3.com"
-    ],
-    [
-      "10 SEP",
-      "El juez del caso Leire interroga hoy como imputado al exdirector de la Guardia Civil Leonardo Marcos — Demócrata"
+      "«Un hecho grave que merece particular atención»: 13 páginas para justificar que García Ortiz siga en la carrera — ABC"
     ]
   ],
   "relojes": [
