@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-11",
+  "actualizado_ticker": "2026-09-12",
   "hub": {
     "k1": [
       430,
@@ -995,11 +995,23 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "11 SEP",
-      "Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio en la calle y a las puertas de Ministerio de Transportes — El Periódico"
+      "Peramato y Rego piden acelerar el traslado a la Península de los menores migrantes de Ceuta — Confilegal"
     ],
     [
       "11 SEP",
-      "La Audiencia Nacional prepara un nuevo juicio a la trama Koldo: Ismael Moreno ultima otro caso Mascarillas — Libertad Digital"
+      "Los empresarios vinculados a Aldama niegan ante el juez del caso Koldo haber pagado comisiones por las mascarillas — Confilegal"
+    ],
+    [
+      "11 SEP",
+      "Diario de la corrupción sanchista. La jeta de ZP: pretende que el juez le pida los documentos de las joyas porque él no los ha conseguido — Hispanidad"
+    ],
+    [
+      "11 SEP",
+      "Dos empresarios del ‘caso Koldo’ se desvinculan de los tejemanejes de Aldama — EL PAÍS"
+    ],
+    [
+      "11 SEP",
+      "Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio en la calle y a las puertas de Ministerio de Transportes — elperiodico.com"
     ],
     [
       "11 SEP",
@@ -1007,11 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "10 SEP",
-      "El exdirector de la Guardia Civil niega haber presionado a la UCO para que se pusiera de perfil en el caso del hermano de Sánchez — La Voz de Galicia"
-    ],
-    [
-      "10 SEP",
-      "El rechazo a la nulidad de actuaciones pedida por la defensa de Zapatero le hará modificar su estrategia de defensa — lawandtrends.com"
+      "El rechazo a la nulidad de actuaciones pedida por la defensa de Zapatero le hará modificar su estrategia de defensa — Law&Trends"
     ],
     [
       "10 SEP",
@@ -1035,15 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "10 SEP",
-      "El exdirector de la Guardia Civil desmiente que ordenara dejar \"limpio\" el informe de la UCO sobre el hermano de Sánchez — El Periódico"
-    ],
-    [
-      "10 SEP",
-      "Peramato justifica que García Ortiz siga ejerciendo como fiscal para evitar un \"plus aflictivo\" — Vozpopuli"
-    ],
-    [
-      "10 SEP",
-      "«Un hecho grave que merece particular atención»: 13 páginas para justificar que García Ortiz siga en la carrera — ABC"
+      "El exdirector de la Guardia Civil desmiente que ordenara dejar \"limpio\" el informe de la UCO sobre el hermano de Sánchez — elperiodico.com"
     ]
   ],
   "relojes": [
