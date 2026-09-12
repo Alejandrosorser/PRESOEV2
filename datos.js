@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-07-27",
+  "actualizado_datos": "2026-09-12",
   "actualizado_ticker": "2026-09-12",
   "hub": {
     "k1": [
@@ -54,7 +54,7 @@ window.PRESOE_DATOS =
         "Malversación",
         "Tráfico de influencias"
       ],
-      "resumen": "Comisiones a cambio de contratos públicos de material sanitario en plena pandemia: el Supremo considera probado que Ábalos, Koldo García y Aldama formaron una organización criminal con reparto de funciones en la adjudicación del suministro de 13 millones de mascarillas. Juzgado en abril de 2026; sentencia unánime notificada en junio de 2026. La Fiscalía pedía 24, 19½ y 7 años; las acusaciones populares, hasta 30. Los expresidentes autonómicos Ángel Víctor Torres y Francina Armengol declararon como testigos.",
+      "resumen": "Comisiones a cambio de contratos públicos de material sanitario en plena pandemia: el Supremo considera probado que Ábalos, Koldo García y Aldama formaron una organización criminal con reparto de funciones en la adjudicación del suministro de 13 millones de mascarillas. Juzgado en abril de 2026; sentencia unánime notificada en junio de 2026. La Fiscalía pedía 24, 19½ y 7 años; las acusaciones populares, hasta 30. Los expresidentes autonómicos Ángel Víctor Torres y Francina Armengol declararon como testigos. En septiembre de 2026 comparecieron ante el juez los empresarios vinculados a la causa: varios se desvincularon de los tejemanejes de Aldama y negaron haber pagado comisiones por las mascarillas, cargando contra Aldama, quien —según ellos— ofreció el negocio en la calle y a las puertas del Ministerio de Transportes.",
       "fallo": "Ábalos: 24 años y 3 meses de prisión. Koldo García: 19 años, 8 meses y 1 día. Aldama: 4 años y 6 meses (organización criminal y cohecho) con la ejecución suspendida por su colaboración muy cualificada con la Justicia, a condición de no delinquir, presentar informes semestrales y realizar trabajos comunitarios durante un año.",
       "hitos": [
         {
@@ -71,7 +71,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "jun 2026",
-          "t": "Sentencia unánime: condenas de 24 y 19 años para Ábalos y Koldo; Aldama, 4½ años suspendidos."
+          "t": "Sentencia unánime: condenas de 24 y 19 años para Ábalos y Koldo; Aldama, 4½ años suspendidos (The Conversation, 25-06-2026)."
         },
         {
           "f": "24-07-2026",
@@ -80,6 +80,14 @@ window.PRESOE_DATOS =
         {
           "f": "20-07-2026",
           "t": "La expareja de Ábalos y el hermano de Koldo García se niegan a declarar sobre la contratación de ella en Ineco (EL PAÍS)."
+        },
+        {
+          "f": "10-09-2026",
+          "t": "Ábalos se muestra «dolido» con Koldo tras el juicio: «Me ha hecho mucho daño» (Libertad Digital)."
+        },
+        {
+          "f": "11-09-2026",
+          "t": "Empresarios vinculados a la causa declaran ante el juez: dos se desvinculan de los tejemanejes de Aldama (EL PAÍS); varios niegan haber pagado comisiones (Confilegal); cargan contra Aldama, que —según ellos— ofreció el negocio en la calle y a las puertas del Ministerio de Transportes (El Periódico). La empresa que facturó 53 millones en mascarillas también compareció ante el juez (moncloa.com)."
         }
       ],
       "gente": [
@@ -135,6 +143,14 @@ window.PRESOE_DATOS =
         {
           "f": "26-07-2026",
           "t": "Dos administrativas del PSOE aportarán al juez conversaciones clave con Santos Cerdán (Navarra.com)."
+        },
+        {
+          "f": "05-09-2026",
+          "t": "La Audiencia Nacional reactiva el rastreo económico tras corregir errores detectados en las cuentas bancarias investigadas (Vozpopuli)."
+        },
+        {
+          "f": "10-09-2026",
+          "t": "El exabogado de Koldo reconoce ante el juez que asumió su defensa tras reunirse con Cerdán (El Confidencial)."
         }
       ],
       "gente": [
@@ -181,6 +197,14 @@ window.PRESOE_DATOS =
         {
           "f": "27-07-2026",
           "t": "La acusación popular (Hazte Oír) rebaja su petición de pena de 24 a 13 años de prisión, ajustándose a los delitos validados por la Audiencia de Madrid, y solicita que Pedro Sánchez testifique en el juicio (El Mundo / RTVE.es / The Objective / Vozpopuli). La Fiscalía sigue sin acusar."
+        },
+        {
+          "f": "07-09-2026",
+          "t": "El juez Peinado convoca a Begoña Gómez para la audiencia preliminar previa al juicio con jurado popular (El Mundo / Expansión / Diario Público / El Confidencial)."
+        },
+        {
+          "f": "08-09-2026",
+          "t": "Celebrada la audiencia preliminar: Begoña Gómez se opone a la apertura del juicio y pide su absolución (Telemadrid). El juez Peinado concluye la audiencia y deja la causa lista para enviarla a juicio con jurado (El Confidencial / elindependiente.com / RTVE.es / EL PAÍS). Presunción de inocencia íntegra."
         },
         {
           "f": "27-09-2026",
@@ -246,7 +270,7 @@ window.PRESOE_DATOS =
       "delitos": [
         "Revelación de datos reservados (art. 417.1 CP)"
       ],
-      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo.",
+      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo. En septiembre de 2026 la Memoria de la Fiscalía calificó la condena de «hecho grave que merece particular atención», pero justificó que García Ortiz mantenga la condición de fiscal de carrera; su sucesora reivindicó la imparcialidad de la institución.",
       "fallo": "Multa de 12 meses con cuota diaria de 20 € (7.200 €), inhabilitación especial para el cargo de fiscal general del Estado durante 2 años, indemnización de 10.000 € a González Amador por daños morales y costas —tasadas en 39.009,48 € (jul-2026)—. Absuelto del resto de delitos. La multa y la indemnización se abonaron tras una colecta de la Unión Progresista de Fiscales.",
       "hitos": [
         {
@@ -276,6 +300,10 @@ window.PRESOE_DATOS =
         {
           "f": "15-07-2026",
           "t": "El número dos del exfiscal general admite ante el juez que informó a García Ortiz de sus reuniones con Leire Díez, aunque asegura que no le dio importancia (El Mundo / El Confidencial / Vozpopuli)."
+        },
+        {
+          "f": "10-09-2026",
+          "t": "La Memoria de la Fiscalía califica de «hecho grave que merece particular atención» la condena a García Ortiz, pero justifica que conserve su condición de fiscal de carrera (ABC / Confilegal / Artículo 14). Se revela que la anterior fiscal general Peramato planteó al Consejo Fiscal condecorarle y reculó tras una queja del sector mayoritario (El Español). La nueva fiscal general reivindica la imparcialidad de la institución (OkDiario / El Mundo)."
         }
       ],
       "gente": [
@@ -296,7 +324,7 @@ window.PRESOE_DATOS =
         "Revelación de secretos",
         "Prevaricación"
       ],
-      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna.",
+      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna. En septiembre de 2026, la gerente del PSOE, Ana María Fuentes —citada como investigada en la AN—, declaró ante el juez atribuyendo a Cerdán la responsabilidad de los encargos y pagos a Leire Díez y a los abogados imputados.",
       "fallo": null,
       "hitos": [
         {
@@ -334,6 +362,14 @@ window.PRESOE_DATOS =
         {
           "f": "27-07-2026",
           "t": "El ex jefe de gabinete de Sánchez citado el 5 de agosto para clonar su móvil en el marco de la investigación (moncloa.com)."
+        },
+        {
+          "f": "09-09-2026",
+          "t": "La gerente del PSOE, Ana María Fuentes —citada como investigada en la Audiencia Nacional (antena3.com)—, declara ante el juez y descarga en Santos Cerdán toda la responsabilidad de los encargos verbales a los abogados imputados y de los pagos a Leire Díez (EL PAÍS / elDiario.es / Cadena SER / El Mundo / La Vanguardia / ABC / El Periódico / Confilegal / antena3.com / Diari ARA / MUNDIARIO)."
+        },
+        {
+          "f": "10-09-2026",
+          "t": "El exdirector de la Guardia Civil niega ante el juez haber presionado a la UCO (heraldo.es / Diario Público / Cadena SER)."
         }
       ],
       "gente": [
@@ -341,7 +377,8 @@ window.PRESOE_DATOS =
         "cerdan",
         "antxon",
         "vfernandez",
-        "mgonzalez"
+        "mgonzalez",
+        "anafuentes"
       ]
     },
     {
@@ -358,7 +395,7 @@ window.PRESOE_DATOS =
         "Cohecho",
         "Tráfico de influencias"
       ],
-      "resumen": "Macrofraude del IVA en la venta de hidrocarburos articulado, según la UCO, en torno a la operadora Villafuel, que obtuvo su licencia en 2022 pagando cerca de un millón de euros para «comprar voluntades» en el Gobierno, de acuerdo con los investigadores. La Guardia Civil sitúa a Rivas y Aldama «en la cúspide» de la organización, cuantifica el fraude inicial en 182,5 millones de euros y rastrea 74 millones transferidos a Portugal, Macao y Colombia. En el juicio del caso mascarillas, Carmen Pano ratificó que llevó 90.000 € en efectivo a la sede del PSOE en Ferraz por orden de Aldama —su hija Leonor corroboró el relato—; el partido lo niega rotundamente.",
+      "resumen": "Macrofraude del IVA en la venta de hidrocarburos articulado, según la UCO, en torno a la operadora Villafuel, que obtuvo su licencia en 2022 pagando cerca de un millón de euros para «comprar voluntades» en el Gobierno, de acuerdo con los investigadores. La Guardia Civil sitúa a Rivas y Aldama «en la cúspide» de la organización, cuantifica el fraude inicial en 182,5 millones de euros y rastrea 74 millones transferidos a Portugal, Macao y Colombia. En el juicio del caso mascarillas, Carmen Pano ratificó que llevó 90.000 € en efectivo a la sede del PSOE en Ferraz por orden de Aldama —su hija Leonor corroboró el relato—; el partido lo niega rotundamente. En septiembre de 2026, la Fiscalía Europea reveló que Aldama y otros empresarios habrían desviado 27,9 millones adicionales a Portugal en el marco de esta misma causa; Hacienda mantiene abiertas 35 investigaciones paralelas por fraude en hidrocarburos.",
       "fallo": null,
       "hitos": [
         {
@@ -388,6 +425,18 @@ window.PRESOE_DATOS =
         {
           "f": "23-07-2026",
           "t": "Un investigado en hidrocarburos asegura por escrito al juez que la comisión pactada por rescatar Plus Ultra subía al 20% del importe del préstamo público (El Confidencial)."
+        },
+        {
+          "f": "21-08-2026",
+          "t": "Hacienda mantiene abiertas 35 investigaciones por el fraude en hidrocarburos relacionadas con el caso Aldama (elDiario.es)."
+        },
+        {
+          "f": "01/02-09-2026",
+          "t": "La Fiscalía Europea irrumpe en la causa y revela que Aldama y otros empresarios presuntamente desviaron 27,9 millones de euros a Portugal, vinculándolo al fraude del IVA de hidrocarburos (EL PAÍS / Europa Press / Libertad Digital / Confilegal / ABC / Elplural.com)."
+        },
+        {
+          "f": "09-09-2026",
+          "t": "Aldama avisa públicamente de que revelará «en qué sigue mintiendo» el presidente del Gobierno (ESdiario)."
         }
       ],
       "gente": [
@@ -433,7 +482,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "24-06-2026",
-          "t": "Escrito de acusación de la Fiscalía: pide 8 años para Fuentes Curbelo «Tito Berni» (cohecho continuado y pertenencia a grupo criminal), 11 años para su sobrino Taishet y 13 años para el mediador Navarro Tacoronte (EL PAÍS / El Mundo / RTVE.es). Juicio sin fecha."
+          "t": "Escrito de acusación de la Fiscalía: pide 8 años para Fuentes Curbelo «Tito Berni» (cohecho continuado y pertenencia a grupo criminal), 11 años para su sobrino Taishet y 13 años para el mediador Navarro Tacoronte (EL PAÍS / El Mundo / RTVE.es / La Vanguardia / elDiario.es / LaSexta / Europa Press / lavozdegalicia.es). Juicio sin fecha."
         }
       ],
       "gente": [
@@ -458,7 +507,7 @@ window.PRESOE_DATOS =
         "Delito fiscal",
         "Contrabando"
       ],
-      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia.",
+      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. En septiembre de 2026 el presidente y el CEO de Plus Ultra declararon como investigados ante el juez; el presidente ratificó ante el magistrado haber hablado con Zapatero y haber entendido que había que pagarle una comisión del 1%, que —según él— «era para él». Zapatero niega rotundamente cualquier gestión y defiende su inocencia.",
       "fallo": null,
       "hitos": [
         {
@@ -496,6 +545,14 @@ window.PRESOE_DATOS =
         {
           "f": "26-07-2026",
           "t": "La semana que dejó a Zapatero aislado en la red de Plus Ultra, según análisis de medios (EL PAÍS)."
+        },
+        {
+          "f": "07-09-2026",
+          "t": "El expresidente de Plus Ultra declara ante el juez como investigado: ratifica haber hablado con Zapatero para el rescate y que el 1% de comisión «era para él»; confirma la llamada de 11 minutos con Zapatero que este niega (EL PAÍS / RTVE.es / LaSexta / antena3.com / ABC / Expansión / El Español / El Periódico)."
+        },
+        {
+          "f": "08-09-2026",
+          "t": "El CEO de Plus Ultra citado como investigado para declarar ante el juez Calama (conforme señalamiento del 24-07-2026)."
         }
       ],
       "gente": [
@@ -526,7 +583,7 @@ window.PRESOE_DATOS =
       "x": 605,
       "y": 300,
       "rol": "Exministro de Transportes · ex secretario de Organización del PSOE (2017-2021)",
-      "resumen": "Condenado por el Tribunal Supremo a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias en el caso mascarillas. En prisión desde el 27-11-2025: fue el primer diputado en activo encarcelado desde 1978. Sigue investigado en la Audiencia Nacional por los presuntos amaños de obra pública. En julio de 2026 el juez del caso Koldo confirma la imputación de su expareja (Jésica Rodríguez) y según medios presentó una queja ante el instructor por obstáculos a un vis a vis con ella (El Periódico, 23-07-2026).",
+      "resumen": "Condenado por el Tribunal Supremo a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias en el caso mascarillas. En prisión desde el 27-11-2025: fue el primer diputado en activo encarcelado desde 1978. Sigue investigado en la Audiencia Nacional por los presuntos amaños de obra pública. En julio de 2026 el juez del caso Koldo confirma la imputación de su expareja (Jésica Rodríguez) y según medios presentó una queja ante el instructor por obstáculos a un vis a vis con ella (El Periódico, 23-07-2026). En septiembre de 2026 expresó que está «dolido» con Koldo tras el juicio: «Me ha hecho mucho daño» (Libertad Digital, 10-09-2026).",
       "fallo": "24 años y 3 meses de prisión (sentencia unánime del TS, junio de 2026) como autor de delitos de organización criminal, cohecho, malversación y tráfico de influencias por la adjudicación del suministro de 13 millones de mascarillas.",
       "casos": [
         "k1",
@@ -558,7 +615,7 @@ window.PRESOE_DATOS =
       "x": 250,
       "y": 325,
       "rol": "Empresario · comisionista de la trama",
-      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA.",
+      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA. La Fiscalía Europea le vincula además con un presunto desvío de 27,9 millones a Portugal (septiembre de 2026). En septiembre de 2026 avisó públicamente de que revelará «en qué sigue mintiendo» el presidente del Gobierno (ESdiario).",
       "fallo": "4 años y 6 meses de prisión por organización criminal y cohecho, con la ejecución suspendida a condición de no delinquir, presentar un informe semestral de actividades y realizar trabajos en beneficio de la comunidad durante un año.",
       "casos": [
         "k1",
@@ -589,7 +646,7 @@ window.PRESOE_DATOS =
       "x": 1015,
       "y": 305,
       "rol": "Ex secretario de Organización del PSOE (2021-2025)",
-      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. Niega todos los hechos.",
+      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El 5-09-2026 la AN reactivó el rastreo económico tras corregir errores en las cuentas. El 9-09-2026 la gerente del PSOE, Ana María Fuentes, declaró ante el juez atribuyéndole la responsabilidad de los encargos verbales y de los pagos investigados en el caso Leire Díez. El exabogado de Koldo reconoció el 10-09-2026 que asumió la defensa de este tras reunirse con Cerdán (El Confidencial). Niega todos los hechos.",
       "casos": [
         "k2",
         "k6"
@@ -661,7 +718,7 @@ window.PRESOE_DATOS =
       "x": 1215,
       "y": 528,
       "rol": "Esposa de Pedro Sánchez",
-      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. En junio se le impusieron cautelares (retirada de pasaporte, prohibición de salir de España), en un auto de apertura que la Audiencia invalidó y que debe rehacerse. El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
+      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. En junio se le impusieron cautelares (retirada de pasaporte, prohibición de salir de España), en un auto de apertura que la Audiencia invalidó y que debe rehacerse. El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). El 8-09-2026 se celebró la audiencia preliminar ante el juez Peinado: Begoña Gómez se opuso a la apertura del juicio y pidió su absolución (Telemadrid); el juez concluyó los trámites y dejó la causa lista para enviarla a juicio con jurado (El Confidencial / RTVE.es). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -733,7 +790,7 @@ window.PRESOE_DATOS =
       "x": 858,
       "y": 802,
       "rol": "Ex fiscal general del Estado",
-      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026).",
+      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En septiembre de 2026 la Memoria de la Fiscalía calificó su condena de «hecho grave», pero justificó que conserve la condición de fiscal de carrera; se reveló además que la expresidenta Peramato planteó condecorarle antes de retirar la propuesta (El Español, 10-09-2026).",
       "fallo": "Multa de 12 meses a razón de 20 €/día (7.200 €), 2 años de inhabilitación especial para el cargo de fiscal general del Estado, 10.000 € de indemnización a Alberto González Amador y costas (39.009,48 €). Absuelto del resto de delitos.",
       "casos": [
         "k5"
@@ -776,7 +833,21 @@ window.PRESOE_DATOS =
       "x": 1478,
       "y": 140,
       "rol": "Directora general de la Guardia Civil",
-      "resumen": "Imputada por presuntos delitos de prevaricación y obstrucción a la justicia después de que la UCO recogiera tres reuniones suyas con Leire Díez. Declaró ante el juez Pedraz el 16-07-2026. Niega tajantemente cualquier interferencia en investigaciones.",
+      "resumen": "Imputada por presuntos delitos de prevaricación y obstrucción a la justicia después de que la UCO recogiera tres reuniones suyas con Leire Díez. Declaró ante el juez Pedraz el 16-07-2026. En septiembre de 2026 un exdirector de la Guardia Civil negó ante el juez haber presionado a la UCO en el marco de esta misma investigación (heraldo.es / Diario Público / Cadena SER, 10-09-2026). Niega tajantemente cualquier interferencia en investigaciones.",
+      "casos": [
+        "k6"
+      ]
+    },
+    {
+      "id": "anafuentes",
+      "nombre": "Ana María Fuentes",
+      "ini": "AMF",
+      "estado": "investigado",
+      "prision": false,
+      "x": 1155,
+      "y": 148,
+      "rol": "Gerente del PSOE",
+      "resumen": "Citada como investigada en la Audiencia Nacional en el marco del caso Leire Díez (antena3.com, 09-09-2026). Declaró ante el juez el 9-09-2026 descargando en Santos Cerdán toda la responsabilidad de los encargos verbales a los abogados imputados y de los pagos a Leire Díez, afirmando que era Cerdán quien ordenaba dichos pagos (EL PAÍS / elDiario.es / Cadena SER / El Mundo / La Vanguardia / ABC / El Periódico / Confilegal / antena3.com / Diari ARA / MUNDIARIO). Presunción de inocencia íntegra.",
       "casos": [
         "k6"
       ]
@@ -818,7 +889,7 @@ window.PRESOE_DATOS =
       "x": 178,
       "y": 905,
       "rol": "Exdiputado del PSOE en el Congreso",
-      "resumen": "Figura central del caso Mediador. Dejó el escaño y el partido al estallar el escándalo (feb-2023). Procesado en la pieza principal: la Fiscalía pide para él 8 años de prisión por cohecho continuado y pertenencia a grupo criminal, según su escrito de acusación de junio de 2026 (EL PAÍS / RTVE.es). Juicio pendiente de fecha.",
+      "resumen": "Figura central del caso Mediador. Dejó el escaño y el partido al estallar el escándalo (feb-2023). Procesado en la pieza principal: la Fiscalía pide para él 8 años de prisión por cohecho continuado y pertenencia a grupo criminal, según su escrito de acusación de junio de 2026 (EL PAÍS / RTVE.es / El Mundo / La Vanguardia / elDiario.es / LaSexta / Europa Press). Juicio pendiente de fecha.",
       "casos": [
         "k8"
       ]
@@ -876,7 +947,7 @@ window.PRESOE_DATOS =
       "x": 688,
       "y": 578,
       "rol": "Expresidente del Gobierno (2004-2011)",
-      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y citó a declarar como investigados al presidente y CEO de Plus Ultra los días 7 y 8 de septiembre (LaSexta). Ese mismo día Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). Defiende su inocencia.",
+      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y citó a declarar como investigados al presidente y CEO de Plus Ultra los días 7 y 8 de septiembre (LaSexta). El 7-09-2026 el expresidente de la aerolínea declaró ante el juez ratificando haber hablado con Zapatero para el rescate y que el 1% de comisión «era para él», confirmando una llamada de 11 minutos que Zapatero niega (LaSexta / antena3.com / ABC / El Español / EL PAÍS / RTVE.es / Expansión / El Periódico). Defiende su inocencia.",
       "casos": [
         "k9"
       ]
@@ -990,60 +1061,61 @@ window.PRESOE_DATOS =
       "a": "pano",
       "b": "leonor",
       "t": "su hija"
+    },
+    {
+      "a": "cerdan",
+      "b": "anafuentes",
+      "t": "según la gerente"
     }
   ],
   "ticker": [
     [
-      "11 SEP",
-      "Peramato y Rego piden acelerar el traslado a la Península de los menores migrantes de Ceuta — Confilegal"
+      "12 SEP",
+      "La gerente del PSOE, Ana María Fuentes (investigada), declaró ante el juez del caso Leire Díez y cargó en Cerdán la responsabilidad de los pagos — EL PAÍS / elDiario.es / Cadena SER"
     ],
     [
-      "11 SEP",
-      "Los empresarios vinculados a Aldama niegan ante el juez del caso Koldo haber pagado comisiones por las mascarillas — Confilegal"
+      "12 SEP",
+      "El juez Peinado concluyó la audiencia preliminar del caso Begoña Gómez: la causa queda lista para juicio con jurado — El Confidencial / RTVE.es"
     ],
     [
-      "11 SEP",
-      "Diario de la corrupción sanchista. La jeta de ZP: pretende que el juez le pida los documentos de las joyas porque él no los ha conseguido — Hispanidad"
+      "12 SEP",
+      "El expresidente de Plus Ultra ratificó ante el juez haber hablado con Zapatero y que el 1% «era para él» — LaSexta / antena3.com / ABC / El Español"
     ],
     [
-      "11 SEP",
-      "Dos empresarios del ‘caso Koldo’ se desvinculan de los tejemanejes de Aldama — EL PAÍS"
+      "12 SEP",
+      "La Fiscalía Europea vincula a Aldama con un presunto desvío de 27,9 millones a Portugal en el caso hidrocarburos — EL PAÍS / Europa Press / Confilegal"
     ],
     [
-      "11 SEP",
-      "Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio en la calle y a las puertas de Ministerio de Transportes — El Periódico"
+      "12 SEP",
+      "La Memoria de la Fiscalía califica de «hecho grave» la condena a García Ortiz pero justifica que siga como fiscal de carrera — ABC / Confilegal / Artículo 14"
     ],
     [
-      "11 SEP",
-      "Caso Zapatero: Suiza dice que no encuentra el dinero de Plus Ultra — moncloa.com"
+      "12 SEP",
+      "Dos empresarios del caso Koldo se desvinculan de los tejemanejes de Aldama ante el juez — EL PAÍS"
     ],
     [
-      "10 SEP",
-      "El rechazo a la nulidad de actuaciones pedida por la defensa de Zapatero le hará modificar su estrategia de defensa — Law&Trends"
+      "12 SEP",
+      "Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio a las puertas del Ministerio de Transportes — El Periódico"
     ],
     [
-      "10 SEP",
-      "El exdirector de la Guardia Civil niega ante el juez del caso Leire haber presionado a la UCO — heraldo.es"
+      "12 SEP",
+      "La Fiscalía pide 8 años para Tito Berni por cohecho continuado y pertenencia a grupo criminal en el caso Mediador — EL PAÍS / RTVE.es / El Mundo"
     ],
     [
-      "10 SEP",
-      "Exdirector de la Guardia Civil niega ante el juez del 'caso Leire' haber presionado a la UCO — Diario Público"
+      "12 SEP",
+      "El exabogado de Koldo reconoce ante el juez que asumió la defensa tras reunirse con Santos Cerdán — El Confidencial"
     ],
     [
-      "10 SEP",
-      "El exdirector de la Guardia Civil implicado en el 'caso Leire' desmiente a los generales que le acusaron de favorecer al hermano de Sánchez — Cadena SER"
+      "12 SEP",
+      "Hacienda mantiene 35 investigaciones abiertas por fraude en hidrocarburos relacionadas con el caso Aldama — elDiario.es"
     ],
     [
-      "10 SEP",
-      "Un exdirector de la Guardia Civil rechaza haber presionado a la UCO en la investigación del hermano de Sánchez — Demócrata"
+      "12 SEP",
+      "Ábalos se muestra «dolido» con Koldo tras el juicio: «Me ha hecho mucho daño» — Libertad Digital"
     ],
     [
-      "10 SEP",
-      "El exdirector de la Guardia Civil desmiente que ordenara dejar \"limpio\" el informe de la UCO sobre el hermano de Sánchez — El Periódico"
-    ],
-    [
-      "10 SEP",
-      "Peramato justifica que García Ortiz siga ejerciendo como fiscal para evitar un \"plus aflictivo\" — Vozpopuli"
+      "12 SEP",
+      "Aldama avisa de que revelará «en qué sigue mintiendo» el presidente del Gobierno — ESdiario"
     ]
   ],
   "relojes": [
@@ -1052,7 +1124,7 @@ window.PRESOE_DATOS =
       "objetivo": "2026-09-07T10:00:00+02:00",
       "caso": "K-09",
       "titulo": "Declaración presidente Plus Ultra",
-      "sub": "Citado como investigado por el juez Calama el 7 de septiembre de 2026 (LaSexta, 24-07-2026)."
+      "sub": "Citado como investigado por el juez Calama el 7 de septiembre de 2026 (LaSexta, 24-07-2026). Celebrada: ratificó la llamada con Zapatero y que el 1% «era para él»."
     },
     {
       "tipo": "countdown",
@@ -1066,7 +1138,7 @@ window.PRESOE_DATOS =
       "objetivo": "2026-09-27T00:00:00+02:00",
       "caso": "K-03",
       "titulo": "Jubilación del juez Peinado",
-      "sub": "Fecha límite práctica para dictar el nuevo auto de apertura de juicio a Begoña Gómez."
+      "sub": "Fecha límite práctica para dictar el nuevo auto de apertura de juicio a Begoña Gómez. Audiencia preliminar celebrada el 8-09-2026."
     },
     {
       "tipo": "standby",
