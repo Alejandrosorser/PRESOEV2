@@ -1011,7 +1011,7 @@ window.PRESOE_DATOS =
     ],
     [
       "11 SEP",
-      "Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio en la calle y a las puertas de Ministerio de Transportes — elperiodico.com"
+      "Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio en la calle y a las puertas de Ministerio de Transportes — El Periódico"
     ],
     [
       "11 SEP",
@@ -1031,10 +1031,6 @@ window.PRESOE_DATOS =
     ],
     [
       "10 SEP",
-      "Leonardo Marcos niega presiones a la UCO pero admite que pidió \"que se dieran mucha prisa\" con el hermano de Sánchez — ESdiario"
-    ],
-    [
-      "10 SEP",
       "El exdirector de la Guardia Civil implicado en el 'caso Leire' desmiente a los generales que le acusaron de favorecer al hermano de Sánchez — Cadena SER"
     ],
     [
@@ -1043,7 +1039,11 @@ window.PRESOE_DATOS =
     ],
     [
       "10 SEP",
-      "El exdirector de la Guardia Civil desmiente que ordenara dejar \"limpio\" el informe de la UCO sobre el hermano de Sánchez — elperiodico.com"
+      "El exdirector de la Guardia Civil desmiente que ordenara dejar \"limpio\" el informe de la UCO sobre el hermano de Sánchez — El Periódico"
+    ],
+    [
+      "10 SEP",
+      "Peramato justifica que García Ortiz siga ejerciendo como fiscal para evitar un \"plus aflictivo\" — Vozpopuli"
     ]
   ],
   "relojes": [
