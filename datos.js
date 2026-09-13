@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-12",
+  "actualizado_ticker": "2026-09-13",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,46 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "13 SEP",
+      "Ekaizer apunta al problema que puede poner en jaque el juicio a Begoña Gómez: \"Es una vulneración como la copa de un pino\" — Elplural.com"
+    ],
+    [
+      "13 SEP",
+      "Caso Plus Ultra: la cúpula declara en la Audiencia Nacional más pagos a Zapatero tras el rescate público — moncloa.com"
+    ],
+    [
+      "13 SEP",
+      "Caso Plus Ultra: Calama estudia retirar el pasaporte a Zapatero — Estrella Digital"
+    ],
+    [
+      "13 SEP",
+      "Caso Plus Ultra: algo más que una mordida — Vozpopuli"
+    ],
+    [
+      "13 SEP",
+      "Lo que ya se sabe de Plus Ultra: un circuito de pagos gracias al rescate público que llegó a Zapatero y sin que Sánchez se inmute — El Mundo"
+    ],
+    [
+      "12 SEP",
+      "Zapatero descarta estar sufriendo un caso de lawfare y se prepara para un procedimiento judicial largo — LaSexta"
+    ],
+    [
+      "12 SEP",
+      "Un error garrafal de la acusación retrasa el auto de juicio oral de la esposa de Sánchez y obliga al juez Peinado a buscar un apaño para salvar sus dos años… — El Periódico"
+    ],
+    [
+      "12 SEP",
+      "El TJSM impulsa la investigación contra la universidad del ICAM — Cadena SER"
+    ],
+    [
+      "12 SEP",
+      "Se estrella en Venezuela una avioneta con empresarios chavistas investigados en el caso Plus Ultra — CiberCuba"
+    ],
+    [
+      "11 SEP",
+      "La avioneta de los empresarios chavistas que pagaron medio millón a las hijas de Zapatero se estrella en Ve... — okdiario.com"
+    ],
+    [
       "11 SEP",
       "Peramato y Rego piden acelerar el traslado a la Península de los menores migrantes de Ceuta — Confilegal"
     ],
@@ -1003,47 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "11 SEP",
-      "Diario de la corrupción sanchista. La jeta de ZP: pretende que el juez le pida los documentos de las joyas porque él no los ha conseguido — Hispanidad"
-    ],
-    [
-      "11 SEP",
       "Dos empresarios del ‘caso Koldo’ se desvinculan de los tejemanejes de Aldama — EL PAÍS"
-    ],
-    [
-      "11 SEP",
-      "Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio en la calle y a las puertas de Ministerio de Transportes — El Periódico"
-    ],
-    [
-      "11 SEP",
-      "Caso Zapatero: Suiza dice que no encuentra el dinero de Plus Ultra — moncloa.com"
-    ],
-    [
-      "10 SEP",
-      "El rechazo a la nulidad de actuaciones pedida por la defensa de Zapatero le hará modificar su estrategia de defensa — Law&Trends"
-    ],
-    [
-      "10 SEP",
-      "El exdirector de la Guardia Civil niega ante el juez del caso Leire haber presionado a la UCO — heraldo.es"
-    ],
-    [
-      "10 SEP",
-      "Exdirector de la Guardia Civil niega ante el juez del 'caso Leire' haber presionado a la UCO — Diario Público"
-    ],
-    [
-      "10 SEP",
-      "El exdirector de la Guardia Civil implicado en el 'caso Leire' desmiente a los generales que le acusaron de favorecer al hermano de Sánchez — Cadena SER"
-    ],
-    [
-      "10 SEP",
-      "Un exdirector de la Guardia Civil rechaza haber presionado a la UCO en la investigación del hermano de Sánchez — Demócrata"
-    ],
-    [
-      "10 SEP",
-      "El exdirector de la Guardia Civil desmiente que ordenara dejar \"limpio\" el informe de la UCO sobre el hermano de Sánchez — El Periódico"
-    ],
-    [
-      "10 SEP",
-      "Peramato justifica que García Ortiz siga ejerciendo como fiscal para evitar un \"plus aflictivo\" — Vozpopuli"
     ]
   ],
   "relojes": [
