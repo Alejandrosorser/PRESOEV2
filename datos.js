@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-13",
+  "actualizado_ticker": "2026-09-14",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "14 SEP",
+      "Giro en el caso Plus Ultra: el juez Calama estudia retirar el pasaporte a Zapatero tras acreditar que recibió... — gaceta.es"
+    ],
+    [
+      "14 SEP",
+      "Una llamativa coincidencia afecta al jurado popular que decidirá sobre Begoña Gómez: “Efectuarán un sorteo los quince últimos días de septiembre de los años… — Infobae"
+    ],
+    [
+      "14 SEP",
+      "La Audiencia Nacional pone el foco en los donantes del PSOE y acerca la investigación a un posible delito de financiación ilegal — Demócrata"
+    ],
+    [
+      "14 SEP",
+      "La Audiencia Nacional recibe la lista de donantes del PSOE para investigar el presunto blanqueo de comisiones — gaceta.es"
+    ],
+    [
+      "14 SEP",
+      "Ábalos revela la comida que implica a Sánchez en el caso Plus Ultra: \"¿Sabes que la empresa es una mierda, no?\" — Libertad Digital"
+    ],
+    [
+      "14 SEP",
+      "El Gobierno evita revelar si paga al PSOE por la oficina de Zapatero donde se hallaron las joyas — The Objective"
+    ],
+    [
+      "13 SEP",
+      "La nueva dependencia de la fiscal general — La Región"
+    ],
+    [
+      "13 SEP",
+      "La UDEF y la UCO descubren que las tramas de Zapatero y de la 'fontanera' se entrelazan en los despachos de la SEPI — El Correo"
+    ],
+    [
+      "13 SEP",
+      "Caso Plus Ultra: Declaración de exejecutivos apuntan a cobro de comisiones de Zapatero — Diario Las Américas"
+    ],
+    [
+      "13 SEP",
+      "El escrito que complica que Begoña Gómez se siente en el banquillo: el juez Peinado no notificó el auto de apertura de juicio en plazo por las dudas sobre la… — Infobae"
+    ],
+    [
+      "13 SEP",
+      "Zapatero descarta hablar de ‘lawfare’ en Plus Ultra y se prepara para un procedimiento judicial largo — Demócrata"
+    ],
+    [
+      "13 SEP",
+      "Un error de la acusación contra Begoña Gómez retrasa el juicio oral y pone a Peinado en una encrucijada a las puertas de su jubilación — Elplural.com"
+    ],
+    [
       "13 SEP",
       "Ekaizer apunta al problema que puede poner en jaque el juicio a Begoña Gómez: \"Es una vulneración como la copa de un pino\" — Elplural.com"
-    ],
-    [
-      "13 SEP",
-      "Caso Plus Ultra: la cúpula declara en la Audiencia Nacional más pagos a Zapatero tras el rescate público — moncloa.com"
-    ],
-    [
-      "13 SEP",
-      "Caso Plus Ultra: Calama estudia retirar el pasaporte a Zapatero — Estrella Digital"
-    ],
-    [
-      "13 SEP",
-      "Caso Plus Ultra: algo más que una mordida — Vozpopuli"
-    ],
-    [
-      "13 SEP",
-      "Lo que ya se sabe de Plus Ultra: un circuito de pagos gracias al rescate público que llegó a Zapatero y sin que Sánchez se inmute — El Mundo"
-    ],
-    [
-      "12 SEP",
-      "Zapatero descarta estar sufriendo un caso de lawfare y se prepara para un procedimiento judicial largo — LaSexta"
-    ],
-    [
-      "12 SEP",
-      "Un error garrafal de la acusación retrasa el auto de juicio oral de la esposa de Sánchez y obliga al juez Peinado a buscar un apaño para salvar sus dos años… — El Periódico"
-    ],
-    [
-      "12 SEP",
-      "El TJSM impulsa la investigación contra la universidad del ICAM — Cadena SER"
-    ],
-    [
-      "12 SEP",
-      "Se estrella en Venezuela una avioneta con empresarios chavistas investigados en el caso Plus Ultra — CiberCuba"
-    ],
-    [
-      "11 SEP",
-      "La avioneta de los empresarios chavistas que pagaron medio millón a las hijas de Zapatero se estrella en Ve... — okdiario.com"
-    ],
-    [
-      "11 SEP",
-      "Peramato y Rego piden acelerar el traslado a la Península de los menores migrantes de Ceuta — Confilegal"
-    ],
-    [
-      "11 SEP",
-      "Los empresarios vinculados a Aldama niegan ante el juez del caso Koldo haber pagado comisiones por las mascarillas — Confilegal"
-    ],
-    [
-      "11 SEP",
-      "Dos empresarios del ‘caso Koldo’ se desvinculan de los tejemanejes de Aldama — EL PAÍS"
     ]
   ],
   "relojes": [
