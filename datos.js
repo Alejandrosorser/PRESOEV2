@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-14",
+  "actualizado_ticker": "2026-09-15",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "14 SEP",
-      "Giro en el caso Plus Ultra: el juez Calama estudia retirar el pasaporte a Zapatero tras acreditar que recibió... — gaceta.es"
+      "15 SEP",
+      "Qué pasa con Zapatero: pide a la Audiencia Nacional que anule parte de la investigación sobre sus negocios en Bolivia — El Pespunte"
+    ],
+    [
+      "15 SEP",
+      "Zapatero pide a la Audiencia Nacional que aparte del ‘caso Plus Ultra’ las pesquisas sobre sus gestiones en Bolivia — fuentesinformadas.com"
+    ],
+    [
+      "15 SEP",
+      "Anticorrupción sopesa la imputación del exdirector de la SEPI en el caso Zapatero — Artículo 14"
+    ],
+    [
+      "15 SEP",
+      "Zapatero recurre a la Audiencia Nacional para excluir del ‘caso Plus Ultra’ el informe de la UDEF sobre sus gestiones en Bolivia — Confilegal"
     ],
     [
       "14 SEP",
-      "Una llamativa coincidencia afecta al jurado popular que decidirá sobre Begoña Gómez: “Efectuarán un sorteo los quince últimos días de septiembre de los años… — Infobae"
+      "Zapatero pide a la justicia española excluir sus gestiones en Bolivia del caso Plus Ultra — Correo del Sur"
     ],
     [
       "14 SEP",
-      "La Audiencia Nacional pone el foco en los donantes del PSOE y acerca la investigación a un posible delito de financiación ilegal — Demócrata"
+      "Zapatero pide dejar fuera del caso Plus Ultra sus presuntas gestiones en Bolivia por ser ajenas a la causa y critica que la investigación sea una “patente de… — Infobae"
     ],
     [
       "14 SEP",
-      "La Audiencia Nacional recibe la lista de donantes del PSOE para investigar el presunto blanqueo de comisiones — gaceta.es"
+      "Zapatero pide excluir sus negocios en Bolivia del caso Plus Ultra — MUNDIARIO"
     ],
     [
       "14 SEP",
-      "Ábalos revela la comida que implica a Sánchez en el caso Plus Ultra: \"¿Sabes que la empresa es una mierda, no?\" — Libertad Digital"
+      "Zapatero pide a la Audiencia Nacional anular el informe de la UDEF sobre Bolivia y advierte de la \"patente de corso\" del juez — LaSexta"
     ],
     [
       "14 SEP",
-      "El Gobierno evita revelar si paga al PSOE por la oficina de Zapatero donde se hallaron las joyas — The Objective"
+      "Zapatero solicita excluir gestiones en Bolivia del 'caso Plus Ultra' por ser \"ajeno\" — Diario en Positivo"
     ],
     [
-      "13 SEP",
-      "La nueva dependencia de la fiscal general — La Región"
+      "14 SEP",
+      "Zapatero reclama excluir de la causa Plus Ultra las supuestas gestiones en Bolivia por ser ajenas al procedimiento — democrata.es"
     ],
     [
-      "13 SEP",
-      "La UDEF y la UCO descubren que las tramas de Zapatero y de la 'fontanera' se entrelazan en los despachos de la SEPI — El Correo"
+      "14 SEP",
+      "Zapatero pide dejar fuera del 'caso Plus Ultra' las presuntas gestiones en Bolivia por ser \"ajeno\" a la causa — Europa Press"
     ],
     [
-      "13 SEP",
-      "Caso Plus Ultra: Declaración de exejecutivos apuntan a cobro de comisiones de Zapatero — Diario Las Américas"
+      "14 SEP",
+      "Zapatero advierte de la \"patente de corso\" del juez Calama y pide a la Audiencia Nacional que excluya sus negocios en Bolivia del Caso Plus Ultra — Elplural.com"
     ],
     [
-      "13 SEP",
-      "El escrito que complica que Begoña Gómez se siente en el banquillo: el juez Peinado no notificó el auto de apertura de juicio en plazo por las dudas sobre la… — Infobae"
-    ],
-    [
-      "13 SEP",
-      "Zapatero descarta hablar de ‘lawfare’ en Plus Ultra y se prepara para un procedimiento judicial largo — Demócrata"
-    ],
-    [
-      "13 SEP",
-      "Un error de la acusación contra Begoña Gómez retrasa el juicio oral y pone a Peinado en una encrucijada a las puertas de su jubilación — Elplural.com"
-    ],
-    [
-      "13 SEP",
-      "Ekaizer apunta al problema que puede poner en jaque el juicio a Begoña Gómez: \"Es una vulneración como la copa de un pino\" — Elplural.com"
+      "14 SEP",
+      "Zapatero pide apartar del caso Plus Ultra el informe de la UDEF sobre sus negocios en Bolivia — democrata.es"
     ]
   ],
   "relojes": [
