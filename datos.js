@@ -999,7 +999,7 @@ window.PRESOE_DATOS =
     ],
     [
       "15 SEP",
-      "Zapatero pide a la Audiencia Nacional que aparte del ‘caso Plus Ultra’ las pesquisas sobre sus gestiones en Bolivia — fuentesinformadas.com"
+      "Zapatero pide a la Audiencia Nacional que aparte del ‘caso Plus Ultra’ las pesquisas sobre sus gestiones en Bolivia — Fuentes Informadas"
     ],
     [
       "15 SEP",
@@ -1015,7 +1015,7 @@ window.PRESOE_DATOS =
     ],
     [
       "14 SEP",
-      "Zapatero pide dejar fuera del caso Plus Ultra sus presuntas gestiones en Bolivia por ser ajenas a la causa y critica que la investigación sea una “patente de… — Infobae"
+      "Zapatero pide dejar fuera del caso Plus Ultra sus presuntas gestiones en Bolivia por ser ajenas a la causa y critica que la investigación sea una “patente de… — infobae.com"
     ],
     [
       "14 SEP",
@@ -1031,7 +1031,7 @@ window.PRESOE_DATOS =
     ],
     [
       "14 SEP",
-      "Zapatero reclama excluir de la causa Plus Ultra las supuestas gestiones en Bolivia por ser ajenas al procedimiento — democrata.es"
+      "Zapatero reclama excluir de la causa Plus Ultra las supuestas gestiones en Bolivia por ser ajenas al procedimiento — Demócrata"
     ],
     [
       "14 SEP",
@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "14 SEP",
-      "Zapatero pide apartar del caso Plus Ultra el informe de la UDEF sobre sus negocios en Bolivia — democrata.es"
+      "Zapatero pide apartar del caso Plus Ultra el informe de la UDEF sobre sus negocios en Bolivia — Demócrata"
     ]
   ],
   "relojes": [
