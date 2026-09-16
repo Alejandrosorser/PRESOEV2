@@ -995,11 +995,15 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "16 SEP",
+      "La jueza del ‘caso David Sánchez’ denuncia supuestos contactos de la trama de Leire Díez con el narcotráfico para atacarla — EL PAÍS"
+    ],
+    [
+      "16 SEP",
       "El cambio de imagen de la hija mayor de Zapatero tras su imputación en el caso Plus Ultra — ABC"
     ],
     [
       "16 SEP",
-      "'Caso Koldo': la UCO acude a Adif para comprobar cuánto se pagó al final por una obra en Asturias — elcomercio.es"
+      "'Caso Koldo': la UCO acude a Adif para comprobar cuánto se pagó al final por una obra en Asturias — El Comercio"
     ],
     [
       "16 SEP",
@@ -1015,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "15 SEP",
-      "El juez del 'caso Plus Ultra' anula el intento de la Fiscalía — Fuentes Informadas"
+      "El juez del 'caso Plus Ultra' anula el intento de la Fiscalía — fuentesinformadas.com"
     ],
     [
       "15 SEP",
@@ -1031,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "15 SEP",
-      "Zapatero pide a la Audiencia Nacional que aparte del ‘caso Plus Ultra’ las pesquisas sobre sus gestiones en Bolivia — Fuentes Informadas"
+      "Zapatero pide a la Audiencia Nacional que aparte del ‘caso Plus Ultra’ las pesquisas sobre sus gestiones en Bolivia — fuentesinformadas.com"
     ],
     [
       "15 SEP",
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "15 SEP",
       "Zapatero organiza reuniones en busca de testigos que declaren en su favor tras confirmar Plus Ultra que el pago del 1 % era una mordida — El Debate"
-    ],
-    [
-      "14 SEP",
-      "Zapatero pide dejar fuera del caso Plus Ultra sus presuntas gestiones en Bolivia por ser ajenas a la causa y critica que la investigación sea una “patente de… — Infobae"
     ]
   ],
   "relojes": [
