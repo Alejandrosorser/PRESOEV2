@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-15",
+  "actualizado_ticker": "2026-09-16",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,38 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "16 SEP",
+      "El cambio de imagen de la hija mayor de Zapatero tras su imputación en el caso Plus Ultra — ABC"
+    ],
+    [
+      "16 SEP",
+      "'Caso Koldo': la UCO acude a Adif para comprobar cuánto se pagó al final por una obra en Asturias — elcomercio.es"
+    ],
+    [
+      "16 SEP",
+      "Amaños de obra pública: el juez espera dos informes clave de la UCO para impulsar la causa — El Confidencial"
+    ],
+    [
+      "16 SEP",
+      "El juez que investiga a Cerdán por amaños de obra pública espera dos informes clave de la UCO para acelerar la causa — Vozpopuli"
+    ],
+    [
+      "15 SEP",
+      "La confesión del testaferro de Maduro abre una nueva vía sobre Zapatero y Plus Ultra — ABC"
+    ],
+    [
+      "15 SEP",
+      "El juez del 'caso Plus Ultra' anula el intento de la Fiscalía — Fuentes Informadas"
+    ],
+    [
+      "15 SEP",
+      "Diario de la corrupción sanchista. Zapatero pretende que el juez no investigue una comisión ilegal de 200.000 euros por mediar entre el Gobierno de Bolivia y… — Hispanidad"
+    ],
+    [
+      "15 SEP",
+      "Zapatero solicita excluir las gestiones en Bolivia del \"caso Plus Ultra\" por ser ajenas — Córdoba Buenas Noticias"
+    ],
+    [
       "15 SEP",
       "Qué pasa con Zapatero: pide a la Audiencia Nacional que anule parte de la investigación sobre sus negocios en Bolivia — El Pespunte"
     ],
@@ -1007,43 +1039,11 @@ window.PRESOE_DATOS =
     ],
     [
       "15 SEP",
-      "Zapatero recurre a la Audiencia Nacional para excluir del ‘caso Plus Ultra’ el informe de la UDEF sobre sus gestiones en Bolivia — Confilegal"
+      "Zapatero organiza reuniones en busca de testigos que declaren en su favor tras confirmar Plus Ultra que el pago del 1 % era una mordida — El Debate"
     ],
     [
       "14 SEP",
-      "Zapatero pide a la justicia española excluir sus gestiones en Bolivia del caso Plus Ultra — Correo del Sur"
-    ],
-    [
-      "14 SEP",
-      "Zapatero pide dejar fuera del caso Plus Ultra sus presuntas gestiones en Bolivia por ser ajenas a la causa y critica que la investigación sea una “patente de… — infobae.com"
-    ],
-    [
-      "14 SEP",
-      "Zapatero pide excluir sus negocios en Bolivia del caso Plus Ultra — MUNDIARIO"
-    ],
-    [
-      "14 SEP",
-      "Zapatero pide a la Audiencia Nacional anular el informe de la UDEF sobre Bolivia y advierte de la \"patente de corso\" del juez — LaSexta"
-    ],
-    [
-      "14 SEP",
-      "Zapatero solicita excluir gestiones en Bolivia del 'caso Plus Ultra' por ser \"ajeno\" — Diario en Positivo"
-    ],
-    [
-      "14 SEP",
-      "Zapatero reclama excluir de la causa Plus Ultra las supuestas gestiones en Bolivia por ser ajenas al procedimiento — Demócrata"
-    ],
-    [
-      "14 SEP",
-      "Zapatero pide dejar fuera del 'caso Plus Ultra' las presuntas gestiones en Bolivia por ser \"ajeno\" a la causa — Europa Press"
-    ],
-    [
-      "14 SEP",
-      "Zapatero advierte de la \"patente de corso\" del juez Calama y pide a la Audiencia Nacional que excluya sus negocios en Bolivia del Caso Plus Ultra — Elplural.com"
-    ],
-    [
-      "14 SEP",
-      "Zapatero pide apartar del caso Plus Ultra el informe de la UDEF sobre sus negocios en Bolivia — Demócrata"
+      "Zapatero pide dejar fuera del caso Plus Ultra sus presuntas gestiones en Bolivia por ser ajenas a la causa y critica que la investigación sea una “patente de… — Infobae"
     ]
   ],
   "relojes": [
