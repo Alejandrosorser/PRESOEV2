@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-16",
+  "actualizado_ticker": "2026-09-17",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "16 SEP",
-      "La jueza del ‘caso David Sánchez’ denuncia supuestos contactos de la trama de Leire Díez con el narcotráfico para atacarla — EL PAÍS"
+      "17 SEP",
+      "Pedraz cree que el móvil de Juanma Serrano puede ser prueba de tráfico de influencias y frena su devolución — El Independiente"
+    ],
+    [
+      "17 SEP",
+      "Pedraz acepta que la juez Biedma del Caso David Sánchez se persone como acusación particular en la causa de Leire Díez — ESdiario"
+    ],
+    [
+      "17 SEP",
+      "Óscar Puente saca los colores a Ayuso por sus ataques al denunciante del Ramón y Cajal: “¿Os acordáis cuando condenaron al Fiscal General?” — Elplural.com"
+    ],
+    [
+      "17 SEP",
+      "La Fiscalía de Madrid intenta abrir una etapa de \"buen ambiente\" tras la ruptura por el \"caso García Ortiz\" — La Razón"
+    ],
+    [
+      "17 SEP",
+      "La jueza del caso David Sánchez pide personarse como víctima en la trama de Leire Díez — Fuentes Informadas"
+    ],
+    [
+      "17 SEP",
+      "Peramato cierra la era García Ortiz con varios nuevos nombramientos en la cúpula de la Fiscalía del Supremo y en Madrid — El Debate"
+    ],
+    [
+      "17 SEP",
+      "Jueza de David Sánchez denuncia un plan para “desacreditarla” en el caso Leire — MUNDIARIO"
+    ],
+    [
+      "17 SEP",
+      "Calama investiga en secreto a empresarios venezolanos del ‘caso Zapatero’ por blanquear dinero en el rescat... — OkDiario"
+    ],
+    [
+      "17 SEP",
+      "La juez del caso David Sánchez se persona como acusación particular en el Caso Leire — moncloa.com"
+    ],
+    [
+      "17 SEP",
+      "Los vínculos con el caso de Zapatero de Alex Saab, el testaferro de Maduro que ha pactado con EE.UU. — El Debate"
     ],
     [
       "16 SEP",
-      "El cambio de imagen de la hija mayor de Zapatero tras su imputación en el caso Plus Ultra — ABC"
+      "La jueza que instruyó el caso de David Sánchez pide personarse como acusación en el caso Leire Díez — Radio Interior"
     ],
     [
       "16 SEP",
-      "'Caso Koldo': la UCO acude a Adif para comprobar cuánto se pagó al final por una obra en Asturias — El Comercio"
+      "La jueza del caso del hermano de Sánchez pide ser acusación particular en el ‘caso Leire’ — El Boletín"
     ],
     [
       "16 SEP",
-      "Amaños de obra pública: el juez espera dos informes clave de la UCO para impulsar la causa — El Confidencial"
-    ],
-    [
-      "16 SEP",
-      "El juez que investiga a Cerdán por amaños de obra pública espera dos informes clave de la UCO para acelerar la causa — Vozpopuli"
-    ],
-    [
-      "15 SEP",
-      "La confesión del testaferro de Maduro abre una nueva vía sobre Zapatero y Plus Ultra — ABC"
-    ],
-    [
-      "15 SEP",
-      "El juez del 'caso Plus Ultra' anula el intento de la Fiscalía — fuentesinformadas.com"
-    ],
-    [
-      "15 SEP",
-      "Diario de la corrupción sanchista. Zapatero pretende que el juez no investigue una comisión ilegal de 200.000 euros por mediar entre el Gobierno de Bolivia y… — Hispanidad"
-    ],
-    [
-      "15 SEP",
-      "Zapatero solicita excluir las gestiones en Bolivia del \"caso Plus Ultra\" por ser ajenas — Córdoba Buenas Noticias"
-    ],
-    [
-      "15 SEP",
-      "Qué pasa con Zapatero: pide a la Audiencia Nacional que anule parte de la investigación sobre sus negocios en Bolivia — El Pespunte"
-    ],
-    [
-      "15 SEP",
-      "Zapatero pide a la Audiencia Nacional que aparte del ‘caso Plus Ultra’ las pesquisas sobre sus gestiones en Bolivia — fuentesinformadas.com"
-    ],
-    [
-      "15 SEP",
-      "Anticorrupción sopesa la imputación del exdirector de la SEPI en el caso Zapatero — Artículo 14"
-    ],
-    [
-      "15 SEP",
-      "Zapatero organiza reuniones en busca de testigos que declaren en su favor tras confirmar Plus Ultra que el pago del 1 % era una mordida — El Debate"
+      "El nuevo fiscal provincial de Madrid, José Luis García-Juanes, toma posesión de su cargo — Infobae"
     ]
   ],
   "relojes": [
