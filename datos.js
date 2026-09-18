@@ -1027,7 +1027,7 @@ window.PRESOE_DATOS =
     ],
     [
       "17 SEP",
-      "España investiga bajo secreto de sumario a empresarios del ‘caso Zapatero’; uno de ellos tuvo sociedades en Panamá — La Estrella de Panamá"
+      "España investiga bajo secreto de sumario a empresarios del ‘caso Zapatero’; uno de ellos tuvo sociedades en Panamá — laestrella.com.pa"
     ],
     [
       "17 SEP",
@@ -1035,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "17 SEP",
-      "El audio de la declaración del ex abogado de Koldo ante el juez: \"Cerdán y Díez eran quien eran\" — larazon.es"
+      "El audio de la declaración del ex abogado de Koldo ante el juez: \"Cerdán y Díez eran quien eran\" — La Razón"
     ],
     [
       "17 SEP",
@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "17 SEP",
-      "El \"banco del jefe\" vuelve a la lupa de Calama mientras una vía secreta por blanqueo estrecha el foco sobre el entorno de Zapatero — esdiario.com"
+      "El \"banco del jefe\" vuelve a la lupa de Calama mientras una vía secreta por blanqueo estrecha el foco sobre el entorno de Zapatero — ESdiario"
     ]
   ],
   "relojes": [
