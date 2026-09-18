@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-17",
+  "actualizado_ticker": "2026-09-18",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "17 SEP",
-      "Pedraz cree que el móvil de Juanma Serrano puede ser prueba de tráfico de influencias y frena su devolución — El Independiente"
+      "18 SEP",
+      "El móvil de Serrano se queda en Audiencia Nacional por tráfico de influencias — MUNDIARIO"
+    ],
+    [
+      "18 SEP",
+      "La gerente del PSOE acorrala a Cerdán ante el juez del caso Leire Díez — MUNDIARIO"
+    ],
+    [
+      "18 SEP",
+      "Una secretaria del PSOE revela que Leire Díez dejaba su coche en Ferraz pero no entraba en la sede: \"No sé a dónde iría\" — Libertad Digital"
+    ],
+    [
+      "18 SEP",
+      "Los audios de la gerente del PSOE donde atribuye a Santos Cerdán los encargos y pagos a las 'cloacas' — Artículo 14"
+    ],
+    [
+      "18 SEP",
+      "La Audiencia Nacional estrecha el cerco sobre el mecanismo triangular del PSOE para pagar a Leire Díez — El Debate"
+    ],
+    [
+      "18 SEP",
+      "La Fiscalía advierte a Zapatero de que todavía hay investigaciones \"secretas” y que habrá nuevos informes de la UDEF — El Periódico"
+    ],
+    [
+      "18 SEP",
+      "Delcy Rodríguez recurrió al amigo de Zapatero para recuperar los fondos del negocio del oro bloqueados por Trump en Emiratos — El Periódico"
+    ],
+    [
+      "18 SEP",
+      "El exabogado de Koldo declaró que Leire presumía de reunirse con la directora de la Guardia Civil y con fiscales — El Debate"
     ],
     [
       "17 SEP",
-      "Pedraz acepta que la juez Biedma del Caso David Sánchez se persone como acusación particular en la causa de Leire Díez — ESdiario"
+      "España investiga bajo secreto de sumario a empresarios del ‘caso Zapatero’; uno de ellos tuvo sociedades en Panamá — La Estrella de Panamá"
     ],
     [
       "17 SEP",
-      "Óscar Puente saca los colores a Ayuso por sus ataques al denunciante del Ramón y Cajal: “¿Os acordáis cuando condenaron al Fiscal General?” — Elplural.com"
+      "El juez del ‘caso Leire’ rechaza limitar las cuentas bancarias que analizará la UCO — The Objective"
     ],
     [
       "17 SEP",
-      "La Fiscalía de Madrid intenta abrir una etapa de \"buen ambiente\" tras la ruptura por el \"caso García Ortiz\" — La Razón"
+      "El audio de la declaración del ex abogado de Koldo ante el juez: \"Cerdán y Díez eran quien eran\" — larazon.es"
     ],
     [
       "17 SEP",
-      "La jueza del caso David Sánchez pide personarse como víctima en la trama de Leire Díez — Fuentes Informadas"
+      "La gerente de Ferraz liga a Cerdán con los letrados del caso — Fuentes Informadas"
     ],
     [
       "17 SEP",
-      "Peramato cierra la era García Ortiz con varios nuevos nombramientos en la cúpula de la Fiscalía del Supremo y en Madrid — El Debate"
-    ],
-    [
-      "17 SEP",
-      "Jueza de David Sánchez denuncia un plan para “desacreditarla” en el caso Leire — MUNDIARIO"
-    ],
-    [
-      "17 SEP",
-      "Calama investiga en secreto a empresarios venezolanos del ‘caso Zapatero’ por blanquear dinero en el rescat... — OkDiario"
-    ],
-    [
-      "17 SEP",
-      "La juez del caso David Sánchez se persona como acusación particular en el Caso Leire — moncloa.com"
-    ],
-    [
-      "17 SEP",
-      "Los vínculos con el caso de Zapatero de Alex Saab, el testaferro de Maduro que ha pactado con EE.UU. — El Debate"
-    ],
-    [
-      "16 SEP",
-      "La jueza que instruyó el caso de David Sánchez pide personarse como acusación en el caso Leire Díez — Radio Interior"
-    ],
-    [
-      "16 SEP",
-      "La jueza del caso del hermano de Sánchez pide ser acusación particular en el ‘caso Leire’ — El Boletín"
-    ],
-    [
-      "16 SEP",
-      "El nuevo fiscal provincial de Madrid, José Luis García-Juanes, toma posesión de su cargo — Infobae"
+      "El \"banco del jefe\" vuelve a la lupa de Calama mientras una vía secreta por blanqueo estrecha el foco sobre el entorno de Zapatero — esdiario.com"
     ]
   ],
   "relojes": [
