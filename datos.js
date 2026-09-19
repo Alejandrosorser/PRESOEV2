@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-18",
+  "actualizado_ticker": "2026-09-19",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,30 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "19 SEP",
+      "El nuevo quebradero de cabeza para Zapatero: Alex Saab cooperará con la Justicia de EEUU — Vozpopuli"
+    ],
+    [
+      "18 SEP",
+      "La abogada de Koldo acusa a anticorrupción de tergiversar su declaración como investigada en el 'caso Leire' — Cadena SER"
+    ],
+    [
+      "18 SEP",
+      "Sin explicaciones de Zapatero sobre las joyas cuatro meses después de su hallazgo — antena3.com"
+    ],
+    [
+      "18 SEP",
+      "Qué sabemos de la avioneta que se estrelló en Venezuela en la que viajaban dos empresarios investigados por supuestos pagos de \"más de medio millón a las hij… — Maldita.es"
+    ],
+    [
+      "18 SEP",
+      "Diario de la corrupción sanchista. El PSOE puso en marcha un... — Hispanidad"
+    ],
+    [
+      "18 SEP",
+      "La \"mano derecha\" de García Ortiz promovió una sanción a Hazte Oír por su \"temeraria\" querella por el acoso a Biedma — La Razón"
+    ],
+    [
       "18 SEP",
       "El móvil de Serrano se queda en Audiencia Nacional por tráfico de influencias — MUNDIARIO"
     ],
@@ -1011,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "18 SEP",
-      "La Audiencia Nacional estrecha el cerco sobre el mecanismo triangular del PSOE para pagar a Leire Díez — El Debate"
+      "La Audiencia Nacional estrecha el cerco sobre el mecanismo triangular del PSOE para pagar a Leire Díez — eldebate.com"
     ],
     [
       "18 SEP",
@@ -1020,30 +1044,6 @@ window.PRESOE_DATOS =
     [
       "18 SEP",
       "Delcy Rodríguez recurrió al amigo de Zapatero para recuperar los fondos del negocio del oro bloqueados por Trump en Emiratos — El Periódico"
-    ],
-    [
-      "18 SEP",
-      "El exabogado de Koldo declaró que Leire presumía de reunirse con la directora de la Guardia Civil y con fiscales — El Debate"
-    ],
-    [
-      "17 SEP",
-      "España investiga bajo secreto de sumario a empresarios del ‘caso Zapatero’; uno de ellos tuvo sociedades en Panamá — laestrella.com.pa"
-    ],
-    [
-      "17 SEP",
-      "El juez del ‘caso Leire’ rechaza limitar las cuentas bancarias que analizará la UCO — The Objective"
-    ],
-    [
-      "17 SEP",
-      "El audio de la declaración del ex abogado de Koldo ante el juez: \"Cerdán y Díez eran quien eran\" — La Razón"
-    ],
-    [
-      "17 SEP",
-      "La gerente de Ferraz liga a Cerdán con los letrados del caso — Fuentes Informadas"
-    ],
-    [
-      "17 SEP",
-      "El \"banco del jefe\" vuelve a la lupa de Calama mientras una vía secreta por blanqueo estrecha el foco sobre el entorno de Zapatero — ESdiario"
     ]
   ],
   "relojes": [
