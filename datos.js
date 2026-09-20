@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-19",
+  "actualizado_ticker": "2026-09-20",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,26 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "20 SEP",
+      "El juez Calama lleva tres meses esperando las explicaciones que Zapatero le prometió “en una semana” sobre las joyas de 1,3 millones encontradas en su despacho — Infobae"
+    ],
+    [
+      "20 SEP",
+      "Zapatero mantiene un coche oficial de hasta 40.000 euros mientras está investigado en el ‘caso Plus Ultra’ — El Diario de Madrid"
+    ],
+    [
+      "20 SEP",
+      "Zapatero sigue usando un coche oficial de cerca de 40.000 euros con conductor privado — El Economista"
+    ],
+    [
+      "20 SEP",
+      "La falta de plazas en el Ministerio Público deja a más de medio centenar de nuevos fiscales sin destino definitivo — Vozpopuli"
+    ],
+    [
+      "19 SEP",
+      "Tres meses sin explicaciones de las joyas que Zapatero prometió dar en diez días — La Voz de Galicia"
+    ],
+    [
       "19 SEP",
       "El nuevo quebradero de cabeza para Zapatero: Alex Saab cooperará con la Justicia de EEUU — Vozpopuli"
     ],
@@ -1019,31 +1039,11 @@ window.PRESOE_DATOS =
     ],
     [
       "18 SEP",
-      "El móvil de Serrano se queda en Audiencia Nacional por tráfico de influencias — MUNDIARIO"
-    ],
-    [
-      "18 SEP",
       "La gerente del PSOE acorrala a Cerdán ante el juez del caso Leire Díez — MUNDIARIO"
     ],
     [
       "18 SEP",
-      "Una secretaria del PSOE revela que Leire Díez dejaba su coche en Ferraz pero no entraba en la sede: \"No sé a dónde iría\" — Libertad Digital"
-    ],
-    [
-      "18 SEP",
-      "Los audios de la gerente del PSOE donde atribuye a Santos Cerdán los encargos y pagos a las 'cloacas' — Artículo 14"
-    ],
-    [
-      "18 SEP",
-      "La Audiencia Nacional estrecha el cerco sobre el mecanismo triangular del PSOE para pagar a Leire Díez — eldebate.com"
-    ],
-    [
-      "18 SEP",
-      "La Fiscalía advierte a Zapatero de que todavía hay investigaciones \"secretas” y que habrá nuevos informes de la UDEF — El Periódico"
-    ],
-    [
-      "18 SEP",
-      "Delcy Rodríguez recurrió al amigo de Zapatero para recuperar los fondos del negocio del oro bloqueados por Trump en Emiratos — El Periódico"
+      "Una secretaria del PSOE revela que Leire Díez dejaba su coche en Ferraz pero no entraba en la sede: \"No sé a dónde iría\" — libertaddigital.com"
     ]
   ],
   "relojes": [
