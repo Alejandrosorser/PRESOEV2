@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "18 SEP",
-      "Una secretaria del PSOE revela que Leire Díez dejaba su coche en Ferraz pero no entraba en la sede: \"No sé a dónde iría\" — libertaddigital.com"
+      "Una secretaria del PSOE revela que Leire Díez dejaba su coche en Ferraz pero no entraba en la sede: \"No sé a dónde iría\" — Libertad Digital"
     ]
   ],
   "relojes": [
