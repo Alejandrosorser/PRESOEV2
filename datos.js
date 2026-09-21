@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-20",
+  "actualizado_ticker": "2026-09-21",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "20 SEP",
-      "El juez Calama lleva tres meses esperando las explicaciones que Zapatero le prometió “en una semana” sobre las joyas de 1,3 millones encontradas en su despacho — Infobae"
+      "21 SEP",
+      "España: Begoña Gómez, la esposa de Pedro Sánchez, va a juicio por jurado por tráfico de influencias y malversación tras dos años de lucha judicial — Clarin.com"
     ],
     [
-      "20 SEP",
-      "Zapatero mantiene un coche oficial de hasta 40.000 euros mientras está investigado en el ‘caso Plus Ultra’ — El Diario de Madrid"
+      "21 SEP",
+      "El juez da tres días a Zapatero para que entregue documentación sobre sus joyas — Diario de Santiago"
     ],
     [
-      "20 SEP",
-      "Zapatero sigue usando un coche oficial de cerca de 40.000 euros con conductor privado — El Economista"
+      "21 SEP",
+      "Morant denuncia la indefensión de Zapatero por el caso de sus joyas y asegura que ya explicó lo que le permitió su defensa — Demócrata"
     ],
     [
-      "20 SEP",
-      "La falta de plazas en el Ministerio Público deja a más de medio centenar de nuevos fiscales sin destino definitivo — Vozpopuli"
+      "21 SEP",
+      "Morant denuncia \"indefensión\" de Zapatero en el caso de sus joyas y dice que explicó lo que le dejó su defensa — Europa Press"
     ],
     [
-      "19 SEP",
-      "Tres meses sin explicaciones de las joyas que Zapatero prometió dar en diez días — La Voz de Galicia"
+      "21 SEP",
+      "Envían a Juicio a Begoña Gómez, Esposa de Pedro Sánchez, por Dos Delitos — N+"
     ],
     [
-      "19 SEP",
-      "El nuevo quebradero de cabeza para Zapatero: Alex Saab cooperará con la Justicia de EEUU — Vozpopuli"
+      "21 SEP",
+      "El juez abre juicio oral a Begoña Gómez y Moncloa espera que el jurado popular imparta justicia — Diario de Sevilla"
     ],
     [
-      "18 SEP",
-      "La abogada de Koldo acusa a anticorrupción de tergiversar su declaración como investigada en el 'caso Leire' — Cadena SER"
+      "21 SEP",
+      "Dos nuevos golpes para el PSOE y el Gobierno en el frente judicial: Begoña Gómez irá a juicio y las hijas de Zapatero, imputadas — La Voz del Sur"
     ],
     [
-      "18 SEP",
-      "Sin explicaciones de Zapatero sobre las joyas cuatro meses después de su hallazgo — antena3.com"
+      "21 SEP",
+      "Moncloa acusa a Peinado de \"persecución judicial\" contra Begoña Gómez y señala que el auto llega con Sánchez de viaje — ESdiario"
     ],
     [
-      "18 SEP",
-      "Qué sabemos de la avioneta que se estrelló en Venezuela en la que viajaban dos empresarios investigados por supuestos pagos de \"más de medio millón a las hij… — Maldita.es"
+      "21 SEP",
+      "El juez pone un nuevo plazo a Zapatero para explicar el origen de sus joyas — Aragón Digital"
     ],
     [
-      "18 SEP",
-      "Diario de la corrupción sanchista. El PSOE puso en marcha un... — Hispanidad"
+      "21 SEP",
+      "El juez Peinado envía a juicio a Begoña Gómez al considerar que obtuvo una cátedra \"a su medida\" por su \"proximidad\" a Sánchez — Aragón Digital"
     ],
     [
-      "18 SEP",
-      "La \"mano derecha\" de García Ortiz promovió una sanción a Hazte Oír por su \"temeraria\" querella por el acoso a Biedma — La Razón"
+      "21 SEP",
+      "El juicio a Begoña Gómez certifica el fracaso del Gobierno en su intento de frenar a la Justicia — El Debate"
     ],
     [
-      "18 SEP",
-      "La gerente del PSOE acorrala a Cerdán ante el juez del caso Leire Díez — MUNDIARIO"
+      "21 SEP",
+      "El juez cita a declarar a las hijas de Zapatero el 30 de noviembre y le da tres días al expresidente para entregar la documentación de las joyas — telecinco.es"
     ],
     [
-      "18 SEP",
-      "Una secretaria del PSOE revela que Leire Díez dejaba su coche en Ferraz pero no entraba en la sede: \"No sé a dónde iría\" — Libertad Digital"
+      "21 SEP",
+      "Las hijas de Zapatero, citadas como investigadas el 30 de noviembre en el ‘caso Plus Ultra’ — Andalucía Información"
     ]
   ],
   "relojes": [
