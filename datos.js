@@ -999,7 +999,7 @@ window.PRESOE_DATOS =
     ],
     [
       "22 SEP",
-      "Vox pide a la Audiencia Nacional que cite como testigo a la jueza Beatriz Biedma en la causa sobre Leire Díez — laportadadeextremadura.com"
+      "Vox pide a la Audiencia Nacional que cite como testigo a la jueza Beatriz Biedma en la causa sobre Leire Díez — La Portada de Extremadura"
     ],
     [
       "22 SEP",
@@ -1027,7 +1027,7 @@ window.PRESOE_DATOS =
     ],
     [
       "22 SEP",
-      "Consulta si estás entre los 2.846 madrileños preseleccionados para ser jurado del juicio contra Begoña Gómez — 20minutos.es"
+      "Consulta si estás entre los 2.846 madrileños preseleccionados para ser jurado del juicio contra Begoña Gómez — 20Minutos"
     ],
     [
       "22 SEP",
@@ -1035,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "22 SEP",
-      "Diario de la corrupción sanchista. Zapatero en el disparadero: le dirá al juez que las joyas fueron un regalo personal del rey saudí en 2007. Entonces, ¿por… — Hispanidad"
+      "Diario de la corrupción sanchista. Zapatero en el disparadero: le dirá al juez que las joyas fueron un regalo personal del rey saudí en 2007. Entonces, ¿por… — hispanidad.com"
     ],
     [
       "22 SEP",
