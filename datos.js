@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-21",
+  "actualizado_ticker": "2026-09-22",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "21 SEP",
-      "España: Begoña Gómez, la esposa de Pedro Sánchez, va a juicio por jurado por tráfico de influencias y malversación tras dos años de lucha judicial — Clarin.com"
+      "22 SEP",
+      "Sumar ve “incomprensible” el silencio de Zapatero sobre las joyas y Podemos reitera que “pinta fatal” — Demócrata"
     ],
     [
-      "21 SEP",
-      "El juez da tres días a Zapatero para que entregue documentación sobre sus joyas — Diario de Santiago"
+      "22 SEP",
+      "Vox pide a la Audiencia Nacional que cite como testigo a la jueza Beatriz Biedma en la causa sobre Leire Díez — laportadadeextremadura.com"
     ],
     [
-      "21 SEP",
-      "Morant denuncia la indefensión de Zapatero por el caso de sus joyas y asegura que ya explicó lo que le permitió su defensa — Demócrata"
+      "22 SEP",
+      "Zapatero dará \"en las próximas horas\" una explicación al juez sobre el origen de sus joyas más de tres meses después — LaSexta"
     ],
     [
-      "21 SEP",
-      "Morant denuncia \"indefensión\" de Zapatero en el caso de sus joyas y dice que explicó lo que le dejó su defensa — Europa Press"
+      "22 SEP",
+      "Cómo se elige al jurado popular que juzgará a Begoña Gómez: estos son los posibles candidatos — La Razón"
     ],
     [
-      "21 SEP",
-      "Envían a Juicio a Begoña Gómez, Esposa de Pedro Sánchez, por Dos Delitos — N+"
+      "22 SEP",
+      "Montero mantiene su \"confianza\" en Zapatero y \"no tiene duda\" de que aclarará al juez la \"procedencia\" de las joyas — Europa Press"
     ],
     [
-      "21 SEP",
-      "El juez abre juicio oral a Begoña Gómez y Moncloa espera que el jurado popular imparta justicia — Diario de Sevilla"
+      "22 SEP",
+      "Vox pone el foco en la jueza que investigó al hermano de Sánchez: solicita a la Audiencia Nacional su declaración en el 'caso Leire Díez' — El Constitucional"
     ],
     [
-      "21 SEP",
-      "Dos nuevos golpes para el PSOE y el Gobierno en el frente judicial: Begoña Gómez irá a juicio y las hijas de Zapatero, imputadas — La Voz del Sur"
+      "22 SEP",
+      "VOTA: ¿Cree que el Gobierno está sembrando la duda sobre el jurado que emitirá un veredicto en el juicio a Begoña Gómez? — Onda Cero Radio"
     ],
     [
-      "21 SEP",
-      "Moncloa acusa a Peinado de \"persecución judicial\" contra Begoña Gómez y señala que el auto llega con Sánchez de viaje — ESdiario"
+      "22 SEP",
+      "Vox pide a la AN que la jueza que investigó al hermano de Sánchez testifique sobre \"coacciones\" del `caso Leire Díez` — Cantabria Liberal"
     ],
     [
-      "21 SEP",
-      "El juez pone un nuevo plazo a Zapatero para explicar el origen de sus joyas — Aragón Digital"
+      "22 SEP",
+      "Consulta si estás entre los 2.846 madrileños preseleccionados para ser jurado del juicio contra Begoña Gómez — 20minutos.es"
     ],
     [
-      "21 SEP",
-      "El juez Peinado envía a juicio a Begoña Gómez al considerar que obtuvo una cátedra \"a su medida\" por su \"proximidad\" a Sánchez — Aragón Digital"
+      "22 SEP",
+      "El caso Begoña Gómez entra en una nueva etapa: cuándo podría ser el juicio y qué pasará con Pedro Sánchez — MUNDIARIO"
     ],
     [
-      "21 SEP",
-      "El juicio a Begoña Gómez certifica el fracaso del Gobierno en su intento de frenar a la Justicia — El Debate"
+      "22 SEP",
+      "Diario de la corrupción sanchista. Zapatero en el disparadero: le dirá al juez que las joyas fueron un regalo personal del rey saudí en 2007. Entonces, ¿por… — Hispanidad"
     ],
     [
-      "21 SEP",
-      "El juez cita a declarar a las hijas de Zapatero el 30 de noviembre y le da tres días al expresidente para entregar la documentación de las joyas — telecinco.es"
+      "22 SEP",
+      "Qué ocurrirá ahora con el ‘caso Begoña Gómez’ tras el relevo del juez Peinado — MUNDIARIO"
     ],
     [
-      "21 SEP",
-      "Las hijas de Zapatero, citadas como investigadas el 30 de noviembre en el ‘caso Plus Ultra’ — Andalucía Información"
+      "22 SEP",
+      "Vicente Vallés, claro sobre las causas judiciales que afectan a Moncloa: \"Ya se abre juicio a Begoña Gómez, y la investigación a Zapatero se amplía con nueva… — La Razón"
     ]
   ],
   "relojes": [
