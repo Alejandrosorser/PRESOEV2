@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-22",
+  "actualizado_ticker": "2026-09-23",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "22 SEP",
-      "Sumar ve “incomprensible” el silencio de Zapatero sobre las joyas y Podemos reitera que “pinta fatal” — Demócrata"
+      "23 SEP",
+      "Caso Leire Díez. Nos gobierna una mafia: las cloacas del PSO... — hispanidad.com"
     ],
     [
-      "22 SEP",
-      "Vox pide a la Audiencia Nacional que cite como testigo a la jueza Beatriz Biedma en la causa sobre Leire Díez — La Portada de Extremadura"
+      "23 SEP",
+      "La UCO solicita al juez bloquear cuentas de empresas portuguesas de Aldama y su socio en el 'caso hidrocarburos' — Noticias de Gipuzkoa"
     ],
     [
-      "22 SEP",
-      "Zapatero dará \"en las próximas horas\" una explicación al juez sobre el origen de sus joyas más de tres meses después — LaSexta"
+      "23 SEP",
+      "Vicente Vallés claro con lo que va a pasar con Begoña Gómez: \"Hacer justicia consistirá en que los 9 miembros del jurado popular la declaren inocente\" — La Razón"
     ],
     [
-      "22 SEP",
-      "Cómo se elige al jurado popular que juzgará a Begoña Gómez: estos son los posibles candidatos — La Razón"
+      "23 SEP",
+      "Caso Plus Ultra. El pitorreo de ZP con las joyas: ahora se las habría regalado Mohamed VI — hispanidad.com"
     ],
     [
-      "22 SEP",
-      "Montero mantiene su \"confianza\" en Zapatero y \"no tiene duda\" de que aclarará al juez la \"procedencia\" de las joyas — Europa Press"
+      "23 SEP",
+      "Nueve ciudadanos decidirán el veredicto de Begoña Gómez: así se elige un jurado popular y cómo funciona — La Vanguardia"
     ],
     [
-      "22 SEP",
-      "Vox pone el foco en la jueza que investigó al hermano de Sánchez: solicita a la Audiencia Nacional su declaración en el 'caso Leire Díez' — El Constitucional"
+      "23 SEP",
+      "Detenido en Alemania el presunto 'cerebro' financiero del 'caso Plus Ultra' que implica a Zapatero — Diario de León"
     ],
     [
-      "22 SEP",
-      "VOTA: ¿Cree que el Gobierno está sembrando la duda sobre el jurado que emitirá un veredicto en el juicio a Begoña Gómez? — Onda Cero Radio"
+      "23 SEP",
+      "De 3.000 ciudadanos a solo nueve: así se elegirá el jurado de Begoña Gómez — MUNDIARIO"
     ],
     [
-      "22 SEP",
-      "Vox pide a la AN que la jueza que investigó al hermano de Sánchez testifique sobre \"coacciones\" del `caso Leire Díez` — Cantabria Liberal"
+      "23 SEP",
+      "La UCO pide al juez congelar cuentas de firmas portuguesas de Aldama y su socio en el caso hidrocarburos — Demócrata"
     ],
     [
-      "22 SEP",
-      "Consulta si estás entre los 2.846 madrileños preseleccionados para ser jurado del juicio contra Begoña Gómez — 20Minutos"
+      "23 SEP",
+      "La UCO cifra en más de 78 millones el dinero evadido a Portugal por la trama de hidrocarburos de Aldama — elDiario.es"
     ],
     [
-      "22 SEP",
-      "El caso Begoña Gómez entra en una nueva etapa: cuándo podría ser el juicio y qué pasará con Pedro Sánchez — MUNDIARIO"
+      "23 SEP",
+      "Moncloa asegura que Sánchez mantiene una «relación fluida» con Zapatero pese a su imputación — gaceta.es"
     ],
     [
-      "22 SEP",
-      "Diario de la corrupción sanchista. Zapatero en el disparadero: le dirá al juez que las joyas fueron un regalo personal del rey saudí en 2007. Entonces, ¿por… — hispanidad.com"
+      "23 SEP",
+      "El supuesto cerebro financiero del caso Plus Ultra comparecerá este viernes ante el juez tras ser detenido — Demócrata"
     ],
     [
-      "22 SEP",
-      "Qué ocurrirá ahora con el ‘caso Begoña Gómez’ tras el relevo del juez Peinado — MUNDIARIO"
+      "23 SEP",
+      "La UCO solicita al juez Pedraz bloquear cuentas de Aldama y sus socios en Portugal por el desvío de al menos 78,3 millones del fraude de hidrocarburos — El Periódico"
     ],
     [
-      "22 SEP",
-      "Vicente Vallés, claro sobre las causas judiciales que afectan a Moncloa: \"Ya se abre juicio a Begoña Gómez, y la investigación a Zapatero se amplía con nueva… — La Razón"
+      "23 SEP",
+      "Vicente Vallés: «Moncloa ha decretado que la esposa de Pedro Sánchez es inocente. Hacer justicia consistirá en que un jurado popular la absuelva» — ABC"
     ]
   ],
   "relojes": [
