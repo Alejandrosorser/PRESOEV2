@@ -995,7 +995,11 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "23 SEP",
-      "Caso Leire Díez. Nos gobierna una mafia: las cloacas del PSO... — hispanidad.com"
+      "La UCO solicita al juez del caso Hidrocarburos el bloqueo «inmediato» de las cuentas en Portugal de Aldama y su socio — abc.es"
+    ],
+    [
+      "23 SEP",
+      "Caso Leire Díez. Nos gobierna una mafia: las cloacas del PSO... — Hispanidad"
     ],
     [
       "23 SEP",
@@ -1003,11 +1007,11 @@ window.PRESOE_DATOS =
     ],
     [
       "23 SEP",
-      "Vicente Vallés claro con lo que va a pasar con Begoña Gómez: \"Hacer justicia consistirá en que los 9 miembros del jurado popular la declaren inocente\" — La Razón"
+      "Vicente Vallés claro con lo que va a pasar con Begoña Gómez: \"Hacer justicia consistirá en que los 9 miembros del jurado popular la declaren inocente\" — larazon.es"
     ],
     [
       "23 SEP",
-      "Caso Plus Ultra. El pitorreo de ZP con las joyas: ahora se las habría regalado Mohamed VI — hispanidad.com"
+      "Caso Plus Ultra. El pitorreo de ZP con las joyas: ahora se las habría regalado Mohamed VI — Hispanidad"
     ],
     [
       "23 SEP",
@@ -1019,7 +1023,7 @@ window.PRESOE_DATOS =
     ],
     [
       "23 SEP",
-      "De 3.000 ciudadanos a solo nueve: así se elegirá el jurado de Begoña Gómez — MUNDIARIO"
+      "De 3.000 ciudadanos a solo nueve: así se elegirá el jurado de Begoña Gómez — mundiario.com"
     ],
     [
       "23 SEP",
@@ -1027,7 +1031,7 @@ window.PRESOE_DATOS =
     ],
     [
       "23 SEP",
-      "La UCO cifra en más de 78 millones el dinero evadido a Portugal por la trama de hidrocarburos de Aldama — elDiario.es"
+      "La UCO cifra en más de 78 millones el dinero evadido a Portugal por la trama de hidrocarburos de Aldama — eldiario.es"
     ],
     [
       "23 SEP",
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "23 SEP",
       "La UCO solicita al juez Pedraz bloquear cuentas de Aldama y sus socios en Portugal por el desvío de al menos 78,3 millones del fraude de hidrocarburos — El Periódico"
-    ],
-    [
-      "23 SEP",
-      "Vicente Vallés: «Moncloa ha decretado que la esposa de Pedro Sánchez es inocente. Hacer justicia consistirá en que un jurado popular la absuelva» — ABC"
     ]
   ],
   "relojes": [
