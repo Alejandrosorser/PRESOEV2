@@ -1019,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "24 SEP",
-      "El BNG carga contra Zapatero por sus joyas — Demócrata"
+      "El BNG carga contra Zapatero por sus joyas — democrata.es"
     ],
     [
       "24 SEP",
