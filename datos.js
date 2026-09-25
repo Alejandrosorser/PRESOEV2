@@ -995,6 +995,10 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "25 SEP",
+      "Caso Leire Díez. Lo que faltaba: la UCO investiga blanqueo d... — Hispanidad"
+    ],
+    [
+      "25 SEP",
       "La frase que empezó a estrechar el cerco sobre Ábalos: \"Fue una orden firmada por el ministro\" — ESdiario"
     ],
     [
@@ -1008,6 +1012,10 @@ window.PRESOE_DATOS =
     [
       "25 SEP",
       "Cómo vivirán los nueve ciudadanos que juzgarán a Begoña Gómez durante el juicio — El Debate"
+    ],
+    [
+      "25 SEP",
+      "La jueza envía a juicio a Tito Berni, su sobrino y 12 acusados más por el 'caso Mediador' — El Mundo"
     ],
     [
       "25 SEP",
@@ -1036,14 +1044,6 @@ window.PRESOE_DATOS =
     [
       "25 SEP",
       "María Jesús Montero y sus rocambolescas explicaciones sobre Zapatero: \"La cultura de los saudíes es un poco extraña\" — ESdiario"
-    ],
-    [
-      "25 SEP",
-      "El juez deja libre al 'cerebro' financiero del caso Zapatero, pero le obliga a ir a un juzgado cada dos días — El Periódico"
-    ],
-    [
-      "25 SEP",
-      "El juez deja libre a un financiero neerlandés señalado como clave en el ‘caso Plus Ultra’ — EL PAÍS"
     ]
   ],
   "relojes": [
