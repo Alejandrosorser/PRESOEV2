@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-24",
+  "actualizado_ticker": "2026-09-25",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "24 SEP",
-      "Casimiro García-Abadillo señala que sólo puede haber una explicación a que Pedro Sánchez insista en que Zapatero es un activo: \"Están unidos por alguna causa\" — Onda Cero"
+      "25 SEP",
+      "La frase que empezó a estrechar el cerco sobre Ábalos: \"Fue una orden firmada por el ministro\" — ESdiario"
     ],
     [
-      "24 SEP",
-      "El caso de las joyas de Zapatero inquieta al PSOE más allá de los tribunales — MUNDIARIO"
+      "25 SEP",
+      "Caso Mediador: Tito Berni irá a juicio con otros trece acusados y se enfrenta a ocho años de prisión — ESdiario"
     ],
     [
-      "24 SEP",
-      "Chema Crespo, amigo de Zapatero, tras su versión sobre el origen de las joyas: \"Se tambalean sus alegatos sobre la ética en política\" — antena3.com"
+      "25 SEP",
+      "Corrupción de los despachos: llega a juicio el caso del 'Tito Berni' con peticiones de hasta 13 años de cárcel — Vozpopuli"
     ],
     [
-      "24 SEP",
-      "Sánchez ratifica su \"confianza\" en Zapatero tras reconocer que las joyas fueron un regalo de Arabia Saudí — LaSexta"
+      "25 SEP",
+      "Cómo vivirán los nueve ciudadanos que juzgarán a Begoña Gómez durante el juicio — El Debate"
     ],
     [
-      "24 SEP",
+      "25 SEP",
+      "Tito Berni, el sobrino Taishet y el Mediador, al banquillo con petición de hasta 13 años de prisión — ABC"
+    ],
+    [
+      "25 SEP",
+      "Nueve ciudadanos juzgarán a Begoña Gómez: permanecerán incomunicados para deliberar y cobrarán 70 euros al día — 20Minutos"
+    ],
+    [
+      "25 SEP",
       "Vicente Vallés: «Moncloa ha decretado que la esposa de Pedro Sánchez es inocente. Hacer justicia consistirá en que un jurado popular la absuelva» — ABC"
     ],
     [
-      "24 SEP",
-      "Rego no ve \"convincentes\" las explicaciones de Zapatero sobre sus joyas y le afea que no las entregara a Patrimonio — vivagalicia.tv"
+      "25 SEP",
+      "La jueza ordena sentar en el banquillo a 'Tito Berni', su sobrino y más de una decena de acusados por los sobornos del 'caso Mediador' — Demócrata"
     ],
     [
-      "24 SEP",
-      "El BNG carga contra Zapatero por sus joyas — democrata.es"
+      "25 SEP",
+      "El juez Juan Carlos Peinado cuelga la toga días después de enviar a Begoña Gómez a juicio con jurado popular — Telecinco"
     ],
     [
-      "24 SEP",
-      "Las joyas de Zapatero, valoradas en 1,3 millones, apuntan a un posible delito fiscal ya prescrito — MUNDIARIO"
+      "25 SEP",
+      "La jueza abre juicio oral contra \"Tito Berni\" y otras 12 personas por delitos de corrupción en el marco del \"caso Mediador\" — LaSexta"
     ],
     [
-      "24 SEP",
-      "Zapatero pide a Arabia Saudí que confirme que las joyas las regaló rey Abdalá — MUNDIARIO"
+      "25 SEP",
+      "María Jesús Montero y sus rocambolescas explicaciones sobre Zapatero: \"La cultura de los saudíes es un poco extraña\" — ESdiario"
     ],
     [
-      "24 SEP",
-      "Jurado popular de Begoña Gómez: quiénes están excluidos y motivos por los que puedes ausentarte — Vozpopuli"
+      "25 SEP",
+      "El juez deja libre al 'cerebro' financiero del caso Zapatero, pero le obliga a ir a un juzgado cada dos días — El Periódico"
     ],
     [
-      "24 SEP",
-      "El abogado que comparó al fiscal general con José Bretón es investigado también por revelación de secretos — Elplural.com"
-    ],
-    [
-      "24 SEP",
-      "Los chats internos de la 'cloaca' del PSOE aclaran su prioridad: blindar a Sánchez — ESdiario"
-    ],
-    [
-      "24 SEP",
-      "Zapatero explica de dónde salieron las polémicas joyas: dice que fue un “obsequio” del rey saudí que falleció — EL PAÍS"
+      "25 SEP",
+      "El juez deja libre a un financiero neerlandés señalado como clave en el ‘caso Plus Ultra’ — EL PAÍS"
     ]
   ],
   "relojes": [
