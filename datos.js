@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-25",
+  "actualizado_ticker": "2026-09-26",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "25 SEP",
-      "Caso Leire Díez. Lo que faltaba: la UCO investiga blanqueo d... — Hispanidad"
+      "26 SEP",
+      "Peinado se jubila después de enviar a Begoña Gómez a juicio y de toda una carrera de excentricidades — es.ara.cat"
     ],
     [
-      "25 SEP",
-      "La frase que empezó a estrechar el cerco sobre Ábalos: \"Fue una orden firmada por el ministro\" — ESdiario"
+      "26 SEP",
+      "Zapatero propondrá un perito para valorar sus joyas si se mantiene la tasación — Diario de León"
     ],
     [
-      "25 SEP",
-      "Caso Mediador: Tito Berni irá a juicio con otros trece acusados y se enfrenta a ocho años de prisión — ESdiario"
+      "26 SEP",
+      "Vicente Vallés: «Moncloa ha decretado que la esposa de Pedro Sánchez es inocente. Hacer justicia consistirá en que un jurado popular la absuelva» — abc.es"
     ],
     [
-      "25 SEP",
-      "Corrupción de los despachos: llega a juicio el caso del 'Tito Berni' con peticiones de hasta 13 años de cárcel — Vozpopuli"
+      "26 SEP",
+      "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio con jurado poplular — cordobabn.com"
     ],
     [
-      "25 SEP",
-      "Cómo vivirán los nueve ciudadanos que juzgarán a Begoña Gómez durante el juicio — El Debate"
+      "26 SEP",
+      "El juez Peinado se retira tras enviar a Begoña Gómez a juicio con pruebas firmes — diarioenpositivo.com"
     ],
     [
-      "25 SEP",
-      "La jueza envía a juicio a Tito Berni, su sobrino y 12 acusados más por el 'caso Mediador' — El Mundo"
+      "26 SEP",
+      "El juez Peinado se jubila después de enviar a Begoña Gómez a juicio con jurado popular — Diari de Tarragona"
     ],
     [
-      "25 SEP",
-      "Tito Berni, el sobrino Taishet y el Mediador, al banquillo con petición de hasta 13 años de prisión — ABC"
+      "26 SEP",
+      "El juez Peinado se retira tras dos años de investigación y el envío a juicio con jurado de Begoña Gómez — Demócrata"
     ],
     [
-      "25 SEP",
-      "Nueve ciudadanos juzgarán a Begoña Gómez: permanecerán incomunicados para deliberar y cobrarán 70 euros al día — 20Minutos"
+      "26 SEP",
+      "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio después de una investigación con avales y correcciones — Europa Press"
     ],
     [
-      "25 SEP",
-      "Vicente Vallés: «Moncloa ha decretado que la esposa de Pedro Sánchez es inocente. Hacer justicia consistirá en que un jurado popular la absuelva» — ABC"
+      "26 SEP",
+      "El BOE publica la jubilación de Peinado tras dejar a Begoña Gómez a las puertas del juicio — Elplural.com"
     ],
     [
-      "25 SEP",
-      "La jueza ordena sentar en el banquillo a 'Tito Berni', su sobrino y más de una decena de acusados por los sobornos del 'caso Mediador' — Demócrata"
+      "26 SEP",
+      "Bonificación de 67 euros al día, alojamiento y dietas: los derechos del jurado popular que juzgará a Begoña Gómez — Libertad Digital"
     ],
     [
-      "25 SEP",
-      "El juez Juan Carlos Peinado cuelga la toga días después de enviar a Begoña Gómez a juicio con jurado popular — Telecinco"
+      "26 SEP",
+      "La investigación eleva a 20 millones el valor de los inmuebles solo en Francia del empresario peruano clave en el blanqueo de Plus Ultra — El Periódico"
     ],
     [
-      "25 SEP",
-      "La jueza abre juicio oral contra \"Tito Berni\" y otras 12 personas por delitos de corrupción en el marco del \"caso Mediador\" — LaSexta"
+      "26 SEP",
+      "Zapatero abruma a Calama con recursos para allanar una futura apelación al Constitucional por vulneración d... — OkDiario"
     ],
     [
-      "25 SEP",
-      "María Jesús Montero y sus rocambolescas explicaciones sobre Zapatero: \"La cultura de los saudíes es un poco extraña\" — ESdiario"
+      "26 SEP",
+      "El jurado de Begoña Gómez ya tiene instrucciones — La Voz de Galicia"
     ]
   ],
   "relojes": [
