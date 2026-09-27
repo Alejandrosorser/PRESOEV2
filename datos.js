@@ -1011,15 +1011,15 @@ window.PRESOE_DATOS =
     ],
     [
       "27 SEP",
-      "Los peritos ven factible el origen saudí de las joyas de ZP: el precedente de Meghan Markle — theobjective.com"
+      "Los peritos ven factible el origen saudí de las joyas de ZP: el precedente de Meghan Markle — The Objective"
     ],
     [
       "27 SEP",
-      "Peinado cumple 72 y cuelga la toga: el juez del 'caso Begoña' llega indemne al retiro tras 894 días bajo el fuego de Moncloa — elespanol.com"
+      "Peinado cumple 72 y cuelga la toga: el juez del 'caso Begoña' llega indemne al retiro tras 894 días bajo el fuego de Moncloa — El Español"
     ],
     [
       "27 SEP",
-      "Los tres motivos por los que Sánchez \"confía\" en Zapatero a pesar de las joyas: Plus Ultra, Venezuela y Puigdemont — elespanol.com"
+      "Los tres motivos por los que Sánchez \"confía\" en Zapatero a pesar de las joyas: Plus Ultra, Venezuela y Puigdemont — El Español"
     ],
     [
       "27 SEP",
@@ -1031,7 +1031,7 @@ window.PRESOE_DATOS =
     ],
     [
       "26 SEP",
-      "Begoña ante el jurado — publico.es"
+      "Begoña ante el jurado — Diario Público"
     ],
     [
       "26 SEP",
