@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-26",
+  "actualizado_ticker": "2026-09-27",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "26 SEP",
-      "Peinado se jubila después de enviar a Begoña Gómez a juicio y de toda una carrera de excentricidades — es.ara.cat"
+      "27 SEP",
+      "El juez Peinado se jubila este domingo tras enviar a Begoña Gómez a juicio — Europa Press"
     ],
     [
-      "26 SEP",
-      "Zapatero propondrá un perito para valorar sus joyas si se mantiene la tasación — Diario de León"
+      "27 SEP",
+      "Peinado se jubila dejando el caso Begoña en el alambre: expertos creen que el juicio podría no celebrarse — Elplural.com"
     ],
     [
-      "26 SEP",
-      "Vicente Vallés: «Moncloa ha decretado que la esposa de Pedro Sánchez es inocente. Hacer justicia consistirá en que un jurado popular la absuelva» — abc.es"
+      "27 SEP",
+      "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio — Fuentes Informadas"
     ],
     [
-      "26 SEP",
-      "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio con jurado poplular — cordobabn.com"
+      "27 SEP",
+      "La trama que blanqueó el rescate de Plus Ultra esquilmó el oro venezolano al vender lingotes por más de 1.000 millones de dólares — El Periódico"
     ],
     [
-      "26 SEP",
-      "El juez Peinado se retira tras enviar a Begoña Gómez a juicio con pruebas firmes — diarioenpositivo.com"
+      "27 SEP",
+      "Los peritos ven factible el origen saudí de las joyas de ZP: el precedente de Meghan Markle — theobjective.com"
     ],
     [
-      "26 SEP",
-      "El juez Peinado se jubila después de enviar a Begoña Gómez a juicio con jurado popular — Diari de Tarragona"
+      "27 SEP",
+      "Peinado cumple 72 y cuelga la toga: el juez del 'caso Begoña' llega indemne al retiro tras 894 días bajo el fuego de Moncloa — elespanol.com"
     ],
     [
-      "26 SEP",
-      "El juez Peinado se retira tras dos años de investigación y el envío a juicio con jurado de Begoña Gómez — Demócrata"
+      "27 SEP",
+      "Los tres motivos por los que Sánchez \"confía\" en Zapatero a pesar de las joyas: Plus Ultra, Venezuela y Puigdemont — elespanol.com"
     ],
     [
-      "26 SEP",
-      "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio después de una investigación con avales y correcciones — Europa Press"
-    ],
-    [
-      "26 SEP",
-      "El BOE publica la jubilación de Peinado tras dejar a Begoña Gómez a las puertas del juicio — Elplural.com"
-    ],
-    [
-      "26 SEP",
-      "Bonificación de 67 euros al día, alojamiento y dietas: los derechos del jurado popular que juzgará a Begoña Gómez — Libertad Digital"
-    ],
-    [
-      "26 SEP",
-      "La investigación eleva a 20 millones el valor de los inmuebles solo en Francia del empresario peruano clave en el blanqueo de Plus Ultra — El Periódico"
-    ],
-    [
-      "26 SEP",
-      "Zapatero abruma a Calama con recursos para allanar una futura apelación al Constitucional por vulneración d... — OkDiario"
+      "27 SEP",
+      "Juristas ponen en duda la estrategia de Zapatero con las joyas: «Da la sensación de que se lo inventó» — El Debate"
     ],
     [
       "26 SEP",
       "El jurado de Begoña Gómez ya tiene instrucciones — La Voz de Galicia"
+    ],
+    [
+      "26 SEP",
+      "Begoña ante el jurado — publico.es"
+    ],
+    [
+      "26 SEP",
+      "El BOE publica la jubilación forzosa por edad del juez Peinado cuatro días después de enviar a Begoña Gómez a juicio — Onda Cero"
+    ],
+    [
+      "26 SEP",
+      "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio después de unos ataques brutales desde Moncloa — Cantabria Liberal"
+    ],
+    [
+      "26 SEP",
+      "El juez Peinado se jubila tras abrir juicio contra Begoña Gómez — Madrid Actual"
     ]
   ],
   "relojes": [
