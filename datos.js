@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-27",
+  "actualizado_ticker": "2026-09-28",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "27 SEP",
-      "El juez Peinado se jubila este domingo tras enviar a Begoña Gómez a juicio — Europa Press"
+      "28 SEP",
+      "Pedraz admite la personación de la juez Biedma como acusación particular en el caso de la fontanera Leire y la cita el 8 de octubre — Onda Cero"
     ],
     [
-      "27 SEP",
-      "Peinado se jubila dejando el caso Begoña en el alambre: expertos creen que el juicio podría no celebrarse — Elplural.com"
+      "28 SEP",
+      "La investigación del caso Plus Ultra detecta un pago de 20.000 euros a la empresa de las hijas de Zapatero — Marruecom"
     ],
     [
-      "27 SEP",
-      "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio — Fuentes Informadas"
+      "28 SEP",
+      "La jueza que investigó al hermano de Pedro Sánchez se personará como perjudicada en el 'caso de Leire Díez': citada el 8 de octubre — El Constitucional"
     ],
     [
-      "27 SEP",
-      "La trama que blanqueó el rescate de Plus Ultra esquilmó el oro venezolano al vender lingotes por más de 1.000 millones de dólares — El Periódico"
+      "28 SEP",
+      "Pedraz cita el 8 de octubre a la jueza Beatriz Biedma como perjudicada en el caso Leire Díez — La Portada de Extremadura"
     ],
     [
-      "27 SEP",
-      "Los peritos ven factible el origen saudí de las joyas de ZP: el precedente de Meghan Markle — The Objective"
+      "28 SEP",
+      "Pedraz admite la personación como perjudicada de la jueza que investigó a David Sánchez — La Vanguardia"
     ],
     [
-      "27 SEP",
-      "Peinado cumple 72 y cuelga la toga: el juez del 'caso Begoña' llega indemne al retiro tras 894 días bajo el fuego de Moncloa — El Español"
+      "28 SEP",
+      "La juez que procesó a David Sánchez, admitida como acusación en el caso Leire — Diario de Sevilla"
     ],
     [
-      "27 SEP",
-      "Los tres motivos por los que Sánchez \"confía\" en Zapatero a pesar de las joyas: Plus Ultra, Venezuela y Puigdemont — El Español"
+      "28 SEP",
+      "El juez del caso Leire cita como perjudicada a la jueza de David Sánchez — RTVE.es"
     ],
     [
-      "27 SEP",
-      "Juristas ponen en duda la estrategia de Zapatero con las joyas: «Da la sensación de que se lo inventó» — El Debate"
+      "28 SEP",
+      "Pedraz mete a la jueza del hermano de Sánchez en el corazón de las cloacas de Ferraz — esdiario.com"
     ],
     [
-      "26 SEP",
-      "El jurado de Begoña Gómez ya tiene instrucciones — La Voz de Galicia"
+      "28 SEP",
+      "Pedraz acepta que la juez Biedma se persone en el ‘caso Leire’ y la cita el 8 de octubre — The Objective"
     ],
     [
-      "26 SEP",
-      "Begoña ante el jurado — Diario Público"
+      "28 SEP",
+      "Pedraz admite la personación de la juez Biedma en las cloacas del PSOE pero niega investigar por ahora el \"sustillo\" — Libertad Digital"
     ],
     [
-      "26 SEP",
-      "El BOE publica la jubilación forzosa por edad del juez Peinado cuatro días después de enviar a Begoña Gómez a juicio — Onda Cero"
+      "28 SEP",
+      "La Audiencia Nacional admite como víctima en el ‘caso Leire Díez’ a la jueza que investigó al hermano de Sánchez — EL PAÍS"
     ],
     [
-      "26 SEP",
-      "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio después de unos ataques brutales desde Moncloa — Cantabria Liberal"
+      "28 SEP",
+      "El juez que investiga la trama de Leire Díez cita a la jueza del caso del hermano de Sánchez tras aceptar su personación — El Periódico"
     ],
     [
-      "26 SEP",
-      "El juez Peinado se jubila tras abrir juicio contra Begoña Gómez — Madrid Actual"
+      "28 SEP",
+      "Pedraz cita como perjudicada a la jueza que investigó al hermano de Sánchez en el caso Leire Díez — Demócrata"
     ]
   ],
   "relojes": [
