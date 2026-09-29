@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-28",
+  "actualizado_ticker": "2026-09-29",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "28 SEP",
-      "Pedraz admite la personación de la juez Biedma como acusación particular en el caso de la fontanera Leire y la cita el 8 de octubre — Onda Cero"
+      "29 SEP",
+      "Caso Plus Ultra. El juez Calama rechaza la recusación de Zapatero a la joyería Yanes — Hispanidad"
     ],
     [
-      "28 SEP",
-      "La investigación del caso Plus Ultra detecta un pago de 20.000 euros a la empresa de las hijas de Zapatero — Marruecom"
+      "29 SEP",
+      "El juez rechaza la recusación de Zapatero a la segunda joyería para tasar las joyas y niega \"riesgo\" de parcialidad — heraldo.es"
     ],
     [
-      "28 SEP",
-      "La jueza que investigó al hermano de Pedro Sánchez se personará como perjudicada en el 'caso de Leire Díez': citada el 8 de octubre — El Constitucional"
+      "29 SEP",
+      "El juez descarta la recusación de Zapatero contra Yanes por la tasación de sus joyas — Euronews.com"
     ],
     [
-      "28 SEP",
-      "Pedraz cita el 8 de octubre a la jueza Beatriz Biedma como perjudicada en el caso Leire Díez — La Portada de Extremadura"
+      "29 SEP",
+      "La Junta de Extremadura exige al PSOE que dé explicaciones por la presunta trama de Leire Díez contra la jueza Biedma — Demócrata"
     ],
     [
-      "28 SEP",
-      "Pedraz admite la personación como perjudicada de la jueza que investigó a David Sánchez — La Vanguardia"
+      "29 SEP",
+      "El juez rechaza la petición de Zapatero de apartar a Yanes en la nueva tasación de las joyas — Onda Cero Radio"
     ],
     [
-      "28 SEP",
-      "La juez que procesó a David Sánchez, admitida como acusación en el caso Leire — Diario de Sevilla"
+      "29 SEP",
+      "El juez rechaza la petición de Zapatero de apartar de la nueva tasación de las joyas a la joyería Yanes — Diario Público"
     ],
     [
-      "28 SEP",
-      "El juez del caso Leire cita como perjudicada a la jueza de David Sánchez — RTVE.es"
+      "29 SEP",
+      "El juez rechaza la recusación de Zapatero: la joyería Yanes realizará una nueva tasación de las alhajas — El Mundo"
     ],
     [
-      "28 SEP",
-      "Pedraz mete a la jueza del hermano de Sánchez en el corazón de las cloacas de Ferraz — esdiario.com"
+      "29 SEP",
+      "El juez del caso Plus Ultra rechaza la recusación de Zapatero contra la joyería Yanes: niega falta de \"imparcialidad\" que alegaba el expresidente — El Constitucional"
     ],
     [
-      "28 SEP",
-      "Pedraz acepta que la juez Biedma se persone en el ‘caso Leire’ y la cita el 8 de octubre — The Objective"
+      "29 SEP",
+      "Tasación judicial: rechazada la recusación de Zapatero a la segunda joyería designada — Andalucía Información"
     ],
     [
-      "28 SEP",
-      "Pedraz admite la personación de la juez Biedma en las cloacas del PSOE pero niega investigar por ahora el \"sustillo\" — Libertad Digital"
+      "29 SEP",
+      "El juez del caso Plus Ultra rechaza el intento de Zapatero para impedir que Yanes tasara sus joyas — Artículo 14"
     ],
     [
-      "28 SEP",
-      "La Audiencia Nacional admite como víctima en el ‘caso Leire Díez’ a la jueza que investigó al hermano de Sánchez — EL PAÍS"
+      "29 SEP",
+      "El juez rechaza la petición de Zapatero de apartar a la joyería elegida para una segunda tasación — EL PAÍS"
     ],
     [
-      "28 SEP",
-      "El juez que investiga la trama de Leire Díez cita a la jueza del caso del hermano de Sánchez tras aceptar su personación — El Periódico"
+      "29 SEP",
+      "El juez mantiene a la segunda joyería para tasar las joyas de Zapatero y descarta riesgo de parcialidad — Demócrata"
     ],
     [
-      "28 SEP",
-      "Pedraz cita como perjudicada a la jueza que investigó al hermano de Sánchez en el caso Leire Díez — Demócrata"
+      "29 SEP",
+      "El juez rechaza la recusación planteada por Zapatero contra la joyería Yanes — Ultima Hora"
     ]
   ],
   "relojes": [
