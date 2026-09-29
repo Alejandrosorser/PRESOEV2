@@ -1007,6 +1007,10 @@ window.PRESOE_DATOS =
     ],
     [
       "29 SEP",
+      "La AN rechaza la recusación de Zapatero contra la joyería Yanes y descarta un «riesgo» de parcialidad — Confilegal"
+    ],
+    [
+      "29 SEP",
       "La Junta de Extremadura exige al PSOE que dé explicaciones por la presunta trama de Leire Díez contra la jueza Biedma — Demócrata"
     ],
     [
@@ -1031,7 +1035,7 @@ window.PRESOE_DATOS =
     ],
     [
       "29 SEP",
-      "El juez del caso Plus Ultra rechaza el intento de Zapatero para impedir que Yanes tasara sus joyas — Artículo 14"
+      "El juez del caso Plus Ultra rechaza el intento de Zapatero para impedir que Yanes tasara sus joyas — articulo14.es"
     ],
     [
       "29 SEP",
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "29 SEP",
       "El juez mantiene a la segunda joyería para tasar las joyas de Zapatero y descarta riesgo de parcialidad — Demócrata"
-    ],
-    [
-      "29 SEP",
-      "El juez rechaza la recusación planteada por Zapatero contra la joyería Yanes — Ultima Hora"
     ]
   ],
   "relojes": [
