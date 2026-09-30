@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-29",
+  "actualizado_ticker": "2026-09-30",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "29 SEP",
-      "Caso Plus Ultra. El juez Calama rechaza la recusación de Zapatero a la joyería Yanes — Hispanidad"
+      "30 SEP",
+      "El juez del caso Leire Díez responde a la Fiscalía Europea que no hay indicios sobre uso de fondos de la UE — elDiario.es"
+    ],
+    [
+      "30 SEP",
+      "Caso Hidrocarburos: la Audiencia Nacional rastrea en Portugal e Irlanda el dinero de la trama vinculada a Aldama y al PSOE — Hispanidad"
+    ],
+    [
+      "30 SEP",
+      "El juez del 'caso Leire Díez' responde a la Fiscalía Europea que no constan indicios sobre uso de dinero de la UE — Europa Press"
+    ],
+    [
+      "30 SEP",
+      "La UCO interroga en Badajoz a testigos de las supuestas maniobras de la trama de Leire Díez contra la jueza del ‘caso David Sánchez’ — EL PAÍS"
+    ],
+    [
+      "30 SEP",
+      "El juez Calama pone fecha al nuevo informe de las joyas de Zapatero — Libertad Digital"
+    ],
+    [
+      "30 SEP",
+      "El fiscal que se reunió con Leire calificó de «temeraria» la querella sobre el espionaje de las cloacas a la juez del hermano de Sánchez — El Debate"
+    ],
+    [
+      "30 SEP",
+      "Luis María Pardo, presidente de Iustitia Europa: “Va a ser muy complicado que el juicio contra Begoña Gómez se pueda celebrar antes del 2028” — Infobae"
+    ],
+    [
+      "30 SEP",
+      "Los blanqueadores de Plus Ultra participaron en la corrupción de Maduro para sustraer fondos de la lucha contra el hambre — El Periódico"
+    ],
+    [
+      "30 SEP",
+      "Hacienda aumenta el control sobre las comisiones tras aflorar 530.000 euros de Plus Ultra al entorno de Zapatero — Vozpopuli"
     ],
     [
       "29 SEP",
-      "El juez rechaza la recusación de Zapatero a la segunda joyería para tasar las joyas y niega \"riesgo\" de parcialidad — heraldo.es"
+      "El jurado de Begoña Gómez — La Vanguardia"
     ],
     [
       "29 SEP",
-      "El juez descarta la recusación de Zapatero contra Yanes por la tasación de sus joyas — Euronews.com"
+      "La trama que ayudó a blanquear el rescate de Plus Ultra adquirió inmuebles en España de entre 900.000 euros y 7,6 millones — El Día"
     ],
     [
       "29 SEP",
-      "La AN rechaza la recusación de Zapatero contra la joyería Yanes y descarta un «riesgo» de parcialidad — Confilegal"
+      "La Fiscalía se opone a la petición de Zapatero de excluir del 'caso Plus Ultra' su operación en Bolivia — Diario Público"
     ],
     [
       "29 SEP",
-      "La Junta de Extremadura exige al PSOE que dé explicaciones por la presunta trama de Leire Díez contra la jueza Biedma — Demócrata"
-    ],
-    [
-      "29 SEP",
-      "El juez rechaza la petición de Zapatero de apartar a Yanes en la nueva tasación de las joyas — Onda Cero Radio"
-    ],
-    [
-      "29 SEP",
-      "El juez rechaza la petición de Zapatero de apartar de la nueva tasación de las joyas a la joyería Yanes — Diario Público"
-    ],
-    [
-      "29 SEP",
-      "El juez rechaza la recusación de Zapatero: la joyería Yanes realizará una nueva tasación de las alhajas — El Mundo"
-    ],
-    [
-      "29 SEP",
-      "El juez del caso Plus Ultra rechaza la recusación de Zapatero contra la joyería Yanes: niega falta de \"imparcialidad\" que alegaba el expresidente — El Constitucional"
-    ],
-    [
-      "29 SEP",
-      "Tasación judicial: rechazada la recusación de Zapatero a la segunda joyería designada — Andalucía Información"
-    ],
-    [
-      "29 SEP",
-      "El juez del caso Plus Ultra rechaza el intento de Zapatero para impedir que Yanes tasara sus joyas — articulo14.es"
-    ],
-    [
-      "29 SEP",
-      "El juez rechaza la petición de Zapatero de apartar a la joyería elegida para una segunda tasación — EL PAÍS"
-    ],
-    [
-      "29 SEP",
-      "El juez mantiene a la segunda joyería para tasar las joyas de Zapatero y descarta riesgo de parcialidad — Demócrata"
+      "La Fiscalía respalda investigar los 200.000 euros que Zapatero recibió de una empresa peruana y pide rechazar su recurso para excluir el informe de la UDEF — Infobae"
     ]
   ],
   "relojes": [
