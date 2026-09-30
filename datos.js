@@ -995,6 +995,10 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "30 SEP",
+      "La jueza del caso del hermano de Sánchez aporta indicios sobre posibles presiones de la trama por investigar una muerte en un clan de narcotráfico — El Periódico"
+    ],
+    [
+      "30 SEP",
       "El juez del caso Leire Díez responde a la Fiscalía Europea que no hay indicios sobre uso de fondos de la UE — elDiario.es"
     ],
     [
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "29 SEP",
       "La Fiscalía se opone a la petición de Zapatero de excluir del 'caso Plus Ultra' su operación en Bolivia — Diario Público"
-    ],
-    [
-      "29 SEP",
-      "La Fiscalía respalda investigar los 200.000 euros que Zapatero recibió de una empresa peruana y pide rechazar su recurso para excluir el informe de la UDEF — Infobae"
     ]
   ],
   "relojes": [
