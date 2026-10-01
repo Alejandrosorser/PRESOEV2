@@ -1031,7 +1031,7 @@ window.PRESOE_DATOS =
     ],
     [
       "30 SEP",
-      "El caso Mediador llega a juicio: 14 acusados y seis delitos — Confidencial Digital"
+      "El caso Mediador llega a juicio: 14 acusados y seis delitos — elconfidencialdigital.com"
     ],
     [
       "30 SEP",
@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "30 SEP",
-      "Escándalo Judicial: la jueza Beatriz Biedma denuncia amenazas y campaña en su contra relacionada con el caso Leire — El Imparcial - Diario liberal e independiente"
+      "Escándalo Judicial: la jueza Beatriz Biedma denuncia amenazas y campaña en su contra relacionada con el caso Leire — elimparcial.es"
     ]
   ],
   "relojes": [
