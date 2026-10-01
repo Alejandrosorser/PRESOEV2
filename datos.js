@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-09-30",
+  "actualizado_ticker": "2026-10-01",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "30 SEP",
-      "La jueza del caso del hermano de Sánchez aporta indicios sobre posibles presiones de la trama por investigar una muerte en un clan de narcotráfico — El Periódico"
+      "01 OCT",
+      "El caso de las cloacas del PSOE se hincha: la juez Biedma ap... — Hispanidad"
+    ],
+    [
+      "01 OCT",
+      "El abogado de Zapatero en el caso Plus Ultra abre en la UMU un curso sobre Derecho europeo — La Opinión de Murcia"
+    ],
+    [
+      "01 OCT",
+      "Luis María Pardo, presidente de Iustitia Europa: “Las críticas al juez Peinado son infundadas, lamentables e indecentes” — Infobae"
+    ],
+    [
+      "01 OCT",
+      "El juez Pedraz enfría la vía europea del ‘caso Leire Díez’: no aprecia indicios de que los pagos investigados afecten a los fondos de la Unión Europea — Infobae"
+    ],
+    [
+      "01 OCT",
+      "La Fiscalía General del Estado ocultó a la Audiencia Nacional tres documentos sobre el plan de las cloacas... — gaceta.es"
+    ],
+    [
+      "01 OCT",
+      "La Audiencia Nacional detecta personas ajenas en el sistema del caso Leire y revisa si accedieron a información reservada — Estrella Digital"
+    ],
+    [
+      "01 OCT",
+      "Francia detectó uso de información privilegiada por los blanqueadores de Plus Ultra a la hora de operar con acciones de Alstom y otras empresas — LNE"
+    ],
+    [
+      "01 OCT",
+      "La exclusiva de El Debate sobre Zapatero que destapó la trama de Plus Ultra y acorraló al expresidente — El Debate"
+    ],
+    [
+      "01 OCT",
+      "La UCO estrecha el cerco por la trama de Leire Díez contra la jueza Biedma — MUNDIARIO"
     ],
     [
       "30 SEP",
-      "El juez del caso Leire Díez responde a la Fiscalía Europea que no hay indicios sobre uso de fondos de la UE — elDiario.es"
+      "El caso Mediador llega a juicio: 14 acusados y seis delitos — Confidencial Digital"
     ],
     [
       "30 SEP",
-      "Caso Hidrocarburos: la Audiencia Nacional rastrea en Portugal e Irlanda el dinero de la trama vinculada a Aldama y al PSOE — Hispanidad"
+      "La UCO investiga el supuesto plan contra la jueza Biedma: \"No se le dio nungún susto porque se dio cuenta de que la estaban persiguiendo\" — antena3.com"
     ],
     [
       "30 SEP",
-      "El juez del 'caso Leire Díez' responde a la Fiscalía Europea que no constan indicios sobre uso de dinero de la UE — Europa Press"
+      "La jueza Biedma remite más de 90 vídeos de YouTube donde la presunta trama de Leire Díez le lanzó «ataques» — La Voz de Galicia"
     ],
     [
       "30 SEP",
-      "La UCO interroga en Badajoz a testigos de las supuestas maniobras de la trama de Leire Díez contra la jueza del ‘caso David Sánchez’ — EL PAÍS"
-    ],
-    [
-      "30 SEP",
-      "El juez Calama pone fecha al nuevo informe de las joyas de Zapatero — Libertad Digital"
-    ],
-    [
-      "30 SEP",
-      "El fiscal que se reunió con Leire calificó de «temeraria» la querella sobre el espionaje de las cloacas a la juez del hermano de Sánchez — El Debate"
-    ],
-    [
-      "30 SEP",
-      "Luis María Pardo, presidente de Iustitia Europa: “Va a ser muy complicado que el juicio contra Begoña Gómez se pueda celebrar antes del 2028” — Infobae"
-    ],
-    [
-      "30 SEP",
-      "Los blanqueadores de Plus Ultra participaron en la corrupción de Maduro para sustraer fondos de la lucha contra el hambre — El Periódico"
-    ],
-    [
-      "30 SEP",
-      "Hacienda aumenta el control sobre las comisiones tras aflorar 530.000 euros de Plus Ultra al entorno de Zapatero — Vozpopuli"
-    ],
-    [
-      "29 SEP",
-      "El jurado de Begoña Gómez — La Vanguardia"
-    ],
-    [
-      "29 SEP",
-      "La trama que ayudó a blanquear el rescate de Plus Ultra adquirió inmuebles en España de entre 900.000 euros y 7,6 millones — El Día"
-    ],
-    [
-      "29 SEP",
-      "La Fiscalía se opone a la petición de Zapatero de excluir del 'caso Plus Ultra' su operación en Bolivia — Diario Público"
+      "Escándalo Judicial: la jueza Beatriz Biedma denuncia amenazas y campaña en su contra relacionada con el caso Leire — El Imparcial - Diario liberal e independiente"
     ]
   ],
   "relojes": [
