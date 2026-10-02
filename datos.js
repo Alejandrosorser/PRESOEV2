@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-01",
+  "actualizado_ticker": "2026-10-02",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "01 OCT",
-      "El caso de las cloacas del PSOE se hincha: la juez Biedma ap... — Hispanidad"
+      "02 OCT",
+      "El socio de Santos Cerdán no puede pagar la minuta de su abogado por las cuentas bloqueadas — moncloa.com"
+    ],
+    [
+      "02 OCT",
+      "Leire Díez intenta sacar de su causa a la jueza Biedma antes de que declare contra ella — ESdiario"
     ],
     [
       "01 OCT",
-      "El abogado de Zapatero en el caso Plus Ultra abre en la UMU un curso sobre Derecho europeo — La Opinión de Murcia"
+      "Conde-Pumpido evita aclarar si se abstendrá en el recurso de García Ortiz: \"Todavía no hemos empezado a estudiarlo\" — El Independiente"
     ],
     [
       "01 OCT",
-      "Luis María Pardo, presidente de Iustitia Europa: “Las críticas al juez Peinado son infundadas, lamentables e indecentes” — Infobae"
+      "Leire Díez pide que se anule la personación de la juez que investigó al hermano de Sánchez y niega haberla calumniado — ABC"
     ],
     [
       "01 OCT",
-      "El juez Pedraz enfría la vía europea del ‘caso Leire Díez’: no aprecia indicios de que los pagos investigados afecten a los fondos de la Unión Europea — Infobae"
+      "Leire Díez pide al juez Pedraz que saque de la causa a la jueza de Badajoz que procesó al hermano de Sánchez — elDiario.es"
     ],
     [
       "01 OCT",
-      "La Fiscalía General del Estado ocultó a la Audiencia Nacional tres documentos sobre el plan de las cloacas... — gaceta.es"
+      "Leire Díez pide anular la personación de la jueza que investigó al hermano de Sánchez y niega haberla calumniado: \"No existe el más mínimo indicio\" — El Constitucional"
     ],
     [
       "01 OCT",
-      "La Audiencia Nacional detecta personas ajenas en el sistema del caso Leire y revisa si accedieron a información reservada — Estrella Digital"
+      "Leire Díez solicita anular la personación de la jueza que investiga al hermano de Sánchez — Diario en Positivo"
     ],
     [
       "01 OCT",
-      "Francia detectó uso de información privilegiada por los blanqueadores de Plus Ultra a la hora de operar con acciones de Alstom y otras empresas — LNE"
+      "El juez interroga como imputado al supuesto cerebro financiero del caso Plus Ultra el 16 de octubre — Demócrata"
     ],
     [
       "01 OCT",
-      "La exclusiva de El Debate sobre Zapatero que destapó la trama de Plus Ultra y acorraló al expresidente — El Debate"
+      "El juez del caso Zapatero cita al prestamista holandés de Plus Ultra el 16 de octubre — El Debate"
     ],
     [
       "01 OCT",
-      "La UCO estrecha el cerco por la trama de Leire Díez contra la jueza Biedma — MUNDIARIO"
+      "Leire Díez rechaza que la jueza se persone como perjudicada — Fuentes Informadas"
     ],
     [
-      "30 SEP",
-      "El caso Mediador llega a juicio: 14 acusados y seis delitos — elconfidencialdigital.com"
+      "01 OCT",
+      "Leire Díez pide a Pedraz que retire a Beatriz Biedma su personación como perjudicada — La Portada de Extremadura"
     ],
     [
-      "30 SEP",
-      "La UCO investiga el supuesto plan contra la jueza Biedma: \"No se le dio nungún susto porque se dio cuenta de que la estaban persiguiendo\" — antena3.com"
+      "01 OCT",
+      "Leire Díez reclama dejar sin efecto la personación de la jueza que investigó al hermano de Sánchez y sostiene que no la ha calumniado — Demócrata"
     ],
     [
-      "30 SEP",
-      "La jueza Biedma remite más de 90 vídeos de YouTube donde la presunta trama de Leire Díez le lanzó «ataques» — La Voz de Galicia"
-    ],
-    [
-      "30 SEP",
-      "Escándalo Judicial: la jueza Beatriz Biedma denuncia amenazas y campaña en su contra relacionada con el caso Leire — elimparcial.es"
+      "01 OCT",
+      "Leire Díez pide a Pedraz que anule la personación de la jueza Biedma y niega haberla calumniado — Canal Extremadura"
     ]
   ],
   "relojes": [
