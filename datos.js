@@ -1003,7 +1003,7 @@ window.PRESOE_DATOS =
     ],
     [
       "01 OCT",
-      "Conde-Pumpido evita aclarar si se abstendrá en el recurso de García Ortiz: \"Todavía no hemos empezado a estudiarlo\" — El Independiente"
+      "Conde-Pumpido evita aclarar si se abstendrá en el recurso de García Ortiz: \"Todavía no hemos empezado a estudiarlo\" — elindependiente.com"
     ],
     [
       "01 OCT",
@@ -1011,7 +1011,7 @@ window.PRESOE_DATOS =
     ],
     [
       "01 OCT",
-      "Leire Díez pide al juez Pedraz que saque de la causa a la jueza de Badajoz que procesó al hermano de Sánchez — elDiario.es"
+      "Leire Díez pide al juez Pedraz que saque de la causa a la jueza de Badajoz que procesó al hermano de Sánchez — eldiario.es"
     ],
     [
       "01 OCT",
@@ -1027,7 +1027,7 @@ window.PRESOE_DATOS =
     ],
     [
       "01 OCT",
-      "El juez del caso Zapatero cita al prestamista holandés de Plus Ultra el 16 de octubre — El Debate"
+      "El juez del caso Zapatero cita al prestamista holandés de Plus Ultra el 16 de octubre — eldebate.com"
     ],
     [
       "01 OCT",
