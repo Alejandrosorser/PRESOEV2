@@ -999,7 +999,7 @@ window.PRESOE_DATOS =
     ],
     [
       "03 OCT",
-      "Uno de los bancos que ingresó el rescate de Plus Ultra cuestionó el envío de fondos a una empresa panameña — El Periódico"
+      "Uno de los bancos que ingresó el rescate de Plus Ultra cuestionó el envío de fondos a una empresa panameña — elperiodico.com"
     ],
     [
       "03 OCT",
@@ -1031,7 +1031,7 @@ window.PRESOE_DATOS =
     ],
     [
       "01 OCT",
-      "Leire Díez pide que se anule la personación de la juez que investigó al hermano de Sánchez y niega haberla calumniado — abc.es"
+      "Leire Díez pide que se anule la personación de la juez que investigó al hermano de Sánchez y niega haberla calumniado — ABC"
     ],
     [
       "01 OCT",
