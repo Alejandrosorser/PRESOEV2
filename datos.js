@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-02",
+  "actualizado_ticker": "2026-10-03",
   "hub": {
     "k1": [
       430,
@@ -994,24 +994,48 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "03 OCT",
+      "La defensa de Zapatero dice que impugnará el rechazo del juez a la recusación de la segunda joyería que tasará las joyas — Diario Red"
+    ],
+    [
+      "03 OCT",
+      "Uno de los bancos que ingresó el rescate de Plus Ultra cuestionó el envío de fondos a una empresa panameña — El Periódico"
+    ],
+    [
+      "03 OCT",
+      "Caso Plus Ultra: La SEPI sabía que el primer pago de 19 millones fue para pagar deudas — moncloa.com"
+    ],
+    [
       "02 OCT",
-      "El socio de Santos Cerdán no puede pagar la minuta de su abogado por las cuentas bloqueadas — moncloa.com"
+      "Zapatero amenaza con impugnar al perito de sus joyas — La Voz de Galicia"
+    ],
+    [
+      "02 OCT",
+      "La defensa de Rodríguez Zapatero recurrirá la inadmisibilidad de su recusación — Onda Regional de Murcia | ORM"
     ],
     [
       "02 OCT",
       "Leire Díez intenta sacar de su causa a la jueza Biedma antes de que declare contra ella — ESdiario"
     ],
     [
-      "01 OCT",
-      "Conde-Pumpido evita aclarar si se abstendrá en el recurso de García Ortiz: \"Todavía no hemos empezado a estudiarlo\" — elindependiente.com"
+      "02 OCT",
+      "El socio de Santos Cerdán no puede pagar la minuta de su abogado por las cuentas bloqueadas — moncloa.com"
     ],
     [
       "01 OCT",
-      "Leire Díez pide que se anule la personación de la juez que investigó al hermano de Sánchez y niega haberla calumniado — ABC"
+      "Leire Díez pide que se anule la personación de la jueza que investigó al hermano de Sánchez y niega haberla calumniado — Cantabria Liberal"
     ],
     [
       "01 OCT",
-      "Leire Díez pide al juez Pedraz que saque de la causa a la jueza de Badajoz que procesó al hermano de Sánchez — eldiario.es"
+      "Conde-Pumpido evita aclarar si se abstendrá en el recurso de García Ortiz: \"Todavía no hemos empezado a estudiarlo\" — El Independiente"
+    ],
+    [
+      "01 OCT",
+      "Leire Díez pide que se anule la personación de la juez que investigó al hermano de Sánchez y niega haberla calumniado — abc.es"
+    ],
+    [
+      "01 OCT",
+      "Leire Díez pide al juez Pedraz que saque de la causa a la jueza de Badajoz que procesó al hermano de Sánchez — elDiario.es"
     ],
     [
       "01 OCT",
@@ -1020,30 +1044,6 @@ window.PRESOE_DATOS =
     [
       "01 OCT",
       "Leire Díez solicita anular la personación de la jueza que investiga al hermano de Sánchez — Diario en Positivo"
-    ],
-    [
-      "01 OCT",
-      "El juez interroga como imputado al supuesto cerebro financiero del caso Plus Ultra el 16 de octubre — Demócrata"
-    ],
-    [
-      "01 OCT",
-      "El juez del caso Zapatero cita al prestamista holandés de Plus Ultra el 16 de octubre — eldebate.com"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez rechaza que la jueza se persone como perjudicada — Fuentes Informadas"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez pide a Pedraz que retire a Beatriz Biedma su personación como perjudicada — La Portada de Extremadura"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez reclama dejar sin efecto la personación de la jueza que investigó al hermano de Sánchez y sostiene que no la ha calumniado — Demócrata"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez pide a Pedraz que anule la personación de la jueza Biedma y niega haberla calumniado — Canal Extremadura"
     ]
   ],
   "relojes": [
