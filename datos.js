@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-03",
+  "actualizado_ticker": "2026-10-04",
   "hub": {
     "k1": [
       430,
@@ -994,16 +994,48 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "03 OCT",
-      "La defensa de Zapatero dice que impugnará el rechazo del juez a la recusación de la segunda joyería que tasará las joyas — Diario Red"
+      "04 OCT",
+      "Sánchez mantiene a Zapatero como íntimo pese a las investigaciones: el expresidente intentó mediar con Junts — esdiario.com"
+    ],
+    [
+      "04 OCT",
+      "Un implicado en la parte secreta del caso Zapatero se reunió en Madrid con un cliente \"para hablar de colocar 30 millones en efectivo\" — El Periódico"
+    ],
+    [
+      "04 OCT",
+      "El primer mensaje favorable al rescate de Plus Ultra llegó a los 14 días de confirmarse el pago a la red de Zapatero — libertaddigital.com"
+    ],
+    [
+      "04 OCT",
+      "Caso Mediador: el giro decisivo que lleva a 14 acusados a juicio — Confidencial Digital"
     ],
     [
       "03 OCT",
-      "Uno de los bancos que ingresó el rescate de Plus Ultra cuestionó el envío de fondos a una empresa panameña — elperiodico.com"
+      "Jueza que investigó a David Sánchez declara en el caso Leire — Madrid Actual"
+    ],
+    [
+      "03 OCT",
+      "La jueza que investigó al hermano de Pedro Sánchez declara como perjudicada en el caso Leire Díez — Demócrata"
+    ],
+    [
+      "03 OCT",
+      "La jueza que investigó al hermano de Pedro Sánchez declara este jueves como perjudicada en el 'caso Leire Díez' — Europa Press"
+    ],
+    [
+      "03 OCT",
+      "Uno de los bancos que ingresó el rescate de Plus Ultra cuestionó el envío de fondos a una empresa panameña — El Periódico"
     ],
     [
       "03 OCT",
       "Caso Plus Ultra: La SEPI sabía que el primer pago de 19 millones fue para pagar deudas — moncloa.com"
+    ],
+    [
+      "03 OCT",
+      "El expresidente de Plus Ultra denuncia una represalia de SEPI tras pagar 530.000 euros — Confidencial Digital"
+    ],
+    [
+      "03 OCT",
+      "El sorprendente rastro de 18.125,80 euros que lleva a Pedraz ante la Fiscalía Europea — Confidencial Digital"
     ],
     [
       "02 OCT",
@@ -1012,38 +1044,6 @@ window.PRESOE_DATOS =
     [
       "02 OCT",
       "La defensa de Rodríguez Zapatero recurrirá la inadmisibilidad de su recusación — Onda Regional de Murcia | ORM"
-    ],
-    [
-      "02 OCT",
-      "Leire Díez intenta sacar de su causa a la jueza Biedma antes de que declare contra ella — ESdiario"
-    ],
-    [
-      "02 OCT",
-      "El socio de Santos Cerdán no puede pagar la minuta de su abogado por las cuentas bloqueadas — moncloa.com"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez pide que se anule la personación de la jueza que investigó al hermano de Sánchez y niega haberla calumniado — Cantabria Liberal"
-    ],
-    [
-      "01 OCT",
-      "Conde-Pumpido evita aclarar si se abstendrá en el recurso de García Ortiz: \"Todavía no hemos empezado a estudiarlo\" — El Independiente"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez pide que se anule la personación de la juez que investigó al hermano de Sánchez y niega haberla calumniado — ABC"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez pide al juez Pedraz que saque de la causa a la jueza de Badajoz que procesó al hermano de Sánchez — elDiario.es"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez pide anular la personación de la jueza que investigó al hermano de Sánchez y niega haberla calumniado: \"No existe el más mínimo indicio\" — El Constitucional"
-    ],
-    [
-      "01 OCT",
-      "Leire Díez solicita anular la personación de la jueza que investiga al hermano de Sánchez — Diario en Positivo"
     ]
   ],
   "relojes": [
