@@ -995,7 +995,7 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "04 OCT",
-      "Sánchez mantiene a Zapatero como íntimo pese a las investigaciones: el expresidente intentó mediar con Junts — esdiario.com"
+      "Sánchez mantiene a Zapatero como íntimo pese a las investigaciones: el expresidente intentó mediar con Junts — ESdiario"
     ],
     [
       "04 OCT",
@@ -1003,7 +1003,7 @@ window.PRESOE_DATOS =
     ],
     [
       "04 OCT",
-      "El primer mensaje favorable al rescate de Plus Ultra llegó a los 14 días de confirmarse el pago a la red de Zapatero — libertaddigital.com"
+      "El primer mensaje favorable al rescate de Plus Ultra llegó a los 14 días de confirmarse el pago a la red de Zapatero — Libertad Digital"
     ],
     [
       "04 OCT",
@@ -1019,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "03 OCT",
-      "La jueza que investigó al hermano de Pedro Sánchez declara este jueves como perjudicada en el 'caso Leire Díez' — Europa Press"
+      "La jueza que investigó al hermano de Pedro Sánchez declara este jueves como perjudicada en el 'caso Leire Díez' — europapress.es"
     ],
     [
       "03 OCT",
@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "02 OCT",
-      "La defensa de Rodríguez Zapatero recurrirá la inadmisibilidad de su recusación — Onda Regional de Murcia | ORM"
+      "La defensa de Rodríguez Zapatero recurrirá la inadmisibilidad de su recusación — orm.es"
     ]
   ],
   "relojes": [
