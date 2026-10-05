@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-04",
+  "actualizado_ticker": "2026-10-05",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "04 OCT",
-      "Sánchez mantiene a Zapatero como íntimo pese a las investigaciones: el expresidente intentó mediar con Junts — ESdiario"
+      "05 OCT",
+      "Caso Leire Díez. Un narco de Badajoz asegura que las cloacas... — hispanidad.com"
+    ],
+    [
+      "05 OCT",
+      "La cruzada de la jueza Biedma contra la trama Leire — La Voz de Galicia"
+    ],
+    [
+      "05 OCT",
+      "Sánchez afronta las elecciones con la corrupción como lastre — MUNDIARIO"
+    ],
+    [
+      "05 OCT",
+      "El horizonte judicial que marcará la campaña: nuevos pasos en los casos ZP y Leire Díez con el Supremo pendiente de resolver la ley de nietos — Faro de Vigo"
+    ],
+    [
+      "05 OCT",
+      "El calendario judicial que acompañará al PSOE hasta las elecciones: de la posible imputación del exdelegado del Gobierno en Ceuta a la declaración de las hij… — Infobae"
+    ],
+    [
+      "05 OCT",
+      "El juez del 'caso Koldo' cita como investigado al guardia civil destinado en Transportes en la etapa de Ábalos — Vozpopuli"
+    ],
+    [
+      "05 OCT",
+      "Un miembro del clan de los Rochos asegura que existió un plan para matar a la juez Beatriz Biedma. — ESdiario"
+    ],
+    [
+      "05 OCT",
+      "Las cloacas querían destruir a Lesmes y la mujer de Llarena para tumbar la cúspide del Poder Judicial: \"Caerían todas las causas\" — El Confidencial"
+    ],
+    [
+      "05 OCT",
+      "Fiscalía General maniobró con un informe sin firma para tumbar una querella contra las cloacas del PSOE — El Confidencial"
+    ],
+    [
+      "05 OCT",
+      "La Fiscalía asume tras la condena a García Ortiz que sus protocolos de comunicación son incoherentes — Vozpopuli"
     ],
     [
       "04 OCT",
-      "Un implicado en la parte secreta del caso Zapatero se reunió en Madrid con un cliente \"para hablar de colocar 30 millones en efectivo\" — El Periódico"
+      "Más problemas de Ábalos con la Justicia: no le paga las costas al denunciante del \"caso Koldo\" — La Razón"
     ],
     [
       "04 OCT",
-      "El primer mensaje favorable al rescate de Plus Ultra llegó a los 14 días de confirmarse el pago a la red de Zapatero — Libertad Digital"
+      "La jueza Biedma declarará como perjudicada el jueves ante la Audiencia Nacional — Canal Extremadura"
     ],
     [
       "04 OCT",
-      "Caso Mediador: el giro decisivo que lleva a 14 acusados a juicio — Confidencial Digital"
-    ],
-    [
-      "03 OCT",
-      "Jueza que investigó a David Sánchez declara en el caso Leire — Madrid Actual"
-    ],
-    [
-      "03 OCT",
-      "La jueza que investigó al hermano de Pedro Sánchez declara como perjudicada en el caso Leire Díez — Demócrata"
-    ],
-    [
-      "03 OCT",
-      "La jueza que investigó al hermano de Pedro Sánchez declara este jueves como perjudicada en el 'caso Leire Díez' — europapress.es"
-    ],
-    [
-      "03 OCT",
-      "Uno de los bancos que ingresó el rescate de Plus Ultra cuestionó el envío de fondos a una empresa panameña — El Periódico"
-    ],
-    [
-      "03 OCT",
-      "Caso Plus Ultra: La SEPI sabía que el primer pago de 19 millones fue para pagar deudas — moncloa.com"
-    ],
-    [
-      "03 OCT",
-      "El expresidente de Plus Ultra denuncia una represalia de SEPI tras pagar 530.000 euros — Confidencial Digital"
-    ],
-    [
-      "03 OCT",
-      "El sorprendente rastro de 18.125,80 euros que lleva a Pedraz ante la Fiscalía Europea — Confidencial Digital"
-    ],
-    [
-      "02 OCT",
-      "Zapatero amenaza con impugnar al perito de sus joyas — La Voz de Galicia"
-    ],
-    [
-      "02 OCT",
-      "La defensa de Rodríguez Zapatero recurrirá la inadmisibilidad de su recusación — orm.es"
+      "Pedro Sánchez recurrió a José Luis Zapatero para intentar salvar los decretos de vivienda con Junts — antena3.com"
     ]
   ],
   "relojes": [
