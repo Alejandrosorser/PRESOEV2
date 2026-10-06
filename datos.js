@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-05",
+  "actualizado_ticker": "2026-10-06",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "05 OCT",
-      "Caso Leire Díez. Un narco de Badajoz asegura que las cloacas... — hispanidad.com"
+      "06 OCT",
+      "El juez del ‘caso Leire’ cita como investigado a un exviceministro chavista por falsificar los documentos para obtener la nacionalidad a través de la ‘ley de… — Infobae"
     ],
     [
-      "05 OCT",
-      "La cruzada de la jueza Biedma contra la trama Leire — La Voz de Galicia"
+      "06 OCT",
+      "Pedraz ahonda en los pagos a abogados por el PSOE y cita al exviceministro venezolano que obtuvo la nacionalidad por la 'ley de nietos' — El Periódico"
     ],
     [
-      "05 OCT",
-      "Sánchez afronta las elecciones con la corrupción como lastre — MUNDIARIO"
+      "06 OCT",
+      "El juez pregunta a Fiscalía si imputa al PSOE en el caso Leire — Ultima Hora"
     ],
     [
-      "05 OCT",
-      "El horizonte judicial que marcará la campaña: nuevos pasos en los casos ZP y Leire Díez con el Supremo pendiente de resolver la ley de nietos — Faro de Vigo"
+      "06 OCT",
+      "El PP solicita en la Audiencia Nacional imputar al PSOE en el 'caso Leire Díez': acusa al partido de cinco delitos y de crear una \"organización criminal\" — El Constitucional"
     ],
     [
-      "05 OCT",
-      "El calendario judicial que acompañará al PSOE hasta las elecciones: de la posible imputación del exdelegado del Gobierno en Ceuta a la declaración de las hij… — Infobae"
+      "06 OCT",
+      "Vox pide al juez del 'caso Leire' investigar si se propuso asesinar a la jueza que investigó al hermano de Sánchez — Europa Press"
     ],
     [
-      "05 OCT",
-      "El juez del 'caso Koldo' cita como investigado al guardia civil destinado en Transportes en la etapa de Ábalos — Vozpopuli"
+      "06 OCT",
+      "El PP pide al juez que impute al PSOE en el 'caso Leire Díez' alegando que \"sufragó\" gastos de la presunta trama — Europa Press"
     ],
     [
-      "05 OCT",
-      "Un miembro del clan de los Rochos asegura que existió un plan para matar a la juez Beatriz Biedma. — ESdiario"
+      "06 OCT",
+      "El PP solicita en la Audiencia Nacional la imputación del PSOE por financiación ilegal — Diario de Navarra"
     ],
     [
-      "05 OCT",
-      "Las cloacas querían destruir a Lesmes y la mujer de Llarena para tumbar la cúspide del Poder Judicial: \"Caerían todas las causas\" — El Confidencial"
+      "06 OCT",
+      "PP pide al juez Pedraz que impute al PSOE en el 'caso Leire Díez' alegando que \"sufragó\" gastos de la presunta trama — PressDigital"
     ],
     [
-      "05 OCT",
-      "Fiscalía General maniobró con un informe sin firma para tumbar una querella contra las cloacas del PSOE — El Confidencial"
+      "06 OCT",
+      "El PP pide a la Audiencia Nacional imputar al PSOE por financiación ilegal en el caso Leire Díez — Demócrata"
     ],
     [
-      "05 OCT",
-      "La Fiscalía asume tras la condena a García Ortiz que sus protocolos de comunicación son incoherentes — Vozpopuli"
+      "06 OCT",
+      "El PP pide a la Audiencia Nacional la imputación del PSOE por financiación ilegal — Diario de Sevilla"
     ],
     [
-      "04 OCT",
-      "Más problemas de Ábalos con la Justicia: no le paga las costas al denunciante del \"caso Koldo\" — La Razón"
+      "06 OCT",
+      "El PP pide a la Audiencia Nacional la imputación del PSOE por cohecho, tráfico de influencias, blanqueo, financiación ilegal y malversación — Infobae"
     ],
     [
-      "04 OCT",
-      "La jueza Biedma declarará como perjudicada el jueves ante la Audiencia Nacional — Canal Extremadura"
+      "06 OCT",
+      "El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal por el caso Leire — antena3.com"
     ],
     [
-      "04 OCT",
-      "Pedro Sánchez recurrió a José Luis Zapatero para intentar salvar los decretos de vivienda con Junts — antena3.com"
+      "06 OCT",
+      "Caso Plus Ultra. Zapatero empieza a hacer el ridículo: el juez Calama también rechaza su intento de suspender la nueva tasación de las joyas — hispanidad.com"
     ]
   ],
   "relojes": [
