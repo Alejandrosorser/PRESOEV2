@@ -1019,7 +1019,7 @@ window.PRESOE_DATOS =
     ],
     [
       "06 OCT",
-      "El PP solicita en la Audiencia Nacional la imputación del PSOE por financiación ilegal — Diario de Navarra"
+      "El PP solicita en la Audiencia Nacional la imputación del PSOE por financiación ilegal — diariodenavarra.es"
     ],
     [
       "06 OCT",
@@ -1043,7 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "06 OCT",
-      "Caso Plus Ultra. Zapatero empieza a hacer el ridículo: el juez Calama también rechaza su intento de suspender la nueva tasación de las joyas — hispanidad.com"
+      "Caso Plus Ultra. Zapatero empieza a hacer el ridículo: el juez Calama también rechaza su intento de suspender la nueva tasación de las joyas — Hispanidad"
     ]
   ],
   "relojes": [
