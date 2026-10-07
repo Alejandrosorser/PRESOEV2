@@ -1007,19 +1007,11 @@ window.PRESOE_DATOS =
     ],
     [
       "07 OCT",
-      "Piden la absolución de Begoña Gómez ante su juicio con jurado popular: \"Sin delito no hay autor\" — El HuffPost"
-    ],
-    [
-      "07 OCT",
       "La Fiscalía insiste en la absolución de Begoña Gómez y la asesora: \"Percibió cero euros\" — El Nacional.cat"
     ],
     [
       "07 OCT",
       "La Fiscalía pide la absolución de Begoña Gómez antes de su juicio con jurado popular — Diario de Santiago"
-    ],
-    [
-      "07 OCT",
-      "La Fiscalía pide la absolución de Begoña Gómez de cara al juicio con jurado al no apreciar delito — El Boletín"
     ],
     [
       "07 OCT",
@@ -1044,6 +1036,14 @@ window.PRESOE_DATOS =
     [
       "07 OCT",
       "La Fiscalía pide absolver a Begoña Gómez de malversación y tráfico de influencias — heraldo.es"
+    ],
+    [
+      "07 OCT",
+      "El PP pide imputar al PSOE en el caso Leire el primer día de precampaña — MUNDIARIO"
+    ],
+    [
+      "07 OCT",
+      "La Fiscalía pide la absolución de Begoña Gómez: ni delito ni beneficio ni perjuicio a la Complutense — El Correo"
     ]
   ],
   "relojes": [
