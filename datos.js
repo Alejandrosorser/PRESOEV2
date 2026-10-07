@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-06",
+  "actualizado_ticker": "2026-10-07",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "06 OCT",
-      "El juez del ‘caso Leire’ cita como investigado a un exviceministro chavista por falsificar los documentos para obtener la nacionalidad a través de la ‘ley de… — Infobae"
+      "07 OCT",
+      "El juez del 'caso Leire' aplaza la declaración como imputado del excargo chavista Nervis Villalobos al 30 de octubre — Notimérica"
     ],
     [
-      "06 OCT",
-      "Pedraz ahonda en los pagos a abogados por el PSOE y cita al exviceministro venezolano que obtuvo la nacionalidad por la 'ley de nietos' — El Periódico"
+      "07 OCT",
+      "El juez Calama y Anticorrupción cierran el paso a las maniobras de Zapatero — MUNDIARIO"
     ],
     [
-      "06 OCT",
-      "El juez pregunta a Fiscalía si imputa al PSOE en el caso Leire — Ultima Hora"
+      "07 OCT",
+      "Pedraz incorpora al caso cloacas los datos del Supremo sobre los pagos en metálico de Ferraz a Ábalos y Koldo — El Correo"
     ],
     [
-      "06 OCT",
-      "El PP solicita en la Audiencia Nacional imputar al PSOE en el 'caso Leire Díez': acusa al partido de cinco delitos y de crear una \"organización criminal\" — El Constitucional"
+      "07 OCT",
+      "Piden la absolución de Begoña Gómez ante su juicio con jurado popular: \"Sin delito no hay autor\" — El HuffPost"
     ],
     [
-      "06 OCT",
-      "Vox pide al juez del 'caso Leire' investigar si se propuso asesinar a la jueza que investigó al hermano de Sánchez — Europa Press"
+      "07 OCT",
+      "La Fiscalía insiste en la absolución de Begoña Gómez y la asesora: \"Percibió cero euros\" — El Nacional.cat"
     ],
     [
-      "06 OCT",
-      "El PP pide al juez que impute al PSOE en el 'caso Leire Díez' alegando que \"sufragó\" gastos de la presunta trama — Europa Press"
+      "07 OCT",
+      "La Fiscalía pide la absolución de Begoña Gómez antes de su juicio con jurado popular — Diario de Santiago"
     ],
     [
-      "06 OCT",
-      "El PP solicita en la Audiencia Nacional la imputación del PSOE por financiación ilegal — diariodenavarra.es"
+      "07 OCT",
+      "La Fiscalía pide la absolución de Begoña Gómez de cara al juicio con jurado al no apreciar delito — El Boletín"
     ],
     [
-      "06 OCT",
-      "PP pide al juez Pedraz que impute al PSOE en el 'caso Leire Díez' alegando que \"sufragó\" gastos de la presunta trama — PressDigital"
+      "07 OCT",
+      "La Audiencia Nacional tumba una nueva querella contra Leire Díez por tres delitos — Vozpopuli"
     ],
     [
-      "06 OCT",
-      "El PP pide a la Audiencia Nacional imputar al PSOE por financiación ilegal en el caso Leire Díez — Demócrata"
+      "07 OCT",
+      "La Fiscalía pide a la Audiencia Provincial de Madrid que absuelva a Begoña Gómez y su asesora — RTVE.es"
     ],
     [
-      "06 OCT",
-      "El PP pide a la Audiencia Nacional la imputación del PSOE por financiación ilegal — Diario de Sevilla"
+      "07 OCT",
+      "La Fiscalía no aprecia delito y reclama la absolución para Begoña Gómez y su asesora — Andalucía Información"
     ],
     [
-      "06 OCT",
-      "El PP pide a la Audiencia Nacional la imputación del PSOE por cohecho, tráfico de influencias, blanqueo, financiación ilegal y malversación — Infobae"
+      "07 OCT",
+      "La Fiscalía pide la absolución para Begoña Gómez y su asesora de cara al juicio con jurado — ABC"
     ],
     [
-      "06 OCT",
-      "El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal por el caso Leire — antena3.com"
+      "07 OCT",
+      "La Fiscalía confirma su defensa de Begoña Gómez y pide su absolución en el juicio con jurado — Vozpopuli"
     ],
     [
-      "06 OCT",
-      "Caso Plus Ultra. Zapatero empieza a hacer el ridículo: el juez Calama también rechaza su intento de suspender la nueva tasación de las joyas — Hispanidad"
+      "07 OCT",
+      "La Fiscalía pide absolver a Begoña Gómez de malversación y tráfico de influencias — heraldo.es"
     ]
   ],
   "relojes": [
