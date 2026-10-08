@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-07",
+  "actualizado_ticker": "2026-10-08",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "07 OCT",
-      "El juez del 'caso Leire' aplaza la declaración como imputado del excargo chavista Nervis Villalobos al 30 de octubre — Notimérica"
+      "08 OCT",
+      "Feijóo exige a Pedro Sánchez aclarar \"quién dio la orden de deshacerse\" de la jueza Biedma — Antena 3 Noticias"
     ],
     [
-      "07 OCT",
-      "El juez Calama y Anticorrupción cierran el paso a las maniobras de Zapatero — MUNDIARIO"
+      "08 OCT",
+      "⚖️La jueza Biedma, instructora del caso de David Sánchez, ha declarado este jueves en la Audiencia Nacional como perjudicada en la causa contra Leire Díez. 📌… — Instagram"
     ],
     [
-      "07 OCT",
-      "Pedraz incorpora al caso cloacas los datos del Supremo sobre los pagos en metálico de Ferraz a Ábalos y Koldo — El Correo"
+      "08 OCT",
+      "Beatriz Biedma ha contado al juez Pedraz sentir \"angustia\" y sufrir seguimientos, pero no sabe si Leire Díez estaba detrás — COPE"
     ],
     [
-      "07 OCT",
-      "La Fiscalía insiste en la absolución de Begoña Gómez y la asesora: \"Percibió cero euros\" — El Nacional.cat"
+      "08 OCT",
+      "Biedma confirma ante Pedraz que siguieron a sus hijos mientras instruía el caso de David Sánchez — La Voz de Galicia"
     ],
     [
-      "07 OCT",
-      "La Fiscalía pide la absolución de Begoña Gómez antes de su juicio con jurado popular — Diario de Santiago"
+      "08 OCT",
+      "Caso Leire Díez-cloacas del PSOE: la juez Biedma declara en... — Hispanidad"
     ],
     [
-      "07 OCT",
-      "La Audiencia Nacional tumba una nueva querella contra Leire Díez por tres delitos — Vozpopuli"
+      "08 OCT",
+      "La jueza del caso del hermano de Sánchez relata su \"angustia\" por la persecución por parte del ex juez que la UCO vincula a la trama Leire — El Periódico de Aragón"
     ],
     [
-      "07 OCT",
-      "La Fiscalía pide a la Audiencia Provincial de Madrid que absuelva a Begoña Gómez y su asesora — RTVE.es"
+      "08 OCT",
+      "La jueza Beatriz Biedma sale de la Audiencia Nacional tras declarar por el caso Leire — ABC"
     ],
     [
-      "07 OCT",
-      "La Fiscalía no aprecia delito y reclama la absolución para Begoña Gómez y su asesora — Andalucía Información"
+      "08 OCT",
+      "La jueza Biedma relata \"angustia\" y seguimientos, pero no sabe si Leire Díez estaba detrás — heraldo.es"
     ],
     [
-      "07 OCT",
-      "La Fiscalía pide la absolución para Begoña Gómez y su asesora de cara al juicio con jurado — ABC"
+      "08 OCT",
+      "La juez Biedma relata \"angustia\" y seguimientos, aunque no sabe si Leire Díez estaba detrás — Diario de Sevilla"
     ],
     [
-      "07 OCT",
-      "La Fiscalía confirma su defensa de Begoña Gómez y pide su absolución en el juicio con jurado — Vozpopuli"
+      "08 OCT",
+      "La jueza del ‘caso David Sánchez’ asegura que no sabe si Leire Díez está detrás de los ataques que sufrió ni de los vídeos que un exmagistrado grabó contra ella — Infobae"
     ],
     [
-      "07 OCT",
-      "La Fiscalía pide absolver a Begoña Gómez de malversación y tráfico de influencias — heraldo.es"
+      "08 OCT",
+      "La jueza que investigó al hermano de Sánchez declara como perjudicada en el 'caso Leire Díez': alegó una campaña para \"desacreditarla pública y profesionalme… — El Constitucional"
     ],
     [
-      "07 OCT",
-      "El PP pide imputar al PSOE en el caso Leire el primer día de precampaña — MUNDIARIO"
+      "08 OCT",
+      "La jueza Biedma narra una situación de “angustia” provocada por las supuestas maniobras del ‘caso Leire Díez’ — EL PAÍS"
     ],
     [
-      "07 OCT",
-      "La Fiscalía pide la absolución de Begoña Gómez: ni delito ni beneficio ni perjuicio a la Complutense — El Correo"
+      "08 OCT",
+      "Anticorrupción considera «prematuro» imputar al PSOE en el Caso Leire — MONCLOA.COM"
     ]
   ],
   "relojes": [
