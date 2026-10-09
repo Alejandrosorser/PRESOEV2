@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-08",
+  "actualizado_ticker": "2026-10-09",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "08 OCT",
-      "Feijóo exige a Pedro Sánchez aclarar \"quién dio la orden de deshacerse\" de la jueza Biedma — Antena 3 Noticias"
+      "09 OCT",
+      "El juez Pedraz rechaza imputar al PSOE en el 'caso Leire' — Elplural.com"
     ],
     [
-      "08 OCT",
-      "⚖️La jueza Biedma, instructora del caso de David Sánchez, ha declarado este jueves en la Audiencia Nacional como perjudicada en la causa contra Leire Díez. 📌… — Instagram"
+      "09 OCT",
+      "El Gobierno no descarta indultar al ex fiscal general del Estado antes de las elecciones del 29-N — La Vanguardia"
     ],
     [
-      "08 OCT",
-      "Beatriz Biedma ha contado al juez Pedraz sentir \"angustia\" y sufrir seguimientos, pero no sabe si Leire Díez estaba detrás — COPE"
+      "09 OCT",
+      "La fiscalía considera que \"el PSOE habría puesto a disposición de la organización criminal\" de Leire Díez \"su infraestructura logística y financiera\" — El Periódico"
     ],
     [
-      "08 OCT",
-      "Biedma confirma ante Pedraz que siguieron a sus hijos mientras instruía el caso de David Sánchez — La Voz de Galicia"
+      "09 OCT",
+      "El juez que investiga las cloacas descarta imputar «en este momento» al PSOE por financiación ilegal — ABC"
     ],
     [
-      "08 OCT",
-      "Caso Leire Díez-cloacas del PSOE: la juez Biedma declara en... — Hispanidad"
+      "09 OCT",
+      "Peramato admite preocupación por \"cualquier sensación de angustia\" como la manifestada por la jueza Biezma — Tribuna de Salamanca."
     ],
     [
-      "08 OCT",
-      "La jueza del caso del hermano de Sánchez relata su \"angustia\" por la persecución por parte del ex juez que la UCO vincula a la trama Leire — El Periódico de Aragón"
+      "09 OCT",
+      "El juez descarta imputar por ahora al PSOE en el 'caso Leire Díez' y esperará a más diligencias tras pedirlo el PP — Europa Press"
     ],
     [
-      "08 OCT",
-      "La jueza Beatriz Biedma sale de la Audiencia Nacional tras declarar por el caso Leire — ABC"
+      "09 OCT",
+      "Leire Díez se queja de que la UCO busca nuevos indicios de las 'cloacas' que «ahora mismo no existen» — El Debate"
     ],
     [
-      "08 OCT",
-      "La jueza Biedma relata \"angustia\" y seguimientos, pero no sabe si Leire Díez estaba detrás — heraldo.es"
+      "09 OCT",
+      "Peramato recuerda el informe favorable de la Fiscalía al indulto de García Ortiz sin analizar lo que haga el Gobierno — Europa Press"
     ],
     [
-      "08 OCT",
-      "La juez Biedma relata \"angustia\" y seguimientos, aunque no sabe si Leire Díez estaba detrás — Diario de Sevilla"
+      "09 OCT",
+      "El juez Pedraz rechaza por ahora imputar al PSOE como persona jurídica investigada — SevillaInfo"
     ],
     [
-      "08 OCT",
-      "La jueza del ‘caso David Sánchez’ asegura que no sabe si Leire Díez está detrás de los ataques que sufrió ni de los vídeos que un exmagistrado grabó contra ella — Infobae"
+      "09 OCT",
+      "El juez frena la imputación del PSOE en el 'caso Leire Díez' a la espera de interrogar a Santos Cerdán — CatalunyaPress"
     ],
     [
-      "08 OCT",
-      "La jueza que investigó al hermano de Sánchez declara como perjudicada en el 'caso Leire Díez': alegó una campaña para \"desacreditarla pública y profesionalme… — El Constitucional"
+      "09 OCT",
+      "El juez Pedraz rechaza imputar al PSOE \"en este momento\" en el 'caso Cloacas' — El Mundo"
     ],
     [
-      "08 OCT",
-      "La jueza Biedma narra una situación de “angustia” provocada por las supuestas maniobras del ‘caso Leire Díez’ — EL PAÍS"
+      "09 OCT",
+      "La Audiencia Nacional descarta por ahora imputar al PSOE en el caso Leire al no haber \"prueba\" de \"apariencia delictiva\" — La Gaceta de Canarias"
     ],
     [
-      "08 OCT",
-      "Anticorrupción considera «prematuro» imputar al PSOE en el Caso Leire — MONCLOA.COM"
+      "09 OCT",
+      "El juez Pedraz rechaza imputar al PSOE, como solicitó el PP, en el 'caso Leire Diez' a la espera de más diligencias — El Constitucional"
     ]
   ],
   "relojes": [
