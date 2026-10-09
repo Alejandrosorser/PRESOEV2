@@ -995,6 +995,10 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "09 OCT",
+      "Sánchez podría indultar al exfiscal general del Estado antes del 29N: \"No lo descarto\" — COPE"
+    ],
+    [
+      "09 OCT",
       "El juez Pedraz rechaza imputar al PSOE en el 'caso Leire' — Elplural.com"
     ],
     [
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "09 OCT",
       "La Audiencia Nacional descarta por ahora imputar al PSOE en el caso Leire al no haber \"prueba\" de \"apariencia delictiva\" — La Gaceta de Canarias"
-    ],
-    [
-      "09 OCT",
-      "El juez Pedraz rechaza imputar al PSOE, como solicitó el PP, en el 'caso Leire Diez' a la espera de más diligencias — El Constitucional"
     ]
   ],
   "relojes": [
