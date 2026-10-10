@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-09",
+  "actualizado_ticker": "2026-10-10",
   "hub": {
     "k1": [
       430,
@@ -994,24 +994,36 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "09 OCT",
-      "Sánchez podría indultar al exfiscal general del Estado antes del 29N: \"No lo descarto\" — COPE"
+      "10 OCT",
+      "El Ministerio de Justicia investiga cómo es posible que Víctor de Aldama haya sido dado de alta por tercera vez en el ‘caso Leire’ sin ser parte — Infobae"
+    ],
+    [
+      "10 OCT",
+      "La mediación del \"amigo\" de Zapatero para repatriar por el covid y los vuelos de carga permitieron a Plus Ultra ingresar 2 millones en 20 días — El Periódico"
+    ],
+    [
+      "10 OCT",
+      "El posible indulto del exfiscal general del Estado García Ortiz abre otro choque electoral entre Pedro Sánchez y el PP a las puertas del 29N — El Constitucional"
+    ],
+    [
+      "10 OCT",
+      "Sánchez sortea electoralmente la declaración de las hijas de Zapatero que sigue acumulando reveses judiciales en el 'caso Plus Ultra' — El Debate"
+    ],
+    [
+      "10 OCT",
+      "Sánchez no descarta indultar a García Ortiz antes de las elecciones — Segre.com"
+    ],
+    [
+      "10 OCT",
+      "Indignación judicial contra Sánchez por el posible indulto exprés al exfiscal general: \"Nos desprecia\" — El Confidencial"
+    ],
+    [
+      "10 OCT",
+      "¡A indultar, a indultar que el sanchismo se va a acabar! — Diario de Sevilla"
     ],
     [
       "09 OCT",
-      "El juez Pedraz rechaza imputar al PSOE en el 'caso Leire' — Elplural.com"
-    ],
-    [
-      "09 OCT",
-      "El Gobierno no descarta indultar al ex fiscal general del Estado antes de las elecciones del 29-N — La Vanguardia"
-    ],
-    [
-      "09 OCT",
-      "La fiscalía considera que \"el PSOE habría puesto a disposición de la organización criminal\" de Leire Díez \"su infraestructura logística y financiera\" — El Periódico"
-    ],
-    [
-      "09 OCT",
-      "El juez que investiga las cloacas descarta imputar «en este momento» al PSOE por financiación ilegal — ABC"
+      "El difícil encaje penal de las maniobras de Leire como 'fontanera' de las 'cloacas' — El Independiente"
     ],
     [
       "09 OCT",
@@ -1019,31 +1031,19 @@ window.PRESOE_DATOS =
     ],
     [
       "09 OCT",
-      "El juez descarta imputar por ahora al PSOE en el 'caso Leire Díez' y esperará a más diligencias tras pedirlo el PP — Europa Press"
+      "Álvaro García Ortiz, el fiscal del «todo vale» por mi causa política — El Toro TV"
     ],
     [
       "09 OCT",
-      "Leire Díez se queja de que la UCO busca nuevos indicios de las 'cloacas' que «ahora mismo no existen» — El Debate"
+      "El Gobierno no descarta indultar al exfiscal general del Estado Álvaro García Ortiz antes de las elecciones generales del 29N — Infobae"
     ],
     [
       "09 OCT",
-      "Peramato recuerda el informe favorable de la Fiscalía al indulto de García Ortiz sin analizar lo que haga el Gobierno — Europa Press"
+      "Ricardo Rodríguez, jefe de información política: \"Pedro Sánchez ha asfaltado así la medida de gracia a García Ortiz, el presidente nunca ha digerido el mazaz… — COPE"
     ],
     [
       "09 OCT",
-      "El juez Pedraz rechaza por ahora imputar al PSOE como persona jurídica investigada — SevillaInfo"
-    ],
-    [
-      "09 OCT",
-      "El juez frena la imputación del PSOE en el 'caso Leire Díez' a la espera de interrogar a Santos Cerdán — CatalunyaPress"
-    ],
-    [
-      "09 OCT",
-      "El juez Pedraz rechaza imputar al PSOE \"en este momento\" en el 'caso Cloacas' — El Mundo"
-    ],
-    [
-      "09 OCT",
-      "La Audiencia Nacional descarta por ahora imputar al PSOE en el caso Leire al no haber \"prueba\" de \"apariencia delictiva\" — La Gaceta de Canarias"
+      "Sánchez prepara el indulto para el ex fiscal general García Ortiz antes de las elecciones — La Región"
     ]
   ],
   "relojes": [
