@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-10",
+  "actualizado_ticker": "2026-10-11",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,18 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "11 OCT",
+      "Siete palabras en la agenda de Leire Díez y ya tenemos otro espectáculo — elDiario.es"
+    ],
+    [
+      "11 OCT",
+      "¿Qué pasaría con el juicio a Begoña Gómez si Sánchez la incluye en las listas del PSOE? — Libertad Digital"
+    ],
+    [
+      "11 OCT",
+      "Sánchez no descarta indultar a García Ortiz antes del 29-N — El Burgado Digital"
+    ],
+    [
       "10 OCT",
       "El Ministerio de Justicia investiga cómo es posible que Víctor de Aldama haya sido dado de alta por tercera vez en el ‘caso Leire’ sin ser parte — Infobae"
     ],
@@ -1011,6 +1023,10 @@ window.PRESOE_DATOS =
     ],
     [
       "10 OCT",
+      "Peramato recuerda el informe favorable de la Fiscalía al indulto de García Ortiz sin analizar lo que decida el Gobierno — Diario Red"
+    ],
+    [
+      "10 OCT",
       "Sánchez no descarta indultar a García Ortiz antes de las elecciones — Segre.com"
     ],
     [
@@ -1022,28 +1038,12 @@ window.PRESOE_DATOS =
       "¡A indultar, a indultar que el sanchismo se va a acabar! — Diario de Sevilla"
     ],
     [
+      "10 OCT",
+      "Sánchez sentía vergüenza por los indultos políticos, pero prepara el de su fiscal — El Español"
+    ],
+    [
       "09 OCT",
       "El difícil encaje penal de las maniobras de Leire como 'fontanera' de las 'cloacas' — El Independiente"
-    ],
-    [
-      "09 OCT",
-      "Peramato admite preocupación por \"cualquier sensación de angustia\" como la manifestada por la jueza Biezma — Tribuna de Salamanca."
-    ],
-    [
-      "09 OCT",
-      "Álvaro García Ortiz, el fiscal del «todo vale» por mi causa política — El Toro TV"
-    ],
-    [
-      "09 OCT",
-      "El Gobierno no descarta indultar al exfiscal general del Estado Álvaro García Ortiz antes de las elecciones generales del 29N — Infobae"
-    ],
-    [
-      "09 OCT",
-      "Ricardo Rodríguez, jefe de información política: \"Pedro Sánchez ha asfaltado así la medida de gracia a García Ortiz, el presidente nunca ha digerido el mazaz… — COPE"
-    ],
-    [
-      "09 OCT",
-      "Sánchez prepara el indulto para el ex fiscal general García Ortiz antes de las elecciones — La Región"
     ]
   ],
   "relojes": [
