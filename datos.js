@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-11",
+  "actualizado_ticker": "2026-10-12",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,30 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "12 OCT",
+      "Pedraz imputa a Villalobos en el caso Leire Díez: las claves del nuevo frente judicial de las cloacas del PP — MONCLOA.COM"
+    ],
+    [
+      "12 OCT",
+      "El cerebro financiero de Plus Ultra acusado de blanquear dinero con casas de lujo en Mallorca declara esta ... — OkDiario"
+    ],
+    [
+      "11 OCT",
+      "El adelanto electoral libra a Sánchez de un final de legislatura marcado por el juicio a su mujer — El Correo"
+    ],
+    [
+      "11 OCT",
+      "El juez Calama interroga este viernes al presunto cerebro financiero del caso Plus Ultra: las claves — MONCLOA.COM"
+    ],
+    [
+      "11 OCT",
+      "Experta advierte de que un indulto al ex fiscal general desnaturalizaría la institución — ABC"
+    ],
+    [
+      "11 OCT",
+      "El presunto cerebro financiero del caso Plus Ultra declarará ante el juez por la trama que salpica a Zapatero — El Debate"
+    ],
+    [
       "11 OCT",
       "Siete palabras en la agenda de Leire Díez y ya tenemos otro espectáculo — elDiario.es"
     ],
@@ -1003,7 +1027,15 @@ window.PRESOE_DATOS =
     ],
     [
       "11 OCT",
+      "La versión de Zapatero sobre las joyas cae en saco roto — La Vanguardia"
+    ],
+    [
+      "11 OCT",
       "Sánchez no descarta indultar a García Ortiz antes del 29-N — El Burgado Digital"
+    ],
+    [
+      "10 OCT",
+      "El plan del 'Grupo Leire' contra la jueza Biedma: ¿atentado o disparate? — elDiario.es"
     ],
     [
       "10 OCT",
@@ -1012,38 +1044,6 @@ window.PRESOE_DATOS =
     [
       "10 OCT",
       "La mediación del \"amigo\" de Zapatero para repatriar por el covid y los vuelos de carga permitieron a Plus Ultra ingresar 2 millones en 20 días — El Periódico"
-    ],
-    [
-      "10 OCT",
-      "El posible indulto del exfiscal general del Estado García Ortiz abre otro choque electoral entre Pedro Sánchez y el PP a las puertas del 29N — El Constitucional"
-    ],
-    [
-      "10 OCT",
-      "Sánchez sortea electoralmente la declaración de las hijas de Zapatero que sigue acumulando reveses judiciales en el 'caso Plus Ultra' — El Debate"
-    ],
-    [
-      "10 OCT",
-      "Peramato recuerda el informe favorable de la Fiscalía al indulto de García Ortiz sin analizar lo que decida el Gobierno — Diario Red"
-    ],
-    [
-      "10 OCT",
-      "Sánchez no descarta indultar a García Ortiz antes de las elecciones — Segre.com"
-    ],
-    [
-      "10 OCT",
-      "Indignación judicial contra Sánchez por el posible indulto exprés al exfiscal general: \"Nos desprecia\" — El Confidencial"
-    ],
-    [
-      "10 OCT",
-      "¡A indultar, a indultar que el sanchismo se va a acabar! — Diario de Sevilla"
-    ],
-    [
-      "10 OCT",
-      "Sánchez sentía vergüenza por los indultos políticos, pero prepara el de su fiscal — El Español"
-    ],
-    [
-      "09 OCT",
-      "El difícil encaje penal de las maniobras de Leire como 'fontanera' de las 'cloacas' — El Independiente"
     ]
   ],
   "relojes": [
