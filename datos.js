@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-12",
+  "actualizado_ticker": "2026-10-13",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "12 OCT",
-      "Pedraz imputa a Villalobos en el caso Leire Díez: las claves del nuevo frente judicial de las cloacas del PP — MONCLOA.COM"
+      "13 OCT",
+      "La jueza Biedma pide imputar al exjuez Sáenz de Tejada en el caso Leire Díez: las claves del hostigamiento — MONCLOA.COM"
     ],
     [
-      "12 OCT",
-      "El cerebro financiero de Plus Ultra acusado de blanquear dinero con casas de lujo en Mallorca declara esta ... — OkDiario"
+      "13 OCT",
+      "La jueza que investigó al hermano de Sánchez reclama que se aclare si se encargó atemorizarla — El Nacional.cat"
     ],
     [
-      "11 OCT",
-      "El adelanto electoral libra a Sánchez de un final de legislatura marcado por el juicio a su mujer — El Correo"
+      "13 OCT",
+      "La juez Biedma pide la imputación de su supuesto acosador en el 'caso Leire' — Cadena SER"
     ],
     [
-      "11 OCT",
-      "El juez Calama interroga este viernes al presunto cerebro financiero del caso Plus Ultra: las claves — MONCLOA.COM"
+      "13 OCT",
+      "La jueza Beatriz Biedma pide la imputación del exjuez Sáenz de Tejada en el caso Leire Díez — elDiario.es"
     ],
     [
-      "11 OCT",
-      "Experta advierte de que un indulto al ex fiscal general desnaturalizaría la institución — ABC"
+      "13 OCT",
+      "Caso Leire: la jueza Biedma pide la jefa del clan de Los Rochos — RTVE.es"
     ],
     [
-      "11 OCT",
-      "El presunto cerebro financiero del caso Plus Ultra declarará ante el juez por la trama que salpica a Zapatero — El Debate"
+      "13 OCT",
+      "La jueza Biedma pide que se impute al exjuez que la persiguió y que la UCO vincula a la trama Leire — La Opinión de Murcia"
     ],
     [
-      "11 OCT",
-      "Siete palabras en la agenda de Leire Díez y ya tenemos otro espectáculo — elDiario.es"
+      "13 OCT",
+      "La juez Biedma pide a la Audiencia Nacional que impute al ex juez que la amenazó por orden de las 'cloacas' del PSOE — El Mundo"
     ],
     [
-      "11 OCT",
-      "¿Qué pasaría con el juicio a Begoña Gómez si Sánchez la incluye en las listas del PSOE? — Libertad Digital"
+      "13 OCT",
+      "La juez Biedma pide que declare Sáenz de Tejada, el exmagistrado al que «reclutó» Leire Díez para hostigarla — ABC"
     ],
     [
-      "11 OCT",
-      "La versión de Zapatero sobre las joyas cae en saco roto — La Vanguardia"
+      "13 OCT",
+      "La juez del 'caso David Sánchez' pide que declare la líder del clan de 'Los Rocho', al que la 'trama Leire' planteó \"eliminarla\" — El Español"
     ],
     [
-      "11 OCT",
-      "Sánchez no descarta indultar a García Ortiz antes del 29-N — El Burgado Digital"
+      "13 OCT",
+      "Biedma pide que declare el clan de los Rocho y la imputación del enviado de las cloacas del PSOE — El Confidencial"
     ],
     [
-      "10 OCT",
-      "El plan del 'Grupo Leire' contra la jueza Biedma: ¿atentado o disparate? — elDiario.es"
+      "13 OCT",
+      "El exjuez del 'Grupo Leire' desmiente haber contactado con Cintia Rocho para atentar contra la jueza Biedma — elDiario.es"
     ],
     [
-      "10 OCT",
-      "El Ministerio de Justicia investiga cómo es posible que Víctor de Aldama haya sido dado de alta por tercera vez en el ‘caso Leire’ sin ser parte — Infobae"
+      "13 OCT",
+      "La vida familiar blindada de José Luis Rodríguez Zapatero: de su infancia a su boda, la relación con sus hijas y la conexión con Jesús Calleja — Vanitatis"
     ],
     [
-      "10 OCT",
-      "La mediación del \"amigo\" de Zapatero para repatriar por el covid y los vuelos de carga permitieron a Plus Ultra ingresar 2 millones en 20 días — El Periódico"
+      "13 OCT",
+      "Ábalos y Koldo se guardan un último as bajo la manga para escapar de sus condenas — ESdiario"
     ]
   ],
   "relojes": [
