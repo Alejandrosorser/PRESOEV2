@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-13",
+  "actualizado_ticker": "2026-10-14",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "13 OCT",
-      "La jueza Biedma pide imputar al exjuez Sáenz de Tejada en el caso Leire Díez: las claves del hostigamiento — MONCLOA.COM"
+      "14 OCT",
+      "El Supremo aboca a Ábalos y Koldo al TC tras rechazar los últimos recursos contra sus condenas — La Razón"
+    ],
+    [
+      "14 OCT",
+      "El Supremo confirma la condena de Ábalos y Koldo García y despeja el camino para que vayan al Constitucional — EL PAÍS"
+    ],
+    [
+      "14 OCT",
+      "El apoyo público a la juez Biedma divide al Consejo General del Poder Judicial — Diario de Sevilla"
+    ],
+    [
+      "14 OCT",
+      "Los vocales progresistas del CGPJ bloquean el apoyo a la jueza Biedma pese a las amenazas investigadas — ESdiario"
+    ],
+    [
+      "14 OCT",
+      "Pedraz imputa al exjuez vinculado a las maniobras contra jueza Biedma — MUNDIARIO"
+    ],
+    [
+      "14 OCT",
+      "Isabel Pardo de Vera tira de la manta y ajusta cuentas con Sánchez con recado letal a Bono y Pepe Blanco — ESdiario"
+    ],
+    [
+      "14 OCT",
+      "Pardo de Vera apunta a exministros y altos cargos del Gobierno en el caso Koldo — Demócrata"
+    ],
+    [
+      "14 OCT",
+      "Pedraz cita como imputado al exjuez señalado por colaborar con Leire Díez para torpedear la causa contra David Sánchez — Fuentes Informadas"
+    ],
+    [
+      "14 OCT",
+      "Peramato asciende a la máxima categoría a una fiscal de su asociación pese a que su rival recibió 4 votos m... — OkDiario"
     ],
     [
       "13 OCT",
-      "La jueza que investigó al hermano de Sánchez reclama que se aclare si se encargó atemorizarla — El Nacional.cat"
+      "Interior pone escolta a la jueza Biedma tras asegurar una testigo que la trama de Leire Díez quiso “eliminarla” — EL PAÍS"
     ],
     [
       "13 OCT",
-      "La juez Biedma pide la imputación de su supuesto acosador en el 'caso Leire' — Cadena SER"
+      "El instructor del caso Leire Díez imputa al exjuez que insultó a la instructora del caso del hermano de Sánchez — Diari ARA"
     ],
     [
       "13 OCT",
-      "La jueza Beatriz Biedma pide la imputación del exjuez Sáenz de Tejada en el caso Leire Díez — elDiario.es"
+      "Caso fontanera del PSOE: imputan al exjuez Sáenz de Tejada por la presunta ofensiva contra Biedma — Economist & Jurist"
     ],
     [
       "13 OCT",
-      "Caso Leire: la jueza Biedma pide la jefa del clan de Los Rochos — RTVE.es"
-    ],
-    [
-      "13 OCT",
-      "La jueza Biedma pide que se impute al exjuez que la persiguió y que la UCO vincula a la trama Leire — La Opinión de Murcia"
-    ],
-    [
-      "13 OCT",
-      "La juez Biedma pide a la Audiencia Nacional que impute al ex juez que la amenazó por orden de las 'cloacas' del PSOE — El Mundo"
-    ],
-    [
-      "13 OCT",
-      "La juez Biedma pide que declare Sáenz de Tejada, el exmagistrado al que «reclutó» Leire Díez para hostigarla — ABC"
-    ],
-    [
-      "13 OCT",
-      "La juez del 'caso David Sánchez' pide que declare la líder del clan de 'Los Rocho', al que la 'trama Leire' planteó \"eliminarla\" — El Español"
-    ],
-    [
-      "13 OCT",
-      "Biedma pide que declare el clan de los Rocho y la imputación del enviado de las cloacas del PSOE — El Confidencial"
-    ],
-    [
-      "13 OCT",
-      "El exjuez del 'Grupo Leire' desmiente haber contactado con Cintia Rocho para atentar contra la jueza Biedma — elDiario.es"
-    ],
-    [
-      "13 OCT",
-      "La vida familiar blindada de José Luis Rodríguez Zapatero: de su infancia a su boda, la relación con sus hijas y la conexión con Jesús Calleja — Vanitatis"
-    ],
-    [
-      "13 OCT",
-      "Ábalos y Koldo se guardan un último as bajo la manga para escapar de sus condenas — ESdiario"
+      "Pedraz imputa al exjuez que insultó a la instructora del caso de David Sánchez — EFE - Agencia de noticias"
     ]
   ],
   "relojes": [
