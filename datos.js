@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-14",
+  "actualizado_ticker": "2026-10-15",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "14 OCT",
-      "El Supremo aboca a Ábalos y Koldo al TC tras rechazar los últimos recursos contra sus condenas — La Razón"
+      "15 OCT",
+      "VOX amplía su querella contra García Ortiz por un delito de encubrimiento con abuso de funciones públicas... — La Gaceta de la Iberosfera"
+    ],
+    [
+      "15 OCT",
+      "El mensaje de Aldama que no pasa desapercibido tras el revés judicial de Ábalos y Koldo — ESdiario"
+    ],
+    [
+      "15 OCT",
+      "Un juzgado de Madrid ordena investigar las filtraciones del 'caso Zapatero' — Cadena SER"
+    ],
+    [
+      "15 OCT",
+      "Ábalos avanza que recurrirá al Constitucional su condena y acusa al Supremo de confundir la aplicación de la ley — Ultima Hora"
+    ],
+    [
+      "15 OCT",
+      "El DAO de la Guardia Civil confirma al juez que Marlaska le llamó tras la filtración del correo de Begoña Gómez — Teleprensa"
+    ],
+    [
+      "15 OCT",
+      "El DAO de la Guardia Civil vincula las investigaciones internas que llevaron a su imputación con la filtración de datos de Pedro Sánchez y su esposa — El Periódico"
+    ],
+    [
+      "15 OCT",
+      "Interior pone protección policial a la jueza Beatriz Biedma tras denunciar amenazas — El Periódico"
+    ],
+    [
+      "15 OCT",
+      "Los progresistas torpedean la declaración de apoyo del CGPJ a la jueza Biedma — MUNDIARIO"
     ],
     [
       "14 OCT",
-      "El Supremo confirma la condena de Ábalos y Koldo García y despeja el camino para que vayan al Constitucional — EL PAÍS"
+      "El Supremo confirma la condena de Ábalos y Koldo: 24 y 19 años de cárcel por el 'caso mascarillas' — MONCLOA.COM"
     ],
     [
       "14 OCT",
-      "El apoyo público a la juez Biedma divide al Consejo General del Poder Judicial — Diario de Sevilla"
+      "Bolaños, sobre un posible indulto a García Ortiz: \"El asunto ya está en mi mesa\" — Onda Cero"
     ],
     [
       "14 OCT",
-      "Los vocales progresistas del CGPJ bloquean el apoyo a la jueza Biedma pese a las amenazas investigadas — ESdiario"
+      "Pedraz aplaza la pista del narco tras la inquietante anotación sobre Biedma hallada en la agenda de Leire Díez — ESdiario"
     ],
     [
       "14 OCT",
-      "Pedraz imputa al exjuez vinculado a las maniobras contra jueza Biedma — MUNDIARIO"
+      "Pedraz frena la tesis de Biedma sobre el plan contra ella y rechaza citar como testigo a la jefa de un clan de Badajoz — elDiario.es"
     ],
     [
       "14 OCT",
-      "Isabel Pardo de Vera tira de la manta y ajusta cuentas con Sánchez con recado letal a Bono y Pepe Blanco — ESdiario"
-    ],
-    [
-      "14 OCT",
-      "Pardo de Vera apunta a exministros y altos cargos del Gobierno en el caso Koldo — Demócrata"
-    ],
-    [
-      "14 OCT",
-      "Pedraz cita como imputado al exjuez señalado por colaborar con Leire Díez para torpedear la causa contra David Sánchez — Fuentes Informadas"
-    ],
-    [
-      "14 OCT",
-      "Peramato asciende a la máxima categoría a una fiscal de su asociación pese a que su rival recibió 4 votos m... — OkDiario"
-    ],
-    [
-      "13 OCT",
-      "Interior pone escolta a la jueza Biedma tras asegurar una testigo que la trama de Leire Díez quiso “eliminarla” — EL PAÍS"
-    ],
-    [
-      "13 OCT",
-      "El instructor del caso Leire Díez imputa al exjuez que insultó a la instructora del caso del hermano de Sánchez — Diari ARA"
-    ],
-    [
-      "13 OCT",
-      "Caso fontanera del PSOE: imputan al exjuez Sáenz de Tejada por la presunta ofensiva contra Biedma — Economist & Jurist"
-    ],
-    [
-      "13 OCT",
-      "Pedraz imputa al exjuez que insultó a la instructora del caso de David Sánchez — EFE - Agencia de noticias"
+      "El juez Pedraz rechaza diligencias solicitadas por la jueza de Badajoz hasta que pueda vincular su hostigamiento a la trama Leire — Levante-EMV"
     ]
   ],
   "relojes": [
