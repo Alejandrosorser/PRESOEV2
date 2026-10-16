@@ -1003,7 +1003,7 @@ window.PRESOE_DATOS =
     ],
     [
       "16 OCT",
-      "El juez del caso hidrocarburos recibe la solicitud de un socio de Aldama para declarar y reclama papeles a varias empresas — Demócrata"
+      "El socio de Aldama pide declarar la semana de las elecciones en el caso hidrocarburos — El Boletín"
     ],
     [
       "16 OCT",
