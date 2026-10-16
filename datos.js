@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-15",
+  "actualizado_ticker": "2026-10-16",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "15 OCT",
-      "VOX amplía su querella contra García Ortiz por un delito de encubrimiento con abuso de funciones públicas... — La Gaceta de la Iberosfera"
+      "16 OCT",
+      "El socio de Aldama pide declarar al juez del 'caso hidrocarburos', y éste solicita documentación a empresas — Noticias de Gipuzkoa"
     ],
     [
-      "15 OCT",
-      "El mensaje de Aldama que no pasa desapercibido tras el revés judicial de Ábalos y Koldo — ESdiario"
+      "16 OCT",
+      "El socio de Aldama pide declarar ante Pedraz por el ‘caso hidrocarburos’ la semana del 29-N — The Objective"
     ],
     [
-      "15 OCT",
-      "Un juzgado de Madrid ordena investigar las filtraciones del 'caso Zapatero' — Cadena SER"
+      "16 OCT",
+      "El juez del caso hidrocarburos recibe la solicitud de un socio de Aldama para declarar y reclama papeles a varias empresas — Demócrata"
     ],
     [
-      "15 OCT",
-      "Ábalos avanza que recurrirá al Constitucional su condena y acusa al Supremo de confundir la aplicación de la ley — Ultima Hora"
+      "16 OCT",
+      "El socio de Aldama en hidrocarburos pide declarar en plena campaña electoral mientras el juez profundiza en el desvío de fondos a Portugal — El Periódico"
     ],
     [
-      "15 OCT",
-      "El DAO de la Guardia Civil confirma al juez que Marlaska le llamó tras la filtración del correo de Begoña Gómez — Teleprensa"
+      "16 OCT",
+      "El socio de Aldama en hidrocarburos pide declarar la semana de las elecciones — Libertad Digital"
     ],
     [
-      "15 OCT",
-      "El DAO de la Guardia Civil vincula las investigaciones internas que llevaron a su imputación con la filtración de datos de Pedro Sánchez y su esposa — El Periódico"
+      "16 OCT",
+      "El juez reclama todas las agendas de Cerdán al no aclarar origen de su dinero — MUNDIARIO"
     ],
     [
-      "15 OCT",
-      "Interior pone protección policial a la jueza Beatriz Biedma tras denunciar amenazas — El Periódico"
+      "16 OCT",
+      "Sale a la luz el vínculo oculto entre los presuntos espías de la jueza Biedma y el exjuez investigado por hostigarla — ESdiario"
     ],
     [
-      "15 OCT",
-      "Los progresistas torpedean la declaración de apoyo del CGPJ a la jueza Biedma — MUNDIARIO"
+      "16 OCT",
+      "El DAO de la Guardia Civil confirma al juez que Marlaska le llamó tras la filtración del correo de Begoña Gómez — Canal Sur"
     ],
     [
-      "14 OCT",
-      "El Supremo confirma la condena de Ábalos y Koldo: 24 y 19 años de cárcel por el 'caso mascarillas' — MONCLOA.COM"
+      "16 OCT",
+      "La jueza Biedma denuncia que fue seguida hasta su domicilio tras declarar — MUNDIARIO"
     ],
     [
-      "14 OCT",
-      "Bolaños, sobre un posible indulto a García Ortiz: \"El asunto ya está en mi mesa\" — Onda Cero"
+      "16 OCT",
+      "El socio de Aldama toma la iniciativa y pide su declaración voluntaria en el caso hidrocarburos — El Debate"
     ],
     [
-      "14 OCT",
-      "Pedraz aplaza la pista del narco tras la inquietante anotación sobre Biedma hallada en la agenda de Leire Díez — ESdiario"
+      "16 OCT",
+      "Caso Plus Ultra: un investigado tiene las respuestas sobre el destino de 53 millones de euros — MONCLOA.COM"
     ],
     [
-      "14 OCT",
-      "Pedraz frena la tesis de Biedma sobre el plan contra ella y rechaza citar como testigo a la jefa de un clan de Badajoz — elDiario.es"
+      "16 OCT",
+      "El Tribunal Supremo abre la puerta a apartar a García Ortiz de la carrera fiscal en una reciente sentencia — El Confidencial"
     ],
     [
-      "14 OCT",
-      "El juez Pedraz rechaza diligencias solicitadas por la jueza de Badajoz hasta que pueda vincular su hostigamiento a la trama Leire — Levante-EMV"
+      "16 OCT",
+      "El juez del ‘caso Koldo’ pide al juez del 'caso Leire Díez' las agendas de Santos Cerdán para rastrear el origen de sus ingresos — Confilegal"
     ]
   ],
   "relojes": [
