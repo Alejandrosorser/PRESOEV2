@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-16",
+  "actualizado_ticker": "2026-10-17",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,46 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "17 OCT",
+      "Los mensajes interceptados por EEUU al dueño de Plus Ultra desmienten la versión del financiero neerlandés ante el juez: \"¿Cuánto nos va a cobrar?\" — El Periódico"
+    ],
+    [
+      "16 OCT",
+      "El supuesto cerebro del caso Zapatero se desentiende — El Món"
+    ],
+    [
+      "16 OCT",
+      "La Audiencia Provincial ordena investigar a Leire Díez y al exjefe de gabinete de Sánchez por presuntas contrataciones irregulares en Correos — El Periódico"
+    ],
+    [
+      "16 OCT",
+      "Avanza el 'caso Plus Ultra': declara el cerebro financiero que conoce el rescate de 53 millones en el que... — La Gaceta de la Iberosfera"
+    ],
+    [
+      "16 OCT",
+      "La Audiencia de Madrid ordena investigar la querella de Vox por las supuestas irregularidades de Leire Díez en Correos — Demócrata"
+    ],
+    [
+      "16 OCT",
+      "La Audiencia de Madrid insta a investigar una querella de Vox por presuntas irregularidades de Leire Díez en Correos — Europa Press"
+    ],
+    [
+      "16 OCT",
+      "El presunto cerebro financiero del caso \"Plus Ultra\" se desvincula de blanqueo y asegura que desconocía el rescate — Canal Sur"
+    ],
+    [
+      "16 OCT",
+      "Caso Leire Díez. Jueces de instrucción de Madrid respaldan a la juez Biedma y lamentan la falta de apoyo del CGPJ — Hispanidad"
+    ],
+    [
+      "16 OCT",
+      "El presunto cerebro financiero del caso Plus Ultra niega blanqueo y afirma que ignoraba el rescate millonario — Demócrata"
+    ],
+    [
+      "16 OCT",
+      "El presunto cerebro financiero del caso Plus Ultra reconoce que prestó 2 millones a la aerolínea pero se desmarca del rescate — ABC"
+    ],
+    [
       "16 OCT",
       "El socio de Aldama pide declarar al juez del 'caso hidrocarburos', y éste solicita documentación a empresas — Noticias de Gipuzkoa"
     ],
@@ -1004,46 +1044,6 @@ window.PRESOE_DATOS =
     [
       "16 OCT",
       "El socio de Aldama pide declarar la semana de las elecciones en el caso hidrocarburos — El Boletín"
-    ],
-    [
-      "16 OCT",
-      "El socio de Aldama en hidrocarburos pide declarar en plena campaña electoral mientras el juez profundiza en el desvío de fondos a Portugal — El Periódico"
-    ],
-    [
-      "16 OCT",
-      "El socio de Aldama en hidrocarburos pide declarar la semana de las elecciones — Libertad Digital"
-    ],
-    [
-      "16 OCT",
-      "El juez reclama todas las agendas de Cerdán al no aclarar origen de su dinero — MUNDIARIO"
-    ],
-    [
-      "16 OCT",
-      "Sale a la luz el vínculo oculto entre los presuntos espías de la jueza Biedma y el exjuez investigado por hostigarla — ESdiario"
-    ],
-    [
-      "16 OCT",
-      "El DAO de la Guardia Civil confirma al juez que Marlaska le llamó tras la filtración del correo de Begoña Gómez — Canal Sur"
-    ],
-    [
-      "16 OCT",
-      "La jueza Biedma denuncia que fue seguida hasta su domicilio tras declarar — MUNDIARIO"
-    ],
-    [
-      "16 OCT",
-      "El socio de Aldama toma la iniciativa y pide su declaración voluntaria en el caso hidrocarburos — El Debate"
-    ],
-    [
-      "16 OCT",
-      "Caso Plus Ultra: un investigado tiene las respuestas sobre el destino de 53 millones de euros — MONCLOA.COM"
-    ],
-    [
-      "16 OCT",
-      "El Tribunal Supremo abre la puerta a apartar a García Ortiz de la carrera fiscal en una reciente sentencia — El Confidencial"
-    ],
-    [
-      "16 OCT",
-      "El juez del ‘caso Koldo’ pide al juez del 'caso Leire Díez' las agendas de Santos Cerdán para rastrear el origen de sus ingresos — Confilegal"
     ]
   ],
   "relojes": [
