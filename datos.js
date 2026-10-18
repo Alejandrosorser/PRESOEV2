@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-17",
+  "actualizado_ticker": "2026-10-18",
   "hub": {
     "k1": [
       430,
@@ -995,15 +995,35 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "17 OCT",
+      "El PP critica al PSOE por no aclarar vínculos granadinos en caso Ábalos-Koldo — Andalucía Información"
+    ],
+    [
+      "17 OCT",
+      "El PP reprocha al PSOE \"su falta de explicaciones sobre los vínculos granadinos del caso Ábalos-Koldo\" — Teleprensa"
+    ],
+    [
+      "17 OCT",
+      "La proclamación de Sánchez como candidato del PSOE a las elecciones: con beso, declaración de amor a Begoña Gómez y alerta contra \"la motosierra\" a las pensi… — Telecinco"
+    ],
+    [
+      "17 OCT",
+      "Begoña Gómez entra en campaña con un beso a Pedro Sánchez — BilbaoHiria"
+    ],
+    [
+      "17 OCT",
+      "Las \"firmas fantasma\" y el misterioso 5% del prestamista de Plus Ultra complican el caso Zapatero — ESdiario"
+    ],
+    [
+      "17 OCT",
       "Los mensajes interceptados por EEUU al dueño de Plus Ultra desmienten la versión del financiero neerlandés ante el juez: \"¿Cuánto nos va a cobrar?\" — El Periódico"
+    ],
+    [
+      "17 OCT",
+      "Bolaños ve tendencia \"al alza\" del PSOE en precampaña y elude responder si participará en actos con Zapatero — Diario Red"
     ],
     [
       "16 OCT",
       "El supuesto cerebro del caso Zapatero se desentiende — El Món"
-    ],
-    [
-      "16 OCT",
-      "La Audiencia Provincial ordena investigar a Leire Díez y al exjefe de gabinete de Sánchez por presuntas contrataciones irregulares en Correos — El Periódico"
     ],
     [
       "16 OCT",
@@ -1023,27 +1043,7 @@ window.PRESOE_DATOS =
     ],
     [
       "16 OCT",
-      "Caso Leire Díez. Jueces de instrucción de Madrid respaldan a la juez Biedma y lamentan la falta de apoyo del CGPJ — Hispanidad"
-    ],
-    [
-      "16 OCT",
-      "El presunto cerebro financiero del caso Plus Ultra niega blanqueo y afirma que ignoraba el rescate millonario — Demócrata"
-    ],
-    [
-      "16 OCT",
-      "El presunto cerebro financiero del caso Plus Ultra reconoce que prestó 2 millones a la aerolínea pero se desmarca del rescate — ABC"
-    ],
-    [
-      "16 OCT",
-      "El socio de Aldama pide declarar al juez del 'caso hidrocarburos', y éste solicita documentación a empresas — Noticias de Gipuzkoa"
-    ],
-    [
-      "16 OCT",
-      "El socio de Aldama pide declarar ante Pedraz por el ‘caso hidrocarburos’ la semana del 29-N — The Objective"
-    ],
-    [
-      "16 OCT",
-      "El socio de Aldama pide declarar la semana de las elecciones en el caso hidrocarburos — El Boletín"
+      "La Audiencia Provincial ordena investigar a Leire Díez y al exjefe de gabinete de Sánchez por presuntas contrataciones irregulares en Correos — El Periódico"
     ]
   ],
   "relojes": [
