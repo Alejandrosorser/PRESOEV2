@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-18",
+  "actualizado_ticker": "2026-10-19",
   "hub": {
     "k1": [
       430,
@@ -994,12 +994,40 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "17 OCT",
-      "El PP critica al PSOE por no aclarar vínculos granadinos en caso Ábalos-Koldo — Andalucía Información"
+      "19 OCT",
+      "El supuesto colaborador de Leire Díez niega el seguimiento en coche a la jueza Biedma: “Estaba a unos 450 kilómetros” — EL PAÍS"
     ],
     [
-      "17 OCT",
-      "El PP reprocha al PSOE \"su falta de explicaciones sobre los vínculos granadinos del caso Ábalos-Koldo\" — Teleprensa"
+      "19 OCT",
+      "El Gobierno usará el indulto al ex fiscal general en campaña contra el Supremo — El Debate"
+    ],
+    [
+      "19 OCT",
+      "La empresaria Carmen Pano, ex suegra de Aldama, se libra de un juicio por el fraude de hidrocarburos — Elplural.com"
+    ],
+    [
+      "19 OCT",
+      "La fiscal general del Estado, Teresa Peramato, se atreve a manifestar su preocupación por la angustia que sufre la juez que condenó al hermano del presidente… — Economist & Jurist"
+    ],
+    [
+      "19 OCT",
+      "Exdirectivos de Plus Ultra compraron los exclusivos pisos que promovieron los empresarios venezolanos vinculados a Zapatero — El Periódico"
+    ],
+    [
+      "19 OCT",
+      "El dueño de Plus Ultra, ante el juez sobre la supuesta comisión a Zapatero: “Pagamos el 1% ante la duda” — EL PAÍS"
+    ],
+    [
+      "19 OCT",
+      "La UCO halla citas de Cerdán con el fiscal que permitió excarcelar etarras tras apoyar Bildu la investidura de Pedro Sánchez — El Confidencial"
+    ],
+    [
+      "19 OCT",
+      "La justicia madrileña 'congela' el juicio a Begoña Gómez y ni siquiera elige al juez que presidirá el jurado — Vozpopuli"
+    ],
+    [
+      "19 OCT",
+      "Anticorrupción frena la maniobra de la \"fontanera\" para minimizar la UCO — La Razón"
     ],
     [
       "17 OCT",
@@ -1016,34 +1044,6 @@ window.PRESOE_DATOS =
     [
       "17 OCT",
       "Los mensajes interceptados por EEUU al dueño de Plus Ultra desmienten la versión del financiero neerlandés ante el juez: \"¿Cuánto nos va a cobrar?\" — El Periódico"
-    ],
-    [
-      "17 OCT",
-      "Bolaños ve tendencia \"al alza\" del PSOE en precampaña y elude responder si participará en actos con Zapatero — Diario Red"
-    ],
-    [
-      "16 OCT",
-      "El supuesto cerebro del caso Zapatero se desentiende — El Món"
-    ],
-    [
-      "16 OCT",
-      "Avanza el 'caso Plus Ultra': declara el cerebro financiero que conoce el rescate de 53 millones en el que... — La Gaceta de la Iberosfera"
-    ],
-    [
-      "16 OCT",
-      "La Audiencia de Madrid ordena investigar la querella de Vox por las supuestas irregularidades de Leire Díez en Correos — Demócrata"
-    ],
-    [
-      "16 OCT",
-      "La Audiencia de Madrid insta a investigar una querella de Vox por presuntas irregularidades de Leire Díez en Correos — Europa Press"
-    ],
-    [
-      "16 OCT",
-      "El presunto cerebro financiero del caso \"Plus Ultra\" se desvincula de blanqueo y asegura que desconocía el rescate — Canal Sur"
-    ],
-    [
-      "16 OCT",
-      "La Audiencia Provincial ordena investigar a Leire Díez y al exjefe de gabinete de Sánchez por presuntas contrataciones irregulares en Correos — El Periódico"
     ]
   ],
   "relojes": [
