@@ -995,7 +995,7 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "20 OCT",
-      "El amigo de Zapatero reconoce ante el juez que sin el expresidente no habría podido hacer negocios con Plus Ultra en Venezuela — LNE"
+      "El amigo de Zapatero reconoce ante el juez que sin el expresidente no habría podido hacer negocios con Plus Ultra en Venezuela — Levante-EMV"
     ],
     [
       "20 OCT",
