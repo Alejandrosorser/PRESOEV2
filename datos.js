@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-19",
+  "actualizado_ticker": "2026-10-20",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "19 OCT",
-      "El supuesto colaborador de Leire Díez niega el seguimiento en coche a la jueza Biedma: “Estaba a unos 450 kilómetros” — EL PAÍS"
+      "20 OCT",
+      "El amigo de Zapatero reconoce ante el juez que sin el expresidente no habría podido hacer negocios con Plus Ultra en Venezuela — LNE"
+    ],
+    [
+      "20 OCT",
+      "El juez al testaferro de Zapatero: \"¿Recibieron una pasta de Plus Ultra por hacer tráfico de influencias con funcionarios de la Sepi o de más arriba?\" — El Mundo"
+    ],
+    [
+      "20 OCT",
+      "Mensajes requisados por EEUU desvelan que exdirectivos de Plus Ultra recurrieron a las criptomonedas de Maduro para comprar una vivienda de lujo en Madrid — El Periódico"
+    ],
+    [
+      "20 OCT",
+      "Aldama tasa los coches que se le incautaron en 760.000 euros y lucha en la Audiencia Nacional para que le dejen venderlos — EL PAÍS"
+    ],
+    [
+      "20 OCT",
+      "Cerdán, Leire y las cloacas tenían en sus agendas a un tercio de los fiscales de la Audiencia Nacional — El Confidencial"
+    ],
+    [
+      "20 OCT",
+      "Caso cloacas: Leire pide al juez blindar la información \"confidencial, personal y privada\" de su ordenador — El Confidencial"
     ],
     [
       "19 OCT",
-      "El Gobierno usará el indulto al ex fiscal general en campaña contra el Supremo — El Debate"
+      "García Ortiz en Las Palmas GC — Espiral 21"
     ],
     [
       "19 OCT",
-      "La empresaria Carmen Pano, ex suegra de Aldama, se libra de un juicio por el fraude de hidrocarburos — Elplural.com"
+      "El exjuez Sáenz de Tejada niega haber seguido a la jueza Biedma y presenta una coartada: asegura que estaba a 450 kilómetros — El Constitucional"
     ],
     [
       "19 OCT",
-      "La fiscal general del Estado, Teresa Peramato, se atreve a manifestar su preocupación por la angustia que sufre la juez que condenó al hermano del presidente… — Economist & Jurist"
+      "El exjuez imputado en el caso Leire Díez niega haber perseguido a la jueza Beatriz Biedma — Radio Interior"
     ],
     [
       "19 OCT",
-      "Exdirectivos de Plus Ultra compraron los exclusivos pisos que promovieron los empresarios venezolanos vinculados a Zapatero — El Periódico"
+      "Sáenz de Tejada niega haber perseguido a la jueza que investigó al hermano de Sánchez: \"Me encontraba a 450 km\" — Infobae"
     ],
     [
       "19 OCT",
-      "El dueño de Plus Ultra, ante el juez sobre la supuesta comisión a Zapatero: “Pagamos el 1% ante la duda” — EL PAÍS"
+      "La denuncia de Biedma desata la ofensiva de Sáenz de Tejada: niega haberla seguido junto a sus hijas — ESdiario"
     ],
     [
       "19 OCT",
-      "La UCO halla citas de Cerdán con el fiscal que permitió excarcelar etarras tras apoyar Bildu la investidura de Pedro Sánchez — El Confidencial"
+      "Las joyas incautadas a Zapatero provendrían de una comisión ilegal del AVE a La Meca, según un testigo — Telemadrid"
     ],
     [
       "19 OCT",
-      "La justicia madrileña 'congela' el juicio a Begoña Gómez y ni siquiera elige al juez que presidirá el jurado — Vozpopuli"
-    ],
-    [
-      "19 OCT",
-      "Anticorrupción frena la maniobra de la \"fontanera\" para minimizar la UCO — La Razón"
-    ],
-    [
-      "17 OCT",
-      "La proclamación de Sánchez como candidato del PSOE a las elecciones: con beso, declaración de amor a Begoña Gómez y alerta contra \"la motosierra\" a las pensi… — Telecinco"
-    ],
-    [
-      "17 OCT",
-      "Begoña Gómez entra en campaña con un beso a Pedro Sánchez — BilbaoHiria"
-    ],
-    [
-      "17 OCT",
-      "Las \"firmas fantasma\" y el misterioso 5% del prestamista de Plus Ultra complican el caso Zapatero — ESdiario"
-    ],
-    [
-      "17 OCT",
-      "Los mensajes interceptados por EEUU al dueño de Plus Ultra desmienten la versión del financiero neerlandés ante el juez: \"¿Cuánto nos va a cobrar?\" — El Periódico"
+      "El supuesto colaborador de Leire Díez niega el seguimiento en coche a la jueza Biedma: “Me encontraba a unos 450 kilómetros” — EL PAÍS"
     ]
   ],
   "relojes": [
