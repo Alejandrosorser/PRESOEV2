@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-20",
+  "actualizado_ticker": "2026-10-21",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "20 OCT",
-      "El amigo de Zapatero reconoce ante el juez que sin el expresidente no habría podido hacer negocios con Plus Ultra en Venezuela — Levante-EMV"
+      "21 OCT",
+      "Mercasa admite un amaño en favor de la constructora de Santos Cerdán: Leire Díez lo tenía reseñado en sus agendas — El Español"
     ],
     [
-      "20 OCT",
-      "El juez al testaferro de Zapatero: \"¿Recibieron una pasta de Plus Ultra por hacer tráfico de influencias con funcionarios de la Sepi o de más arriba?\" — El Mundo"
+      "21 OCT",
+      "La empresa pública Mercasa admite al juez \"aspectos críticos\" en un contrato pagado a la constructora de Cerdán — El Confidencial"
     ],
     [
-      "20 OCT",
-      "Mensajes requisados por EEUU desvelan que exdirectivos de Plus Ultra recurrieron a las criptomonedas de Maduro para comprar una vivienda de lujo en Madrid — El Periódico"
+      "21 OCT",
+      "Corrupción sanchista. Julito Martínez cava la tumba de ZP: \"Sin el señor Zapatero no podría hacer nada en Venezuela\" — Hispanidad"
     ],
     [
-      "20 OCT",
-      "Aldama tasa los coches que se le incautaron en 760.000 euros y lucha en la Audiencia Nacional para que le dejen venderlos — EL PAÍS"
+      "21 OCT",
+      "La UCO no se traga lo del tiroteo del Audi de Aldama tras analizar conversaciones del propio Aldama — El HuffPost"
     ],
     [
-      "20 OCT",
-      "Cerdán, Leire y las cloacas tenían en sus agendas a un tercio de los fiscales de la Audiencia Nacional — El Confidencial"
+      "21 OCT",
+      "\"La actitud evasiva de Julio Martínez, amigo de Zapatero, hizo que el juez Calama le dijese que recibieron un pastón de Plus Ultra\" — COPE"
     ],
     [
-      "20 OCT",
-      "Caso cloacas: Leire pide al juez blindar la información \"confidencial, personal y privada\" de su ordenador — El Confidencial"
+      "21 OCT",
+      "Leire Díez se escuda en su “condición de periodista” para justificar sus contactos con Sáenz de Tejada: “Nos reunimos con la gente para que nos cuenten cosas” — Infobae"
     ],
     [
-      "19 OCT",
-      "García Ortiz en Las Palmas GC — Espiral 21"
+      "21 OCT",
+      "Leire Díez tacha de \"sainete\" el presunto plan para asesinar a la juez Biedma — Diario de Sevilla"
     ],
     [
-      "19 OCT",
-      "El exjuez Sáenz de Tejada niega haber seguido a la jueza Biedma y presenta una coartada: asegura que estaba a 450 kilómetros — El Constitucional"
+      "21 OCT",
+      "Julio Martínez Martínez confiesa sus despachos con Zapatero por Plus Ultra — MUNDIARIO"
     ],
     [
-      "19 OCT",
-      "El exjuez imputado en el caso Leire Díez niega haber perseguido a la jueza Beatriz Biedma — Radio Interior"
+      "21 OCT",
+      "‘Julito’ Martínez reconoce al juez que informaba a Zapatero de las \"necesidades\" en Plus Ultra — Artículo 14"
     ],
     [
-      "19 OCT",
-      "Sáenz de Tejada niega haber perseguido a la jueza que investigó al hermano de Sánchez: \"Me encontraba a 450 km\" — Infobae"
+      "21 OCT",
+      "Pedraz da un ultimátum al PSOE para entregar la lista de abogados contratados — MUNDIARIO"
     ],
     [
-      "19 OCT",
-      "La denuncia de Biedma desata la ofensiva de Sáenz de Tejada: niega haberla seguido junto a sus hijas — ESdiario"
+      "21 OCT",
+      "Marlaska decide dejar vacante el mando que controla el 'caso Zapatero' ante el adelanto electoral — Vozpopuli"
     ],
     [
-      "19 OCT",
-      "Las joyas incautadas a Zapatero provendrían de una comisión ilegal del AVE a La Meca, según un testigo — Telemadrid"
+      "21 OCT",
+      "'Julito' confesó que pagó a 'What the Fav' sin que realizara trabajos porque las dueñas eran \"las hijas de Zapatero\" — Libertad Digital"
     ],
     [
-      "19 OCT",
-      "El supuesto colaborador de Leire Díez niega el seguimiento en coche a la jueza Biedma: “Me encontraba a unos 450 kilómetros” — EL PAÍS"
+      "21 OCT",
+      "Pedraz facilitará las agendas de Cerdán al caso Koldo para rastrear el origen de su dinero — La Razón"
     ]
   ],
   "relojes": [
