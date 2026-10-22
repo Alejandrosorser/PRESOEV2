@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-21",
+  "actualizado_ticker": "2026-10-22",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "21 OCT",
-      "Mercasa admite un amaño en favor de la constructora de Santos Cerdán: Leire Díez lo tenía reseñado en sus agendas — El Español"
+      "22 OCT",
+      "El PSOE deja pasar las 48 horas que le dio el juez Pedraz para entregar los contratos de sus abogados y se escuda en el “secreto profesional” y la “confidenc… — Infobae"
+    ],
+    [
+      "22 OCT",
+      "El PSOE no entrega al juez Pedraz los contratos del ‘caso Leire’ alegando «confidencialidad» — The Objective"
+    ],
+    [
+      "22 OCT",
+      "El juez del 'caso Plus Ultra' hará una investigación \"muy exhaustiva\" sobre la empresa de las hijas de Zapatero — Servimedia"
+    ],
+    [
+      "22 OCT",
+      "Cerdán acusa a la Audiencia Nacional de investigar toda su vida para buscar delitos contra él — El Correo"
+    ],
+    [
+      "22 OCT",
+      "'Julito' detalló al juez la cita clave en la marisquería que Zapatero dijo no recordar: \"Estuvo el presidente\" — El Confidencial"
+    ],
+    [
+      "22 OCT",
+      "Anticorrupción sostiene que la trama de Leire infló en 700.000 euros una adjudicación de la SEPI — heraldo.es"
+    ],
+    [
+      "22 OCT",
+      "La estrategia del socio de Aldama para salir de la trama de hidrocarburos antes de declarar — La Razón"
     ],
     [
       "21 OCT",
-      "La empresa pública Mercasa admite al juez \"aspectos críticos\" en un contrato pagado a la constructora de Cerdán — El Confidencial"
+      "Santos Cerdán se opone a que el juez del \"caso Koldo\" examine sus agendas personales: \"Es un atropello\" — Confilegal"
     ],
     [
       "21 OCT",
-      "Corrupción sanchista. Julito Martínez cava la tumba de ZP: \"Sin el señor Zapatero no podría hacer nada en Venezuela\" — Hispanidad"
+      "PSOE y Pedraz chocan por el secreto profesional de los contratos que reclama el juez — ESdiario"
     ],
     [
       "21 OCT",
-      "La UCO no se traga lo del tiroteo del Audi de Aldama tras analizar conversaciones del propio Aldama — El HuffPost"
+      "Cerdán intenta paralizar el acceso del juez del caso Koldo a sus agendas por formar parte de su «estricta intimidad» — El Debate"
     ],
     [
       "21 OCT",
-      "\"La actitud evasiva de Julio Martínez, amigo de Zapatero, hizo que el juez Calama le dijese que recibieron un pastón de Plus Ultra\" — COPE"
+      "Cerdán recurre la entrega al juez del 'caso Koldo' del material incautado en su domicilio — Noticias de Gipuzkoa"
     ],
     [
       "21 OCT",
-      "Leire Díez se escuda en su “condición de periodista” para justificar sus contactos con Sáenz de Tejada: “Nos reunimos con la gente para que nos cuenten cosas” — Infobae"
+      "Cerdán intenta impedir que el juez del ‘caso Koldo’ acceda a sus agendas por ser «íntimas» — The Objective"
     ],
     [
       "21 OCT",
-      "Leire Díez tacha de \"sainete\" el presunto plan para asesinar a la juez Biedma — Diario de Sevilla"
-    ],
-    [
-      "21 OCT",
-      "Julio Martínez Martínez confiesa sus despachos con Zapatero por Plus Ultra — MUNDIARIO"
-    ],
-    [
-      "21 OCT",
-      "‘Julito’ Martínez reconoce al juez que informaba a Zapatero de las \"necesidades\" en Plus Ultra — Artículo 14"
-    ],
-    [
-      "21 OCT",
-      "Pedraz da un ultimátum al PSOE para entregar la lista de abogados contratados — MUNDIARIO"
-    ],
-    [
-      "21 OCT",
-      "Marlaska decide dejar vacante el mando que controla el 'caso Zapatero' ante el adelanto electoral — Vozpopuli"
-    ],
-    [
-      "21 OCT",
-      "'Julito' confesó que pagó a 'What the Fav' sin que realizara trabajos porque las dueñas eran \"las hijas de Zapatero\" — Libertad Digital"
-    ],
-    [
-      "21 OCT",
-      "Pedraz facilitará las agendas de Cerdán al caso Koldo para rastrear el origen de su dinero — La Razón"
+      "Julio Martínez pagó 21.000 euros a las hijas de Zapatero por \"un trabajo de diseño y nombre\" de una marca de aceite — Onda Cero"
     ]
   ],
   "relojes": [
