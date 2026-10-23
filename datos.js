@@ -995,11 +995,15 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "23 OCT",
-      "Leire Díez presenta una querella contra el PP por un vídeo con IA que la acusa de contratar matones — Qué.es"
+      "Leire Díez se querella contra el PP por el vídeo de campaña — MONCLOA.COM"
     ],
     [
       "23 OCT",
-      "Leire Díez se querella contra el PP por el vídeo de campaña — MONCLOA.COM"
+      "Leire Díez se querella contra el PP por el vídeo generado con IA para atacar al PSOE — EL PAÍS"
+    ],
+    [
+      "23 OCT",
+      "Leire Díez se querella contra el PP por el vídeo con IA que le atribuye \"haber contratado a matones\" para \"quitar\" a una juez — El Mundo"
     ],
     [
       "23 OCT",
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "22 OCT",
       "El PSOE se escuda en la campaña para no enviar a Pedraz su relación con abogados — The Objective"
-    ],
-    [
-      "22 OCT",
-      "El juez Pedraz da margen al PSOE para responder a su ultimátum sobre los abogados contratados — El Periódico"
     ]
   ],
   "relojes": [
