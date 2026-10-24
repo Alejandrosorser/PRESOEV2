@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-07-27",
+  "actualizado_datos": "2026-10-24",
   "actualizado_ticker": "2026-10-24",
   "hub": {
     "k1": [
@@ -80,6 +80,18 @@ window.PRESOE_DATOS =
         {
           "f": "20-07-2026",
           "t": "La expareja de Ábalos y el hermano de Koldo García se niegan a declarar sobre la contratación de ella en Ineco (EL PAÍS)."
+        },
+        {
+          "f": "14-10-2026",
+          "t": "El Supremo confirma la condena de Ábalos y Koldo García —sentencia firme salvo recurso extraordinario— y despeja el camino para que acudan al Tribunal Constitucional (EL PAÍS)."
+        },
+        {
+          "f": "05-10-2026",
+          "t": "Según La Razón, Ábalos no habría abonado las costas al denunciante del caso Koldo."
+        },
+        {
+          "f": "09-10-2026",
+          "t": "La Audiencia Nacional confirma la imputación de Jésica Rodríguez, expareja de Ábalos, en el caso Koldo (Confilegal)."
         }
       ],
       "gente": [
@@ -135,6 +147,22 @@ window.PRESOE_DATOS =
         {
           "f": "26-07-2026",
           "t": "Dos administrativas del PSOE aportarán al juez conversaciones clave con Santos Cerdán (Navarra.com)."
+        },
+        {
+          "f": "15-10-2026",
+          "t": "El juez que investiga la presunta trama de mordidas por obra pública pide al del caso Leire la documentación incautada de Santos Cerdán (Cadena SER)."
+        },
+        {
+          "f": "21-10-2026",
+          "t": "Cerdán recurre la entrega al juez del caso Koldo del material incautado en su domicilio y se opone a que el juez examine sus agendas personales, calificándolo de «atropello» (Confilegal / Noticias de Navarra / El Debate)."
+        },
+        {
+          "f": "21-10-2026",
+          "t": "El juez Pedraz comunicó que facilitará las agendas de Cerdán al caso Koldo para rastrear el origen de su dinero (La Razón)."
+        },
+        {
+          "f": "23-10-2026",
+          "t": "Isabel Pardo de Vera se ofrece a colaborar con la Justicia en el caso Koldo, según Demócrata."
         }
       ],
       "gente": [
@@ -185,6 +213,18 @@ window.PRESOE_DATOS =
         {
           "f": "27-09-2026",
           "t": "Jubilación del juez Peinado: límite práctico para dictar el nuevo auto."
+        },
+        {
+          "f": "07-10-2026",
+          "t": "La Fiscalía pide la absolución de Begoña Gómez de cara al juicio con jurado popular: «Sin delito no hay autor» (EL PAÍS / elDiario.es / RTVE.es / ABC)."
+        },
+        {
+          "f": "13-10-2026",
+          "t": "Último cara a cara entre Begoña Gómez y el juez Peinado en el juzgado (Libertad Digital)."
+        },
+        {
+          "f": "19-10-2026",
+          "t": "La justicia madrileña congela el juicio a Begoña Gómez: ni siquiera se ha elegido al juez que presidirá el jurado (Vozpopuli)."
         },
         {
           "f": "2027",
@@ -246,7 +286,7 @@ window.PRESOE_DATOS =
       "delitos": [
         "Revelación de datos reservados (art. 417.1 CP)"
       ],
-      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo.",
+      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo. Según varios medios de octubre de 2026, el Gobierno habría tanteado la posibilidad de un indulto antes de las elecciones del 29-N; el presidente declaró no descartarlo (Libertad Digital / La Región / Elplural.com, 09-10-2026). El Tribunal Supremo abrió la puerta a apartar a García Ortiz de la carrera fiscal en una reciente sentencia (El Confidencial, 16-10-2026).",
       "fallo": "Multa de 12 meses con cuota diaria de 20 € (7.200 €), inhabilitación especial para el cargo de fiscal general del Estado durante 2 años, indemnización de 10.000 € a González Amador por daños morales y costas —tasadas en 39.009,48 € (jul-2026)—. Absuelto del resto de delitos. La multa y la indemnización se abonaron tras una colecta de la Unión Progresista de Fiscales.",
       "hitos": [
         {
@@ -276,6 +316,14 @@ window.PRESOE_DATOS =
         {
           "f": "15-07-2026",
           "t": "El número dos del exfiscal general admite ante el juez que informó a García Ortiz de sus reuniones con Leire Díez, aunque asegura que no le dio importancia (El Mundo / El Confidencial / Vozpopuli)."
+        },
+        {
+          "f": "09-10-2026",
+          "t": "El presidente Sánchez declara no descartar el indulto de García Ortiz antes de las elecciones del 29-N (Libertad Digital / La Región / Elplural.com). Jueces y juristas expresan su rechazo (El Español)."
+        },
+        {
+          "f": "16-10-2026",
+          "t": "El Tribunal Supremo abre la puerta a apartar a García Ortiz de la carrera fiscal en una reciente sentencia (El Confidencial)."
         }
       ],
       "gente": [
@@ -334,6 +382,18 @@ window.PRESOE_DATOS =
         {
           "f": "27-07-2026",
           "t": "El ex jefe de gabinete de Sánchez citado el 5 de agosto para clonar su móvil en el marco de la investigación (moncloa.com)."
+        },
+        {
+          "f": "20-10-2026",
+          "t": "Según El Confidencial, las citas de Cerdán, Leire y personas de su entorno habrían incluido a un tercio de los fiscales de la Audiencia Nacional."
+        },
+        {
+          "f": "23-10-2026",
+          "t": "El juez Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar «sin más demora» la documentación sobre la contratación de abogados en el caso Leire Díez (RTVE.es / MONCLOA.COM / Canal Extremadura / Infobae)."
+        },
+        {
+          "f": "20-10-2026",
+          "t": "La UCO destapa que Aldama usó el dinero de las comisiones de las mascarillas para comprar una flota de lujo vinculada a la trama de hidrocarburos (El Independiente)."
         }
       ],
       "gente": [
@@ -388,6 +448,14 @@ window.PRESOE_DATOS =
         {
           "f": "23-07-2026",
           "t": "Un investigado en hidrocarburos asegura por escrito al juez que la comisión pactada por rescatar Plus Ultra subía al 20% del importe del préstamo público (El Confidencial)."
+        },
+        {
+          "f": "20-10-2026",
+          "t": "La UCO cuestiona la veracidad del tiroteo al coche de Aldama (EL PAÍS)."
+        },
+        {
+          "f": "20-10-2026",
+          "t": "Pedraz cita al socio de Aldama, Claudio Rivas, para declarar en el caso hidrocarburos cuatro días después de las elecciones del 29-N (El Debate / Telecinco / ESdiario)."
         }
       ],
       "gente": [
@@ -412,7 +480,7 @@ window.PRESOE_DATOS =
         "Blanqueo",
         "Tráfico de influencias"
       ],
-      "resumen": "Red que presuntamente cobraba a empresarios —cenas, regalos, efectivo y fiestas incluidos— a cambio de favores administrativos, con el exdiputado del PSOE Juan Bernardo Fuentes «Tito Berni» en el centro. La pieza fotovoltaica ya está sentenciada: un jurado declaró culpables de cohecho impropio al exgeneral Espinosa, al empresario Bautista y al mediador Navarro. La pieza principal, con 23 procesados, espera juicio: la Fiscalía acusa a 16 y pide 8 años para Tito Berni, 11 para su sobrino Taishet y 13 para Navarro.",
+      "resumen": "Red que presuntamente cobraba a empresarios —cenas, regalos, efectivo y fiestas incluidos— a cambio de favores administrativos, con el exdiputado del PSOE Juan Bernardo Fuentes «Tito Berni» en el centro. La pieza fotovoltaica ya está sentenciada: un jurado declaró culpables de cohecho impropio al exgeneral Espinosa, al empresario Bautista y al mediador Navarro. La pieza principal, con 14 acusados según la resolución judicial de septiembre de 2026, espera juicio: la Fiscalía acusa a 16 y pide 8 años para Tito Berni, 11 para su sobrino Taishet y 13 para Navarro.",
       "fallo": "Pieza fotovoltaica (AP de Santa Cruz de Tenerife, 25-02-2026): 9 meses de prisión para Francisco Espinosa y Antonio Bautista; 4 meses y 15 días para Marco Antonio Navarro, todos por cohecho impropio tras el veredicto del jurado del 29-01-2026.",
       "hitos": [
         {
@@ -434,6 +502,10 @@ window.PRESOE_DATOS =
         {
           "f": "24-06-2026",
           "t": "Escrito de acusación de la Fiscalía: pide 8 años para Fuentes Curbelo «Tito Berni» (cohecho continuado y pertenencia a grupo criminal), 11 años para su sobrino Taishet y 13 años para el mediador Navarro Tacoronte (EL PAÍS / El Mundo / RTVE.es). Juicio sin fecha."
+        },
+        {
+          "f": "24-09-2026",
+          "t": "La jueza del caso Mediador envía a juicio a «Tito Berni», Taishet Fuentes y otros doce encausados —14 en total— por la trama de sobornos (RTVE.es / elDiario.es / Antena 3 Noticias / Diario de Fuerteventura)."
         }
       ],
       "gente": [
@@ -496,6 +568,26 @@ window.PRESOE_DATOS =
         {
           "f": "26-07-2026",
           "t": "La semana que dejó a Zapatero aislado en la red de Plus Ultra, según análisis de medios (EL PAÍS)."
+        },
+        {
+          "f": "07-09-2026",
+          "t": "El expresidente de Plus Ultra reitera ante el juez que pagó una comisión del 1% al empresario amigo de Zapatero para lograr el rescate (EL PAÍS)."
+        },
+        {
+          "f": "22-10-2026",
+          "t": "Plus Ultra busca comprador ante una situación financiera límite, en pleno desarrollo del caso (ABC)."
+        },
+        {
+          "f": "21-10-2026",
+          "t": "Marlaska decide dejar vacante el mando que controla el caso Zapatero ante el adelanto electoral (Vozpopuli)."
+        },
+        {
+          "f": "22-10-2026",
+          "t": "El juez del caso Plus Ultra anuncia que hará una investigación «muy exhaustiva» sobre la empresa de las hijas de Zapatero (Servimedia)."
+        },
+        {
+          "f": "23-10-2026",
+          "t": "El juez del caso Plus Ultra pide a Patrimonio del Estado la lista de regalos aceptados durante la presidencia de Zapatero (infoLibre / Confilegal / Europa Press)."
         }
       ],
       "gente": [
@@ -514,7 +606,7 @@ window.PRESOE_DATOS =
       "x": 850,
       "y": 555,
       "rol": "Presidente del Gobierno · secretario general del PSOE",
-      "resumen": "En el poder desde junio de 2018. No está investigado en ninguna causa. En su círculo íntimo y orgánico: su esposa, procesada; su hermano, condenado (sentencia recurrible); sus dos secretarios de Organización, uno condenado y otro investigado; y el fiscal general que su Gobierno propuso, condenado. En 2025 declaró como testigo en la comisión de investigación del Senado sobre el caso Koldo. Las acusaciones populares en el caso Begoña Gómez solicitan que declare como testigo ante el jurado (27-07-2026).",
+      "resumen": "En el poder desde junio de 2018. No está investigado en ninguna causa. En su círculo íntimo y orgánico: su esposa, procesada; su hermano, condenado (sentencia recurrible); sus dos secretarios de Organización, uno condenado y otro investigado; y el fiscal general que su Gobierno propuso, condenado. En 2025 declaró como testigo en la comisión de investigación del Senado sobre el caso Koldo. Las acusaciones populares en el caso Begoña Gómez solicitan que declare como testigo ante el jurado (27-07-2026). En octubre de 2026, varios medios informaron de que el Gobierno habría tanteado la posibilidad de indultar al ex fiscal general García Ortiz antes de las elecciones del 29-N; Sánchez declaró no descartar esa opción (09-10-2026).",
       "casos": []
     },
     {
@@ -526,7 +618,7 @@ window.PRESOE_DATOS =
       "x": 605,
       "y": 300,
       "rol": "Exministro de Transportes · ex secretario de Organización del PSOE (2017-2021)",
-      "resumen": "Condenado por el Tribunal Supremo a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias en el caso mascarillas. En prisión desde el 27-11-2025: fue el primer diputado en activo encarcelado desde 1978. Sigue investigado en la Audiencia Nacional por los presuntos amaños de obra pública. En julio de 2026 el juez del caso Koldo confirma la imputación de su expareja (Jésica Rodríguez) y según medios presentó una queja ante el instructor por obstáculos a un vis a vis con ella (El Periódico, 23-07-2026).",
+      "resumen": "Condenado por el Tribunal Supremo a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias en el caso mascarillas. En prisión desde el 27-11-2025: fue el primer diputado en activo encarcelado desde 1978. El 14-10-2026 el Supremo confirmó la condena, despejando el camino al Tribunal Constitucional (EL PAÍS). Sigue investigado en la Audiencia Nacional por los presuntos amaños de obra pública. En julio de 2026 el juez del caso Koldo confirmó la imputación de su expareja (Jésica Rodríguez), imputación ratificada de nuevo por la AN el 09-10-2026 (Confilegal).",
       "fallo": "24 años y 3 meses de prisión (sentencia unánime del TS, junio de 2026) como autor de delitos de organización criminal, cohecho, malversación y tráfico de influencias por la adjudicación del suministro de 13 millones de mascarillas.",
       "casos": [
         "k1",
@@ -542,7 +634,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias. En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026).",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias. En prisión desde el 27-11-2025. El 14-10-2026 el Supremo confirmó la condena (EL PAÍS). Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado.",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -558,7 +650,7 @@ window.PRESOE_DATOS =
       "x": 250,
       "y": 325,
       "rol": "Empresario · comisionista de la trama",
-      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA.",
+      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA. La UCO cuestionó el 20-10-2026 la veracidad del tiroteo al coche de Aldama (EL PAÍS). Asimismo, según El Independiente (20-10-2026), la UCO destapó que Aldama usó dinero de las comisiones de las mascarillas para comprar una flota de lujo vinculada a la trama de hidrocarburos.",
       "fallo": "4 años y 6 meses de prisión por organización criminal y cohecho, con la ejecución suspendida a condición de no delinquir, presentar un informe semestral de actividades y realizar trabajos en beneficio de la comunidad durante un año.",
       "casos": [
         "k1",
@@ -575,7 +667,7 @@ window.PRESOE_DATOS =
       "x": 595,
       "y": 505,
       "rol": "Expareja de Ábalos",
-      "resumen": "Imputada en el caso Koldo: el juez ratificó el 24-07-2026 que debe ser investigada por las presuntas contrataciones irregulares en Ineco y otro organismo público (La Razón / El Progreso de Lugo). El 20-07-2026 se negó a declarar ante el juez sobre esas contrataciones, junto al hermano de Koldo García (EL PAÍS). La defensa niega cualquier irregularidad. Presunción de inocencia íntegra.",
+      "resumen": "Imputada en el caso Koldo: el juez ratificó el 24-07-2026 que debe ser investigada por las presuntas contrataciones irregulares en Ineco y otro organismo público. El 09-10-2026 la Audiencia Nacional confirmó de nuevo su imputación (Confilegal). El 20-07-2026 se negó a declarar ante el juez sobre esas contrataciones, junto al hermano de Koldo García (EL PAÍS). La defensa niega cualquier irregularidad. Presunción de inocencia íntegra.",
       "casos": [
         "k1"
       ]
@@ -589,7 +681,7 @@ window.PRESOE_DATOS =
       "x": 1015,
       "y": 305,
       "rol": "Ex secretario de Organización del PSOE (2021-2025)",
-      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. Niega todos los hechos.",
+      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 21-10-2026 recurrió la entrega al juez del caso Koldo del material incautado en su domicilio y se opuso a que el juez examinara sus agendas personales, calificándolo de «atropello» (Confilegal / Noticias de Navarra / El Debate); el juez Pedraz comunicó que facilitará dichas agendas al caso Koldo para rastrear el origen de su dinero (La Razón). Niega todos los hechos.",
       "casos": [
         "k2",
         "k6"
@@ -647,7 +739,7 @@ window.PRESOE_DATOS =
       "x": 700,
       "y": 72,
       "rol": "Expresidenta de Adif",
-      "resumen": "Investigada en la Audiencia Nacional como máxima responsable de parte de las adjudicaciones ferroviarias bajo sospecha en la trama de obra pública.",
+      "resumen": "Investigada en la Audiencia Nacional como máxima responsable de parte de las adjudicaciones ferroviarias bajo sospecha en la trama de obra pública. El 23-10-2026, según Demócrata, se ofreció a colaborar con la Justicia en el caso Koldo.",
       "casos": [
         "k2"
       ]
@@ -661,7 +753,7 @@ window.PRESOE_DATOS =
       "x": 1215,
       "y": 528,
       "rol": "Esposa de Pedro Sánchez",
-      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. En junio se le impusieron cautelares (retirada de pasaporte, prohibición de salir de España), en un auto de apertura que la Audiencia invalidó y que debe rehacerse. El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
+      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. En junio se le impusieron cautelares (retirada de pasaporte, prohibición de salir de España), en un auto de apertura que la Audiencia invalidó y que debe rehacerse. El 07-10-2026 la Fiscalía reiteró en su escrito que pide la absolución: «Sin delito no hay autor» (EL PAÍS / elDiario.es / RTVE.es / ABC). El 19-10-2026 la justicia madrileña congeló el proceso: aún no se ha elegido al juez que presidirá el jurado (Vozpopuli). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -733,7 +825,7 @@ window.PRESOE_DATOS =
       "x": 858,
       "y": 802,
       "rol": "Ex fiscal general del Estado",
-      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026).",
+      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez. El 09-10-2026 el presidente Sánchez declaró no descartar su indulto antes de las elecciones del 29-N (Libertad Digital / La Región / Elplural.com); jueces y juristas mostraron su rechazo (El Español). El 16-10-2026 el Tribunal Supremo abrió la puerta a apartarle de la carrera fiscal en una reciente sentencia (El Confidencial).",
       "fallo": "Multa de 12 meses a razón de 20 €/día (7.200 €), 2 años de inhabilitación especial para el cargo de fiscal general del Estado, 10.000 € de indemnización a Alberto González Amador y costas (39.009,48 €). Absuelto del resto de delitos.",
       "casos": [
         "k5"
@@ -748,7 +840,7 @@ window.PRESOE_DATOS =
       "x": 1195,
       "y": 330,
       "rol": "Exmilitante del PSOE",
-      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026).",
+      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026). El 23-10-2026 se querelló contra el PP por un vídeo generado con IA que le atribuía haber «contratado a matones para quitar a una juez» (EL PAÍS / El Mundo).",
       "casos": [
         "k6"
       ]
@@ -790,7 +882,7 @@ window.PRESOE_DATOS =
       "x": 295,
       "y": 655,
       "rol": "Empresario de hidrocarburos",
-      "resumen": "Investigado en la Audiencia Nacional como presunto eje, junto a Aldama, del macrofraude del IVA articulado en torno a Villafuel, la operadora que administraba; llegó a estar en prisión provisional por esta causa. En julio de 2026 declaró como testigo en el caso Leire.",
+      "resumen": "Investigado en la Audiencia Nacional como presunto eje, junto a Aldama, del macrofraude del IVA articulado en torno a Villafuel, la operadora que administraba; llegó a estar en prisión provisional por esta causa. En julio de 2026 declaró como testigo en el caso Leire. El 20-10-2026 varios medios informaron de que Pedraz le citó para declarar en el caso hidrocarburos cuatro días después de las elecciones del 29-N (El Debate / Telecinco / ESdiario), y de que el propio Rivas pidió declarar ante el juez (ESdiario).",
       "casos": [
         "k7"
       ]
@@ -818,7 +910,7 @@ window.PRESOE_DATOS =
       "x": 178,
       "y": 905,
       "rol": "Exdiputado del PSOE en el Congreso",
-      "resumen": "Figura central del caso Mediador. Dejó el escaño y el partido al estallar el escándalo (feb-2023). Procesado en la pieza principal: la Fiscalía pide para él 8 años de prisión por cohecho continuado y pertenencia a grupo criminal, según su escrito de acusación de junio de 2026 (EL PAÍS / RTVE.es). Juicio pendiente de fecha.",
+      "resumen": "Figura central del caso Mediador. Dejó el escaño y el partido al estallar el escándalo (feb-2023). El 24-09-2026 la jueza le envió a juicio junto a otros 13 acusados por la pieza principal (RTVE.es / elDiario.es / Antena 3 Noticias). La Fiscalía pide para él 8 años de prisión por cohecho continuado y pertenencia a grupo criminal (EL PAÍS, 24-06-2026). Juicio pendiente de fecha.",
       "casos": [
         "k8"
       ]
@@ -832,7 +924,7 @@ window.PRESOE_DATOS =
       "x": 172,
       "y": 1080,
       "rol": "«El mediador» de la trama",
-      "resumen": "Condenado en la pieza fotovoltaica y, además, acusado en la pieza principal, en la que la Fiscalía le pide 13 años por cohecho, prevaricación, grupo criminal, tráfico de influencias y falsedad.",
+      "resumen": "Condenado en la pieza fotovoltaica y, además, enviado a juicio en la pieza principal (24-09-2026), en la que la Fiscalía le pide 13 años por cohecho, prevaricación, grupo criminal, tráfico de influencias y falsedad.",
       "fallo": "4 meses y 15 días de prisión por cohecho impropio (AP de Santa Cruz de Tenerife, 25-02-2026, tras veredicto de jurado).",
       "casos": [
         "k8"
@@ -847,7 +939,7 @@ window.PRESOE_DATOS =
       "x": 505,
       "y": 935,
       "rol": "General retirado de la Guardia Civil",
-      "resumen": "La trama recurría a él para intermediar en contratos a cambio de regalos y pagos, según la Fiscalía. Condenado en la pieza fotovoltaica del caso Mediador.",
+      "resumen": "La trama recurría a él para intermediar en contratos a cambio de regalos y pagos, según la Fiscalía. Condenado en la pieza fotovoltaica del caso Mediador. Enviado también a juicio en la pieza principal (24-09-2026, Cadena SER / elDiario.es).",
       "fallo": "9 meses de prisión por cohecho impropio (AP de Santa Cruz de Tenerife, 25-02-2026, tras veredicto de jurado).",
       "casos": [
         "k8"
@@ -862,7 +954,7 @@ window.PRESOE_DATOS =
       "x": 480,
       "y": 1090,
       "rol": "Exdirector general de Ganadería de Canarias · sobrino de Tito Berni",
-      "resumen": "Procesado en la pieza principal del caso Mediador por su papel en el cobro de comisiones desde las instituciones, según la acusación. La Fiscalía pide para él 11 años de prisión (elDiario.es / Radio Televisión Canaria, 24-06-2026). Juicio pendiente de fecha.",
+      "resumen": "Procesado en la pieza principal del caso Mediador por su papel en el cobro de comisiones desde las instituciones, según la acusación. El 24-09-2026 la jueza le envió a juicio junto a «Tito Berni» y otros doce encausados (RTVE.es / elDiario.es). La Fiscalía pide para él 11 años de prisión. Juicio pendiente de fecha.",
       "casos": [
         "k8"
       ]
@@ -876,7 +968,7 @@ window.PRESOE_DATOS =
       "x": 688,
       "y": 578,
       "rol": "Expresidente del Gobierno (2004-2011)",
-      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y citó a declarar como investigados al presidente y CEO de Plus Ultra los días 7 y 8 de septiembre (LaSexta). Ese mismo día Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). Defiende su inocencia.",
+      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. Declaró el 17-06-2026 durante más de tres horas negando toda influencia. El 07-09-2026 el expresidente de Plus Ultra reiteró ante el juez el pago de una comisión del 1% al empresario amigo de Zapatero (EL PAÍS). El 22-10-2026 el juez anunció una investigación «muy exhaustiva» sobre la empresa de sus hijas (Servimedia). El 23-10-2026 el juez pidió a Patrimonio la relación de regalos recibidos durante su presidencia (infoLibre / Confilegal / Europa Press). Defiende su inocencia.",
       "casos": [
         "k9"
       ]
@@ -890,7 +982,7 @@ window.PRESOE_DATOS =
       "x": 625,
       "y": 800,
       "rol": "Empresario · amigo de Zapatero",
-      "resumen": "Empresario del entorno personal de Zapatero, al que el expresidente asesoraba. En julio de 2026 se mostró dispuesto a colaborar con la Justicia y ratificó ante el juez que cobró de la aerolínea el 1% del préstamo público —unos 530.000 €— en varios plazos tras el rescate, aunque afirmó no saber si Zapatero hizo alguna gestión, ni con quién, para que se concediera. Un investigado en el caso hidrocarburos aseguró por escrito al juez que la comisión pactada por el rescate de Plus Ultra subía al 20% (El Confidencial, 23-07-2026).",
+      "resumen": "Empresario del entorno personal de Zapatero, al que el expresidente asesoraba. En julio de 2026 ratificó ante el juez que cobró de la aerolínea el 1% del préstamo público —unos 530.000 €— en varios plazos tras el rescate, aunque afirmó no saber si Zapatero hizo gestión alguna. Un investigado en el caso hidrocarburos aseguró por escrito al juez que la comisión pactada por el rescate de Plus Ultra subía al 20% (El Confidencial, 23-07-2026).",
       "casos": [
         "k9"
       ]
@@ -995,55 +1087,83 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "24 OCT",
-      "Los mensajes interceptados por EEUU revelan la conexión de la trama de Plus Ultra con la presidenta venezolana: \"Falta poco para que la Delcy te llame Julito\" — El Periódico"
-    ],
-    [
-      "24 OCT",
-      "Anticorrupción apunta a presunta malversación de Zapatero por no entregar las joyas de su despacho a Patrimonio — Diario Red"
-    ],
-    [
-      "24 OCT",
       "Pedraz acusa al PSOE de retrasar la entrega de documentos y da ultimátum — MUNDIARIO"
     ],
     [
       "24 OCT",
-      "Plus Ultra disparó sus transferencias a Venezuela y Puerto Rico nada más recibir el primer tramo del rescate — Libertad Digital"
+      "El Supremo confirma la condena de Ábalos y Koldo García y despeja el camino para que vayan al Constitucional — EL PAÍS"
     ],
     [
       "23 OCT",
-      "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos del 'caso Leire Díez' — MONCLOA.COM"
+      "Isabel Pardo de Vera se ofrece a colaborar con la Justicia en el caso Koldo — Demócrata"
     ],
     [
       "23 OCT",
-      "Las joyas de Zapatero no aparecen en la lista de los regalos oficiales — Canal Sur"
+      "El juez del caso Plus Ultra pide a Patrimonio la lista de regalos aceptados durante la presidencia de Zapatero — Confilegal / Europa Press"
     ],
     [
       "23 OCT",
-      "El juez pide a Patrimonio del Estado que le informe sobre los obsequios a la Presidencia de Zapatero — EFE - Agencia de noticias"
+      "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos del caso Leire Díez — MONCLOA.COM"
     ],
     [
       "23 OCT",
-      "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación — La Vanguardia"
+      "El juez del caso Plus Ultra anuncia una investigación «muy exhaustiva» sobre la empresa de las hijas de Zapatero — Servimedia"
     ],
     [
-      "23 OCT",
-      "El juez del 'caso Plus Ultra' reclama a Patrimonio la relación de regalos que recibió Zapatero durante su Gobierno — Confilegal"
+      "22 OCT",
+      "Plus Ultra busca comprador ante una situación financiera límite, en pleno caso Zapatero — ABC"
     ],
     [
-      "23 OCT",
-      "El juez Pedraz da un ultimátum al PSOE para entregar \"sin más demora\" la información sobre sus abogados en el 'caso Leire' — El Constitucional"
+      "21 OCT",
+      "Cerdán recurre la entrega al juez del caso Koldo del material incautado en su domicilio y se opone a que examine sus agendas — Confilegal / Noticias de Navarra / El Debate"
     ],
     [
-      "23 OCT",
-      "El juez del caso 'Leire Díez' da 15 días al PSOE para entregar la documentación sobre los abogados — Canal Extremadura"
+      "21 OCT",
+      "Pedraz facilitará las agendas de Cerdán al caso Koldo para rastrear el origen de su dinero — La Razón"
     ],
     [
-      "23 OCT",
-      "El juez del 'caso Leire Díez' da 15 días al PSOE para entregar \"sin más demora\" documentación sobre sus abogados — RTVE.es"
+      "20 OCT",
+      "La UCO destapa que Aldama usó el dinero de las comisiones de las mascarillas para comprar una flota de lujo vinculada a la trama de hidrocarburos — El Independiente"
     ],
     [
-      "23 OCT",
-      "Anticorrupción pide imputar también a Zapatero por malversación al ocultar las joyas — El Progreso de Lugo"
+      "20 OCT",
+      "La UCO cuestiona la veracidad del tiroteo al coche de Aldama — EL PAÍS"
+    ],
+    [
+      "20 OCT",
+      "Pedraz cita al socio de Aldama para declarar en el caso hidrocarburos cuatro días después del 29-N — El Debate / Telecinco"
+    ],
+    [
+      "16 OCT",
+      "El Tribunal Supremo abre la puerta a apartar a García Ortiz de la carrera fiscal en una reciente sentencia — El Confidencial"
+    ],
+    [
+      "15 OCT",
+      "El juez que investiga los presuntos amaños de obra pública pide al del caso Leire la documentación incautada de Santos Cerdán — Cadena SER"
+    ],
+    [
+      "14 OCT",
+      "El Supremo confirma la condena de Ábalos y Koldo García; camino abierto al Tribunal Constitucional — EL PAÍS"
+    ],
+    [
+      "09 OCT",
+      "La Audiencia Nacional confirma la imputación de Jésica Rodríguez, expareja de Ábalos, en el caso Koldo — Confilegal"
+    ],
+    [
+      "09 OCT",
+      "Sánchez no descarta indultar a García Ortiz, primer fiscal general del Estado condenado en ejercicio — Libertad Digital / La Región / Elplural.com"
+    ],
+    [
+      "07 OCT",
+      "La Fiscalía pide la absolución de Begoña Gómez de cara al juicio con jurado popular: «Sin delito no hay autor» — EL PAÍS / elDiario.es / RTVE.es / ABC"
+    ],
+    [
+      "24 SEP",
+      "La jueza del caso Mediador envía a juicio a «Tito Berni», Taishet Fuentes y otros doce encausados — RTVE.es / elDiario.es / Antena 3"
+    ],
+    [
+      "07 SEP",
+      "El expresidente de Plus Ultra reitera que pagó una comisión del 1% al empresario amigo de Zapatero para lograr el rescate — EL PAÍS"
     ]
   ],
   "relojes": [
@@ -1086,6 +1206,13 @@ window.PRESOE_DATOS =
       "caso": "K-01",
       "titulo": "Ábalos y Koldo, entre rejas",
       "sub": "En prisión desde el 27-11-2025 (provisional; hoy cumpliendo condena)."
+    },
+    {
+      "tipo": "countdown",
+      "objetivo": "2026-11-03T10:00:00+01:00",
+      "caso": "K-07",
+      "titulo": "Declaración Claudio Rivas · caso hidrocarburos",
+      "sub": "Pedraz cita a Rivas para declarar cuatro días después de las elecciones del 29-N (El Debate / Telecinco, 20-10-2026)."
     }
   ],
   "fotos_wiki": {
