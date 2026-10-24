@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-23",
+  "actualizado_ticker": "2026-10-24",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "23 OCT",
-      "Leire Díez se querella contra el PP por el vídeo de campaña — MONCLOA.COM"
+      "24 OCT",
+      "Los mensajes interceptados por EEUU revelan la conexión de la trama de Plus Ultra con la presidenta venezolana: \"Falta poco para que la Delcy te llame Julito\" — El Periódico"
+    ],
+    [
+      "24 OCT",
+      "Anticorrupción apunta a presunta malversación de Zapatero por no entregar las joyas de su despacho a Patrimonio — Diario Red"
+    ],
+    [
+      "24 OCT",
+      "Pedraz acusa al PSOE de retrasar la entrega de documentos y da ultimátum — MUNDIARIO"
+    ],
+    [
+      "24 OCT",
+      "Plus Ultra disparó sus transferencias a Venezuela y Puerto Rico nada más recibir el primer tramo del rescate — Libertad Digital"
     ],
     [
       "23 OCT",
-      "Leire Díez se querella contra el PP por el vídeo generado con IA para atacar al PSOE — EL PAÍS"
+      "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos del 'caso Leire Díez' — MONCLOA.COM"
     ],
     [
       "23 OCT",
-      "Leire Díez se querella contra el PP por el vídeo con IA que le atribuye \"haber contratado a matones\" para \"quitar\" a una juez — El Mundo"
+      "Las joyas de Zapatero no aparecen en la lista de los regalos oficiales — Canal Sur"
     ],
     [
       "23 OCT",
-      "Leire Díez presenta una querella contra el PP por un vídeo con IA que le atribuye haber contratado a matones para quitar a una jueza — Demócrata"
+      "El juez pide a Patrimonio del Estado que le informe sobre los obsequios a la Presidencia de Zapatero — EFE - Agencia de noticias"
     ],
     [
       "23 OCT",
-      "Leire Díez se querella contra el PP por el vídeo hecho con IA en el que la acusan de haber contratado \"matones\" contra Biedma — Vozpopuli"
+      "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación — La Vanguardia"
     ],
     [
       "23 OCT",
-      "Isabel Pardo de Vera se ofrece a colaborar con la Justicia en el caso Koldo — Demócrata"
+      "El juez del 'caso Plus Ultra' reclama a Patrimonio la relación de regalos que recibió Zapatero durante su Gobierno — Confilegal"
     ],
     [
       "23 OCT",
-      "🔴 El PSOE ha dejado pasar el plazo de 48 horas que le dio el juez de la Audiencia Nacional Santiago Pedraz para entregarle la información sobre los abogados,… — Facebook"
+      "El juez Pedraz da un ultimátum al PSOE para entregar \"sin más demora\" la información sobre sus abogados en el 'caso Leire' — El Constitucional"
     ],
     [
-      "22 OCT",
-      "Plus Ultra busca comprador ante una situación financiera límite y en pleno caso Zapatero — ABC"
+      "23 OCT",
+      "El juez del caso 'Leire Díez' da 15 días al PSOE para entregar la documentación sobre los abogados — Canal Extremadura"
     ],
     [
-      "22 OCT",
-      "El PSOE pide más tiempo al juez del ‘caso Leire’ para entregar la información que reclama sobre sus abogados — EL PAÍS"
+      "23 OCT",
+      "El juez del 'caso Leire Díez' da 15 días al PSOE para entregar \"sin más demora\" documentación sobre sus abogados — RTVE.es"
     ],
     [
-      "22 OCT",
-      "El PSOE pide más tiempo a la Audiencia Nacional para entregar la información sobre los abogados que contrata — Diari ARA"
-    ],
-    [
-      "22 OCT",
-      "El PSOE deja pasar las 48 horas que le dio el juez Pedraz para entregar los contratos de sus abogados y se escuda en el “secreto profesional” y la “confidenc… — Infobae"
-    ],
-    [
-      "22 OCT",
-      "El PSOE pide más margen al juez del caso Leire por estar en periodo electoral — Diario de Sevilla"
-    ],
-    [
-      "22 OCT",
-      "El PSOE se escuda en la campaña para no enviar a Pedraz su relación con abogados — The Objective"
+      "23 OCT",
+      "Anticorrupción pide imputar también a Zapatero por malversación al ocultar las joyas — El Progreso de Lugo"
     ]
   ],
   "relojes": [
