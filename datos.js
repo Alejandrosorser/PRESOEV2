@@ -1023,6 +1023,10 @@ window.PRESOE_DATOS =
     ],
     [
       "23 OCT",
+      "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos del 'caso Leire Díez' — MONCLOA.COM"
+    ],
+    [
+      "23 OCT",
       "Las joyas de Zapatero no aparecen en la lista de los regalos oficiales — Canal Sur"
     ],
     [
@@ -1040,10 +1044,6 @@ window.PRESOE_DATOS =
     [
       "23 OCT",
       "El juez Pedraz da un ultimátum al PSOE para entregar \"sin más demora\" la información sobre sus abogados en el 'caso Leire' — El Constitucional"
-    ],
-    [
-      "23 OCT",
-      "El juez del caso 'Leire Díez' da 15 días al PSOE para entregar la documentación sobre los abogados — Canal Extremadura"
     ]
   ],
   "relojes": [
