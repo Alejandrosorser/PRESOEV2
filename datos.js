@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-24",
+  "actualizado_ticker": "2026-10-25",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,18 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "25 OCT",
+      "Zapatero no incluyó ninguna joya entre los cerca de 500 regalos que declaró al dejar La Moncloa — Servimedia"
+    ],
+    [
+      "25 OCT",
+      "Las hijas de Zapatero contactan con antiguos clientes para intentar justificar que sí trabajaban — The Objective"
+    ],
+    [
+      "25 OCT",
+      "El socio de Aldama logra que el juez rastree un poder que le une al fraude del fuel hidrocarburos — La Razón"
+    ],
+    [
       "24 OCT",
       "Los mensajes interceptados por EEUU revelan la conexión de la trama de Plus Ultra con la presidenta venezolana: \"Falta poco para que la Delcy te llame Julito\" — El Periódico"
     ],
@@ -1008,10 +1020,6 @@ window.PRESOE_DATOS =
     [
       "24 OCT",
       "Plus Ultra disparó sus transferencias a Venezuela y Puerto Rico nada más recibir el primer tramo del rescate — Libertad Digital"
-    ],
-    [
-      "23 OCT",
-      "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos del 'caso Leire Díez' — MONCLOA.COM"
     ],
     [
       "23 OCT",
@@ -1036,14 +1044,6 @@ window.PRESOE_DATOS =
     [
       "23 OCT",
       "El juez del caso 'Leire Díez' da 15 días al PSOE para entregar la documentación sobre los abogados — Canal Extremadura"
-    ],
-    [
-      "23 OCT",
-      "El juez del 'caso Leire Díez' da 15 días al PSOE para entregar \"sin más demora\" documentación sobre sus abogados — RTVE.es"
-    ],
-    [
-      "23 OCT",
-      "Anticorrupción pide imputar también a Zapatero por malversación al ocultar las joyas — El Progreso de Lugo"
     ]
   ],
   "relojes": [
