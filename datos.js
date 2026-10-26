@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-25",
+  "actualizado_ticker": "2026-10-26",
   "hub": {
     "k1": [
       430,
@@ -994,6 +994,30 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "26 OCT",
+      "La palabras de Pedro Sánchez que a Rafa Latorre le parecen \"inquietantes\": \"Esto de que el presidente diga quiénes son inocentes y quiénes no...\" — Onda Cero"
+    ],
+    [
+      "26 OCT",
+      "El audio de Biedma sobre las presiones a la UCO: \"No lo habían visto nunca\" — La Razón"
+    ],
+    [
+      "26 OCT",
+      "Zapatero, en un callejón sin salida con las joyas: o admite la malversación o que mintió al juez sobre su origen — El Mundo"
+    ],
+    [
+      "25 OCT",
+      "Sáenz de Tejada declara este miércoles como investigado en el 'caso Leire Díez' ante el juez Pedraz — MONCLOA.COM"
+    ],
+    [
+      "25 OCT",
+      "La confesión de Julio Martínez, sobre Zapatero: \"¡Joder! Es que ha sido presidente del Gobierno y tiene contactos en todos los sitios\" — heraldo.es"
+    ],
+    [
+      "25 OCT",
+      "El exjuez investigado por actuar presuntamente contra Biedma declara este miércoles en el caso Leire Díez ante la Audiencia Nacional — Demócrata"
+    ],
+    [
       "25 OCT",
       "Zapatero no incluyó ninguna joya entre los cerca de 500 regalos que declaró al dejar La Moncloa — Servimedia"
     ],
@@ -1020,30 +1044,6 @@ window.PRESOE_DATOS =
     [
       "24 OCT",
       "Plus Ultra disparó sus transferencias a Venezuela y Puerto Rico nada más recibir el primer tramo del rescate — Libertad Digital"
-    ],
-    [
-      "23 OCT",
-      "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos del 'caso Leire Díez' — MONCLOA.COM"
-    ],
-    [
-      "23 OCT",
-      "Las joyas de Zapatero no aparecen en la lista de los regalos oficiales — Canal Sur"
-    ],
-    [
-      "23 OCT",
-      "El juez pide a Patrimonio del Estado que le informe sobre los obsequios a la Presidencia de Zapatero — EFE - Agencia de noticias"
-    ],
-    [
-      "23 OCT",
-      "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación — La Vanguardia"
-    ],
-    [
-      "23 OCT",
-      "El juez del 'caso Plus Ultra' reclama a Patrimonio la relación de regalos que recibió Zapatero durante su Gobierno — Confilegal"
-    ],
-    [
-      "23 OCT",
-      "El juez Pedraz da un ultimátum al PSOE para entregar \"sin más demora\" la información sobre sus abogados en el 'caso Leire' — El Constitucional"
     ]
   ],
   "relojes": [
