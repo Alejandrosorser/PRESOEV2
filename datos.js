@@ -1002,10 +1002,6 @@ window.PRESOE_DATOS =
       "El audio de Biedma sobre las presiones a la UCO: \"No lo habían visto nunca\" — La Razón"
     ],
     [
-      "26 OCT",
-      "Zapatero, en un callejón sin salida con las joyas: o admite la malversación o que mintió al juez sobre su origen — El Mundo"
-    ],
-    [
       "25 OCT",
       "Sáenz de Tejada declara este miércoles como investigado en el 'caso Leire Díez' ante el juez Pedraz — MONCLOA.COM"
     ],
@@ -1015,7 +1011,7 @@ window.PRESOE_DATOS =
     ],
     [
       "25 OCT",
-      "El exjuez investigado por actuar presuntamente contra Biedma declara este miércoles en el caso Leire Díez ante la Audiencia Nacional — Demócrata"
+      "El exjuez investigado por actuar presuntamente contra Biedma declara este miércoles en el 'caso Leire Díez' — Europa Press"
     ],
     [
       "25 OCT",
@@ -1044,6 +1040,10 @@ window.PRESOE_DATOS =
     [
       "24 OCT",
       "Plus Ultra disparó sus transferencias a Venezuela y Puerto Rico nada más recibir el primer tramo del rescate — Libertad Digital"
+    ],
+    [
+      "23 OCT",
+      "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos del 'caso Leire Díez' — MONCLOA.COM"
     ]
   ],
   "relojes": [
