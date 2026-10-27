@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-26",
+  "actualizado_ticker": "2026-10-27",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "26 OCT",
-      "La palabras de Pedro Sánchez que a Rafa Latorre le parecen \"inquietantes\": \"Esto de que el presidente diga quiénes son inocentes y quiénes no...\" — Onda Cero"
+      "27 OCT",
+      "Caso Plus Ultra: el juez pide prorrogar la instrucción — Radio Intereconomía"
+    ],
+    [
+      "27 OCT",
+      "El juez Pedraz insiste en investigar si Leire Díez participó en la \"promoción o impulso\" del acoso a Biedma — EDATV News"
+    ],
+    [
+      "27 OCT",
+      "Un sombrero ‘cowboy’ para Aznar, un ladrillo de una cárcel para Zapatero y un boli bala para Rajoy: los sorprendentes regalos a los presidentes — EL PAÍS"
+    ],
+    [
+      "27 OCT",
+      "Leire Díez presenta demanda contra el PP por un vídeo con inteligencia artificial que le imputa haber contratado matones para eliminar a una jueza — Nuevaradio"
+    ],
+    [
+      "27 OCT",
+      "Pedraz insiste en investigar si Leire Díez participó en la \"promoción o impulso\" del acoso a Biedma — La Razón"
     ],
     [
       "26 OCT",
-      "El audio de Biedma sobre las presiones a la UCO: \"No lo habían visto nunca\" — La Razón"
+      "José Luis Calama, juez del caso Plus Ultra, pide que se prorrogue el plazo de instrucción — Telecinco"
+    ],
+    [
+      "26 OCT",
+      "El juez del caso Plus Ultra pide prorrogar la investigación para practicar más diligencias — Diario de Santiago"
+    ],
+    [
+      "26 OCT",
+      "El juez plantea prorrogar la instrucción del caso Zapatero y consulta a las partes — Levante-EMV"
+    ],
+    [
+      "26 OCT",
+      "El Colegio de Abogados avala los 38.508 euros en costas que debe pagar García Ortiz al abogado de González Amador — Infobae"
+    ],
+    [
+      "26 OCT",
+      "Calama pide prorrogar la instrucción del caso Zapatero ante la envergadura de la investigación — El Correo"
+    ],
+    [
+      "26 OCT",
+      "Las palabras de Pedro Sánchez que a Rafa Latorre le parecen \"inquietantes\": \"Esto de que el presidente diga quiénes son inocentes y quiénes no...\" — Onda Cero"
+    ],
+    [
+      "26 OCT",
+      "Zapatero, en un callejón sin salida con las joyas: o admite la malversación o que mintió al juez sobre su origen — El Mundo"
     ],
     [
       "25 OCT",
-      "Sáenz de Tejada declara este miércoles como investigado en el 'caso Leire Díez' ante el juez Pedraz — MONCLOA.COM"
-    ],
-    [
-      "25 OCT",
-      "La confesión de Julio Martínez, sobre Zapatero: \"¡Joder! Es que ha sido presidente del Gobierno y tiene contactos en todos los sitios\" — heraldo.es"
-    ],
-    [
-      "25 OCT",
-      "El exjuez investigado por actuar presuntamente contra Biedma declara este miércoles en el 'caso Leire Díez' — Europa Press"
-    ],
-    [
-      "25 OCT",
-      "Zapatero no incluyó ninguna joya entre los cerca de 500 regalos que declaró al dejar La Moncloa — Servimedia"
-    ],
-    [
-      "25 OCT",
-      "Las hijas de Zapatero contactan con antiguos clientes para intentar justificar que sí trabajaban — The Objective"
-    ],
-    [
-      "25 OCT",
-      "El socio de Aldama logra que el juez rastree un poder que le une al fraude del fuel hidrocarburos — La Razón"
-    ],
-    [
-      "24 OCT",
-      "Los mensajes interceptados por EEUU revelan la conexión de la trama de Plus Ultra con la presidenta venezolana: \"Falta poco para que la Delcy te llame Julito\" — El Periódico"
-    ],
-    [
-      "24 OCT",
-      "Anticorrupción apunta a presunta malversación de Zapatero por no entregar las joyas de su despacho a Patrimonio — Diario Red"
-    ],
-    [
-      "24 OCT",
-      "Pedraz acusa al PSOE de retrasar la entrega de documentos y da ultimátum — MUNDIARIO"
-    ],
-    [
-      "24 OCT",
-      "Plus Ultra disparó sus transferencias a Venezuela y Puerto Rico nada más recibir el primer tramo del rescate — Libertad Digital"
-    ],
-    [
-      "23 OCT",
-      "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos del 'caso Leire Díez' — MONCLOA.COM"
+      "«¡Joder! Es que ha sido presidente del Gobierno y tiene grandes contactos en todos los sitios» — El Correo"
     ]
   ],
   "relojes": [
