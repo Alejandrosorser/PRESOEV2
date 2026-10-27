@@ -999,15 +999,7 @@ window.PRESOE_DATOS =
     ],
     [
       "27 OCT",
-      "El juez Pedraz insiste en investigar si Leire Díez participó en la \"promoción o impulso\" del acoso a Biedma — EDATV News"
-    ],
-    [
-      "27 OCT",
       "Un sombrero ‘cowboy’ para Aznar, un ladrillo de una cárcel para Zapatero y un boli bala para Rajoy: los sorprendentes regalos a los presidentes — EL PAÍS"
-    ],
-    [
-      "27 OCT",
-      "Leire Díez presenta demanda contra el PP por un vídeo con inteligencia artificial que le imputa haber contratado matones para eliminar a una jueza — Nuevaradio"
     ],
     [
       "27 OCT",
@@ -1035,6 +1027,10 @@ window.PRESOE_DATOS =
     ],
     [
       "26 OCT",
+      "Ketty Garat pone el foco en el entramado internacional de Zapatero: \"Lo importante es el petróleo, el oro y las divisas\" — ESdiario"
+    ],
+    [
+      "26 OCT",
       "Las palabras de Pedro Sánchez que a Rafa Latorre le parecen \"inquietantes\": \"Esto de que el presidente diga quiénes son inocentes y quiénes no...\" — Onda Cero"
     ],
     [
@@ -1044,6 +1040,10 @@ window.PRESOE_DATOS =
     [
       "25 OCT",
       "«¡Joder! Es que ha sido presidente del Gobierno y tiene grandes contactos en todos los sitios» — El Correo"
+    ],
+    [
+      "25 OCT",
+      "La confesión de Julio Martínez, sobre Zapatero: \"¡Joder! Es que ha sido presidente del Gobierno y tiene contactos en todos los sitios\" — heraldo.es"
     ]
   ],
   "relojes": [
