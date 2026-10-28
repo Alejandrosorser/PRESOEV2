@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-07-27",
-  "actualizado_ticker": "2026-10-27",
+  "actualizado_ticker": "2026-10-28",
   "hub": {
     "k1": [
       430,
@@ -994,56 +994,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "27 OCT",
-      "Caso Plus Ultra: el juez pide prorrogar la instrucción — Radio Intereconomía"
+      "28 OCT",
+      "El exjuez Sáenz de Tejada dice que se refería a \"eliminar judicialmente\" a Biedma pero niega perseguirla — Diario Siglo XXI"
+    ],
+    [
+      "28 OCT",
+      "Un colaborador de Leire Díez califica de “bulo” el supuesto intento de agresión a la jueza Beatriz Biedma — EL PAÍS"
+    ],
+    [
+      "28 OCT",
+      "El ex juez de las ‘cloacas’ admite que Leire Díez le prometió mover hilos en la Fiscalía contra la juez del hermano de Sánchez — El Debate"
+    ],
+    [
+      "28 OCT",
+      "El exjuez Sáenz de Tejada admite que habló de “eliminar” a Beatriz Biedma en el chat con Leire Díez, pero dice que se refería a “apartarla de una causa judic… — Infobae"
+    ],
+    [
+      "28 OCT",
+      "Begoña Gómez denuncia al PP por \"suplantación de imagen\" por su vídeo hecho con IA — Diario de Sevilla"
+    ],
+    [
+      "28 OCT",
+      "El juez Calama descarta la pista saudí del caso Plus Ultra joyas: no pedirá a Riad el origen del regalo a Zapatero — MONCLOA.COM"
+    ],
+    [
+      "28 OCT",
+      "Luis Sáenz de Tejada declara como investigado en la Audiencia Nacional — Canal Extremadura"
+    ],
+    [
+      "28 OCT",
+      "El exjuez investigado por actuar presuntamente contra Biedma declara por el caso Leire Díez — RTVE.es"
+    ],
+    [
+      "28 OCT",
+      "Un exjuez ‘youtuber’ y un clan de la droga: el ‘caso Leire’ alcanza la operación contra la jueza Biedma — infoLibre"
+    ],
+    [
+      "28 OCT",
+      "Calama descubre una sentencia que permite condenar a Zapatero sin conocer a quién influyó para lograr el re... — OkDiario"
+    ],
+    [
+      "28 OCT",
+      "El juez se harta de Zapatero y le anima a que vaya a Arabia Saudí si realmente quiere acreditar el origen de las joyas — Vozpopuli"
     ],
     [
       "27 OCT",
-      "Un sombrero ‘cowboy’ para Aznar, un ladrillo de una cárcel para Zapatero y un boli bala para Rajoy: los sorprendentes regalos a los presidentes — EL PAÍS"
+      "La ex de Ábalos devuelve casi 44.000 euros cobrados sin trabajar de empresas públicas como posible responsabilidad civil — Demócrata"
     ],
     [
       "27 OCT",
-      "Pedraz insiste en investigar si Leire Díez participó en la \"promoción o impulso\" del acoso a Biedma — La Razón"
-    ],
-    [
-      "26 OCT",
-      "José Luis Calama, juez del caso Plus Ultra, pide que se prorrogue el plazo de instrucción — Telecinco"
-    ],
-    [
-      "26 OCT",
-      "El juez del caso Plus Ultra pide prorrogar la investigación para practicar más diligencias — Diario de Santiago"
-    ],
-    [
-      "26 OCT",
-      "El juez plantea prorrogar la instrucción del caso Zapatero y consulta a las partes — Levante-EMV"
-    ],
-    [
-      "26 OCT",
-      "El Colegio de Abogados avala los 38.508 euros en costas que debe pagar García Ortiz al abogado de González Amador — Infobae"
-    ],
-    [
-      "26 OCT",
-      "Calama pide prorrogar la instrucción del caso Zapatero ante la envergadura de la investigación — El Correo"
-    ],
-    [
-      "26 OCT",
-      "Ketty Garat pone el foco en el entramado internacional de Zapatero: \"Lo importante es el petróleo, el oro y las divisas\" — ESdiario"
-    ],
-    [
-      "26 OCT",
-      "Las palabras de Pedro Sánchez que a Rafa Latorre le parecen \"inquietantes\": \"Esto de que el presidente diga quiénes son inocentes y quiénes no...\" — Onda Cero"
-    ],
-    [
-      "26 OCT",
-      "Zapatero, en un callejón sin salida con las joyas: o admite la malversación o que mintió al juez sobre su origen — El Mundo"
-    ],
-    [
-      "25 OCT",
-      "«¡Joder! Es que ha sido presidente del Gobierno y tiene grandes contactos en todos los sitios» — El Correo"
-    ],
-    [
-      "25 OCT",
-      "La confesión de Julio Martínez, sobre Zapatero: \"¡Joder! Es que ha sido presidente del Gobierno y tiene contactos en todos los sitios\" — heraldo.es"
+      "La exnovia de Ábalos deposita en la Audiencia los 44.000 euros que cobró de empresas públicas — Telemadrid"
     ]
   ],
   "relojes": [
