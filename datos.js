@@ -995,7 +995,7 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "28 OCT",
-      "El exjuez Sáenz de Tejada dice que se refería a \"eliminar judicialmente\" a Biedma pero niega perseguirla — Diario Siglo XXI"
+      "El ex juez Sáenz de Tejada dice que se refería a \"eliminar judicialmente\" a Biedma pero niega perseguirla — Diario de Sevilla"
     ],
     [
       "28 OCT",
