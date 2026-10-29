@@ -96,6 +96,10 @@ window.PRESOE_DATOS =
         {
           "f": "27-10-2026",
           "t": "La expareja de Ábalos (Jésica Rodríguez) deposita en la Audiencia los 44.000 euros que cobró de empresas públicas como posible responsabilidad civil (Telemadrid / Demócrata)."
+        },
+        {
+          "f": "29-10-2026",
+          "t": "La empresa editora de OkDiario pagó presuntamente 200.000 euros para sufragar la defensa de Koldo García, según informaciones (Cadena SER)."
         }
       ],
       "gente": [
@@ -117,7 +121,7 @@ window.PRESOE_DATOS =
         "Cohecho",
         "Tráfico de influencias"
       ],
-      "resumen": "Presuntos amaños en adjudicaciones de obra pública del Ministerio de Transportes (Carreteras, Adif) a cambio de mordidas. La UCO atribuye a Santos Cerdán la «gestión» de comisiones por unos 620.000 € —para toda la trama estima 1,18 millones— apoyándose en los audios grabados por Koldo. El Supremo remitió la pieza a la Audiencia Nacional en febrero de 2026; hay 14 investigados entre políticos, altos cargos y directivos de constructoras. El PSOE niega cualquier financiación irregular y sostiene que sus pagos en efectivo eran liquidaciones legales de gastos.",
+      "resumen": "Presuntos amaños en adjudicaciones de obra pública del Ministerio de Transportes (Carreteras, Adif) a cambio de mordidas. La UCO atribuye a Santos Cerdán la «gestión» de comisiones por unos 620.000 € —para toda la trama estima 1,18 millones— apoyándose en los audios grabados por Koldo. El Supremo remitió la pieza a la Audiencia Nacional en febrero de 2026; hay 14 investigados entre políticos, altos cargos y directivos de constructoras. El PSOE niega cualquier financiación irregular y sostiene que sus pagos en efectivo eran liquidaciones legales de gastos. Un informe de la UCO habría desvelado, según informaciones, que Koldo y Ábalos habrían amañado con Pardo de Vera 14 obras (La Gaceta de la Iberosfera, 29-10-2026, un único medio; dato no corroborado por otras fuentes).",
       "fallo": null,
       "hitos": [
         {
@@ -324,6 +328,10 @@ window.PRESOE_DATOS =
         {
           "f": "16-10-2026",
           "t": "El Tribunal Supremo abre la puerta a apartar a García Ortiz de la carrera fiscal en una reciente sentencia (El Confidencial)."
+        },
+        {
+          "f": "29-10-2026",
+          "t": "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz, según informaciones (Libertad Digital)."
         }
       ],
       "gente": [
@@ -393,7 +401,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "15-10-2026",
-          "t": "El juez que investiga la presunta trama de mordidas por obra pública pide al del caso Leire la documentación incautada de Santos Cerdán (Cadena SER)."
+          "t": "El juez que investiga la presunta trama de mordidas por obra pública pide al del caso Leire la documentación incautada de Santos Cerdán (Cadena SER). El juez Pedraz descarta citar a Cerdán antes del 29-N y aleja la decisión sobre la imputación del PSOE (El Confidencial)."
         },
         {
           "f": "20-10-2026",
@@ -546,7 +554,7 @@ window.PRESOE_DATOS =
         "Delito fiscal",
         "Contrabando"
       ],
-      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación.",
+      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen.",
       "fallo": null,
       "hitos": [
         {
@@ -638,7 +646,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026).",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). La empresa editora de OkDiario habría pagado presuntamente 200.000 euros para sufragar su defensa, según informaciones (Cadena SER, 29-10-2026).",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -685,7 +693,7 @@ window.PRESOE_DATOS =
       "x": 1015,
       "y": 305,
       "rol": "Ex secretario de Organización del PSOE (2021-2025)",
-      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El juez del caso Koldo le pidió documentación al del caso Leire para aclarar sus presuntos ingresos (Cadena SER / The Objective, 15-10-2026). Se opone a que el juez examine sus agendas personales (Confilegal, 21-10-2026) y acusa a la AN de investigar toda su vida para buscar delitos (El Correo, 22-10-2026). Según El Confidencial (20-10-2026), sus agendas y las de Leire contenían contactos de un tercio de los fiscales de la AN. Niega todos los hechos.",
+      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El juez del caso Koldo le pidió documentación al del caso Leire para aclarar sus presuntos ingresos (Cadena SER / The Objective, 15-10-2026). El juez Pedraz descartó citarle antes del 29-N (El Confidencial, 15-10-2026). Se opone a que el juez examine sus agendas personales (Confilegal, 21-10-2026) y acusa a la AN de investigar toda su vida para buscar delitos (El Correo, 22-10-2026). Según El Confidencial (20-10-2026), sus agendas y las de Leire contenían contactos de un tercio de los fiscales de la AN. Niega todos los hechos.",
       "casos": [
         "k2",
         "k6"
@@ -829,7 +837,7 @@ window.PRESOE_DATOS =
       "x": 858,
       "y": 802,
       "rol": "Ex fiscal general del Estado",
-      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026).",
+      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital).",
       "fallo": "Multa de 12 meses a razón de 20 €/día (7.200 €), 2 años de inhabilitación especial para el cargo de fiscal general del Estado, 10.000 € de indemnización a Alberto González Amador y costas (39.009,48 €). Absuelto del resto de delitos.",
       "casos": [
         "k5"
@@ -844,7 +852,7 @@ window.PRESOE_DATOS =
       "x": 1195,
       "y": 330,
       "rol": "Exmilitante del PSOE",
-      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026). El juez Pedraz insiste en investigar si participó en la «promoción o impulso» del presunto acoso a la jueza Biedma (La Razón, 27-10-2026). La AN rechazó su querella contra el PP por un vídeo hecho con IA (elDiario.es, 27-10-2026). Sus agendas habrían contenido contactos de un tercio de los fiscales de la AN, según informaciones (El Confidencial, 20-10-2026).",
+      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026). El juez Pedraz insiste en investigar si participó en la «promoción o impulso» del presunto acoso a la jueza Biedma (La Razón, 27-10-2026). La AN rechazó su querella contra el PP por un vídeo hecho con IA (elDiario.es, 27-10-2026). Sus agendas habrían contenido contactos de un tercio de los fiscales de la AN, según informaciones (El Confidencial, 20-10-2026). El juez Pedraz descartó citarla antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026).",
       "casos": [
         "k6"
       ]
