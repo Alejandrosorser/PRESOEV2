@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-10-29",
-  "actualizado_ticker": "2026-10-28",
+  "actualizado_ticker": "2026-10-29",
   "hub": {
     "k1": [
       430,
@@ -1091,55 +1091,55 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "29 OCT",
-      "La exnovia de Ábalos deposita en la Audiencia los 44.000 euros que cobró de empresas públicas como posible responsabilidad civil — Telemadrid / Demócrata"
+      "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz — Libertad Digital"
     ],
     [
       "29 OCT",
-      "El juez Pedraz blinda la causa de las presuntas cloacas de Ferraz y mantiene a Balas al frente para evitar «alteraciones» — MONCLOA.COM"
+      "La empresa editora de OkDiario pagó 200.000 euros para sufragar la defensa de Koldo García — Cadena SER"
     ],
     [
       "29 OCT",
-      "El ex juez Sáenz de Tejada admite que quiso «eliminar judicialmente» a la jueza Biedma pero niega perseguirla — Onda Cero / RTVE.es / El Independiente"
+      "Las joyas de Zapatero, tasadas en 1,02 millones — Canariasdiario.com"
     ],
     [
       "29 OCT",
-      "Un colaborador de Leire Díez califica de «bulo» el supuesto intento de agresión a la jueza Beatriz Biedma — EL PAÍS"
+      "Un informe cuestiona que el rey saudí regalara las joyas a Zapatero — El Liberal.cat"
     ],
     [
       "29 OCT",
-      "El juez Calama rechaza preguntar a Arabia Saudí sobre las joyas de Zapatero; informe pericial contradice su versión sobre su origen — EL PAÍS / El Mundo"
+      "La joyería Yanes tasa en un millón de euros las joyas halladas en la oficina de Zapatero en su segunda valoración — RTVE.es"
     ],
     [
       "29 OCT",
-      "El juez del caso Plus Ultra plantea prorrogar la instrucción ante la envergadura de la investigación — Levante-EMV / El Correo / El Debate"
+      "El segundo peritaje encargado por el juez Calama sitúa la fabricación de las joyas de Zapatero no antes de 2007 y fuera de la Unión Europea — Confilegal"
     ],
     [
-      "29 OCT",
-      "La jueza del caso Mediador envía a juicio a «Tito Berni», al general Espinosa, a Taishet y a otros 11 acusados — RTVE.es / El Mundo / elDiario.es"
+      "28 OCT",
+      "Un informe pericial cuestiona que las joyas de Zapatero fueran un regalo del rey saudí en 2007 — El Nacional.cat"
     ],
     [
-      "29 OCT",
-      "El juez Peinado abre juicio oral con jurado a Begoña Gómez por tráfico de influencias y malversación — EL PAÍS / El Mundo / RTVE.es"
+      "28 OCT",
+      "Una nueva tasación cuestiona la versión de Zapatero sobre las joyas — EL PAÍS"
     ],
     [
-      "29 OCT",
-      "Anticorrupción ve indicios para imputar al PSOE en el caso Leire Díez aunque lo considera prematuro — El Periódico"
+      "28 OCT",
+      "Yanes tasa en 1,02 millones las joyas intervenidas a Zapatero — El Boletín"
     ],
     [
-      "29 OCT",
-      "Sánchez no descarta indultar a García Ortiz antes del 29-N; el TS abre la puerta a apartarle de la carrera fiscal — Libertad Digital / La Vanguardia / El Confidencial"
+      "28 OCT",
+      "Una segunda tasación valora en un 1 millón de euros las joyas de Zapatero incautadas — La Región"
     ],
     [
-      "29 OCT",
-      "Ábalos y Koldo podrían acudir al Constitucional tras el rechazo del Supremo a su nulidad — ESdiario"
+      "28 OCT",
+      "La nueva tasación valora en 1.023.320 euros las joyas de Zapatero: serían de \"probable origen asiático\" y \"no se habrían fabricado antes de 2007\" — LaSexta"
     ],
     [
-      "29 OCT",
-      "La Fiscalía Europea irrumpe en el caso hidrocarburos: Aldama y otros habrían desviado 27,9 millones a Portugal — EL PAÍS"
+      "28 OCT",
+      "Una segunda tasación valora en un millón de euros las joyas de Zapatero incautadas — Telecinco"
     ],
     [
-      "29 OCT",
-      "El juez del caso Koldo pide documentación al del caso Leire para aclarar los presuntos ingresos de Cerdán — Cadena SER / The Objective"
+      "28 OCT",
+      "La joyería Yanes tasa en más de 1 millón de euros las joyas halladas en el despacho de Zapatero — La Razón"
     ]
   ],
   "relojes": [
