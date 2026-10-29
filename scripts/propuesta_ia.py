@@ -1,6 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-PRESOE · propuesta diaria con IA (revisión humana obligatoria) — v3 con streaming.
+PRESOE · actualización diaria con IA — v4 (publicación automática + revisión de lo sensible).
+
+v4: los cambios NO sensibles (hitos nuevos en las cronologías, resúmenes, relojes,
+titulares) se publican solos cada día en datos.js, ordenando las cronologías por
+fecha. Los cambios SENSIBLES (estado procesal, prisión, fallos, fase de una causa,
+personas o causas nuevas) nunca se publican solos: van a un Pull Request aparte.
+
+Texto original de la v3:
 
 Recoge los titulares del día, se los pasa a la API de Anthropic junto con el
 datos.js actual y pide una versión actualizada del JSON. El resultado NO se
@@ -14,7 +21,7 @@ mensajes de error claros, los reintentos y la detección de truncado de la v2.
 
 Requiere el secreto ANTHROPIC_API_KEY en el repositorio.
 """
-import json, os, sys, time, urllib.error, urllib.request
+import copy, json, os, re, sys, time, urllib.error, urllib.request
 from datetime import datetime, timezone
 
 sys.stdout.reconfigure(line_buffering=True)
@@ -159,24 +166,108 @@ def valida(d, referencia):
             return "reloj con tipo inválido"
     return None
 
+SENSIBLES_PERSONA = ("estado", "prision", "fallo")
+SENSIBLES_CAUSA = ("fase", "fallo")
+
 def cambios_sensibles(antes, despues):
-    est_antes = {p["id"]: p.get("estado") for p in antes["gente"]}
-    fal_antes = {p["id"]: p.get("fallo") for p in antes["gente"]}
+    g_antes = {p["id"]: p for p in antes["gente"]}
+    c_antes = {c["id"]: c for c in antes["casos"]}
     avisos = []
     for p in despues["gente"]:
-        pid = p["id"]
-        if pid not in est_antes:
+        o = g_antes.get(p["id"])
+        if o is None:
             avisos.append(f"- ⚠ Persona NUEVA: **{p.get('nombre')}** (estado: {p.get('estado')})")
             continue
-        if p.get("estado") != est_antes[pid]:
+        if p.get("estado") != o.get("estado"):
             avisos.append(f"- ⚠ Cambio de estado de **{p.get('nombre')}**: "
-                          f"`{est_antes[pid]}` → `{p.get('estado')}`")
-        if p.get("fallo") != fal_antes.get(pid):
+                          f"`{o.get('estado')}` → `{p.get('estado')}`")
+        if p.get("prision") != o.get("prision"):
+            avisos.append(f"- ⚠ Cambio de situación de prisión de **{p.get('nombre')}**")
+        if p.get("fallo") != o.get("fallo"):
             avisos.append(f"- ⚠ Fallo modificado o añadido para **{p.get('nombre')}**")
-    nuevos_casos = {c["id"] for c in despues["casos"]} - {c["id"] for c in antes["casos"]}
-    for cid in nuevos_casos:
-        avisos.append(f"- ⚠ Causa NUEVA: `{cid}`")
+    for c in despues["casos"]:
+        o = c_antes.get(c["id"])
+        if o is None:
+            avisos.append(f"- ⚠ Causa NUEVA: `{c['id']}` ({c.get('nombre')})")
+            continue
+        if c.get("fase") != o.get("fase"):
+            avisos.append(f"- ⚠ Cambio de fase de la causa **{c.get('nombre')}**: "
+                          f"`{o.get('fase')}` → `{c.get('fase')}`")
+        if c.get("fallo") != o.get("fallo"):
+            avisos.append(f"- ⚠ Fallo de la causa **{c.get('nombre')}** modificado o añadido")
     return avisos
+
+def _restaura(destino, origen, campos):
+    for campo in campos:
+        if campo in origen:
+            destino[campo] = copy.deepcopy(origen[campo])
+        else:
+            destino.pop(campo, None)
+
+def version_segura(antes, propuesta):
+    """La propuesta de la IA sin ningún cambio sensible: conserva hitos, resúmenes,
+    relojes y ticker nuevos, pero deja estado/prisión/fallos/fase como estaban y
+    descarta personas y causas nuevas (esas esperan a la revisión humana)."""
+    s = copy.deepcopy(propuesta)
+    g_antes = {p["id"]: p for p in antes["gente"]}
+    c_antes = {c["id"]: c for c in antes["casos"]}
+    s["gente"] = [p for p in s["gente"] if p["id"] in g_antes]
+    s["casos"] = [c for c in s["casos"] if c["id"] in c_antes]
+    for p in s["gente"]:
+        _restaura(p, g_antes[p["id"]], SENSIBLES_PERSONA)
+        p["casos"] = [cid for cid in p.get("casos", []) if cid in c_antes]
+    for c in s["casos"]:
+        _restaura(c, c_antes[c["id"]], SENSIBLES_CAUSA)
+        c["gente"] = [pid for pid in c.get("gente", []) if pid in g_antes]
+    ids = {p["id"] for p in s["gente"]}
+    s["hub"] = {k: v for k, v in s["hub"].items() if k in antes["hub"] or k in c_antes}
+    s["fotos_wiki"] = {k: v for k, v in s["fotos_wiki"].items()
+                       if k in antes["fotos_wiki"] or k in ids}
+    rel_antes = [json.dumps(r, sort_keys=True) for r in antes["relaciones"]]
+    s["relaciones"] = [r for r in s["relaciones"]
+                       if json.dumps(r, sort_keys=True) in rel_antes
+                       or (r.get("a") in ids and r.get("b") in ids)]
+    return s
+
+_MESES = {"ene":1,"feb":2,"mar":3,"abr":4,"may":5,"jun":6,"jul":7,"ago":8,
+          "sep":9,"set":9,"oct":10,"nov":11,"dic":12}
+
+def _clave_fecha(f):
+    f = (f or "").strip().lower()
+    m = re.match(r"^(\d{1,2})[-/](\d{1,2})[-/](\d{4})", f)
+    if m:
+        return (int(m[3]), int(m[2]), int(m[1]))
+    m = re.match(r"^([a-zé]{3})[a-zé]*\.?\s+(?:de\s+)?(\d{4})", f)
+    if m and m[1][:3] in _MESES:
+        return (int(m[2]), _MESES[m[1][:3]], 0)
+    m = re.match(r"^(\d{4})$", f)
+    if m:
+        return (int(m[1]), 0, 0)
+    return None
+
+def ordena_hitos(d):
+    """Ordena cada cronología por fecha (la IA añade los hitos al final)."""
+    for c in d["casos"]:
+        hitos, ultima, claves = c.get("hitos", []), (0, 0, 0), []
+        for h in hitos:
+            k = _clave_fecha(h.get("f"))
+            ultima = k if k else ultima      # sin fecha legible: se queda tras el anterior
+            claves.append(ultima)
+        orden = sorted(range(len(hitos)), key=lambda i: claves[i])
+        c["hitos"] = [hitos[i] for i in orden]
+
+def escribe_en(ruta, d):
+    with open(ruta, "w", encoding="utf-8") as f:
+        f.write("window.PRESOE_DATOS =\n")
+        f.write(json.dumps(d, ensure_ascii=False, indent=2))
+        f.write(";\n")
+
+def salida_gh(**kv):
+    ruta = os.environ.get("GITHUB_OUTPUT")
+    if ruta:
+        with open(ruta, "a", encoding="utf-8") as f:
+            for k, v in kv.items():
+                f.write(f"{k}={'true' if v else 'false'}\n")
 
 def main():
     clave = os.environ.get("ANTHROPIC_API_KEY")
@@ -226,22 +317,42 @@ def main():
         print(f"ERROR: propuesta rechazada por validación: {error}.", file=sys.stderr)
         sys.exit(1)
 
+    ordena_hitos(propuesta)
     if propuesta == datos:
         open("cambios_pr.md","w",encoding="utf-8").write("La IA no propone cambios hoy.")
         print("Sin cambios propuestos.")
         return
 
+    # 1) Parte segura: se publica sola en datos.js
     avisos = cambios_sensibles(datos, propuesta)
-    lineas = ["## Propuesta automática de actualización de PRESOE",
-              f"Generada el {hoy} a partir de {len(titulares)} titulares.", "",
-              "**Revisa antes de fusionar.** En especial:"]
-    lineas += avisos if avisos else ["- (sin cambios de estado, fallos ni altas: solo cronologías/resúmenes/relojes)"]
-    lineas += ["", "Titulares usados como evidencia:", ""]
-    lineas += [f"- {t}" for t in titulares[:25]]
-    open("cambios_pr.md","w",encoding="utf-8").write("\n".join(lineas))
+    segura = version_segura(datos, propuesta) if avisos else propuesta
+    publicar = segura != datos
+    if publicar:
+        error = valida(segura, datos)
+        if error:
+            print(f"Aviso: la parte segura no pasa la validación ({error}); "
+                  "todo queda para revisión.")
+            publicar = False
+    if publicar:
+        escribe_datos(segura)
+        print("Cambios no sensibles escritos en datos.js para publicarse ya.")
 
-    escribe_datos(propuesta)
-    print(f"Propuesta escrita en datos.js ({len(avisos)} cambios sensibles).")
+    # 2) Parte sensible: se guarda aparte y el workflow abre un Pull Request
+    if avisos:
+        escribe_en("datos_propuesta.js", propuesta)
+        lineas = ["## Cambios SENSIBLES pendientes de tu revisión",
+                  f"Generados el {hoy} a partir de {len(titulares)} titulares.", "",
+                  ("Las novedades no sensibles (cronologías, resúmenes, relojes) "
+                   "ya se han publicado solas. " if publicar else "") +
+                  "Este PR solo contiene lo que NO se publica sin tu visto bueno:", ""]
+        lineas += avisos
+        lineas += ["", "Si es correcto, pulsa **Merge**. Si no, ciérralo sin más.", "",
+                   "Titulares usados como evidencia:", ""]
+        lineas += [f"- {t}" for t in titulares[:25]]
+        open("cambios_pr.md","w",encoding="utf-8").write("\n".join(lineas))
+        print(f"{len(avisos)} cambios sensibles apartados para revisión.")
+
+    salida_gh(publicar=publicar, revisar=bool(avisos))
 
 if __name__ == "__main__":
     main()
