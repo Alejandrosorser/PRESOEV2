@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-10-29",
-  "actualizado_ticker": "2026-10-29",
+  "actualizado_ticker": "2026-10-30",
   "hub": {
     "k1": [
       430,
@@ -1098,56 +1098,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "29 OCT",
-      "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz — Libertad Digital"
+      "30 OCT",
+      "El exviceministro venezolano Villalobos se niega a declarar en el caso Leire Díez — Noticias de Gipuzkoa"
+    ],
+    [
+      "30 OCT",
+      "El exviceministro chavista implicado en la trama Leire guarda silencio ante el juez sobre la concesión de su nacionalidad por la 'ley de nietos' — El Periódico"
+    ],
+    [
+      "30 OCT",
+      "El exviceministro venezolano Nervis Villalobos rechaza declarar ante el juez del 'caso Leire Díez' — Notimérica"
+    ],
+    [
+      "30 OCT",
+      "Adivina adivinanza quién pagó a la abogada del corrupto Koldo — https://insurgente.org/"
     ],
     [
       "29 OCT",
-      "La empresa editora de OkDiario pagó 200.000 euros para sufragar la defensa de Koldo García — Cadena SER"
+      "El juez del 'caso Leire' cita este viernes al exviceministro venezolano Nervis Villalobos como investigado — Diario de León"
     ],
     [
       "29 OCT",
-      "Las joyas de Zapatero, tasadas en 1,02 millones — Canariasdiario.com"
+      "La abogada del corrupto Koldo la pagó uno de los digitales ultras que más financiación recibe del PP — Diario Público"
     ],
     [
       "29 OCT",
-      "Un informe cuestiona que el rey saudí regalara las joyas a Zapatero — El Liberal.cat"
+      "El Cabildo y la ULPGC eligen a García Ortiz, condenado por el Supremo, para hablar de democracia y justicia — La Gaceta de Canarias"
     ],
     [
       "29 OCT",
-      "La joyería Yanes tasa en un millón de euros las joyas halladas en la oficina de Zapatero en su segunda valoración — RTVE.es"
+      "La empresa editora de 'OkDiario' pagó 242.000 euros para la defensa legal de Koldo García — El Español"
     ],
     [
       "29 OCT",
-      "El segundo peritaje encargado por el juez Calama sitúa la fabricación de las joyas de Zapatero no antes de 2007 y fuera de la Unión Europea — Confilegal"
+      "El exdirigente chavista vinculado a Leire Díez se niega a declarar por recibir la nacionalidad con la Ley de Nietos — Libertad Digital"
     ],
     [
-      "28 OCT",
-      "Un informe pericial cuestiona que las joyas de Zapatero fueran un regalo del rey saudí en 2007 — El Nacional.cat"
+      "29 OCT",
+      "La editora de 'Okdiario' pagó 242.000 euros para costear la defensa de Koldo García — Diario Público"
     ],
     [
-      "28 OCT",
-      "Una nueva tasación cuestiona la versión de Zapatero sobre las joyas — EL PAÍS"
+      "29 OCT",
+      "Los mandos de la Policía denuncian «presiones políticas» sobre los investigadores de la invasión a Ceuta... — La Gaceta de la Iberosfera"
     ],
     [
-      "28 OCT",
-      "Yanes tasa en 1,02 millones las joyas intervenidas a Zapatero — El Boletín"
+      "29 OCT",
+      "La abogada de Koldo García entrega a la Audiencia Nacional las facturas que acreditan que la editora de OkDiario pagó 200.000 euros por su defensa — El Constitucional"
     ],
     [
-      "28 OCT",
-      "Una segunda tasación valora en un 1 millón de euros las joyas de Zapatero incautadas — La Región"
-    ],
-    [
-      "28 OCT",
-      "La nueva tasación valora en 1.023.320 euros las joyas de Zapatero: serían de \"probable origen asiático\" y \"no se habrían fabricado antes de 2007\" — LaSexta"
-    ],
-    [
-      "28 OCT",
-      "Una segunda tasación valora en un millón de euros las joyas de Zapatero incautadas — Telecinco"
-    ],
-    [
-      "28 OCT",
-      "La joyería Yanes tasa en más de 1 millón de euros las joyas halladas en el despacho de Zapatero — La Razón"
+      "29 OCT",
+      "La UCO informa a Pedraz de que la jueza Biedma decidió dar a las partes mails personales de Pedro Sánchez y su esposa — El Periódico"
     ]
   ],
   "relojes": [
