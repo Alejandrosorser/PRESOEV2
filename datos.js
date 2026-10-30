@@ -429,7 +429,8 @@ window.PRESOE_DATOS =
         "cerdan",
         "antxon",
         "vfernandez",
-        "mgonzalez"
+        "mgonzalez",
+        "villalobos"
       ]
     },
     {
@@ -898,6 +899,20 @@ window.PRESOE_DATOS =
       ]
     },
     {
+      "id": "villalobos",
+      "nombre": "Nervis Villalobos",
+      "ini": "NV",
+      "estado": "investigado",
+      "prision": false,
+      "x": 1490,
+      "y": 310,
+      "rol": "Exviceministro venezolano",
+      "resumen": "Exviceministro venezolano vinculado, según la investigación, a la trama Leire Díez. Citado como investigado por el juez Pedraz el 29-10-2026 (Diario de León). El 30-10-2026 se negó a declarar ante el juez, guardando silencio sobre la concesión de su nacionalidad española a través de la 'ley de nietos' (Diario de Noticias de Álava / El Periódico / Notimérica). Presunción de inocencia íntegra.",
+      "casos": [
+        "k6"
+      ]
+    },
+    {
       "id": "rivas",
       "nombre": "Claudio Rivas",
       "ini": "CR",
@@ -1106,6 +1121,11 @@ window.PRESOE_DATOS =
       "a": "pano",
       "b": "leonor",
       "t": "su hija"
+    },
+    {
+      "a": "leire",
+      "b": "villalobos",
+      "t": "según el juez"
     }
   ],
   "ticker": [
