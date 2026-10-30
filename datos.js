@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-10-29",
+  "actualizado_datos": "2026-10-30",
   "actualizado_ticker": "2026-10-30",
   "hub": {
     "k1": [
@@ -79,7 +79,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "20-07-2026",
-          "t": "La expareja de Ábalos y el hermano de Koldo García se niegan a declarar sobre la contratación de ella en Ineco (EL PÁIS)."
+          "t": "La expareja de Ábalos y el hermano de Koldo García se niegan a declarar sobre la contratación de ella en Ineco (EL PAÍS)."
         },
         {
           "f": "24-07-2026",
@@ -95,11 +95,11 @@ window.PRESOE_DATOS =
         },
         {
           "f": "27-10-2026",
-          "t": "La expareja de Ábalos (Jésica Rodríguez) deposita en la Audiencia los 44.000 euros que cobró de empresas públicas como posible responsabilidad civil (Telemadrid / Demócrata)."
+          "t": "La expareja de Ábalos (Jésica Rodríguez) deposita en la Audiencia los 44.000 euros que cobró de empresas públicas como posible responsabilidad civil (Telemadrid)."
         },
         {
           "f": "29-10-2026",
-          "t": "La empresa editora de OkDiario pagó presuntamente 200.000 euros para sufragar la defensa de Koldo García, según informaciones (Cadena SER)."
+          "t": "Múltiples medios informan de que la empresa editora de OkDiario pagó presuntamente entre 200.000 y 242.000 euros para costear la defensa legal de Koldo García en el juicio del Supremo; la abogada de Koldo García asegura que recibió ese importe en concepto de «honorarios» y «gastos» (Cadena SER / EL PAÍS / El Confidencial / elDiario.es / Diario Público / Elplural.com)."
         }
       ],
       "gente": [
@@ -121,7 +121,7 @@ window.PRESOE_DATOS =
         "Cohecho",
         "Tráfico de influencias"
       ],
-      "resumen": "Presuntos amaños en adjudicaciones de obra pública del Ministerio de Transportes (Carreteras, Adif) a cambio de mordidas. La UCO atribuye a Santos Cerdán la «gestión» de comisiones por unos 620.000 € —para toda la trama estima 1,18 millones— apoyándose en los audios grabados por Koldo. El Supremo remitió la pieza a la Audiencia Nacional en febrero de 2026; hay 14 investigados entre políticos, altos cargos y directivos de constructoras. El PSOE niega cualquier financiación irregular y sostiene que sus pagos en efectivo eran liquidaciones legales de gastos. Un informe de la UCO habría desvelado, según informaciones, que Koldo y Ábalos habrían amañado con Pardo de Vera 14 obras (La Gaceta de la Iberosfera, 29-10-2026, un único medio; dato no corroborado por otras fuentes).",
+      "resumen": "Presuntos amaños en adjudicaciones de obra pública del Ministerio de Transportes (Carreteras, Adif) a cambio de mordidas. La UCO atribuye a Santos Cerdán la «gestión» de comisiones por unos 620.000 € —para toda la trama estima 1,18 millones— apoyándose en los audios grabados por Koldo. El Supremo remitió la pieza a la Audiencia Nacional en febrero de 2026; hay 14 investigados entre políticos, altos cargos y directivos de constructoras. El PSOE niega cualquier financiación irregular y sostiene que sus pagos en efectivo eran liquidaciones legales de gastos. Un informe de la UCO habría desvelado, según un único medio no corroborado, que Koldo y Ábalos habrían amañado con Pardo de Vera 14 obras (La Gaceta de la Iberosfera, 29-10-2026; dato no contrastado por otras fuentes).",
       "fallo": null,
       "hitos": [
         {
@@ -191,7 +191,7 @@ window.PRESOE_DATOS =
         "Tráfico de influencias",
         "Malversación"
       ],
-      "resumen": "Procedimiento contra la esposa del presidente por su actividad al frente de una cátedra extraordinaria de la Complutense y por el uso de una asesora de Moncloa para asuntos privados. El 16-07-2026 la Audiencia de Madrid avaló que sea juzgada por un jurado popular, pero solo por tráfico de influencias y malversación (excluyó corrupción en los negocios y apropiación indebida) e invalidó la apertura de juicio dictada en junio, que debe rehacerse. La Fiscalía no aprecia indicios y no acusa: el proceso avanza a instancia de las acusaciones populares. El juez Peinado se jubila en septiembre de 2026. Presunción de inocencia íntegra.",
+      "resumen": "Procedimiento contra la esposa del presidente por su actividad al frente de una cátedra extraordinaria de la Complutense y por el uso de una asesora de Moncloa para asuntos privados. El 16-07-2026 la Audiencia de Madrid avaló que sea juzgada por un jurado popular, pero solo por tráfico de influencias y malversación (excluyó corrupción en los negocios y apropiación indebida) e invalidó la apertura de juicio dictada en junio, que debía rehacerse. La Fiscalía no aprecia indicios y no acusa: el proceso avanza a instancia de las acusaciones populares. El juez Peinado se jubiló en septiembre de 2026 tras dictar el auto de apertura de juicio oral el 21-09-2026. Presunción de inocencia íntegra.",
       "fallo": null,
       "hitos": [
         {
@@ -224,7 +224,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "27-09-2026",
-          "t": "Jubilación del juez Peinado: límite práctico para dictar el nuevo auto."
+          "t": "Jubilación del juez Peinado."
         },
         {
           "f": "07-10-2026",
@@ -331,7 +331,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "29-10-2026",
-          "t": "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz, según informaciones (Libertad Digital)."
+          "t": "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz, según informaciones (Libertad Digital / La Gaceta de Canarias)."
         }
       ],
       "gente": [
@@ -352,7 +352,7 @@ window.PRESOE_DATOS =
         "Revelación de secretos",
         "Prevaricación"
       ],
-      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna.",
+      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna. El exviceministro venezolano Nervis Villalobos fue citado como investigado el 29-10-2026 y se negó a declarar ante el juez el 30-10-2026, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos'.",
       "fallo": null,
       "hitos": [
         {
@@ -413,7 +413,15 @@ window.PRESOE_DATOS =
         },
         {
           "f": "28-10-2026",
-          "t": "El ex juez Sáenz de Tejada declara ante Pedraz: admite que habló de «eliminar judicialmente» a la jueza Biedma pero niega haber la perseguido físicamente y niega haber recibido encargo de Leire Díez (RTVE.es / Onda Cero / El Independiente / Canal Extremadura). Un colaborador de Leire Díez califica de «bulo» el supuesto intento de agresión a la jueza Biedma (EL PAÍS). Pedraz blinda la causa de las presuntas cloacas de Ferraz y mantiene a Balas al frente para evitar «alteraciones» (MONCLOA.COM)."
+          "t": "El ex juez Sáenz de Tejada declara ante Pedraz: admite que habló de «eliminar judicialmente» a la jueza Biedma pero niega haberla perseguido físicamente y niega haber recibido encargo de Leire Díez (RTVE.es / Onda Cero / El Independiente / Canal Extremadura). Un colaborador de Leire Díez califica de «bulo» el supuesto intento de agresión a la jueza Biedma (EL PAÍS). Pedraz blinda la causa de las presuntas cloacas de Ferraz y mantiene a Balas al frente para evitar «alteraciones» (MONCLOA.COM)."
+        },
+        {
+          "f": "29-10-2026",
+          "t": "El juez Pedraz cita como investigado al exviceministro venezolano Nervis Villalobos para declarar el día 30 (Diario de León)."
+        },
+        {
+          "f": "30-10-2026",
+          "t": "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez Pedraz en el caso Leire Díez, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos' (Diario de Noticias de Álava / El Periódico / Notimérica)."
         }
       ],
       "gente": [
@@ -478,6 +486,10 @@ window.PRESOE_DATOS =
           "t": "El socio de Aldama en el presunto fraude de hidrocarburos pide declarar ante el juez; el juez pide documentación a empresas (Europa Press / Libertad Digital)."
         },
         {
+          "f": "20-10-2026",
+          "t": "El juez Pedraz cita al socio de Aldama para declarar en el caso hidrocarburos cuatro días después del 29-N (El Debate)."
+        },
+        {
           "f": "25-10-2026",
           "t": "El socio de Aldama logra que el juez rastree un poder que le une al presunto fraude del fuel de hidrocarburos (La Razón)."
         }
@@ -529,7 +541,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "24-09-2026",
-          "t": "La jueza del caso Mediador envía a juicio oral a «Tito Berni», al general Espinosa, a Taishet Fuentes y a otros 11 acusados, 14 en total, por la pieza principal de la trama (RTVE.es / El Mundo / elDiario.es / Antena 3 / Canarias7 / Diario de Fuerteventura / OkDiario)."
+          "t": "La jueza del caso Mediador envía a juicio oral a «Tito Berni», al general Espinosa, a Taishet Fuentes y a otros 11 acusados, 14 en total, por la pieza principal de la trama (RTVE.es / El Mundo / elDiario.es / Antena 3 / Canarias7 / Diario de Fuerteventura)."
         }
       ],
       "gente": [
@@ -646,7 +658,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). La empresa editora de OkDiario habría pagado presuntamente 200.000 euros para sufragar su defensa, según informaciones (Cadena SER, 29-10-2026).",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» (Cadena SER / EL PAÍS / El Confidencial / elDiario.es / Diario Público).",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -679,7 +691,7 @@ window.PRESOE_DATOS =
       "x": 595,
       "y": 505,
       "rol": "Expareja de Ábalos",
-      "resumen": "Imputada en el caso Koldo: el juez la imputó el 03-07-2026 (EL PAÍS) y ratificó el 24-07-2026 que debe ser investigada por las presuntas contrataciones irregulares en Ineco y otro organismo público (La Razón / El Progreso de Lugo). El 20-07-2026 se negó a declarar ante el juez sobre esas contrataciones, junto al hermano de Koldo García (EL PAÍS). El 27-10-2026 depositó en la Audiencia los 44.000 euros que cobró de empresas públicas como posible responsabilidad civil (Telemadrid / Demócrata). La defensa niega cualquier irregularidad. Presunción de inocencia íntegra.",
+      "resumen": "Imputada en el caso Koldo: el juez la imputó el 03-07-2026 (EL PAÍS) y ratificó el 24-07-2026 que debe ser investigada por las presuntas contrataciones irregulares en Ineco y otro organismo público (La Razón / El Progreso de Lugo). El 20-07-2026 se negó a declarar ante el juez sobre esas contrataciones, junto al hermano de Koldo García (EL PAÍS). El 27-10-2026 depositó en la Audiencia los 44.000 euros que cobró de empresas públicas como posible responsabilidad civil (Telemadrid). La defensa niega cualquier irregularidad. Presunción de inocencia íntegra.",
       "casos": [
         "k1"
       ]
@@ -765,7 +777,7 @@ window.PRESOE_DATOS =
       "x": 1215,
       "y": 528,
       "rol": "Esposa de Pedro Sánchez",
-      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae), pero previamente la AP de Madrid había invalidado un auto anterior que debía rehacerse. El 07-10-2026 la Fiscalía pidió su absolución de cara al juicio con jurado: «Sin delito no hay autor» (EL PAÍS). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
+      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae), previamente la AP de Madrid había invalidado un auto anterior que debía rehacerse. El 07-10-2026 la Fiscalía pidió su absolución de cara al juicio con jurado: «Sin delito no hay autor» (EL PAÍS). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -837,7 +849,7 @@ window.PRESOE_DATOS =
       "x": 858,
       "y": 802,
       "rol": "Ex fiscal general del Estado",
-      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital).",
+      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital / La Gaceta de Canarias).",
       "fallo": "Multa de 12 meses a razón de 20 €/día (7.200 €), 2 años de inhabilitación especial para el cargo de fiscal general del Estado, 10.000 € de indemnización a Alberto González Amador y costas (39.009,48 €). Absuelto del resto de delitos.",
       "casos": [
         "k5"
@@ -1099,7 +1111,7 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "30 OCT",
-      "El exviceministro venezolano Villalobos se niega a declarar en el caso Leire Díez — Noticias de Gipuzkoa"
+      "El exviceministro venezolano Villalobos se niega a declarar en el caso Leire Díez — Diario de Noticias de Álava"
     ],
     [
       "30 OCT",
@@ -1110,28 +1122,8 @@ window.PRESOE_DATOS =
       "El exviceministro venezolano Nervis Villalobos rechaza declarar ante el juez del 'caso Leire Díez' — Notimérica"
     ],
     [
-      "30 OCT",
-      "Adivina adivinanza quién pagó a la abogada del corrupto Koldo — https://insurgente.org/"
-    ],
-    [
       "29 OCT",
       "El juez del 'caso Leire' cita este viernes al exviceministro venezolano Nervis Villalobos como investigado — Diario de León"
-    ],
-    [
-      "29 OCT",
-      "La abogada del corrupto Koldo la pagó uno de los digitales ultras que más financiación recibe del PP — Diario Público"
-    ],
-    [
-      "29 OCT",
-      "El Cabildo y la ULPGC eligen a García Ortiz, condenado por el Supremo, para hablar de democracia y justicia — La Gaceta de Canarias"
-    ],
-    [
-      "29 OCT",
-      "La empresa editora de 'OkDiario' pagó 242.000 euros para la defensa legal de Koldo García — El Español"
-    ],
-    [
-      "29 OCT",
-      "El exdirigente chavista vinculado a Leire Díez se niega a declarar por recibir la nacionalidad con la Ley de Nietos — Libertad Digital"
     ],
     [
       "29 OCT",
@@ -1139,15 +1131,43 @@ window.PRESOE_DATOS =
     ],
     [
       "29 OCT",
-      "Los mandos de la Policía denuncian «presiones políticas» sobre los investigadores de la invasión a Ceuta... — La Gaceta de la Iberosfera"
+      "La empresa de Eduardo Inda pagó la defensa de Koldo García en el caso mascarillas — Elplural.com"
     ],
     [
       "29 OCT",
-      "La abogada de Koldo García entrega a la Audiencia Nacional las facturas que acreditan que la editora de OkDiario pagó 200.000 euros por su defensa — El Constitucional"
+      "La editora de 'OkDiario' pagó 242.000 euros para costear «honorarios» y «gastos» de la defensa de Koldo García — EL PAÍS"
     ],
     [
       "29 OCT",
-      "La UCO informa a Pedraz de que la jueza Biedma decidió dar a las partes mails personales de Pedro Sánchez y su esposa — El Periódico"
+      "La empresa editora de OkDiario pagó 200.000 euros para sufragar la defensa de Koldo García — Cadena SER"
+    ],
+    [
+      "29 OCT",
+      "Okdiario pagó la defensa de Koldo García en el juicio del Supremo — elDiario.es"
+    ],
+    [
+      "29 OCT",
+      "La abogada de Koldo García asegura que Okdiario le pagó 242.000 en concepto de «honorarios» — El Confidencial"
+    ],
+    [
+      "29 OCT",
+      "El Cabildo y la ULPGC eligen a García Ortiz, condenado por el Supremo, para hablar de democracia y justicia — La Gaceta de Canarias"
+    ],
+    [
+      "29 OCT",
+      "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz — Libertad Digital"
+    ],
+    [
+      "28 OCT",
+      "El informe pericial contradice la versión de Zapatero: ve poco probable que las joyas se fabricaran en Oriente Medio y antes de 2007 — El Mundo"
+    ],
+    [
+      "27 OCT",
+      "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí — EL PAÍS"
+    ],
+    [
+      "28 OCT",
+      "Pedraz blinda la causa de las cloacas de Ferraz y mantiene a Balas al frente para evitar 'alteraciones' — MONCLOA.COM"
     ]
   ],
   "relojes": [
