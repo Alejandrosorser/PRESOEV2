@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-10-30",
-  "actualizado_ticker": "2026-10-30",
+  "actualizado_ticker": "2026-10-31",
   "hub": {
     "k1": [
       430,
@@ -1110,8 +1110,24 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "31 OCT",
+      "Okdiario pagó la defensa de Koldo García en el juicio del Supremo — elDiario.es"
+    ],
+    [
+      "31 OCT",
+      "Abogada palentina de Koldo: el PSOE no pagó su defensa — Diario Palentino"
+    ],
+    [
+      "30 OCT",
+      "La abogada del corrupto Koldo la pagó uno de los digitales ultras que más financiación recibe del PP — Diario Público"
+    ],
+    [
       "30 OCT",
       "El exviceministro venezolano Villalobos se niega a declarar en el caso Leire Díez — Diario de Noticias de Álava"
+    ],
+    [
+      "30 OCT",
+      "Villalobos se acoge a su derecho a no declarar en el 'caso Leire Díez' — Noticias de Gipuzkoa"
     ],
     [
       "30 OCT",
@@ -1119,7 +1135,11 @@ window.PRESOE_DATOS =
     ],
     [
       "30 OCT",
-      "El exviceministro venezolano Nervis Villalobos rechaza declarar ante el juez del 'caso Leire Díez' — Notimérica"
+      "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez del caso Leire Díez — Demócrata"
+    ],
+    [
+      "30 OCT",
+      "Adivina adivinanza quién pagó a la abogada del corrupto Koldo — https://insurgente.org/"
     ],
     [
       "29 OCT",
@@ -1127,47 +1147,19 @@ window.PRESOE_DATOS =
     ],
     [
       "29 OCT",
+      "El exdirigente chavista vinculado a Leire Díez se niega a declarar por recibir la nacionalidad con la Ley de Nietos — Libertad Digital"
+    ],
+    [
+      "29 OCT",
       "La editora de 'Okdiario' pagó 242.000 euros para costear la defensa de Koldo García — Diario Público"
     ],
     [
       "29 OCT",
-      "La empresa de Eduardo Inda pagó la defensa de Koldo García en el caso mascarillas — Elplural.com"
+      "Los mandos de la Policía denuncian «presiones políticas» sobre los investigadores de la invasión a Ceuta... — La Gaceta de la Iberosfera"
     ],
     [
       "29 OCT",
-      "La editora de 'OkDiario' pagó 242.000 euros para costear «honorarios» y «gastos» de la defensa de Koldo García — EL PAÍS"
-    ],
-    [
-      "29 OCT",
-      "La empresa editora de OkDiario pagó 200.000 euros para sufragar la defensa de Koldo García — Cadena SER"
-    ],
-    [
-      "29 OCT",
-      "Okdiario pagó la defensa de Koldo García en el juicio del Supremo — elDiario.es"
-    ],
-    [
-      "29 OCT",
-      "La abogada de Koldo García asegura que Okdiario le pagó 242.000 en concepto de «honorarios» — El Confidencial"
-    ],
-    [
-      "29 OCT",
-      "El Cabildo y la ULPGC eligen a García Ortiz, condenado por el Supremo, para hablar de democracia y justicia — La Gaceta de Canarias"
-    ],
-    [
-      "29 OCT",
-      "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz — Libertad Digital"
-    ],
-    [
-      "28 OCT",
-      "El informe pericial contradice la versión de Zapatero: ve poco probable que las joyas se fabricaran en Oriente Medio y antes de 2007 — El Mundo"
-    ],
-    [
-      "27 OCT",
-      "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí — EL PAÍS"
-    ],
-    [
-      "28 OCT",
-      "Pedraz blinda la causa de las cloacas de Ferraz y mantiene a Balas al frente para evitar 'alteraciones' — MONCLOA.COM"
+      "La abogada de Koldo García entrega a la Audiencia Nacional las facturas que acreditan que la editora de OkDiario pagó 200.000 euros por su defensa — El Constitucional"
     ]
   ],
   "relojes": [
