@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-10-30",
+  "actualizado_datos": "2026-10-31",
   "actualizado_ticker": "2026-10-31",
   "hub": {
     "k1": [
@@ -99,7 +99,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "29-10-2026",
-          "t": "Múltiples medios informan de que la empresa editora de OkDiario pagó presuntamente entre 200.000 y 242.000 euros para costear la defensa legal de Koldo García en el juicio del Supremo; la abogada de Koldo García asegura que recibió ese importe en concepto de «honorarios» y «gastos» (Cadena SER / EL PAÍS / El Confidencial / elDiario.es / Diario Público / Elplural.com)."
+          "t": "Múltiples medios informan de que la empresa editora de OkDiario pagó presuntamente entre 200.000 y 242.000 euros para costear la defensa legal de Koldo García en el juicio del Supremo; la abogada de Koldo García asegura que recibió ese importe en concepto de «honorarios» y «gastos» (Cadena SER / EL PAÍS / El Confidencial / elDiario.es / Diario Público / Elplural.com). El Diario Palentino recoge que la abogada afirma que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026)."
         }
       ],
       "gente": [
@@ -162,11 +162,11 @@ window.PRESOE_DATOS =
         },
         {
           "f": "21-10-2026",
-          "t": "Cerdán se opone a que el juez examine sus agendas personales y lo califica de «atropello» (Confilegal)."
+          "t": "Cerdán se opone a que el juez examine sus agendas personales y lo califica de «atropello» (Confilegal). Cerdán recurre la entrega al juez del caso Koldo del material incautado en su domicilio (Noticias de Navarra)."
         },
         {
           "f": "22-10-2026",
-          "t": "Cerdán acusa a la Audiencia Nacional de investigar toda su vida para buscar delitos contra él (El Correo)."
+          "t": "Cerdán acusa a la Audiencia Nacional de investigar toda su vida para buscar delitos contra él (Diario de Navarra)."
         }
       ],
       "gente": [
@@ -331,7 +331,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "29-10-2026",
-          "t": "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz, según informaciones (Libertad Digital / La Gaceta de Canarias)."
+          "t": "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz, según informaciones (Libertad Digital)."
         }
       ],
       "gente": [
@@ -352,7 +352,7 @@ window.PRESOE_DATOS =
         "Revelación de secretos",
         "Prevaricación"
       ],
-      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna. El exviceministro venezolano Nervis Villalobos fue citado como investigado el 29-10-2026 y se negó a declarar ante el juez el 30-10-2026, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos'.",
+      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna. El exviceministro venezolano Nervis Villalobos fue citado como investigado y se negó a declarar ante el juez el 30-10-2026, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos'. El juez Pedraz descartó citar a Cerdán antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026).",
       "fallo": null,
       "hitos": [
         {
@@ -392,6 +392,10 @@ window.PRESOE_DATOS =
           "t": "El ex jefe de gabinete de Sánchez citado el 5 de agosto para clonar su móvil en el marco de la investigación (moncloa.com)."
         },
         {
+          "f": "07-10-2026",
+          "t": "El PP pide a la Audiencia Nacional la imputación del PSOE en el caso Leire Díez (elDiario.es)."
+        },
+        {
           "f": "08-10-2026",
           "t": "Anticorrupción ve indicios para imputar al PSOE en el caso de la «fontanera» Leire Díez, aunque lo considera prematuro (El Periódico)."
         },
@@ -401,11 +405,15 @@ window.PRESOE_DATOS =
         },
         {
           "f": "15-10-2026",
-          "t": "El juez que investiga la presunta trama de mordidas por obra pública pide al del caso Leire la documentación incautada de Santos Cerdán (Cadena SER). El juez Pedraz descarta citar a Cerdán antes del 29-N y aleja la decisión sobre la imputación del PSOE (El Confidencial)."
+          "t": "El juez que investiga la presunta trama de mordidas por obra pública pide al del caso Leire la documentación incautada de Santos Cerdán (Cadena SER). El juez Pedraz descarta citar a Cerdán antes del 29-N y aleja la decisión sobre la imputación del PSOE (El Confidencial). Una jueza investiga las filtraciones de la causa abierta contra Zapatero en el caso Plus Ultra (RTVE.es)."
         },
         {
           "f": "20-10-2026",
           "t": "Cerdán, Leire y las presuntas cloacas tenían en sus agendas a un tercio de los fiscales de la Audiencia Nacional, según informaciones (El Confidencial)."
+        },
+        {
+          "f": "21-10-2026",
+          "t": "Cerdán recurre la entrega al juez del caso Koldo del material incautado en su domicilio (Noticias de Navarra)."
         },
         {
           "f": "27-10-2026",
@@ -421,7 +429,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "30-10-2026",
-          "t": "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez Pedraz en el caso Leire Díez, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos' (Diario de Noticias de Álava / El Periódico / Notimérica)."
+          "t": "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez Pedraz en el caso Leire Díez, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos' (El Periódico / Diario de Noticias de Álava / Noticias de Gipuzkoa)."
         }
       ],
       "gente": [
@@ -487,7 +495,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "20-10-2026",
-          "t": "El juez Pedraz cita al socio de Aldama para declarar en el caso hidrocarburos cuatro días después del 29-N (El Debate)."
+          "t": "El juez Pedraz cita al socio de Aldama para declarar en el caso hidrocarburos cuatro días después del 29-N (El Debate / La Razón)."
         },
         {
           "f": "25-10-2026",
@@ -541,7 +549,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "24-09-2026",
-          "t": "La jueza del caso Mediador envía a juicio oral a «Tito Berni», al general Espinosa, a Taishet Fuentes y a otros 11 acusados, 14 en total, por la pieza principal de la trama (RTVE.es / El Mundo / elDiario.es / Antena 3 / Canarias7 / Diario de Fuerteventura)."
+          "t": "La jueza del caso Mediador envía a juicio oral a «Tito Berni», al general Espinosa, a Taishet Fuentes y a otros 11 acusados, 14 en total, por la pieza principal de la trama (RTVE.es / El Mundo / elDiario.es / Antena 3 / Canarias7 / Diario de Fuerteventura / La Razón / OkDiario)."
         }
       ],
       "gente": [
@@ -566,7 +574,7 @@ window.PRESOE_DATOS =
         "Delito fiscal",
         "Contrabando"
       ],
-      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen.",
+      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen. La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Una jueza investiga las filtraciones de la causa (RTVE.es / Europa Press, 15-10-2026).",
       "fallo": null,
       "hitos": [
         {
@@ -606,12 +614,24 @@ window.PRESOE_DATOS =
           "t": "La semana que dejó a Zapatero aislado en la red de Plus Ultra, según análisis de medios (EL PAÍS)."
         },
         {
+          "f": "15-10-2026",
+          "t": "Una jueza investiga las filtraciones de la causa abierta contra Zapatero en el caso Plus Ultra (RTVE.es / Europa Press)."
+        },
+        {
+          "f": "23-10-2026",
+          "t": "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación, según informaciones (La Vanguardia)."
+        },
+        {
           "f": "26-10-2026",
           "t": "El juez Calama plantea prorrogar la instrucción del caso ante su envergadura y consulta a las partes (Levante-EMV / El Debate / El Correo)."
         },
         {
           "f": "27-10-2026",
-          "t": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí sobre si fueron un regalo (EL PAÍS / Libertad Digital / El Periódico). Un informe pericial contradice la versión de Zapatero: considera poco probable que las joyas se fabricaran en Oriente Medio y antes de 2007 (El Mundo)."
+          "t": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí sobre si fueron un regalo (EL PAÍS / El Mundo / Libertad Digital / El Periódico / Onda Cero / MUNDIARIO). Un informe pericial contradice la versión de Zapatero: considera poco probable que las joyas se fabricaran en Oriente Medio y antes de 2007 (El Mundo)."
+        },
+        {
+          "f": "28-10-2026",
+          "t": "El juez Calama descarta definitivamente la pista saudí en el caso Plus Ultra joyas: no pedirá a Riad el origen del regalo a Zapatero (MONCLOA.COM)."
         }
       ],
       "gente": [
@@ -658,7 +678,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» (Cadena SER / EL PAÍS / El Confidencial / elDiario.es / Diario Público).",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» (Cadena SER / EL PAÍS / El Confidencial / elDiario.es / Diario Público / Elplural.com). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026).",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -705,7 +725,7 @@ window.PRESOE_DATOS =
       "x": 1015,
       "y": 305,
       "rol": "Ex secretario de Organización del PSOE (2021-2025)",
-      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El juez del caso Koldo le pidió documentación al del caso Leire para aclarar sus presuntos ingresos (Cadena SER / The Objective, 15-10-2026). El juez Pedraz descartó citarle antes del 29-N (El Confidencial, 15-10-2026). Se opone a que el juez examine sus agendas personales (Confilegal, 21-10-2026) y acusa a la AN de investigar toda su vida para buscar delitos (El Correo, 22-10-2026). Según El Confidencial (20-10-2026), sus agendas y las de Leire contenían contactos de un tercio de los fiscales de la AN. Niega todos los hechos.",
+      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El juez del caso Koldo le pidió documentación al del caso Leire para aclarar sus presuntos ingresos (Cadena SER / The Objective, 15-10-2026). El juez Pedraz descartó citarle antes del 29-N (El Confidencial, 15-10-2026). Se opone a que el juez examine sus agendas personales (Confilegal, 21-10-2026) y acusa a la AN de investigar toda su vida para buscar delitos (Diario de Navarra, 22-10-2026). Según El Confidencial (20-10-2026), sus agendas y las de Leire contenían contactos de un tercio de los fiscales de la AN. Recurrió la entrega al juez del caso Koldo del material incautado en su domicilio (Noticias de Navarra, 21-10-2026). Niega todos los hechos.",
       "casos": [
         "k2",
         "k6"
@@ -777,7 +797,7 @@ window.PRESOE_DATOS =
       "x": 1215,
       "y": 528,
       "rol": "Esposa de Pedro Sánchez",
-      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae), previamente la AP de Madrid había invalidado un auto anterior que debía rehacerse. El 07-10-2026 la Fiscalía pidió su absolución de cara al juicio con jurado: «Sin delito no hay autor» (EL PAÍS). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
+      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae), previamente la AP de Madrid había invalidado un auto anterior que debía rehacerse. El 07-10-2026 la Fiscalía pidió su absolución de cara al juicio con jurado popular: «Sin delito no hay autor» (EL PAÍS). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -849,7 +869,7 @@ window.PRESOE_DATOS =
       "x": 858,
       "y": 802,
       "rol": "Ex fiscal general del Estado",
-      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital / La Gaceta de Canarias).",
+      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital).",
       "fallo": "Multa de 12 meses a razón de 20 €/día (7.200 €), 2 años de inhabilitación especial para el cargo de fiscal general del Estado, 10.000 € de indemnización a Alberto González Amador y costas (39.009,48 €). Absuelto del resto de delitos.",
       "casos": [
         "k5"
@@ -992,7 +1012,7 @@ window.PRESOE_DATOS =
       "x": 688,
       "y": 578,
       "rol": "Expresidente del Gobierno (2004-2011)",
-      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y citó a declarar como investigados al presidente y CEO de Plus Ultra los días 7 y 8 de septiembre (LaSexta). Ese mismo día Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico, 27-10-2026). Defiende su inocencia.",
+      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y citó a declarar como investigados al presidente y CEO de Plus Ultra los días 7 y 8 de septiembre (LaSexta). Ese mismo día Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico, 27-10-2026). Defiende su inocencia. Presunción de inocencia íntegra.",
       "casos": [
         "k9"
       ]
@@ -1134,32 +1154,64 @@ window.PRESOE_DATOS =
       "El exviceministro chavista implicado en la trama Leire guarda silencio ante el juez sobre la concesión de su nacionalidad por la 'ley de nietos' — El Periódico"
     ],
     [
-      "30 OCT",
-      "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez del caso Leire Díez — Demócrata"
+      "29 OCT",
+      "La editora de 'OkDiario' pagó 242.000 euros para costear «honorarios» y «gastos» de la defensa de Koldo García — EL PAÍS"
     ],
     [
-      "30 OCT",
-      "Adivina adivinanza quién pagó a la abogada del corrupto Koldo — https://insurgente.org/"
+      "29 OCT",
+      "La empresa de Eduardo Inda pagó la defensa de Koldo García en el caso mascarillas — Elplural.com"
+    ],
+    [
+      "29 OCT",
+      "La empresa editora de OkDiario pagó 200.000 euros para sufragar la defensa de Koldo García — Cadena SER"
+    ],
+    [
+      "29 OCT",
+      "La abogada de Koldo García asegura que Okdiario le pagó 242.000 en concepto de «honorarios» — El Confidencial"
     ],
     [
       "29 OCT",
       "El juez del 'caso Leire' cita este viernes al exviceministro venezolano Nervis Villalobos como investigado — Diario de León"
     ],
     [
-      "29 OCT",
-      "El exdirigente chavista vinculado a Leire Díez se niega a declarar por recibir la nacionalidad con la Ley de Nietos — Libertad Digital"
+      "27 OCT",
+      "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí — EL PAÍS"
     ],
     [
-      "29 OCT",
-      "La editora de 'Okdiario' pagó 242.000 euros para costear la defensa de Koldo García — Diario Público"
+      "27 OCT",
+      "El juez Pedraz insiste en investigar si Leire Díez participó en la «promoción o impulso» del acoso a Biedma — La Razón"
     ],
     [
-      "29 OCT",
-      "Los mandos de la Policía denuncian «presiones políticas» sobre los investigadores de la invasión a Ceuta... — La Gaceta de la Iberosfera"
+      "27 OCT",
+      "La Audiencia Nacional rechaza la querella de Leire Díez contra el PP por incluirla en un vídeo hecho con IA — elDiario.es"
     ],
     [
-      "29 OCT",
-      "La abogada de Koldo García entrega a la Audiencia Nacional las facturas que acreditan que la editora de OkDiario pagó 200.000 euros por su defensa — El Constitucional"
+      "23 OCT",
+      "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación — La Vanguardia"
+    ],
+    [
+      "22 OCT",
+      "Cerdán acusa a la Audiencia Nacional de investigar toda su vida para buscar delitos contra él — Diario de Navarra"
+    ],
+    [
+      "21 OCT",
+      "Santos Cerdán se opone a que el juez del «caso Koldo» examine sus agendas personales: «Es un atropello» — Confilegal"
+    ],
+    [
+      "21 OCT",
+      "Cerdán recurre la entrega al juez del 'caso Koldo' del material incautado en su domicilio — Noticias de Navarra"
+    ],
+    [
+      "20 OCT",
+      "El juez cita tras las generales al socio de Aldama en hidrocarburos para que declare voluntariamente — La Razón"
+    ],
+    [
+      "15 OCT",
+      "El juez del 'caso Koldo' pide pruebas al de la trama Leire para aclarar los ingresos de Cerdán — The Objective"
+    ],
+    [
+      "15 OCT",
+      "Una jueza investiga las filtraciones de la causa abierta contra Zapatero en el caso Plus Ultra — RTVE.es"
     ]
   ],
   "relojes": [
