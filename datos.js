@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-10-31",
-  "actualizado_ticker": "2026-10-31",
+  "actualizado_ticker": "2026-11-01",
   "hub": {
     "k1": [
       430,
@@ -1130,8 +1130,16 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "01 NOV",
+      "Leire Díez quiere agitar la campaña con su primer libro el 9 de noviembre: revelará “más de 600 delitos” que salpican a periodistas, fiscales, políticos y po… — Infobae"
+    ],
+    [
+      "01 NOV",
+      "La Audiencia Nacional examina 11 contratos de Transportes por 537 millones e investiga una presunta trama de... — La Gaceta de la Iberosfera"
+    ],
+    [
       "31 OCT",
-      "Okdiario pagó la defensa de Koldo García en el juicio del Supremo — elDiario.es"
+      "Por qué hay que botar a Pedro Sánchez, quedan 29 días: la trama del Tito Berni — OkDiario"
     ],
     [
       "31 OCT",
@@ -1143,75 +1151,35 @@ window.PRESOE_DATOS =
     ],
     [
       "30 OCT",
-      "El exviceministro venezolano Villalobos se niega a declarar en el caso Leire Díez — Diario de Noticias de Álava"
-    ],
-    [
-      "30 OCT",
       "Villalobos se acoge a su derecho a no declarar en el 'caso Leire Díez' — Noticias de Gipuzkoa"
     ],
     [
       "30 OCT",
-      "El exviceministro chavista implicado en la trama Leire guarda silencio ante el juez sobre la concesión de su nacionalidad por la 'ley de nietos' — El Periódico"
+      "El exviceministro venezolano Villalobos se niega a declarar en el caso Leire Díez — Deia"
     ],
     [
-      "29 OCT",
-      "La editora de 'OkDiario' pagó 242.000 euros para costear «honorarios» y «gastos» de la defensa de Koldo García — EL PAÍS"
+      "30 OCT",
+      "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez del caso Leire Díez — Demócrata"
     ],
     [
-      "29 OCT",
-      "La empresa de Eduardo Inda pagó la defensa de Koldo García en el caso mascarillas — Elplural.com"
-    ],
-    [
-      "29 OCT",
-      "La empresa editora de OkDiario pagó 200.000 euros para sufragar la defensa de Koldo García — Cadena SER"
-    ],
-    [
-      "29 OCT",
-      "La abogada de Koldo García asegura que Okdiario le pagó 242.000 en concepto de «honorarios» — El Confidencial"
+      "30 OCT",
+      "Adivina adivinanza quién pagó a la abogada del corrupto Koldo — https://insurgente.org/"
     ],
     [
       "29 OCT",
       "El juez del 'caso Leire' cita este viernes al exviceministro venezolano Nervis Villalobos como investigado — Diario de León"
     ],
     [
-      "27 OCT",
-      "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí — EL PAÍS"
+      "29 OCT",
+      "Koldo sembró dudas en 'OkDiario' sobre contratos y rescates mientras la editora de la web pagaba su abogada — infoLibre"
     ],
     [
-      "27 OCT",
-      "El juez Pedraz insiste en investigar si Leire Díez participó en la «promoción o impulso» del acoso a Biedma — La Razón"
+      "29 OCT",
+      "El exdirigente chavista vinculado a Leire Díez se niega a declarar por recibir la nacionalidad con la Ley de Nietos — Libertad Digital"
     ],
     [
-      "27 OCT",
-      "La Audiencia Nacional rechaza la querella de Leire Díez contra el PP por incluirla en un vídeo hecho con IA — elDiario.es"
-    ],
-    [
-      "23 OCT",
-      "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación — La Vanguardia"
-    ],
-    [
-      "22 OCT",
-      "Cerdán acusa a la Audiencia Nacional de investigar toda su vida para buscar delitos contra él — Diario de Navarra"
-    ],
-    [
-      "21 OCT",
-      "Santos Cerdán se opone a que el juez del «caso Koldo» examine sus agendas personales: «Es un atropello» — Confilegal"
-    ],
-    [
-      "21 OCT",
-      "Cerdán recurre la entrega al juez del 'caso Koldo' del material incautado en su domicilio — Noticias de Navarra"
-    ],
-    [
-      "20 OCT",
-      "El juez cita tras las generales al socio de Aldama en hidrocarburos para que declare voluntariamente — La Razón"
-    ],
-    [
-      "15 OCT",
-      "El juez del 'caso Koldo' pide pruebas al de la trama Leire para aclarar los ingresos de Cerdán — The Objective"
-    ],
-    [
-      "15 OCT",
-      "Una jueza investiga las filtraciones de la causa abierta contra Zapatero en el caso Plus Ultra — RTVE.es"
+      "29 OCT",
+      "La editora de 'Okdiario' pagó 242.000 euros para costear la defensa de Koldo García — Diario Público"
     ]
   ],
   "relojes": [
