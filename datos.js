@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-10-31",
+  "actualizado_datos": "2026-11-01",
   "actualizado_ticker": "2026-11-01",
   "hub": {
     "k1": [
@@ -99,7 +99,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "29-10-2026",
-          "t": "Múltiples medios informan de que la empresa editora de OkDiario pagó presuntamente entre 200.000 y 242.000 euros para costear la defensa legal de Koldo García en el juicio del Supremo; la abogada de Koldo García asegura que recibió ese importe en concepto de «honorarios» y «gastos» (Cadena SER / EL PAÍS / El Confidencial / elDiario.es / Diario Público / Elplural.com). El Diario Palentino recoge que la abogada afirma que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026)."
+          "t": "Múltiples medios informan de que la empresa editora de OkDiario pagó presuntamente entre 200.000 y 242.000 euros para costear la defensa legal de Koldo García en el juicio del Supremo; la abogada de Koldo García asegura que recibió ese importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com / El Constitucional). La abogada afirma que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026)."
         }
       ],
       "gente": [
@@ -121,7 +121,7 @@ window.PRESOE_DATOS =
         "Cohecho",
         "Tráfico de influencias"
       ],
-      "resumen": "Presuntos amaños en adjudicaciones de obra pública del Ministerio de Transportes (Carreteras, Adif) a cambio de mordidas. La UCO atribuye a Santos Cerdán la «gestión» de comisiones por unos 620.000 € —para toda la trama estima 1,18 millones— apoyándose en los audios grabados por Koldo. El Supremo remitió la pieza a la Audiencia Nacional en febrero de 2026; hay 14 investigados entre políticos, altos cargos y directivos de constructoras. El PSOE niega cualquier financiación irregular y sostiene que sus pagos en efectivo eran liquidaciones legales de gastos. Un informe de la UCO habría desvelado, según un único medio no corroborado, que Koldo y Ábalos habrían amañado con Pardo de Vera 14 obras (La Gaceta de la Iberosfera, 29-10-2026; dato no contrastado por otras fuentes).",
+      "resumen": "Presuntos amaños en adjudicaciones de obra pública del Ministerio de Transportes (Carreteras, Adif) a cambio de mordidas. La UCO atribuye a Santos Cerdán la «gestión» de comisiones por unos 620.000 € —para toda la trama estima 1,18 millones— apoyándose en los audios grabados por Koldo. El Supremo remitió la pieza a la Audiencia Nacional en febrero de 2026; hay 14 investigados entre políticos, altos cargos y directivos de constructoras. El PSOE niega cualquier financiación irregular y sostiene que sus pagos en efectivo eran liquidaciones legales de gastos. Un informe de la UCO habría desvelado, según un único medio no corroborado, que Koldo y Ábalos habrían amañado con Pardo de Vera 14 obras (La Gaceta de la Iberosfera, 29-10-2026; dato no contrastado por otras fuentes). La Audiencia Nacional examina presuntamente 11 contratos de Transportes por 537 millones en el marco de la investigación de la trama, según informaciones (La Gaceta de la Iberosfera, 01-11-2026; dato no corroborado por otras fuentes).",
       "fallo": null,
       "hitos": [
         {
@@ -167,6 +167,10 @@ window.PRESOE_DATOS =
         {
           "f": "22-10-2026",
           "t": "Cerdán acusa a la Audiencia Nacional de investigar toda su vida para buscar delitos contra él (Diario de Navarra)."
+        },
+        {
+          "f": "01-11-2026",
+          "t": "Informaciones apuntan a que la Audiencia Nacional estaría examinando presuntamente 11 contratos de Transportes por 537 millones en el marco de la investigación de la trama (La Gaceta de la Iberosfera; dato no corroborado por otras fuentes)."
         }
       ],
       "gente": [
@@ -191,7 +195,7 @@ window.PRESOE_DATOS =
         "Tráfico de influencias",
         "Malversación"
       ],
-      "resumen": "Procedimiento contra la esposa del presidente por su actividad al frente de una cátedra extraordinaria de la Complutense y por el uso de una asesora de Moncloa para asuntos privados. El 16-07-2026 la Audiencia de Madrid avaló que sea juzgada por un jurado popular, pero solo por tráfico de influencias y malversación (excluyó corrupción en los negocios y apropiación indebida) e invalidó la apertura de juicio dictada en junio, que debía rehacerse. La Fiscalía no aprecia indicios y no acusa: el proceso avanza a instancia de las acusaciones populares. El juez Peinado se jubiló en septiembre de 2026 tras dictar el auto de apertura de juicio oral el 21-09-2026. Presunción de inocencia íntegra.",
+      "resumen": "Procedimiento contra la esposa del presidente por su actividad al frente de una cátedra extraordinaria de la Complutense y por el uso de una asesora de Moncloa para asuntos privados. El 16-07-2026 la Audiencia de Madrid avaló que sea juzgada por un jurado popular, pero solo por tráfico de influencias y malversación (excluyó corrupción en los negocios y apropiación indebida) e invalidó la apertura de juicio dictada en junio, que debía rehacerse. La Fiscalía no aprecia indicios y no acusa: el proceso avanza a instancia de las acusaciones populares. El juez Peinado se jubiló en septiembre de 2026 tras dictar el auto de apertura de juicio oral el 21-09-2026. El 19-10-2026 la justicia madrileña congela el juicio y ni siquiera elige al juez que presidirá el jurado, según informaciones (Vozpopuli). Presunción de inocencia íntegra.",
       "fallo": null,
       "hitos": [
         {
@@ -228,7 +232,15 @@ window.PRESOE_DATOS =
         },
         {
           "f": "07-10-2026",
-          "t": "La Fiscalía pide la absolución de Begoña Gómez de cara al juicio con jurado popular: «Sin delito no hay autor» (EL PAÍS)."
+          "t": "La Fiscalía pide la absolución de Begoña Gómez de cara al juicio con jurado popular: «Sin delito no hay autor» (EL PAÍS / elDiario.es / ABC / RTVE.es)."
+        },
+        {
+          "f": "19-10-2026",
+          "t": "La justicia madrileña congela el juicio a Begoña Gómez y ni siquiera elige al juez que presidirá el jurado, según informaciones (Vozpopuli)."
+        },
+        {
+          "f": "28-10-2026",
+          "t": "Begoña Gómez denuncia al PP por «suplantación de imagen» por un vídeo hecho con IA (Diario de Sevilla)."
         },
         {
           "f": "2027",
@@ -290,7 +302,7 @@ window.PRESOE_DATOS =
       "delitos": [
         "Revelación de datos reservados (art. 417.1 CP)"
       ],
-      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo. El Gobierno no descarta concederle un indulto antes de las elecciones del 29-N.",
+      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo. En junio de 2026 el Supremo se opuso al indulto; en octubre de 2026 el Gobierno no descartaba concedérselo antes de las elecciones del 29-N.",
       "fallo": "Multa de 12 meses con cuota diaria de 20 € (7.200 €), inhabilitación especial para el cargo de fiscal general del Estado durante 2 años, indemnización de 10.000 € a González Amador por daños morales y costas —tasadas en 39.009,48 € (jul-2026)—. Absuelto del resto de delitos. La multa y la indemnización se abonaron tras una colecta de la Unión Progresista de Fiscales.",
       "hitos": [
         {
@@ -308,6 +320,10 @@ window.PRESOE_DATOS =
         {
           "f": "24-11-2025",
           "t": "Dimite como fiscal general del Estado."
+        },
+        {
+          "f": "11-06-2026",
+          "t": "El Supremo no ve motivos para indultar a García Ortiz y se opone a la medida de gracia (EL PAÍS)."
         },
         {
           "f": "07-07-2026",
@@ -352,7 +368,7 @@ window.PRESOE_DATOS =
         "Revelación de secretos",
         "Prevaricación"
       ],
-      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna. El exviceministro venezolano Nervis Villalobos fue citado como investigado y se negó a declarar ante el juez el 30-10-2026, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos'. El juez Pedraz descartó citar a Cerdán antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026).",
+      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna. El exviceministro venezolano Nervis Villalobos fue citado como investigado y se negó a declarar ante el juez el 30-10-2026, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos'. El juez Pedraz descartó citar a Cerdán antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026). El 29-10-2026 la UCO informó al juez Pedraz de que la jueza Biedma decidió dar a las partes correos personales de Pedro Sánchez y su esposa (El Periódico). El 01-11-2026 Leire Díez anunció la publicación de su primer libro el 9 de noviembre, en el que prometió revelar «más de 600 delitos» que salpican a periodistas, fiscales, políticos y policías (Infobae).",
       "fallo": null,
       "hitos": [
         {
@@ -405,7 +421,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "15-10-2026",
-          "t": "El juez que investiga la presunta trama de mordidas por obra pública pide al del caso Leire la documentación incautada de Santos Cerdán (Cadena SER). El juez Pedraz descarta citar a Cerdán antes del 29-N y aleja la decisión sobre la imputación del PSOE (El Confidencial). Una jueza investiga las filtraciones de la causa abierta contra Zapatero en el caso Plus Ultra (RTVE.es)."
+          "t": "El juez que investiga la presunta trama de mordidas por obra pública pide al del caso Leire la documentación incautada de Santos Cerdán (Cadena SER). El juez Pedraz descarta citar a Cerdán antes del 29-N y aleja la decisión sobre la imputación del PSOE (El Confidencial)."
         },
         {
           "f": "20-10-2026",
@@ -425,11 +441,15 @@ window.PRESOE_DATOS =
         },
         {
           "f": "29-10-2026",
-          "t": "El juez Pedraz cita como investigado al exviceministro venezolano Nervis Villalobos para declarar el día 30 (Diario de León)."
+          "t": "El juez Pedraz cita como investigado al exviceministro venezolano Nervis Villalobos para declarar el día 30 (Diario de León). La UCO informa al juez Pedraz de que la jueza Biedma decidió dar a las partes correos personales de Pedro Sánchez y su esposa (El Periódico)."
         },
         {
           "f": "30-10-2026",
-          "t": "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez Pedraz en el caso Leire Díez, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos' (El Periódico / Diario de Noticias de Álava / Noticias de Gipuzkoa)."
+          "t": "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez Pedraz en el caso Leire Díez, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos' (El Periódico / Noticias de Gipuzkoa / Deia)."
+        },
+        {
+          "f": "01-11-2026",
+          "t": "Leire Díez anuncia la publicación de su primer libro el 9 de noviembre, en el que promete revelar «más de 600 delitos» que salpican a periodistas, fiscales, políticos y policías (Infobae)."
         }
       ],
       "gente": [
@@ -454,7 +474,7 @@ window.PRESOE_DATOS =
         "Cohecho",
         "Tráfico de influencias"
       ],
-      "resumen": "Macrofraude del IVA en la venta de hidrocarburos articulado, según la UCO, en torno a la operadora Villafuel, que obtuvo su licencia en 2022 pagando cerca de un millón de euros para «comprar voluntades» en el Gobierno, de acuerdo con los investigadores. La Guardia Civil sitúa a Rivas y Aldama «en la cúspide» de la organización, cuantifica el fraude inicial en 182,5 millones de euros y rastrea 74 millones transferidos a Portugal, Macao y Colombia. En el juicio del caso mascarillas, Carmen Pano ratificó que llevó 90.000 € en efectivo a la sede del PSOE en Ferraz por orden de Aldama —su hija Leonor corroboró el relato—; el partido lo niega rotundamente. La Fiscalía Europea irrumpió en la causa en septiembre de 2026, revelando que Aldama y otros empresarios habrían desviado 27,9 millones a Portugal.",
+      "resumen": "Macrofraude del IVA en la venta de hidrocarburos articulado, según la UCO, en torno a la operadora Villafuel, que obtuvo su licencia en 2022 pagando cerca de un millón de euros para «comprar voluntades» en el Gobierno, de acuerdo con los investigadores. La Guardia Civil sitúa a Rivas y Aldama «en la cúspide» de la organización, cuantifica el fraude inicial en 182,5 millones de euros y rastrea 74 millones transferidos a Portugal, Macao y Colombia. En el juicio del caso mascarillas, Carmen Pano ratificó que llevó 90.000 € en efectivo a la sede del PSOE en Ferraz por orden de Aldama —su hija Leonor corroboró el relato—; el partido lo niega rotundamente. La Fiscalía Europea irrumpió en la causa en septiembre de 2026, revelando que Aldama y otros empresarios habrían desviado 27,9 millones a Portugal. La UCO reveló en octubre de 2026 que Aldama habría usado el dinero de las comisiones de las mascarillas para comprar una flota de lujo vinculada a la trama de hidrocarburos (El Independiente, 20-10-2026).",
       "fallo": null,
       "hitos": [
         {
@@ -495,7 +515,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "20-10-2026",
-          "t": "El juez Pedraz cita al socio de Aldama para declarar en el caso hidrocarburos cuatro días después del 29-N (El Debate / La Razón)."
+          "t": "El juez Pedraz cita al socio de Aldama para declarar en el caso hidrocarburos cuatro días después del 29-N (El Debate / La Razón). La UCO revela que Aldama usó el dinero de las comisiones de las mascarillas para comprar una presunta flota de lujo vinculada a la trama de hidrocarburos (El Independiente)."
         },
         {
           "f": "25-10-2026",
@@ -678,7 +698,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» (Cadena SER / EL PAÍS / El Confidencial / elDiario.es / Diario Público / Elplural.com). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026).",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com / El Constitucional). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026).",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -694,7 +714,7 @@ window.PRESOE_DATOS =
       "x": 250,
       "y": 325,
       "rol": "Empresario · comisionista de la trama",
-      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA. La Fiscalía Europea reveló en septiembre de 2026 que él y otros empresarios habrían desviado 27,9 millones a Portugal (EL PAÍS).",
+      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA. La Fiscalía Europea reveló en septiembre de 2026 que él y otros empresarios habrían desviado 27,9 millones a Portugal (EL PAÍS). La UCO reveló en octubre de 2026 que habría usado el dinero de las comisiones de las mascarillas para comprar una presunta flota de lujo vinculada a la trama de hidrocarburos (El Independiente, 20-10-2026).",
       "fallo": "4 años y 6 meses de prisión por organización criminal y cohecho, con la ejecución suspendida a condición de no delinquir, presentar un informe semestral de actividades y realizar trabajos en beneficio de la comunidad durante un año.",
       "casos": [
         "k1",
@@ -797,7 +817,7 @@ window.PRESOE_DATOS =
       "x": 1215,
       "y": 528,
       "rol": "Esposa de Pedro Sánchez",
-      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae), previamente la AP de Madrid había invalidado un auto anterior que debía rehacerse. El 07-10-2026 la Fiscalía pidió su absolución de cara al juicio con jurado popular: «Sin delito no hay autor» (EL PAÍS). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
+      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae). El 07-10-2026 la Fiscalía pidió su absolución: «Sin delito no hay autor» (EL PAÍS / elDiario.es / ABC / RTVE.es). El 19-10-2026 la justicia madrileña congeló el juicio y ni siquiera eligió al juez que presidirá el jurado (Vozpopuli). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -869,7 +889,7 @@ window.PRESOE_DATOS =
       "x": 858,
       "y": 802,
       "rol": "Ex fiscal general del Estado",
-      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital).",
+      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En junio de 2026 el Supremo se opuso a su indulto (EL PAÍS, 11-06-2026). En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital).",
       "fallo": "Multa de 12 meses a razón de 20 €/día (7.200 €), 2 años de inhabilitación especial para el cargo de fiscal general del Estado, 10.000 € de indemnización a Alberto González Amador y costas (39.009,48 €). Absuelto del resto de delitos.",
       "casos": [
         "k5"
@@ -884,7 +904,7 @@ window.PRESOE_DATOS =
       "x": 1195,
       "y": 330,
       "rol": "Exmilitante del PSOE",
-      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026). El juez Pedraz insiste en investigar si participó en la «promoción o impulso» del presunto acoso a la jueza Biedma (La Razón, 27-10-2026). La AN rechazó su querella contra el PP por un vídeo hecho con IA (elDiario.es, 27-10-2026). Sus agendas habrían contenido contactos de un tercio de los fiscales de la AN, según informaciones (El Confidencial, 20-10-2026). El juez Pedraz descartó citarla antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026).",
+      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026). El juez Pedraz insiste en investigar si participó en la «promoción o impulso» del presunto acoso a la jueza Biedma (La Razón, 27-10-2026). La AN rechazó su querella contra el PP por un vídeo hecho con IA (elDiario.es, 27-10-2026). Sus agendas habrían contenido contactos de un tercio de los fiscales de la AN, según informaciones (El Confidencial, 20-10-2026). El juez Pedraz descartó citarla antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026). El 01-11-2026 anunció la publicación de su primer libro el 9 de noviembre, en el que prometió revelar «más de 600 delitos» (Infobae).",
       "casos": [
         "k6"
       ]
@@ -1012,7 +1032,7 @@ window.PRESOE_DATOS =
       "x": 688,
       "y": 578,
       "rol": "Expresidente del Gobierno (2004-2011)",
-      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y citó a declarar como investigados al presidente y CEO de Plus Ultra los días 7 y 8 de septiembre (LaSexta). Ese mismo día Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico, 27-10-2026). Defiende su inocencia. Presunción de inocencia íntegra.",
+      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico / Onda Cero / MUNDIARIO, 27-10-2026). El 28-10-2026 el juez descarta definitivamente la pista saudí (MONCLOA.COM). Defiende su inocencia. Presunción de inocencia íntegra.",
       "casos": [
         "k9"
       ]
@@ -1131,7 +1151,7 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "01 NOV",
-      "Leire Díez quiere agitar la campaña con su primer libro el 9 de noviembre: revelará “más de 600 delitos” que salpican a periodistas, fiscales, políticos y po… — Infobae"
+      "Leire Díez quiere agitar la campaña con su primer libro el 9 de noviembre: revelará «más de 600 delitos» que salpican a periodistas, fiscales, políticos y po… — Infobae"
     ],
     [
       "01 NOV",
