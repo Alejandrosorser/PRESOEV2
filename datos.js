@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-01",
-  "actualizado_ticker": "2026-11-01",
+  "actualizado_ticker": "2026-11-02",
   "hub": {
     "k1": [
       430,
@@ -1150,8 +1150,28 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "02 NOV",
+      "El juicio de Begoña Gómez se retrasa por un “error técnico” de Peinado con los informes de la UCO — Artículo 14"
+    ],
+    [
+      "02 NOV",
+      "Okdiario pagó 242.000 euros por la defensa de Koldo — Estrella Digital"
+    ],
+    [
+      "02 NOV",
+      "El juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los dueños reales de Plus Ultra — El Periódico"
+    ],
+    [
       "01 NOV",
-      "Leire Díez quiere agitar la campaña con su primer libro el 9 de noviembre: revelará «más de 600 delitos» que salpican a periodistas, fiscales, políticos y po… — Infobae"
+      "La cercanía del 29N no frena el marcaje judicial al Gobierno y al PSOE: de exigir la desclasificación de informes a los ultimátums por el 'caso Leire' — Diario Público"
+    ],
+    [
+      "01 NOV",
+      "De los hombres de Santos Cerdán al pleno de nueve en Castilla y León: el PSOE mantiene a casi la mitad de sus cabezas de lista al Congreso — El Independiente"
+    ],
+    [
+      "01 NOV",
+      "Leire Díez quiere agitar la campaña con su primer libro el 9 de noviembre: revelará “más de 600 delitos” que salpican a periodistas, fiscales, políticos y po… — Infobae"
     ],
     [
       "01 NOV",
@@ -1159,7 +1179,11 @@ window.PRESOE_DATOS =
     ],
     [
       "31 OCT",
-      "Por qué hay que botar a Pedro Sánchez, quedan 29 días: la trama del Tito Berni — OkDiario"
+      "El extraño caso de Eduardo Inda — Diario Público"
+    ],
+    [
+      "31 OCT",
+      "Okdiario pagó la defensa de Koldo García en el juicio del Supremo — elDiario.es"
     ],
     [
       "31 OCT",
@@ -1171,35 +1195,11 @@ window.PRESOE_DATOS =
     ],
     [
       "30 OCT",
-      "Villalobos se acoge a su derecho a no declarar en el 'caso Leire Díez' — Noticias de Gipuzkoa"
+      "Villalobos se acoge a su derecho a no declarar en el 'caso Leire Díez' — Deia"
     ],
     [
       "30 OCT",
-      "El exviceministro venezolano Villalobos se niega a declarar en el caso Leire Díez — Deia"
-    ],
-    [
-      "30 OCT",
-      "El exviceministro venezolano Nervis Villalobos se niega a declarar ante el juez del caso Leire Díez — Demócrata"
-    ],
-    [
-      "30 OCT",
-      "Adivina adivinanza quién pagó a la abogada del corrupto Koldo — https://insurgente.org/"
-    ],
-    [
-      "29 OCT",
-      "El juez del 'caso Leire' cita este viernes al exviceministro venezolano Nervis Villalobos como investigado — Diario de León"
-    ],
-    [
-      "29 OCT",
-      "Koldo sembró dudas en 'OkDiario' sobre contratos y rescates mientras la editora de la web pagaba su abogada — infoLibre"
-    ],
-    [
-      "29 OCT",
-      "El exdirigente chavista vinculado a Leire Díez se niega a declarar por recibir la nacionalidad con la Ley de Nietos — Libertad Digital"
-    ],
-    [
-      "29 OCT",
-      "La editora de 'Okdiario' pagó 242.000 euros para costear la defensa de Koldo García — Diario Público"
+      "El exviceministro chavista implicado en la trama Leire guarda silencio ante el juez sobre la concesión de su nacionalidad por la 'ley de nietos' — El Periódico"
     ]
   ],
   "relojes": [
