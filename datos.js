@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-11-01",
+  "actualizado_datos": "2026-11-02",
   "actualizado_ticker": "2026-11-02",
   "hub": {
     "k1": [
@@ -99,7 +99,11 @@ window.PRESOE_DATOS =
         },
         {
           "f": "29-10-2026",
-          "t": "Múltiples medios informan de que la empresa editora de OkDiario pagó presuntamente entre 200.000 y 242.000 euros para costear la defensa legal de Koldo García en el juicio del Supremo; la abogada de Koldo García asegura que recibió ese importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com / El Constitucional). La abogada afirma que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026)."
+          "t": "Múltiples medios informan de que la empresa editora de OkDiario pagó presuntamente entre 200.000 y 242.000 euros para costear la defensa legal de Koldo García en el juicio del Supremo; la abogada de Koldo García asegura que recibió ese importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com). La abogada afirmó además que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026)."
+        },
+        {
+          "f": "02-11-2026",
+          "t": "El titular de que OkDiario pagó 242.000 euros por la defensa de Koldo sigue siendo recogido por nuevos medios (Estrella Digital)."
         }
       ],
       "gente": [
@@ -195,7 +199,7 @@ window.PRESOE_DATOS =
         "Tráfico de influencias",
         "Malversación"
       ],
-      "resumen": "Procedimiento contra la esposa del presidente por su actividad al frente de una cátedra extraordinaria de la Complutense y por el uso de una asesora de Moncloa para asuntos privados. El 16-07-2026 la Audiencia de Madrid avaló que sea juzgada por un jurado popular, pero solo por tráfico de influencias y malversación (excluyó corrupción en los negocios y apropiación indebida) e invalidó la apertura de juicio dictada en junio, que debía rehacerse. La Fiscalía no aprecia indicios y no acusa: el proceso avanza a instancia de las acusaciones populares. El juez Peinado se jubiló en septiembre de 2026 tras dictar el auto de apertura de juicio oral el 21-09-2026. El 19-10-2026 la justicia madrileña congela el juicio y ni siquiera elige al juez que presidirá el jurado, según informaciones (Vozpopuli). Presunción de inocencia íntegra.",
+      "resumen": "Procedimiento contra la esposa del presidente por su actividad al frente de una cátedra extraordinaria de la Complutense y por el uso de una asesora de Moncloa para asuntos privados. El 16-07-2026 la Audiencia de Madrid avaló que sea juzgada por un jurado popular, pero solo por tráfico de influencias y malversación (excluyó corrupción en los negocios y apropiación indebida) e invalidó la apertura de juicio dictada en junio, que debía rehacerse. La Fiscalía no aprecia indicios y no acusa: el proceso avanza a instancia de las acusaciones populares. El juez Peinado se jubiló en septiembre de 2026 tras dictar el auto de apertura de juicio oral el 21-09-2026. El 19-10-2026 la justicia madrileña congela el juicio y ni siquiera elige al juez que presidirá el jurado, según informaciones (Vozpopuli). El 02-11-2026 el juicio se retrasa adicionalmente por un presunto «error técnico» de Peinado con los informes de la UCO, según informaciones (Artículo 14). Presunción de inocencia íntegra.",
       "fallo": null,
       "hitos": [
         {
@@ -241,6 +245,10 @@ window.PRESOE_DATOS =
         {
           "f": "28-10-2026",
           "t": "Begoña Gómez denuncia al PP por «suplantación de imagen» por un vídeo hecho con IA (Diario de Sevilla)."
+        },
+        {
+          "f": "02-11-2026",
+          "t": "El juicio de Begoña Gómez se retrasa adicionalmente por un presunto «error técnico» de Peinado con los informes de la UCO, según informaciones (Artículo 14). Presunción de inocencia íntegra."
         },
         {
           "f": "2027",
@@ -302,7 +310,7 @@ window.PRESOE_DATOS =
       "delitos": [
         "Revelación de datos reservados (art. 417.1 CP)"
       ],
-      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo. En junio de 2026 el Supremo se opuso al indulto; en octubre de 2026 el Gobierno no descartaba concedérselo antes de las elecciones del 29-N.",
+      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo. En junio de 2026 el Supremo se opuso al indulto; en octubre de 2026 el Gobierno no descartaba concedérselo antes de las elecciones del 29-N. En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026).",
       "fallo": "Multa de 12 meses con cuota diaria de 20 € (7.200 €), inhabilitación especial para el cargo de fiscal general del Estado durante 2 años, indemnización de 10.000 € a González Amador por daños morales y costas —tasadas en 39.009,48 € (jul-2026)—. Absuelto del resto de delitos. La multa y la indemnización se abonaron tras una colecta de la Unión Progresista de Fiscales.",
       "hitos": [
         {
@@ -340,6 +348,10 @@ window.PRESOE_DATOS =
         {
           "f": "09-10-2026",
           "t": "Sánchez no descarta indultar a García Ortiz, primer fiscal general del Estado en ejercicio condenado en España; el Gobierno no descarta hacerlo antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE). La fiscal general recuerda el informe favorable al indulto de su predecesor (The Objective)."
+        },
+        {
+          "f": "14-10-2026",
+          "t": "Bolaños anuncia que el posible indulto a García Ortiz «ya está en su mesa» (Onda Cero)."
         },
         {
           "f": "16-10-2026",
@@ -569,7 +581,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "24-09-2026",
-          "t": "La jueza del caso Mediador envía a juicio oral a «Tito Berni», al general Espinosa, a Taishet Fuentes y a otros 11 acusados, 14 en total, por la pieza principal de la trama (RTVE.es / El Mundo / elDiario.es / Antena 3 / Canarias7 / Diario de Fuerteventura / La Razón / OkDiario)."
+          "t": "La jueza del caso Mediador envía a juicio oral a «Tito Berni», al general Espinosa, a Taishet Fuentes y a otros 11 acusados, 14 en total, por la pieza principal de la trama (RTVE.es / El Mundo / elDiario.es / Antena 3 / Canarias7 / Diario de Fuerteventura / Radio Televisión Canaria)."
         }
       ],
       "gente": [
@@ -594,7 +606,7 @@ window.PRESOE_DATOS =
         "Delito fiscal",
         "Contrabando"
       ],
-      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen. La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Una jueza investiga las filtraciones de la causa (RTVE.es / Europa Press, 15-10-2026).",
+      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen. La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Una jueza investiga las filtraciones de la causa (RTVE.es / Europa Press, 15-10-2026). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico).",
       "fallo": null,
       "hitos": [
         {
@@ -652,6 +664,10 @@ window.PRESOE_DATOS =
         {
           "f": "28-10-2026",
           "t": "El juez Calama descarta definitivamente la pista saudí en el caso Plus Ultra joyas: no pedirá a Riad el origen del regalo a Zapatero (MONCLOA.COM)."
+        },
+        {
+          "f": "02-11-2026",
+          "t": "El juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico)."
         }
       ],
       "gente": [
@@ -698,7 +714,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com / El Constitucional). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026).",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026).",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -745,7 +761,7 @@ window.PRESOE_DATOS =
       "x": 1015,
       "y": 305,
       "rol": "Ex secretario de Organización del PSOE (2021-2025)",
-      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El juez del caso Koldo le pidió documentación al del caso Leire para aclarar sus presuntos ingresos (Cadena SER / The Objective, 15-10-2026). El juez Pedraz descartó citarle antes del 29-N (El Confidencial, 15-10-2026). Se opone a que el juez examine sus agendas personales (Confilegal, 21-10-2026) y acusa a la AN de investigar toda su vida para buscar delitos (Diario de Navarra, 22-10-2026). Según El Confidencial (20-10-2026), sus agendas y las de Leire contenían contactos de un tercio de los fiscales de la AN. Recurrió la entrega al juez del caso Koldo del material incautado en su domicilio (Noticias de Navarra, 21-10-2026). Niega todos los hechos.",
+      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El juez del caso Koldo le pidió documentación al del caso Leire para aclarar sus presuntos ingresos (Cadena SER / The Objective, 15-10-2026). El juez Pedraz descartó citarle antes del 29-N (El Confidencial, 15-10-2026). Se opone a que el juez examine sus agendas personales (Confilegal, 21-10-2026) y acusa a la AN de investigar toda su vida para buscar delitos (Diario de Navarra, 22-10-2026). Recurrió la entrega al juez del caso Koldo del material incautado en su domicilio (Noticias de Navarra, 21-10-2026). Niega todos los hechos.",
       "casos": [
         "k2",
         "k6"
@@ -817,7 +833,7 @@ window.PRESOE_DATOS =
       "x": 1215,
       "y": 528,
       "rol": "Esposa de Pedro Sánchez",
-      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae). El 07-10-2026 la Fiscalía pidió su absolución: «Sin delito no hay autor» (EL PAÍS / elDiario.es / ABC / RTVE.es). El 19-10-2026 la justicia madrileña congeló el juicio y ni siquiera eligió al juez que presidirá el jurado (Vozpopuli). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
+      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae). El 07-10-2026 la Fiscalía pidió su absolución: «Sin delito no hay autor» (EL PAÍS / elDiario.es / ABC / RTVE.es). El 19-10-2026 la justicia madrileña congeló el juicio y ni siquiera eligió al juez que presidirá el jurado (Vozpopuli). El 02-11-2026 el juicio se retrasa adicionalmente por un presunto «error técnico» de Peinado con los informes de la UCO, según informaciones (Artículo 14). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -889,7 +905,7 @@ window.PRESOE_DATOS =
       "x": 858,
       "y": 802,
       "rol": "Ex fiscal general del Estado",
-      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En junio de 2026 el Supremo se opuso a su indulto (EL PAÍS, 11-06-2026). En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital).",
+      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En junio de 2026 el Supremo se opuso a su indulto (EL PAÍS, 11-06-2026). En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). El 14-10-2026 Bolaños anunció que el posible indulto «ya está en su mesa» (Onda Cero). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital).",
       "fallo": "Multa de 12 meses a razón de 20 €/día (7.200 €), 2 años de inhabilitación especial para el cargo de fiscal general del Estado, 10.000 € de indemnización a Alberto González Amador y costas (39.009,48 €). Absuelto del resto de delitos.",
       "casos": [
         "k5"
@@ -1032,7 +1048,7 @@ window.PRESOE_DATOS =
       "x": 688,
       "y": 578,
       "rol": "Expresidente del Gobierno (2004-2011)",
-      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico / Onda Cero / MUNDIARIO, 27-10-2026). El 28-10-2026 el juez descarta definitivamente la pista saudí (MONCLOA.COM). Defiende su inocencia. Presunción de inocencia íntegra.",
+      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico / Onda Cero / MUNDIARIO, 27-10-2026). El 28-10-2026 el juez descarta definitivamente la pista saudí (MONCLOA.COM). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico). Defiende su inocencia. Presunción de inocencia íntegra.",
       "casos": [
         "k9"
       ]
@@ -1151,15 +1167,15 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "02 NOV",
-      "El juicio de Begoña Gómez se retrasa por un “error técnico” de Peinado con los informes de la UCO — Artículo 14"
-    ],
-    [
-      "02 NOV",
-      "Okdiario pagó 242.000 euros por la defensa de Koldo — Estrella Digital"
+      "El juicio de Begoña Gómez se retrasa por un «error técnico» de Peinado con los informes de la UCO — Artículo 14"
     ],
     [
       "02 NOV",
       "El juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los dueños reales de Plus Ultra — El Periódico"
+    ],
+    [
+      "02 NOV",
+      "Okdiario pagó 242.000 euros por la defensa de Koldo — Estrella Digital"
     ],
     [
       "01 NOV",
@@ -1167,19 +1183,11 @@ window.PRESOE_DATOS =
     ],
     [
       "01 NOV",
-      "De los hombres de Santos Cerdán al pleno de nueve en Castilla y León: el PSOE mantiene a casi la mitad de sus cabezas de lista al Congreso — El Independiente"
+      "Leire Díez quiere agitar la campaña con su primer libro el 9 de noviembre: revelará «más de 600 delitos» — Infobae"
     ],
     [
       "01 NOV",
-      "Leire Díez quiere agitar la campaña con su primer libro el 9 de noviembre: revelará “más de 600 delitos” que salpican a periodistas, fiscales, políticos y po… — Infobae"
-    ],
-    [
-      "01 NOV",
-      "La Audiencia Nacional examina 11 contratos de Transportes por 537 millones e investiga una presunta trama de... — La Gaceta de la Iberosfera"
-    ],
-    [
-      "31 OCT",
-      "El extraño caso de Eduardo Inda — Diario Público"
+      "La Audiencia Nacional examina 11 contratos de Transportes por 537 millones e investiga una presunta trama — La Gaceta de la Iberosfera"
     ],
     [
       "31 OCT",
@@ -1191,15 +1199,19 @@ window.PRESOE_DATOS =
     ],
     [
       "30 OCT",
-      "La abogada del corrupto Koldo la pagó uno de los digitales ultras que más financiación recibe del PP — Diario Público"
-    ],
-    [
-      "30 OCT",
       "Villalobos se acoge a su derecho a no declarar en el 'caso Leire Díez' — Deia"
     ],
     [
       "30 OCT",
       "El exviceministro chavista implicado en la trama Leire guarda silencio ante el juez sobre la concesión de su nacionalidad por la 'ley de nietos' — El Periódico"
+    ],
+    [
+      "29 OCT",
+      "La editora de OkDiario pagó 242.000 euros para costear la defensa de Koldo García — EL PAÍS / Cadena SER / El Confidencial"
+    ],
+    [
+      "29 OCT",
+      "Un informe de la UCO desveló que Koldo y Ábalos amañaron con Pardo de Vera 14 obras — La Gaceta de la Iberosfera (no corroborado)"
     ]
   ],
   "relojes": [
@@ -1228,7 +1240,7 @@ window.PRESOE_DATOS =
       "tipo": "standby",
       "caso": "K-03",
       "titulo": "Juicio con jurado · Begoña Gómez",
-      "sub": "Sin señalar. Previsión de fuentes jurídicas: primavera de 2027."
+      "sub": "Sin señalar. Previsión de fuentes jurídicas: primavera de 2027. Proceso paralizado también por presunto error técnico de Peinado con informes UCO (Artículo 14, 02-11-2026)."
     },
     {
       "tipo": "standby",
