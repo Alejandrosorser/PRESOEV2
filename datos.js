@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-02",
-  "actualizado_ticker": "2026-11-02",
+  "actualizado_ticker": "2026-11-03",
   "hub": {
     "k1": [
       430,
@@ -1166,52 +1166,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "02 NOV",
-      "El juicio de Begoña Gómez se retrasa por un «error técnico» de Peinado con los informes de la UCO — Artículo 14"
+      "03 NOV",
+      "El juez sospecha de las marcas estampadas en las joyas de Rodríguez Zapatero — La Vanguardia"
     ],
     [
-      "02 NOV",
-      "El juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los dueños reales de Plus Ultra — El Periódico"
+      "03 NOV",
+      "El juez quiere saber quién fabricó las joyas decomisadas a Zapatero — El Nacional.cat"
     ],
     [
-      "02 NOV",
-      "Okdiario pagó 242.000 euros por la defensa de Koldo — Estrella Digital"
+      "03 NOV",
+      "El juez pide investigar quién es el autor de la marca con una 'T' grabada en las joyas de Zapatero — El Mundo"
     ],
     [
-      "01 NOV",
-      "La cercanía del 29N no frena el marcaje judicial al Gobierno y al PSOE: de exigir la desclasificación de informes a los ultimátums por el 'caso Leire' — Diario Público"
+      "03 NOV",
+      "La jueza Biedma pide a Pedraz que tome declaración a la matriarca del clan de los Rocho antes de apartar al imputado por hostigarla — El Periódico"
     ],
     [
-      "01 NOV",
-      "Leire Díez quiere agitar la campaña con su primer libro el 9 de noviembre: revelará «más de 600 delitos» — Infobae"
+      "03 NOV",
+      "El juez del 'caso Plus Ultra' pide a la Policía que identifique al autor del punzón de las joyas de Zapatero — Europa Press"
     ],
     [
-      "01 NOV",
-      "La Audiencia Nacional examina 11 contratos de Transportes por 537 millones e investiga una presunta trama — La Gaceta de la Iberosfera"
+      "03 NOV",
+      "Calama pide a la Policía averiguar quién fabricó las joyas de Zapatero tras el informe de Yanes — ESdiario"
     ],
     [
-      "31 OCT",
-      "Okdiario pagó la defensa de Koldo García en el juicio del Supremo — elDiario.es"
+      "03 NOV",
+      "El juez Pedraz amplía hasta junio de 2027 la investigación del 'caso Leire Díez' por las diligencias pendientes — Fuentes Informadas"
     ],
     [
-      "31 OCT",
-      "Abogada palentina de Koldo: el PSOE no pagó su defensa — Diario Palentino"
+      "03 NOV",
+      "El juez Calama pide investigar quien es el autor del punzón de las joyas incautadas a Zapatero — La Razón"
     ],
     [
-      "30 OCT",
-      "Villalobos se acoge a su derecho a no declarar en el 'caso Leire Díez' — Deia"
+      "03 NOV",
+      "El juez del ‘caso Plus Ultra’ pide a la Policía que investigue quién fabricó las joyas de Zapatero — The Objective"
     ],
     [
-      "30 OCT",
-      "El exviceministro chavista implicado en la trama Leire guarda silencio ante el juez sobre la concesión de su nacionalidad por la 'ley de nietos' — El Periódico"
+      "03 NOV",
+      "El juez pide a la Policía investigar quién es el autor del punzón de las joyas de Zapatero — El Confidencial"
     ],
     [
-      "29 OCT",
-      "La editora de OkDiario pagó 242.000 euros para costear la defensa de Koldo García — EL PAÍS / Cadena SER / El Confidencial"
+      "03 NOV",
+      "El juez pone en marcha un operativo policial para dar con el autor de la marca que identifica a las joyas de Zapatero — El Debate"
     ],
     [
-      "29 OCT",
-      "Un informe de la UCO desveló que Koldo y Ábalos amañaron con Pardo de Vera 14 obras — La Gaceta de la Iberosfera (no corroborado)"
+      "03 NOV",
+      "El juez Calama ordena investigar la letra ‘T’ de las joyas de Zapatero para aclarar su procedencia — Servimedia"
+    ],
+    [
+      "03 NOV",
+      "Pedraz prolonga seis meses más el caso Leire Díez por la gravedad de los hechos y no descarta nuevas actuaciones — ESdiario"
     ]
   ],
   "relojes": [
