@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-11-02",
+  "actualizado_datos": "2026-11-03",
   "actualizado_ticker": "2026-11-03",
   "hub": {
     "k1": [
@@ -102,8 +102,12 @@ window.PRESOE_DATOS =
           "t": "Múltiples medios informan de que la empresa editora de OkDiario pagó presuntamente entre 200.000 y 242.000 euros para costear la defensa legal de Koldo García en el juicio del Supremo; la abogada de Koldo García asegura que recibió ese importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com). La abogada afirmó además que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026)."
         },
         {
+          "f": "31-10-2026",
+          "t": "Nuevos medios recogen que OkDiario pagó la defensa de Koldo García en el juicio del Supremo (elDiario.es)."
+        },
+        {
           "f": "02-11-2026",
-          "t": "El titular de que OkDiario pagó 242.000 euros por la defensa de Koldo sigue siendo recogido por nuevos medios (Estrella Digital)."
+          "t": "Informaciones sobre la reunión de Koldo con altos cargos de Transportes para conseguir documentos destinados a Ábalos (ESdiario). El titular de que OkDiario pagó 242.000 euros por la defensa de Koldo sigue siendo recogido por nuevos medios (Estrella Digital)."
         }
       ],
       "gente": [
@@ -125,7 +129,7 @@ window.PRESOE_DATOS =
         "Cohecho",
         "Tráfico de influencias"
       ],
-      "resumen": "Presuntos amaños en adjudicaciones de obra pública del Ministerio de Transportes (Carreteras, Adif) a cambio de mordidas. La UCO atribuye a Santos Cerdán la «gestión» de comisiones por unos 620.000 € —para toda la trama estima 1,18 millones— apoyándose en los audios grabados por Koldo. El Supremo remitió la pieza a la Audiencia Nacional en febrero de 2026; hay 14 investigados entre políticos, altos cargos y directivos de constructoras. El PSOE niega cualquier financiación irregular y sostiene que sus pagos en efectivo eran liquidaciones legales de gastos. Un informe de la UCO habría desvelado, según un único medio no corroborado, que Koldo y Ábalos habrían amañado con Pardo de Vera 14 obras (La Gaceta de la Iberosfera, 29-10-2026; dato no contrastado por otras fuentes). La Audiencia Nacional examina presuntamente 11 contratos de Transportes por 537 millones en el marco de la investigación de la trama, según informaciones (La Gaceta de la Iberosfera, 01-11-2026; dato no corroborado por otras fuentes).",
+      "resumen": "Presuntos amaños en adjudicaciones de obra pública del Ministerio de Transportes (Carreteras, Adif) a cambio de mordidas. La UCO atribuye a Santos Cerdán la «gestión» de comisiones por unos 620.000 € —para toda la trama estima 1,18 millones— apoyándose en los audios grabados por Koldo. El Supremo remitió la pieza a la Audiencia Nacional en febrero de 2026; hay 14 investigados entre políticos, altos cargos y directivos de constructoras. El PSOE niega cualquier financiación irregular y sostiene que sus pagos en efectivo eran liquidaciones legales de gastos. Un informe de la UCO habría desvelado, según un único medio no corroborado, que Koldo y Ábalos habrían amañado con Pardo de Vera 14 obras (La Gaceta de la Iberosfera, 29-10-2026; dato no contrastado por otras fuentes). La Audiencia Nacional examina presuntamente 11 contratos de Transportes por 537 millones en el marco de la investigación de la trama, según informaciones (La Gaceta de la Iberosfera, 01-11-2026; dato no corroborado por otras fuentes). La declaración de Santos Cerdán es considerada clave para la posible imputación del PSOE por las cloacas y la financiación ilegal, según informaciones (Libertad Digital, 03-11-2026).",
       "fallo": null,
       "hitos": [
         {
@@ -170,11 +174,15 @@ window.PRESOE_DATOS =
         },
         {
           "f": "22-10-2026",
-          "t": "Cerdán acusa a la Audiencia Nacional de investigar toda su vida para buscar delitos contra él (Diario de Navarra)."
+          "t": "Cerdán acusa a la Audiencia Nacional de investigar toda su vida para buscar delitos contra él (El Correo)."
         },
         {
           "f": "01-11-2026",
           "t": "Informaciones apuntan a que la Audiencia Nacional estaría examinando presuntamente 11 contratos de Transportes por 537 millones en el marco de la investigación de la trama (La Gaceta de la Iberosfera; dato no corroborado por otras fuentes)."
+        },
+        {
+          "f": "03-11-2026",
+          "t": "La declaración de Santos Cerdán es señalada como clave para la posible imputación del PSOE por las cloacas y la financiación ilegal, según informaciones (Libertad Digital)."
         }
       ],
       "gente": [
@@ -249,6 +257,10 @@ window.PRESOE_DATOS =
         {
           "f": "02-11-2026",
           "t": "El juicio de Begoña Gómez se retrasa adicionalmente por un presunto «error técnico» de Peinado con los informes de la UCO, según informaciones (Artículo 14). Presunción de inocencia íntegra."
+        },
+        {
+          "f": "03-11-2026",
+          "t": "Nuevas informaciones recogen que el juicio podría retrasarse aún más por el presunto error técnico del juez Peinado (Elplural.com). Presunción de inocencia íntegra."
         },
         {
           "f": "2027",
@@ -380,7 +392,7 @@ window.PRESOE_DATOS =
         "Revelación de secretos",
         "Prevaricación"
       ],
-      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna. El exviceministro venezolano Nervis Villalobos fue citado como investigado y se negó a declarar ante el juez el 30-10-2026, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos'. El juez Pedraz descartó citar a Cerdán antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026). El 29-10-2026 la UCO informó al juez Pedraz de que la jueza Biedma decidió dar a las partes correos personales de Pedro Sánchez y su esposa (El Periódico). El 01-11-2026 Leire Díez anunció la publicación de su primer libro el 9 de noviembre, en el que prometió revelar «más de 600 delitos» que salpican a periodistas, fiscales, políticos y policías (Infobae).",
+      "resumen": "Investigación sobre una presunta estructura destinada a desactivar causas judiciales que afectan al PSOE y al Gobierno, y sobre amaños en contratación pública (SEPI, rescate de Tubos Reunidos). Según el instructor, Leire Díez habría coordinado la trama y el liderazgo recaería en Santos Cerdán; Vicente Fernández, Antxon Alonso, Díez y Cerdán habrían actuado como «nexo de influencia». En 2026 el juez amplió la imputación a 25 personas más —incluida la presidenta de la SEPI, Belén Gualda— y el 16-07-2026 declararon como investigados la directora general de la Guardia Civil y el DAO. El PSOE y los implicados niegan la existencia de trama alguna. El exviceministro venezolano Nervis Villalobos fue citado como investigado y se negó a declarar ante el juez el 30-10-2026, guardando silencio sobre la concesión de su nacionalidad española por la 'ley de nietos'. El juez Pedraz descartó citar a Cerdán antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026). El 29-10-2026 la UCO informó al juez Pedraz de que la jueza Biedma decidió dar a las partes correos personales de Pedro Sánchez y su esposa (El Periódico). El 01-11-2026 Leire Díez anunció la publicación de su primer libro el 9 de noviembre, en el que prometió revelar «más de 600 delitos» que salpican a periodistas, fiscales, políticos y policías (Infobae). El 03-11-2026 el juez Pedraz amplió la instrucción hasta junio de 2027 por la gravedad de los hechos y no descartó nuevas actuaciones (ESdiario / Europa Press / Demócrata / Fuentes Informadas). La declaración de Santos Cerdán es señalada como clave para la posible imputación del PSOE por las cloacas y la financiación ilegal (Libertad Digital, 03-11-2026).",
       "fallo": null,
       "hitos": [
         {
@@ -462,6 +474,14 @@ window.PRESOE_DATOS =
         {
           "f": "01-11-2026",
           "t": "Leire Díez anuncia la publicación de su primer libro el 9 de noviembre, en el que promete revelar «más de 600 delitos» que salpican a periodistas, fiscales, políticos y policías (Infobae)."
+        },
+        {
+          "f": "02-11-2026",
+          "t": "La investigación del caso Leire Díez destapa nuevos indicios que apuntan a las presuntas cloacas del PP, según informaciones (elDiario.es)."
+        },
+        {
+          "f": "03-11-2026",
+          "t": "El juez Pedraz amplía la instrucción hasta junio de 2027 por la gravedad de los hechos y no descarta nuevas actuaciones (ESdiario / Europa Press / Demócrata / Fuentes Informadas). La jueza Biedma pide a Pedraz que tome declaración a la matriarca del clan de los Rocho antes de apartar al imputado por hostigarla (El Periódico). La declaración de Santos Cerdán es señalada como clave para la posible imputación del PSOE (Libertad Digital)."
         }
       ],
       "gente": [
@@ -606,7 +626,7 @@ window.PRESOE_DATOS =
         "Delito fiscal",
         "Contrabando"
       ],
-      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen. La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Una jueza investiga las filtraciones de la causa (RTVE.es / Europa Press, 15-10-2026). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico).",
+      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen. La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Una jueza investiga las filtraciones de la causa (RTVE.es / Europa Press, 15-10-2026). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico). El 03-11-2026 el juez Calama ordena a la Policía investigar quién fabricó las joyas incautadas, identificando el autor del punzón con la letra «T» grabada en ellas (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata).",
       "fallo": null,
       "hitos": [
         {
@@ -668,6 +688,10 @@ window.PRESOE_DATOS =
         {
           "f": "02-11-2026",
           "t": "El juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico)."
+        },
+        {
+          "f": "03-11-2026",
+          "t": "El juez Calama ordena a la Policía investigar quién fabricó las joyas incautadas e identificar al autor del punzón con la letra «T» grabada en ellas para aclarar su procedencia (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata)."
         }
       ],
       "gente": [
@@ -714,7 +738,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026).",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026). El 31-10-2026 elDiario.es y el 02-11-2026 Estrella Digital recogieron también la información sobre el pago de OkDiario.",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -761,7 +785,7 @@ window.PRESOE_DATOS =
       "x": 1015,
       "y": 305,
       "rol": "Ex secretario de Organización del PSOE (2021-2025)",
-      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El juez del caso Koldo le pidió documentación al del caso Leire para aclarar sus presuntos ingresos (Cadena SER / The Objective, 15-10-2026). El juez Pedraz descartó citarle antes del 29-N (El Confidencial, 15-10-2026). Se opone a que el juez examine sus agendas personales (Confilegal, 21-10-2026) y acusa a la AN de investigar toda su vida para buscar delitos (Diario de Navarra, 22-10-2026). Recurrió la entrega al juez del caso Koldo del material incautado en su domicilio (Noticias de Navarra, 21-10-2026). Niega todos los hechos.",
+      "resumen": "Investigado en la Audiencia Nacional por la trama de obra pública —la UCO le atribuye la «gestión» de comisiones por unos 620.000 €— y señalado por el instructor del caso Leire Díez como presunto líder de la trama para desactivar causas judiciales. También bajo la lupa por contratos de la SEPI. Pasó cinco meses en prisión provisional (30-06 → 19-11-2025). Un informe de la UCO del 17-07-2026 cifra en más de 323.000 € los ingresos no declarados de su entorno familiar entre 2015 y 2024. El 22-07-2026 la AN ordenó rastrear más de 30 cuentas de su familia en cinco bancos. El 26-07-2026 dos administrativas del PSOE anunciaron que aportarán al juez conversaciones clave con él. El juez del caso Koldo le pidió documentación al del caso Leire para aclarar sus presuntos ingresos (Cadena SER / The Objective, 15-10-2026). El juez Pedraz descartó citarle antes del 29-N (El Confidencial, 15-10-2026). Se opone a que el juez examine sus agendas personales (Confilegal, 21-10-2026) y acusa a la AN de investigar toda su vida para buscar delitos (El Correo, 22-10-2026). Recurrió la entrega al juez del caso Koldo del material incautado en su domicilio (Noticias de Navarra, 21-10-2026). Su declaración es señalada como clave para la posible imputación del PSOE por las cloacas y la financiación ilegal (Libertad Digital, 03-11-2026). Niega todos los hechos.",
       "casos": [
         "k2",
         "k6"
@@ -833,7 +857,7 @@ window.PRESOE_DATOS =
       "x": 1215,
       "y": 528,
       "rol": "Esposa de Pedro Sánchez",
-      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae). El 07-10-2026 la Fiscalía pidió su absolución: «Sin delito no hay autor» (EL PAÍS / elDiario.es / ABC / RTVE.es). El 19-10-2026 la justicia madrileña congeló el juicio y ni siquiera eligió al juez que presidirá el jurado (Vozpopuli). El 02-11-2026 el juicio se retrasa adicionalmente por un presunto «error técnico» de Peinado con los informes de la UCO, según informaciones (Artículo 14). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
+      "resumen": "Procesada para ser juzgada por un Tribunal del Jurado por presuntos delitos de tráfico de influencias y malversación (la Audiencia de Madrid excluyó otros dos delitos y el juez levantó la imputación por intrusismo). La Fiscalía no aprecia indicios y no acusa: el procedimiento avanza a instancia de las acusaciones populares. El juez Peinado abrió juicio oral con jurado el 21-09-2026 (EL PAÍS / El Mundo / RTVE.es / Infobae). El 07-10-2026 la Fiscalía pidió su absolución: «Sin delito no hay autor» (EL PAÍS / elDiario.es / ABC / RTVE.es). El 19-10-2026 la justicia madrileña congeló el juicio y ni siquiera eligió al juez que presidirá el jurado (Vozpopuli). El 02-11-2026 el juicio se retrasa adicionalmente por un presunto «error técnico» de Peinado con los informes de la UCO, según informaciones (Artículo 14). El 03-11-2026 nuevas informaciones apuntan al mismo retraso (Elplural.com). El 27-07-2026 la acusación popular (Hazte Oír) rebajó su petición de pena de 24 a 13 años, ajustándose a los delitos validados por la Audiencia, y solicitó que Pedro Sánchez declare como testigo (El Mundo / RTVE.es). Presunción de inocencia íntegra.",
       "casos": [
         "k3"
       ]
@@ -920,7 +944,7 @@ window.PRESOE_DATOS =
       "x": 1195,
       "y": 330,
       "rol": "Exmilitante del PSOE",
-      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026). El juez Pedraz insiste en investigar si participó en la «promoción o impulso» del presunto acoso a la jueza Biedma (La Razón, 27-10-2026). La AN rechazó su querella contra el PP por un vídeo hecho con IA (elDiario.es, 27-10-2026). Sus agendas habrían contenido contactos de un tercio de los fiscales de la AN, según informaciones (El Confidencial, 20-10-2026). El juez Pedraz descartó citarla antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026). El 01-11-2026 anunció la publicación de su primer libro el 9 de noviembre, en el que prometió revelar «más de 600 delitos» (Infobae).",
+      "resumen": "Imputada por presuntos delitos de tráfico de influencias, cohecho y obstrucción a la justicia. Para el instructor habría «coordinado» una trama dirigida a desactivar causas que afectan al Gobierno y al PSOE; ella asegura que hacía un trabajo de investigación propio, ajeno al partido. En julio de 2026 el PP solicitó además su imputación por la presunta creación de un puesto a medida en Correos (La Vanguardia, 24-07-2026). El juez Pedraz insiste en investigar si participó en la «promoción o impulso» del presunto acoso a la jueza Biedma (La Razón, 27-10-2026). La AN rechazó su querella contra el PP por un vídeo hecho con IA (elDiario.es, 27-10-2026). Sus agendas habrían contenido contactos de un tercio de los fiscales de la AN, según informaciones (El Confidencial, 20-10-2026). El juez Pedraz descartó citarla antes del 29-N y alejó la decisión sobre la imputación del PSOE (El Confidencial, 15-10-2026). El 01-11-2026 anunció la publicación de su primer libro el 9 de noviembre, en el que prometió revelar «más de 600 delitos» (Infobae). El 03-11-2026 el juez Pedraz amplió la instrucción hasta junio de 2027 (ESdiario / Europa Press / Demócrata / Fuentes Informadas).",
       "casos": [
         "k6"
       ]
@@ -962,7 +986,7 @@ window.PRESOE_DATOS =
       "x": 295,
       "y": 655,
       "rol": "Empresario de hidrocarburos",
-      "resumen": "Investigado en la Audiencia Nacional como presunto eje, junto a Aldama, del macrofraude del IVA articulado en torno a Villafuel, la operadora que administraba; llegó a estar en prisión provisional por esta causa. En julio de 2026 declaró como testigo en el caso Leire.",
+      "resumen": "Investigado en la Audiencia Nacional como presunto eje, junto a Aldama, del macrofraude del IVA articulado en torno a Villafuel, la operadora que administraba; llegó a estar en prisión provisional por esta causa. En julio de 2026 declaró como testigo en el caso Leire. Citado para declarar en el caso hidrocarburos cuatro días después del 29-N (El Debate / La Razón, 20-10-2026).",
       "casos": [
         "k7"
       ]
@@ -1048,7 +1072,7 @@ window.PRESOE_DATOS =
       "x": 688,
       "y": 578,
       "rol": "Expresidente del Gobierno (2004-2011)",
-      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico / Onda Cero / MUNDIARIO, 27-10-2026). El 28-10-2026 el juez descarta definitivamente la pista saudí (MONCLOA.COM). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico). Defiende su inocencia. Presunción de inocencia íntegra.",
+      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico / Onda Cero / MUNDIARIO, 27-10-2026). El 28-10-2026 el juez descarta definitivamente la pista saudí (MONCLOA.COM). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico). El 03-11-2026 el juez Calama ordena a la Policía investigar el punzón con la letra «T» grabado en las joyas para determinar su procedencia (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata). Defiende su inocencia. Presunción de inocencia íntegra.",
       "casos": [
         "k9"
       ]
@@ -1167,39 +1191,7 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "03 NOV",
-      "El juez sospecha de las marcas estampadas en las joyas de Rodríguez Zapatero — La Vanguardia"
-    ],
-    [
-      "03 NOV",
-      "El juez quiere saber quién fabricó las joyas decomisadas a Zapatero — El Nacional.cat"
-    ],
-    [
-      "03 NOV",
-      "El juez pide investigar quién es el autor de la marca con una 'T' grabada en las joyas de Zapatero — El Mundo"
-    ],
-    [
-      "03 NOV",
-      "La jueza Biedma pide a Pedraz que tome declaración a la matriarca del clan de los Rocho antes de apartar al imputado por hostigarla — El Periódico"
-    ],
-    [
-      "03 NOV",
-      "El juez del 'caso Plus Ultra' pide a la Policía que identifique al autor del punzón de las joyas de Zapatero — Europa Press"
-    ],
-    [
-      "03 NOV",
-      "Calama pide a la Policía averiguar quién fabricó las joyas de Zapatero tras el informe de Yanes — ESdiario"
-    ],
-    [
-      "03 NOV",
-      "El juez Pedraz amplía hasta junio de 2027 la investigación del 'caso Leire Díez' por las diligencias pendientes — Fuentes Informadas"
-    ],
-    [
-      "03 NOV",
-      "El juez Calama pide investigar quien es el autor del punzón de las joyas incautadas a Zapatero — La Razón"
-    ],
-    [
-      "03 NOV",
-      "El juez del ‘caso Plus Ultra’ pide a la Policía que investigue quién fabricó las joyas de Zapatero — The Objective"
+      "El juez Calama ordena investigar la letra 'T' de las joyas de Zapatero para aclarar su procedencia — Servimedia"
     ],
     [
       "03 NOV",
@@ -1207,15 +1199,51 @@ window.PRESOE_DATOS =
     ],
     [
       "03 NOV",
-      "El juez pone en marcha un operativo policial para dar con el autor de la marca que identifica a las joyas de Zapatero — El Debate"
+      "El juez pide a la Policía investigar quién es el autor del punzón de las joyas de Zapatero — EL PAÍS"
     ],
     [
       "03 NOV",
-      "El juez Calama ordena investigar la letra ‘T’ de las joyas de Zapatero para aclarar su procedencia — Servimedia"
+      "El juez del 'caso Plus Ultra' pide a la Policía que investigue quién fabricó las joyas de Zapatero — The Objective"
+    ],
+    [
+      "03 NOV",
+      "El juez del 'caso Plus Ultra' pide a la Policía que identifique al autor del punzón de las joyas de Zapatero — 20Minutos"
+    ],
+    [
+      "03 NOV",
+      "El juez pide investigar quién es el autor de la marca con una 'T' grabada en las joyas de Zapatero — El Mundo"
+    ],
+    [
+      "03 NOV",
+      "El juez Calama pide investigar quien es el autor del punzón de las joyas incautadas a Zapatero — La Razón"
+    ],
+    [
+      "03 NOV",
+      "El juez Pedraz amplía hasta junio de 2027 la investigación del 'caso Leire Díez' por las diligencias pendientes — Fuentes Informadas"
     ],
     [
       "03 NOV",
       "Pedraz prolonga seis meses más el caso Leire Díez por la gravedad de los hechos y no descarta nuevas actuaciones — ESdiario"
+    ],
+    [
+      "03 NOV",
+      "El juez del 'caso Leire Díez' prorroga la investigación hasta junio de 2027 y no descarta nuevas actuaciones — Europa Press"
+    ],
+    [
+      "03 NOV",
+      "El juez del caso Leire Díez extiende la instrucción hasta junio de 2027 y deja abierta la puerta a más diligencias — Demócrata"
+    ],
+    [
+      "03 NOV",
+      "La declaración de Santos Cerdán, clave para la imputación del PSOE por las cloacas y la financiación ilegal — Libertad Digital"
+    ],
+    [
+      "03 NOV",
+      "La jueza Biedma pide a Pedraz que tome declaración a la matriarca del clan de los Rocho antes de apartar al imputado por hostigarla — El Periódico"
+    ],
+    [
+      "03 NOV",
+      "El juicio a Begoña Gómez podría retrasarse por un error técnico del juez Peinado — Elplural.com"
     ]
   ],
   "relojes": [
@@ -1244,7 +1272,14 @@ window.PRESOE_DATOS =
       "tipo": "standby",
       "caso": "K-03",
       "titulo": "Juicio con jurado · Begoña Gómez",
-      "sub": "Sin señalar. Previsión de fuentes jurídicas: primavera de 2027. Proceso paralizado también por presunto error técnico de Peinado con informes UCO (Artículo 14, 02-11-2026)."
+      "sub": "Sin señalar. Previsión de fuentes jurídicas: primavera de 2027. Proceso paralizado también por presunto error técnico de Peinado con informes UCO (Artículo 14, 02-11-2026; Elplural.com, 03-11-2026)."
+    },
+    {
+      "tipo": "countdown",
+      "objetivo": "2027-06-30T00:00:00+02:00",
+      "caso": "K-06",
+      "titulo": "Instrucción caso Leire Díez prorrogada hasta jun-2027",
+      "sub": "El juez Pedraz amplió la instrucción hasta junio de 2027 por la gravedad de los hechos y las diligencias pendientes (ESdiario / Europa Press / Demócrata / Fuentes Informadas, 03-11-2026)."
     },
     {
       "tipo": "standby",
