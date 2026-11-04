@@ -1,6 +1,6 @@
 window.PRESOE_DATOS =
 {
-  "actualizado_datos": "2026-11-03",
+  "actualizado_datos": "2026-11-04",
   "actualizado_ticker": "2026-11-04",
   "hub": {
     "k1": [
@@ -108,6 +108,10 @@ window.PRESOE_DATOS =
         {
           "f": "02-11-2026",
           "t": "Informaciones sobre la reunión de Koldo con altos cargos de Transportes para conseguir documentos destinados a Ábalos (ESdiario). El titular de que OkDiario pagó 242.000 euros por la defensa de Koldo sigue siendo recogido por nuevos medios (Estrella Digital)."
+        },
+        {
+          "f": "04-11-2026",
+          "t": "El Tribunal Supremo requiere a Ábalos, Koldo García y Aldama el abono de los 647.000 euros a los que fueron condenados en el caso mascarillas, según varios medios (El Periódico / Europa Press / Demócrata). La abogada de Koldo García advirtió previamente a la fiscal de la «sorpresa» que se llevaría al saber que OkDiario pagaba la defensa: «No tengo nada que ver co…» (EL PAÍS, 04-11-2026)."
         }
       ],
       "gente": [
@@ -207,7 +211,7 @@ window.PRESOE_DATOS =
         "Tráfico de influencias",
         "Malversación"
       ],
-      "resumen": "Procedimiento contra la esposa del presidente por su actividad al frente de una cátedra extraordinaria de la Complutense y por el uso de una asesora de Moncloa para asuntos privados. El 16-07-2026 la Audiencia de Madrid avaló que sea juzgada por un jurado popular, pero solo por tráfico de influencias y malversación (excluyó corrupción en los negocios y apropiación indebida) e invalidó la apertura de juicio dictada en junio, que debía rehacerse. La Fiscalía no aprecia indicios y no acusa: el proceso avanza a instancia de las acusaciones populares. El juez Peinado se jubiló en septiembre de 2026 tras dictar el auto de apertura de juicio oral el 21-09-2026. El 19-10-2026 la justicia madrileña congela el juicio y ni siquiera elige al juez que presidirá el jurado, según informaciones (Vozpopuli). El 02-11-2026 el juicio se retrasa adicionalmente por un presunto «error técnico» de Peinado con los informes de la UCO, según informaciones (Artículo 14). Presunción de inocencia íntegra.",
+      "resumen": "Procedimiento contra la esposa del presidente por su actividad al frente de una cátedra extraordinaria de la Complutense y por el uso de una asesora de Moncloa para asuntos privados. El 16-07-2026 la Audiencia de Madrid avaló que sea juzgada por un jurado popular, pero solo por tráfico de influencias y malversación (excluyó corrupción en los negocios y apropiación indebida) e invalidó la apertura de juicio dictada en junio, que debía rehacerse. La Fiscalía no aprecia indicios y no acusa: el proceso avanza a instancia de las acusaciones populares. El juez Peinado se jubiló en septiembre de 2026 tras dictar el auto de apertura de juicio oral el 21-09-2026. El 19-10-2026 la justicia madrileña congela el juicio y ni siquiera elige al juez que presidirá el jurado, según informaciones (Vozpopuli). El 02-11-2026 el juicio se retrasa adicionalmente por un presunto «error técnico» de Peinado con los informes de la UCO, según informaciones (Artículo 14). El 03-11-2026 nuevas informaciones apuntan al mismo retraso (Elplural.com). Presunción de inocencia íntegra.",
       "fallo": null,
       "hitos": [
         {
@@ -322,7 +326,7 @@ window.PRESOE_DATOS =
       "delitos": [
         "Revelación de datos reservados (art. 417.1 CP)"
       ],
-      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo. En junio de 2026 el Supremo se opuso al indulto; en octubre de 2026 el Gobierno no descartaba concedérselo antes de las elecciones del 29-N. En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026).",
+      "resumen": "El fiscal general del Estado, nombrado a propuesta del Gobierno, fue juzgado por la filtración a la prensa de un correo del abogado de Alberto González Amador —pareja de Isabel Díaz Ayuso— en el que se ofrecía un pacto reconociendo fraude fiscal. El Supremo, por mayoría y con dos votos particulares, le consideró autor de la filtración. Dimitió cuatro días después del fallo. En junio de 2026 el Supremo se opuso al indulto; en octubre de 2026 el Gobierno no descartaba concedérselo antes de las elecciones del 29-N. En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El 03-11-2026 el Supremo confirmó que García Ortiz debe pagar los 39.009,48 € de costas a González Amador, desestimando los recursos de la Fiscalía y la Abogacía del Estado (El Periódico / OkDiario / The Objective / Libertad Digital / El Constitucional / Diario de Santiago).",
       "fallo": "Multa de 12 meses con cuota diaria de 20 € (7.200 €), inhabilitación especial para el cargo de fiscal general del Estado durante 2 años, indemnización de 10.000 € a González Amador por daños morales y costas —tasadas en 39.009,48 € (jul-2026)—. Absuelto del resto de delitos. La multa y la indemnización se abonaron tras una colecta de la Unión Progresista de Fiscales.",
       "hitos": [
         {
@@ -372,6 +376,10 @@ window.PRESOE_DATOS =
         {
           "f": "29-10-2026",
           "t": "El Cabildo de Gran Canaria y la ULPGC patrocinan una conferencia del exfiscal general condenado Álvaro García Ortiz, según informaciones (Libertad Digital)."
+        },
+        {
+          "f": "03-11-2026",
+          "t": "El Supremo desestima los recursos de la Fiscalía y la Abogacía del Estado y confirma que García Ortiz debe abonar los 39.009,48 € de costas a González Amador, sin apreciar honorarios excesivos (El Periódico / OkDiario / The Objective / Libertad Digital / El Constitucional / Diario de Santiago)."
         }
       ],
       "gente": [
@@ -506,7 +514,7 @@ window.PRESOE_DATOS =
         "Cohecho",
         "Tráfico de influencias"
       ],
-      "resumen": "Macrofraude del IVA en la venta de hidrocarburos articulado, según la UCO, en torno a la operadora Villafuel, que obtuvo su licencia en 2022 pagando cerca de un millón de euros para «comprar voluntades» en el Gobierno, de acuerdo con los investigadores. La Guardia Civil sitúa a Rivas y Aldama «en la cúspide» de la organización, cuantifica el fraude inicial en 182,5 millones de euros y rastrea 74 millones transferidos a Portugal, Macao y Colombia. En el juicio del caso mascarillas, Carmen Pano ratificó que llevó 90.000 € en efectivo a la sede del PSOE en Ferraz por orden de Aldama —su hija Leonor corroboró el relato—; el partido lo niega rotundamente. La Fiscalía Europea irrumpió en la causa en septiembre de 2026, revelando que Aldama y otros empresarios habrían desviado 27,9 millones a Portugal. La UCO reveló en octubre de 2026 que Aldama habría usado el dinero de las comisiones de las mascarillas para comprar una flota de lujo vinculada a la trama de hidrocarburos (El Independiente, 20-10-2026).",
+      "resumen": "Macrofraude del IVA en la venta de hidrocarburos articulado, según la UCO, en torno a la operadora Villafuel, que obtuvo su licencia en 2022 pagando cerca de un millón de euros para «comprar voluntades» en el Gobierno, de acuerdo con los investigadores. La Guardia Civil sitúa a Rivas y Aldama «en la cúspide» de la organización, cuantifica el fraude inicial en 182,5 millones de euros y rastrea 74 millones transferidos a Portugal, Macao y Colombia. En el juicio del caso mascarillas, Carmen Pano ratificó que llevó 90.000 € en efectivo a la sede del PSOE en Ferraz por orden de Aldama —su hija Leonor corroboró el relato—; el partido lo niega rotundamente. La Fiscalía Europea irrumpió en la causa en septiembre de 2026, revelando que Aldama y otros empresarios habrían desviado 27,9 millones a Portugal. La UCO reveló en octubre de 2026 que Aldama habría usado el dinero de las comisiones de las mascarillas para comprar una flota de lujo vinculada a la trama de hidrocarburos (El Independiente, 20-10-2026). El 04-11-2026 Hacienda considera que Aldama se habría embolsado más de medio millón de euros por gestiones ficticias de hidrocarburos en Dominicana, según informaciones (Infobae).",
       "fallo": null,
       "hitos": [
         {
@@ -552,6 +560,10 @@ window.PRESOE_DATOS =
         {
           "f": "25-10-2026",
           "t": "El socio de Aldama logra que el juez rastree un poder que le une al presunto fraude del fuel de hidrocarburos (La Razón)."
+        },
+        {
+          "f": "04-11-2026",
+          "t": "Hacienda considera que Aldama se habría embolsado más de medio millón de euros por gestiones presuntamente ficticias de hidrocarburos en Dominicana, según informaciones (Infobae)."
         }
       ],
       "gente": [
@@ -626,7 +638,7 @@ window.PRESOE_DATOS =
         "Delito fiscal",
         "Contrabando"
       ],
-      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen. La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Una jueza investiga las filtraciones de la causa (RTVE.es / Europa Press, 15-10-2026). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico). El 03-11-2026 el juez Calama ordena a la Policía investigar quién fabricó las joyas incautadas, identificando el autor del punzón con la letra «T» grabada en ellas (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata).",
+      "resumen": "Investigación sobre el rescate de Plus Ultra con 53 millones de euros de la SEPI (2021) y sobre una presunta «estructura estable y jerarquizada de tráfico de influencias» que, según el instructor, lideraría el expresidente Zapatero, apoyada en sociedades instrumentales, documentación simulada y canales financieros opacos, con ramificaciones en Venezuela y Emiratos Árabes. La imputación se amplió por las joyas halladas en su despacho. El empresario Julio Martínez, amigo del expresidente, ha reconocido ante el juez el cobro del 1% del préstamo público. Zapatero niega rotundamente cualquier gestión y defiende su inocencia. En octubre de 2026 el juez plantea prorrogar la instrucción ante la envergadura de la investigación; rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice la versión de Zapatero sobre su origen. La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Una jueza investiga las filtraciones de la causa (RTVE.es / Europa Press, 15-10-2026). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico). El 03-11-2026 el juez Calama ordena a la Policía investigar quién fabricó las joyas incautadas, identificando el autor del punzón con la letra «T» grabada en ellas (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata). Zapatero, por su parte, buscará dar un nuevo valor a las joyas con otra pericial propia (EL PAÍS, 03-11-2026).",
       "fallo": null,
       "hitos": [
         {
@@ -691,7 +703,7 @@ window.PRESOE_DATOS =
         },
         {
           "f": "03-11-2026",
-          "t": "El juez Calama ordena a la Policía investigar quién fabricó las joyas incautadas e identificar al autor del punzón con la letra «T» grabada en ellas para aclarar su procedencia (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata)."
+          "t": "El juez Calama ordena a la Policía investigar quién fabricó las joyas incautadas e identificar al autor del punzón con la letra «T» grabada en ellas para aclarar su procedencia (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata). La defensa de Zapatero anuncia que encargará una nueva pericial para dar un valor distinto a las joyas (EL PAÍS, 03-11-2026)."
         }
       ],
       "gente": [
@@ -722,7 +734,7 @@ window.PRESOE_DATOS =
       "x": 605,
       "y": 300,
       "rol": "Exministro de Transportes · ex secretario de Organización del PSOE (2017-2021)",
-      "resumen": "Condenado por el Tribunal Supremo a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias en el caso mascarillas (sentencia de junio de 2026, recurrible). En prisión desde el 27-11-2025: fue el primer diputado en activo encarcelado desde 1978. Sigue investigado en la Audiencia Nacional por los presuntos amaños de obra pública. En julio de 2026 el juez del caso Koldo confirma la imputación de su expareja (Jésica Rodríguez). En octubre de 2026 no había pagado las costas al denunciante del caso Koldo, según medios (La Razón). Ábalos y Koldo podrían acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026).",
+      "resumen": "Condenado por el Tribunal Supremo a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias en el caso mascarillas (sentencia de junio de 2026, recurrible). En prisión desde el 27-11-2025: fue el primer diputado en activo encarcelado desde 1978. Sigue investigado en la Audiencia Nacional por los presuntos amaños de obra pública. En julio de 2026 el juez del caso Koldo confirma la imputación de su expareja (Jésica Rodríguez). En octubre de 2026 no había pagado las costas al denunciante del caso Koldo, según medios (La Razón). Ábalos y Koldo podrían acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). El 04-11-2026 el Supremo le requirió, junto a Koldo y Aldama, el abono de los 647.000 euros a los que fueron condenados en el caso mascarillas (El Periódico / Europa Press / Demócrata).",
       "fallo": "24 años y 3 meses de prisión (sentencia unánime del TS, junio de 2026) como autor de delitos de organización criminal, cohecho, malversación y tráfico de influencias por la adjudicación del suministro de 13 millones de mascarillas.",
       "casos": [
         "k1",
@@ -738,7 +750,7 @@ window.PRESOE_DATOS =
       "x": 415,
       "y": 205,
       "rol": "Exasesor del ministro Ábalos",
-      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026). El 31-10-2026 elDiario.es y el 02-11-2026 Estrella Digital recogieron también la información sobre el pago de OkDiario.",
+      "resumen": "Condenado a 19 años, 8 meses y 1 día de prisión por organización criminal, cohecho, malversación y tráfico de influencias (sentencia unánime del TS, junio de 2026, recurrible). En prisión desde el 27-11-2025. Sus grabaciones a Ábalos y Cerdán son la piedra angular de la causa de obra pública, en la que sigue investigado. Podría acudir al Constitucional tras el rechazo del Supremo a su petición de nulidad (ESdiario, 14-10-2026). En julio de 2026, su hermano se negó a declarar ante el juez sobre la contratación de la expareja de Ábalos en Ineco (EL PAÍS, 20-07-2026). Múltiples medios informaron el 29-10-2026 de que la empresa editora de OkDiario habría pagado presuntamente entre 200.000 y 242.000 euros para sufragar su defensa legal en el juicio del Supremo; la abogada de Koldo confirmó el importe en concepto de «honorarios» y «gastos» y entregó las facturas a la Audiencia Nacional (Cadena SER / EL PAÍS / El Confidencial / infoLibre / Diario Público / Elplural.com). La propia abogada afirmó que el PSOE no pagó su defensa (Diario Palentino, 31-10-2026). El 31-10-2026 elDiario.es y el 02-11-2026 Estrella Digital recogieron también la información sobre el pago de OkDiario. El 04-11-2026 la abogada advirtió a la fiscal de la «sorpresa» que se llevaría al saber que OkDiario pagaba la defensa (EL PAÍS). El 04-11-2026 el Supremo le requirió, junto a Ábalos y Aldama, el abono de los 647.000 euros a los que fueron condenados en el caso mascarillas (El Periódico / Europa Press / Demócrata).",
       "fallo": "19 años, 8 meses y 1 día de prisión (sentencia unánime del TS, junio de 2026) por organización criminal, cohecho, malversación y tráfico de influencias.",
       "casos": [
         "k1",
@@ -754,7 +766,7 @@ window.PRESOE_DATOS =
       "x": 250,
       "y": 325,
       "rol": "Empresario · comisionista de la trama",
-      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA. La Fiscalía Europea reveló en septiembre de 2026 que él y otros empresarios habrían desviado 27,9 millones a Portugal (EL PAÍS). La UCO reveló en octubre de 2026 que habría usado el dinero de las comisiones de las mascarillas para comprar una presunta flota de lujo vinculada a la trama de hidrocarburos (El Independiente, 20-10-2026).",
+      "resumen": "Nexo empresarial de la red. Reconoció la acusación y destapó parte de la trama, por lo que el Supremo le aplicó la atenuante muy cualificada de colaboración. El 22-07-2026 el Supremo levantó sus medidas cautelares, aunque deberá seguir pidiendo permiso para salir del país por el caso hidrocarburos. Sigue investigado en la causa de obra pública y en la de hidrocarburos (caso Villafuel), donde la UCO le sitúa junto a Rivas «en la cúspide» de una organización que habría defraudado 182,5 millones de euros de IVA. La Fiscalía Europea reveló en septiembre de 2026 que él y otros empresarios habrían desviado 27,9 millones a Portugal (EL PAÍS). La UCO reveló en octubre de 2026 que habría usado el dinero de las comisiones de las mascarillas para comprar una presunta flota de lujo vinculada a la trama de hidrocarburos (El Independiente, 20-10-2026). El 04-11-2026 el Supremo le requirió, junto a Ábalos y Koldo, el abono de los 647.000 euros a los que fueron condenados en el caso mascarillas (El Periódico / Europa Press / Demócrata). Hacienda considera que Aldama se habría embolsado más de medio millón de euros por gestiones presuntamente ficticias de hidrocarburos en Dominicana (Infobae, 04-11-2026).",
       "fallo": "4 años y 6 meses de prisión por organización criminal y cohecho, con la ejecución suspendida a condición de no delinquir, presentar un informe semestral de actividades y realizar trabajos en beneficio de la comunidad durante un año.",
       "casos": [
         "k1",
@@ -929,7 +941,7 @@ window.PRESOE_DATOS =
       "x": 858,
       "y": 802,
       "rol": "Ex fiscal general del Estado",
-      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En junio de 2026 el Supremo se opuso a su indulto (EL PAÍS, 11-06-2026). En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). El 14-10-2026 Bolaños anunció que el posible indulto «ya está en su mesa» (Onda Cero). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital).",
+      "resumen": "Condenado por el Supremo el 20-11-2025 por revelación de datos reservados: la filtración del correo del abogado de la pareja de Isabel Díaz Ayuso. Dimitió cuatro días después. El fallo fue por mayoría, con dos votos particulares. En junio de 2026 el Supremo se opuso a su indulto (EL PAÍS, 11-06-2026). En julio de 2026 su número dos admitió ante el juez haberle informado de sus reuniones con Leire Díez, aunque dijo no haberle dado importancia (El Mundo / El Confidencial, 15-07-2026). El 14-10-2026 Bolaños anunció que el posible indulto «ya está en su mesa» (Onda Cero). En octubre de 2026 el TS abrió la puerta a apartarle de la carrera fiscal (El Confidencial, 16-10-2026). El Gobierno no descarta concederle el indulto antes de las elecciones del 29-N (Libertad Digital / La Vanguardia / EFE, 09-10-2026). El 29-10-2026 el Cabildo de Gran Canaria y la ULPGC patrocinaron una conferencia suya, según informaciones (Libertad Digital). El 03-11-2026 el Supremo confirmó que debe pagar los 39.009,48 € de costas a González Amador, desestimando los recursos de la Fiscalía y la Abogacía del Estado (El Periódico / OkDiario / The Objective / Libertad Digital / El Constitucional / Diario de Santiago).",
       "fallo": "Multa de 12 meses a razón de 20 €/día (7.200 €), 2 años de inhabilitación especial para el cargo de fiscal general del Estado, 10.000 € de indemnización a Alberto González Amador y costas (39.009,48 €). Absuelto del resto de delitos.",
       "casos": [
         "k5"
@@ -1072,7 +1084,7 @@ window.PRESOE_DATOS =
       "x": 688,
       "y": 578,
       "rol": "Expresidente del Gobierno (2004-2011)",
-      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico / Onda Cero / MUNDIARIO, 27-10-2026). El 28-10-2026 el juez descarta definitivamente la pista saudí (MONCLOA.COM). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico). El 03-11-2026 el juez Calama ordena a la Policía investigar el punzón con la letra «T» grabado en las joyas para determinar su procedencia (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata). Defiende su inocencia. Presunción de inocencia íntegra.",
+      "resumen": "Imputado en el caso Plus Ultra: el juez Calama le señala como presunto líder de «una estructura estable y jerarquizada de tráfico de influencias» destinada a obtener beneficios para terceros, principalmente la aerolínea rescatada con 53 millones públicos. Se le investiga por organización criminal, tráfico de influencias, blanqueo, falsedad documental y, por las cerca de 80 joyas (1,3 M€) halladas en la caja fuerte de su despacho, delito fiscal y contrabando. La Fiscalía pide añadir a su imputación el delito de malversación, según informaciones (La Vanguardia, 23-10-2026). Declaró el 17-06-2026 durante más de tres horas negando toda influencia; el magistrado rechazó cautelares. El 24-07-2026 el juez rechazó la nulidad que él recurrió fuera de plazo (ABC) y Conde-Pumpido fue obligado a abstenerse en el caso por su «estrecha amistad» con Zapatero (Libertad Digital). El 25-07-2026 dimitió la cúpula de la aerolínea tras confesar el pago a un amigo suyo para lograr el rescate (El Economista). En octubre de 2026 el juez plantea prorrogar la instrucción (Levante-EMV / El Debate / El Correo, 26-10-2026); rechaza preguntar a Arabia Saudí sobre las joyas y un informe pericial contradice su versión sobre su origen (EL PAÍS / El Mundo / Libertad Digital / El Periódico / Onda Cero / MUNDIARIO, 27-10-2026). El 28-10-2026 el juez descarta definitivamente la pista saudí (MONCLOA.COM). El 02-11-2026 el juez estrecha el cerco contra el empresario venezolano Camilo Ibrahim como uno de los presuntos dueños reales de Plus Ultra (El Periódico). El 03-11-2026 el juez Calama ordena a la Policía investigar el punzón con la letra «T» grabado en las joyas para determinar su procedencia (EL PAÍS / El Mundo / El Confidencial / La Razón / 20Minutos / Servimedia / The Objective / Demócrata); la defensa anuncia una nueva pericial propia (EL PAÍS, 03-11-2026). Defiende su inocencia. Presunción de inocencia íntegra.",
       "casos": [
         "k9"
       ]
@@ -1191,11 +1203,19 @@ window.PRESOE_DATOS =
   "ticker": [
     [
       "04 NOV",
-      "Hacienda cree que Aldama se embolsó más de medio millón de euros por gestiones ficticias de hidrocarburos en Dominicana — Teleprensa"
+      "El Supremo requiere a Ábalos, Koldo y Aldama los 647.000 euros a los que fueron condenados en el caso mascarillas — El Periódico"
+    ],
+    [
+      "04 NOV",
+      "Hacienda cree que Aldama se embolsó más de medio millón de euros por gestiones ficticias de hidrocarburos en Dominicana — Infobae"
+    ],
+    [
+      "04 NOV",
+      "Audio | La abogada de Koldo García advirtió a la fiscal de la «sorpresa» que se llevaría al saber que OkDiario pagaba la defensa — EL PAÍS"
     ],
     [
       "03 NOV",
-      "El juez reclama identificar al autor de las joyas de Zapatero — La Región"
+      "El juez Calama ordena a la Policía investigar el punzón con la «T» grabado en las joyas incautadas a Zapatero — El Mundo"
     ],
     [
       "03 NOV",
@@ -1203,19 +1223,11 @@ window.PRESOE_DATOS =
     ],
     [
       "03 NOV",
-      "Caso Plus Ultra: el juez encarga a la Policía rastrear el origen de las joyas atribuidas a Zapatero — Marruecom"
+      "El Supremo desestima el recurso de García Ortiz y le obliga a pagar 39.000 euros a González Amador en costas — Libertad Digital"
     ],
     [
       "03 NOV",
-      "Una misteriosa \"T\": el juez Calama ordena a la policía investigar una marca en las joyas Zapatero para averiguar cuándo se fabricaron — LaSexta"
-    ],
-    [
-      "03 NOV",
-      "El juez Pedraz amplía hasta junio de 2027 la investigación del 'caso Leire Díez' por las diligencias pendientes — Fuentes Informadas"
-    ],
-    [
-      "03 NOV",
-      "Biedma pide a Pedraz que cite a Cintia Rocho, \"La Celsa\", para aclarar qué significaba \"eliminarla\" — ESdiario"
+      "El juicio a Begoña Gómez podría retrasarse por un error técnico del juez Peinado — Elplural.com"
     ],
     [
       "03 NOV",
@@ -1223,19 +1235,19 @@ window.PRESOE_DATOS =
     ],
     [
       "03 NOV",
-      "La Audiencia Nacional descarta pedir más pruebas a OKDiario por los pagos a la defensa de Koldo García: mantiene bajo la lupa el supuesto soborno a la empres… — El Constitucional"
+      "Caso Plus Ultra: el juez encarga a la Policía rastrear el origen de las joyas atribuidas a Zapatero — Marruecom"
     ],
     [
       "03 NOV",
-      "El Supremo desestima el recurso de García Ortiz y le obliga a pagar 39.000 euros a González Amador en costas — Libertad Digital"
+      "Una misteriosa «T»: el juez Calama ordena a la policía investigar una marca en las joyas de Zapatero para averiguar cuándo se fabricaron — LaSexta"
     ],
     [
       "03 NOV",
-      "El juez pide investigar quién es el autor de la marca con una 'T' grabada en las joyas de Zapatero — El Mundo"
+      "El juez Pedraz amplía hasta junio de 2027 la investigación del caso Leire Díez por las diligencias pendientes — Fuentes Informadas"
     ],
     [
       "03 NOV",
-      "Investigan el origen de la marca con una 'T' grabada en las joyas de Zapatero — El Mundo"
+      "La Audiencia Nacional descarta pedir más pruebas a OKDiario por los pagos a la defensa de Koldo García — El Constitucional"
     ],
     [
       "03 NOV",
