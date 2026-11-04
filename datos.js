@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-03",
-  "actualizado_ticker": "2026-11-03",
+  "actualizado_ticker": "2026-11-04",
   "hub": {
     "k1": [
       430,
@@ -1190,32 +1190,24 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "03 NOV",
-      "El juez Calama ordena investigar la letra 'T' de las joyas de Zapatero para aclarar su procedencia — Servimedia"
+      "04 NOV",
+      "Hacienda cree que Aldama se embolsó más de medio millón de euros por gestiones ficticias de hidrocarburos en Dominicana — Teleprensa"
     ],
     [
       "03 NOV",
-      "El juez pide a la Policía investigar quién es el autor del punzón de las joyas de Zapatero — El Confidencial"
+      "El juez reclama identificar al autor de las joyas de Zapatero — La Región"
     ],
     [
       "03 NOV",
-      "El juez pide a la Policía investigar quién es el autor del punzón de las joyas de Zapatero — EL PAÍS"
+      "Pedraz prorroga seis meses el «caso Leire Díez» y advierte de que pueden aparecer nuevos indicios que exijan más diligencias — Confilegal"
     ],
     [
       "03 NOV",
-      "El juez del 'caso Plus Ultra' pide a la Policía que investigue quién fabricó las joyas de Zapatero — The Objective"
+      "Caso Plus Ultra: el juez encarga a la Policía rastrear el origen de las joyas atribuidas a Zapatero — Marruecom"
     ],
     [
       "03 NOV",
-      "El juez del 'caso Plus Ultra' pide a la Policía que identifique al autor del punzón de las joyas de Zapatero — 20Minutos"
-    ],
-    [
-      "03 NOV",
-      "El juez pide investigar quién es el autor de la marca con una 'T' grabada en las joyas de Zapatero — El Mundo"
-    ],
-    [
-      "03 NOV",
-      "El juez Calama pide investigar quien es el autor del punzón de las joyas incautadas a Zapatero — La Razón"
+      "Una misteriosa \"T\": el juez Calama ordena a la policía investigar una marca en las joyas Zapatero para averiguar cuándo se fabricaron — LaSexta"
     ],
     [
       "03 NOV",
@@ -1223,19 +1215,7 @@ window.PRESOE_DATOS =
     ],
     [
       "03 NOV",
-      "Pedraz prolonga seis meses más el caso Leire Díez por la gravedad de los hechos y no descarta nuevas actuaciones — ESdiario"
-    ],
-    [
-      "03 NOV",
-      "El juez del 'caso Leire Díez' prorroga la investigación hasta junio de 2027 y no descarta nuevas actuaciones — Europa Press"
-    ],
-    [
-      "03 NOV",
-      "El juez del caso Leire Díez extiende la instrucción hasta junio de 2027 y deja abierta la puerta a más diligencias — Demócrata"
-    ],
-    [
-      "03 NOV",
-      "La declaración de Santos Cerdán, clave para la imputación del PSOE por las cloacas y la financiación ilegal — Libertad Digital"
+      "Biedma pide a Pedraz que cite a Cintia Rocho, \"La Celsa\", para aclarar qué significaba \"eliminarla\" — ESdiario"
     ],
     [
       "03 NOV",
@@ -1243,7 +1223,23 @@ window.PRESOE_DATOS =
     ],
     [
       "03 NOV",
-      "El juicio a Begoña Gómez podría retrasarse por un error técnico del juez Peinado — Elplural.com"
+      "La Audiencia Nacional descarta pedir más pruebas a OKDiario por los pagos a la defensa de Koldo García: mantiene bajo la lupa el supuesto soborno a la empres… — El Constitucional"
+    ],
+    [
+      "03 NOV",
+      "El Supremo desestima el recurso de García Ortiz y le obliga a pagar 39.000 euros a González Amador en costas — Libertad Digital"
+    ],
+    [
+      "03 NOV",
+      "El juez pide investigar quién es el autor de la marca con una 'T' grabada en las joyas de Zapatero — El Mundo"
+    ],
+    [
+      "03 NOV",
+      "Investigan el origen de la marca con una 'T' grabada en las joyas de Zapatero — El Mundo"
+    ],
+    [
+      "03 NOV",
+      "El Supremo ratifica que García Ortiz pague los 39.000 euros de la defensa del novio de Ayuso — The Objective"
     ]
   ],
   "relojes": [
