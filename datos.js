@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-04",
-  "actualizado_ticker": "2026-11-04",
+  "actualizado_ticker": "2026-11-05",
   "hub": {
     "k1": [
       430,
@@ -1202,56 +1202,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "04 NOV",
-      "El Supremo requiere a Ábalos, Koldo y Aldama los 647.000 euros a los que fueron condenados en el caso mascarillas — El Periódico"
+      "05 NOV",
+      "Detenidos el exchófer de Sánchez y la pareja de Ábalos por el 'caso Koldo' — Deia"
     ],
     [
-      "04 NOV",
-      "Hacienda cree que Aldama se embolsó más de medio millón de euros por gestiones ficticias de hidrocarburos en Dominicana — Infobae"
+      "05 NOV",
+      "La UCO detiene a seis personas por el caso Koldo: entre ellas, la pareja de Ábalos y Cristian Corvillo — Official Press"
     ],
     [
-      "04 NOV",
-      "Audio | La abogada de Koldo García advirtió a la fiscal de la «sorpresa» que se llevaría al saber que OkDiario pagaba la defensa — EL PAÍS"
+      "05 NOV",
+      "PP y Vox aprovechan la nueva operación del caso Koldo para exigir la dimisión de Sánchez — Telemadrid"
     ],
     [
-      "03 NOV",
-      "El juez Calama ordena a la Policía investigar el punzón con la «T» grabado en las joyas incautadas a Zapatero — El Mundo"
+      "05 NOV",
+      "El PP niega las acusaciones de Koldo sobre el pago de un millón de euros para implicar a Sánchez — RTVE.es"
     ],
     [
-      "03 NOV",
-      "Pedraz prorroga seis meses el «caso Leire Díez» y advierte de que pueden aparecer nuevos indicios que exijan más diligencias — Confilegal"
+      "05 NOV",
+      "El juez del 'caso Koldo' reclama a la UCO una copia del móvil de Koldo García y los socios de Aldama — Atlántico"
     ],
     [
-      "03 NOV",
-      "El Supremo desestima el recurso de García Ortiz y le obliga a pagar 39.000 euros a González Amador en costas — Libertad Digital"
+      "05 NOV",
+      "Nuevas detenciones en el 'caso Koldo': la UCO arresta al ex chófer de Sánchez y a la pareja de Ábalos — Fuentes Informadas"
     ],
     [
-      "03 NOV",
-      "El juicio a Begoña Gómez podría retrasarse por un error técnico del juez Peinado — Elplural.com"
+      "05 NOV",
+      "La UCO registra la casa de Ábalos en Valencia en un operativo por blanqueo del caso Koldo con seis detenidos — La Vanguardia"
     ],
     [
-      "03 NOV",
-      "La jueza Biedma pide a Pedraz que tome declaración a la matriarca del clan de los Rocho antes de apartar al imputado por hostigarla — El Periódico"
+      "05 NOV",
+      "El juez solicita a la UCO copia del móvil de Koldo y documentos de socios Aldama — Diario en Positivo"
     ],
     [
-      "03 NOV",
-      "Caso Plus Ultra: el juez encarga a la Policía rastrear el origen de las joyas atribuidas a Zapatero — Marruecom"
+      "05 NOV",
+      "Por qué han detenido a la pareja de Ábalos: Qué investiga el juez en la nueva pieza del caso Koldo — Levante-EMV"
     ],
     [
-      "03 NOV",
-      "Una misteriosa «T»: el juez Calama ordena a la policía investigar una marca en las joyas de Zapatero para averiguar cuándo se fabricaron — LaSexta"
+      "05 NOV",
+      "El empresario que hizo de chófer de Sánchez en las primarias y la pareja de Ábalos, detenidos en el caso Koldo — EFE - Agencia de noticias"
     ],
     [
-      "03 NOV",
-      "El juez Pedraz amplía hasta junio de 2027 la investigación del caso Leire Díez por las diligencias pendientes — Fuentes Informadas"
+      "05 NOV",
+      "Detenido Cristian Corvillo, el empresario cordobés señalado por sus vínculos con Aldama, Koldo y Ábalos — Economía Digital"
     ],
     [
-      "03 NOV",
-      "La Audiencia Nacional descarta pedir más pruebas a OKDiario por los pagos a la defensa de Koldo García — El Constitucional"
+      "05 NOV",
+      "Quién es Cristian Corvillo, el exchófer de Pedro Sánchez detenido en la operación de la UCO por el caso Koldo — Onda Cero"
     ],
     [
-      "03 NOV",
-      "El Supremo ratifica que García Ortiz pague los 39.000 euros de la defensa del novio de Ayuso — The Objective"
+      "05 NOV",
+      "La UCO registra la casa de Ábalos y acude a la sede de Adif en una nueva pieza del caso Koldo — RTVE.es"
     ]
   ],
   "relojes": [
