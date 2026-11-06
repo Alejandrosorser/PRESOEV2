@@ -122,7 +122,8 @@ window.PRESOE_DATOS =
         "abalos",
         "koldo",
         "aldama",
-        "jesica"
+        "jesica",
+        "corvillo"
       ]
     },
     {
@@ -817,6 +818,20 @@ window.PRESOE_DATOS =
       ]
     },
     {
+      "id": "corvillo",
+      "nombre": "Cristian Corvillo",
+      "ini": "CC",
+      "estado": "investigado",
+      "prision": false,
+      "x": 490,
+      "y": 390,
+      "rol": "Exchofer de Pedro Sánchez",
+      "resumen": "Detenido el 05-11-2026 por la UCO en el marco de una nueva pieza secreta del caso Koldo abierta por el juez de la Audiencia Nacional, y puesto en libertad ese mismo día (LaSexta / El Español / RTVE.es / El Mundo). Señalado por informaciones como presunto «nexo» entre las tramas de las mordidas del PSOE (El Debate, 06-11-2026). La defensa niega cualquier irregularidad. Presunción de inocencia íntegra.",
+      "casos": [
+        "k1"
+      ]
+    },
+    {
       "id": "cerdan",
       "nombre": "Santos Cerdán",
       "ini": "SC",
@@ -1226,6 +1241,11 @@ window.PRESOE_DATOS =
       "a": "pano",
       "b": "leonor",
       "t": "su hija"
+    },
+    {
+      "a": "sanchez",
+      "b": "corvillo",
+      "t": "exchofer"
     }
   ],
   "ticker": [
