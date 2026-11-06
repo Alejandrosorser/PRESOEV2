@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-05",
-  "actualizado_ticker": "2026-11-05",
+  "actualizado_ticker": "2026-11-06",
   "hub": {
     "k1": [
       430,
@@ -1222,60 +1222,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "05 NOV",
-      "La UCO registra la casa de Ábalos en Valencia en un operativo por blanqueo del caso Koldo con seis detenidos — La Vanguardia"
+      "06 NOV",
+      "El juez Pedraz llama a declarar a la testigo del supuesto plan para atentar contra Biedma y la cita a cinco días de las elecciones — elDiario.es"
     ],
     [
-      "05 NOV",
-      "Detenidos el exchófer de Sánchez (Cristian Corvillo) y la pareja de Ábalos (Jésica Rodríguez) por el 'caso Koldo' — Deia"
+      "06 NOV",
+      "España ve con \"rabia y tristeza\" el caso Ábalos y Koldo y defiende la \"contundencia\" del PSOE — ABC"
     ],
     [
-      "05 NOV",
-      "La UCO entra en casa de Ábalos y en Adif por una nueva pieza secreta abierta por el juez de la Audiencia Nacional — El Periódico de Aragón"
+      "06 NOV",
+      "La Justicia española no investigará por malversación a Zapatero en el caso de las joyas — Infobae"
     ],
     [
-      "05 NOV",
-      "Detenido el cordobés Cristian Corvillo, exchófer de Pedro Sánchez, por el caso Koldo — El Día de Córdoba"
+      "06 NOV",
+      "El juez cita como testigo a la mujer con la que Sáenz de Tejada habló de \"eliminar\" a la jueza del 'caso David Sánchez' — Teleprensa"
     ],
     [
-      "05 NOV",
-      "Anticorrupción sospecha que el blanqueador de Plus Ultra está implicado en las joyas de Zapatero — Artículo 14"
+      "06 NOV",
+      "El instructor del caso Leire Díez cita a declarar a la matriarca de los Rocho como testigo del hostigamiento a la jueza Biedma — El Periódico"
     ],
     [
-      "05 NOV",
-      "El exCEO de Plus Ultra cuestiona contratos de préstamos previos al rescate y pide investigar la vía suiza — El Confidencial"
+      "06 NOV",
+      "El juez paraliza las inspecciones fiscales a Zapatero y su familia por negarse a entregar documentos — Servimedia"
     ],
     [
-      "05 NOV",
-      "Hacienda cree que Aldama se embolsó más de medio millón por gestiones ficticias de hidrocarburos en República Dominicana — Diario Red"
+      "06 NOV",
+      "Pedraz cita a Cintia Rocho por el plan para \"eliminar\" a la jueza Biedma: Incendio en Moncloa a 5 días del 29N — ESdiario"
     ],
     [
-      "05 NOV",
-      "La UCO requiere nuevos documentos sobre la trama Koldo por una nueva pieza secreta del juez de la AN — Diario de Ibiza"
+      "06 NOV",
+      "Álvaro García Ortiz: \"El Fiscal del Estado de un país merece un respeto institucional” — elDiario.es"
     ],
     [
-      "05 NOV",
-      "El PP en Canarias traga en silencio con la reaparición de García Ortiz en Las Palmas en pleno proceso de indulto — Canarias en Pleno"
+      "06 NOV",
+      "Pedraz cita a declarar a la mujer que afirma que la trama del ‘caso Leire Díez’ quería “eliminar” a la jueza Biedma — EL PAÍS"
     ],
     [
-      "04 NOV",
-      "El Supremo requiere a Ábalos, Koldo y Aldama los 647.000 euros a los que fueron condenados en el caso mascarillas — El Periódico"
+      "06 NOV",
+      "Besteiro ve en los pagos del PP a la defensa de Koldo una continuación del \"quien puede hacer, que haga\" de Aznar — GaliciaPress"
     ],
     [
-      "03 NOV",
-      "El juez prorroga seis meses el caso Leire Díez ante la 'complejidad' de la investigación — heraldo.es"
+      "06 NOV",
+      "El juez rechaza investigar si Zapatero cometió malversación con las joyas — El Triangle"
     ],
     [
-      "03 NOV",
-      "La declaración de Santos Cerdán, clave para la imputación del PSOE por las cloacas y la financiación ilegal — Libertad Digital"
+      "06 NOV",
+      "El juez rechaza investigar a Zapatero por presunta malversación por no entregar las joyas a Patrimonio del Estado — La Región"
     ],
     [
-      "03 NOV",
-      "El Supremo confirma los 38.508 € que debe pagar García Ortiz a González Amador — OkDiario"
-    ],
-    [
-      "03 NOV",
-      "La jueza Biedma pide a Pedraz que tome declaración a la matriarca del clan de los Rocho antes de apartar al imputado por hostigarla — El Periódico"
+      "06 NOV",
+      "Las joyas millonarias de Zapatero dan un giro judicial: el juez descarta la malversación — Aragón Digital"
     ]
   ],
   "relojes": [
