@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-06",
-  "actualizado_ticker": "2026-11-06",
+  "actualizado_ticker": "2026-11-07",
   "hub": {
     "k1": [
       430,
@@ -1230,56 +1230,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "06 NOV",
-      "El juez Pedraz llama a declarar a la testigo del supuesto plan para atentar contra Biedma y la cita a cinco días de las elecciones — elDiario.es"
+      "07 NOV",
+      "La Fiscalía pide juicio para Koldo, Aldama y la expresidenta de Adif — MUNDIARIO"
+    ],
+    [
+      "07 NOV",
+      "A Koldo le ofrecieron un Aldama — elDiario.es"
+    ],
+    [
+      "07 NOV",
+      "Zapatero recrimina a Calama que sus diligencias son insuficientes: \"No servirán para cuándo entregaron las joyas\" — Libertad Digital"
+    ],
+    [
+      "07 NOV",
+      "La novia de Ábalos centra la investigación de la UCO tras el dinero del botín de la trama Koldo — El Periódico"
+    ],
+    [
+      "07 NOV",
+      "El juez rechaza investigar a Zapatero por malversación — Segre.com"
+    ],
+    [
+      "07 NOV",
+      "Corvillo era tan Peugeot como Koldo o Ábalos: la UCO tiene hasta el listado de estancias y noches en común en hospedajes — Libertad Digital"
+    ],
+    [
+      "07 NOV",
+      "La trama andaluza del 'caso Koldo': Corvillo, el lugarteniente del sur, dos hoteles y la guerra con Cerdán \"el zampabollos\" — El Español"
+    ],
+    [
+      "07 NOV",
+      "Justicia española no investigará por malversación a Zapatero en el caso de las joyas — Noticias Venevisión"
+    ],
+    [
+      "07 NOV",
+      "El móvil de Koldo puso a la UCO en la pista del blanqueo de la trama — La Razón"
+    ],
+    [
+      "07 NOV",
+      "La oportunidad de Leire Díez y Santos Cerdán: la Audiencia busca escalar en la trama de la SEPI y las cloacas — Vozpopuli"
+    ],
+    [
+      "07 NOV",
+      "La UDEF, tras la cuenta de las hijas de Zapatero — La Razón"
+    ],
+    [
+      "07 NOV",
+      "Las caras de la noticia (07/11/2026) — El Debate"
     ],
     [
       "06 NOV",
-      "El juez Calama rechaza investigar a Zapatero por malversación por las joyas como pedía la Fiscalía — RTVE.es"
-    ],
-    [
-      "06 NOV",
-      "El juez rechaza imputar a Zapatero un nuevo delito de malversación por las joyas que le encontraron en su despacho — Cadena SER"
-    ],
-    [
-      "06 NOV",
-      "El juez paraliza las inspecciones fiscales a Zapatero y su familia por negarse a entregar documentos — Servimedia"
-    ],
-    [
-      "06 NOV",
-      "El instructor del caso Leire Díez cita a declarar a la matriarca de los Rocho como testigo del hostigamiento a la jueza Biedma — El Periódico"
-    ],
-    [
-      "06 NOV",
-      "Pedraz cita a Cintia Rocho por el plan para \"eliminar\" a la jueza Biedma: Incendio en Moncloa a 5 días del 29N — ESdiario"
-    ],
-    [
-      "06 NOV",
-      "El juez cita como testigo a la mujer con la que Sáenz de Tejada habló de \"eliminar\" a la jueza del 'caso David Sánchez' — Teleprensa"
-    ],
-    [
-      "06 NOV",
-      "La Audiencia Nacional incluye al exconductor de Sánchez como «nexo» en las tramas de las mordidas del PSOE — El Debate"
-    ],
-    [
-      "06 NOV",
-      "Álvaro García Ortiz: \"El Fiscal del Estado de un país merece un respeto institucional\" — elDiario.es"
-    ],
-    [
-      "06 NOV",
-      "El hermano de Sánchez, el chófer detenido Cristian Corvillo y Aldama: qué hacían todos en Elvas — ESdiario"
-    ],
-    [
-      "06 NOV",
-      "Quién es Andrea de la Torre, la novia de José Luis Ábalos detenida por la UCO en el caso Koldo — El Periódico"
-    ],
-    [
-      "06 NOV",
-      "El juez rechaza investigar a Zapatero por presunta malversación por no entregar las joyas a Patrimonio del Estado — La Región"
-    ],
-    [
-      "06 NOV",
-      "Zapatero se libra del delito de malversación por las joyas: el juez Calama rechaza la petición de Anticorrupción — ESdiario"
+      "Zapatero utiliza el mismo argumento que García Ortiz y apela a la duda razonable para defender su versión sobre las joyas — El Independiente"
     ]
   ],
   "relojes": [
