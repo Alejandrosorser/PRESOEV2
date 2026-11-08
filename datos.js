@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-07",
+  "actualizado_ticker": "2026-11-08",
   "hub": {
     "k1": [
       430,
@@ -1254,12 +1254,32 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "07 NOV",
-      "La UDEF, tras la cuenta de las hijas de Zapatero — La Razón"
+      "08 NOV",
+      "Hacienda revisará las cuentas de la consultora que pagó 390.000 euros a Zapatero tras autorización de su dueño — estenerife.com"
+    ],
+    [
+      "08 NOV",
+      "El caso Plus Ultra enfrenta a Zapatero con Hacienda por unas joyas de más de un millón de euros — El Diario de Madrid"
+    ],
+    [
+      "08 NOV",
+      "Hacienda pide a Zapatero explicaciones sobre sus joyas y éste se niega hasta que concluya el 'caso Plus Ultra' — Servimedia"
+    ],
+    [
+      "08 NOV",
+      "García Ortiz deberá pagar 39.009 euros por las costas del juicio — Confidencial Digital"
+    ],
+    [
+      "08 NOV",
+      "Feijóo promete desterrar la era García Ortiz: fiscal general con el aval del Poder Judicial y comunicaciones públicas — La Razón"
     ],
     [
       "07 NOV",
-      "Las hijas de Zapatero, en el radar del juez Calama: permite a la UDEF rastrear la cuenta bancaria de su empresa — El Economista"
+      "PP y Vox usan el Senado para derechizar el Tribunal Constitucional: ofensiva contra la memoria y el fiscal general — MONCLOA.COM"
+    ],
+    [
+      "07 NOV",
+      "Las hijas de Zapatero, de nuevo en el radar del juez Calama: permite a la UDEF rastrear la cuenta bancaria de su empresa — El Economista"
     ],
     [
       "07 NOV",
@@ -1267,11 +1287,15 @@ window.PRESOE_DATOS =
     ],
     [
       "07 NOV",
+      "La novia de Ábalos centra la investigación de la UCO tras el dinero del botín de la trama Koldo — El Periódico"
+    ],
+    [
+      "07 NOV",
       "El juez rechaza investigar a Zapatero por malversación — Segre.com"
     ],
     [
       "07 NOV",
-      "La trama andaluza del 'caso Koldo': Corvillo, el lugarteniente del sur, dos hoteles y la guerra con Cerdán \"el zampabollos\" — El Español"
+      "Justicia española no investigará por malversación a Zapatero en el caso de las joyas — Noticias Venevisión"
     ],
     [
       "07 NOV",
@@ -1279,39 +1303,7 @@ window.PRESOE_DATOS =
     ],
     [
       "07 NOV",
-      "Justicia española no investigará por malversación a Zapatero en el caso de las joyas — Noticias Venevisión"
-    ],
-    [
-      "06 NOV",
-      "Anticorrupción pide al juez del caso Koldo que procese a Isabel Pardo de Vera y a la exnovia de Ábalos, Jésica Rodríguez — heraldo.es"
-    ],
-    [
-      "06 NOV",
-      "La Fiscalía pide un nuevo juicio contra Koldo, Aldama y Pardo de Vera por el 'caso mascarillas' — The Objective"
-    ],
-    [
-      "06 NOV",
-      "La Fiscalía pide procesar a Koldo García, Aldama, Pardo de Vera y a la expareja de Ábalos, Jésica Rodríguez — Antena 3 Noticias"
-    ],
-    [
-      "06 NOV",
-      "Zapatero utiliza el mismo argumento que García Ortiz y apela a la duda razonable para defender su versión sobre las joyas — El Independiente"
-    ],
-    [
-      "06 NOV",
-      "Pedraz cita a declarar a la mujer que afirma que la trama del 'caso Leire Díez' quería \"eliminar\" a la jueza Biedma — EL PAÍS"
-    ],
-    [
-      "05 NOV",
-      "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del 'caso Koldo' con seis detenidos — EL PAÍS"
-    ],
-    [
-      "05 NOV",
-      "En libertad los 6 detenidos en la nueva pieza del 'caso Koldo' — El Día de Valladolid"
-    ],
-    [
-      "03 NOV",
-      "El juez prorroga seis meses el caso Leire ante la \"complejidad\" de la investigación — heraldo.es"
+      "El móvil de Koldo puso a la UCO en la pista del blanqueo de la trama — La Razón"
     ]
   ],
   "relojes": [
