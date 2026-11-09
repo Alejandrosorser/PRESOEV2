@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-08",
+  "actualizado_ticker": "2026-11-09",
   "hub": {
     "k1": [
       430,
@@ -1254,6 +1254,46 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "09 NOV",
+      "El PP ofreció \"un pastizal\" a Koldo García a cambio de convertirse en un \"buen Aldama\", según la agenda de Leire Díez — Diario Público"
+    ],
+    [
+      "09 NOV",
+      "Leire Díez recoge en su libreta que el PP ofreció \"un pastizal\" a Koldo si se convertía en \"un buen Aldama\" — El HuffPost"
+    ],
+    [
+      "09 NOV",
+      "Delcy Rodríguez se querella contra Aldama por vincularla con la supuesta financiación irregular del PSOE — Noticias de Navarra"
+    ],
+    [
+      "09 NOV",
+      "Hacienda pide a Zapatero que explique sobre sus joyas y se niega hasta que el 'caso Plus Ultra' no finalice — MARCA"
+    ],
+    [
+      "09 NOV",
+      "Los apuntes de Leire Díez hace casi dos años: \"Koldo es un buen Aldama. PP ha ofrecido un pastizal\" — elDiario.es"
+    ],
+    [
+      "09 NOV",
+      "Zapatero se niega a aclarar ante Hacienda el origen de sus joyas hasta que termine el caso Plus Ultra — Fuentes Informadas"
+    ],
+    [
+      "09 NOV",
+      "Biedma denuncia ante Pedraz que Sáenz de Tejada seguía una \"estrategia perfectamente coordinada\" por Leire Díez — Libertad Digital"
+    ],
+    [
+      "09 NOV",
+      "La constructora que contrató a Koldo recibió más contratos del AVE que las grandes — Artículo 14"
+    ],
+    [
+      "08 NOV",
+      "Los tres choques entre juez y fiscal en la investigación al ex presidente Zapatero — El Mundo"
+    ],
+    [
+      "08 NOV",
+      "Hacienda pide a Zapatero explicaciones sobre sus joyas y este se niega hasta que concluya el caso Plus Ultra — 20Minutos"
+    ],
+    [
       "08 NOV",
       "Hacienda revisará las cuentas de la consultora que pagó 390.000 euros a Zapatero tras autorización de su dueño — estenerife.com"
     ],
@@ -1264,46 +1304,6 @@ window.PRESOE_DATOS =
     [
       "08 NOV",
       "Hacienda pide a Zapatero explicaciones sobre sus joyas y éste se niega hasta que concluya el 'caso Plus Ultra' — Servimedia"
-    ],
-    [
-      "08 NOV",
-      "García Ortiz deberá pagar 39.009 euros por las costas del juicio — Confidencial Digital"
-    ],
-    [
-      "08 NOV",
-      "Feijóo promete desterrar la era García Ortiz: fiscal general con el aval del Poder Judicial y comunicaciones públicas — La Razón"
-    ],
-    [
-      "07 NOV",
-      "PP y Vox usan el Senado para derechizar el Tribunal Constitucional: ofensiva contra la memoria y el fiscal general — MONCLOA.COM"
-    ],
-    [
-      "07 NOV",
-      "Las hijas de Zapatero, de nuevo en el radar del juez Calama: permite a la UDEF rastrear la cuenta bancaria de su empresa — El Economista"
-    ],
-    [
-      "07 NOV",
-      "Zapatero recrimina a Calama que sus diligencias son insuficientes: \"No servirán para cuándo entregaron las joyas\" — Libertad Digital"
-    ],
-    [
-      "07 NOV",
-      "La novia de Ábalos centra la investigación de la UCO tras el dinero del botín de la trama Koldo — El Periódico"
-    ],
-    [
-      "07 NOV",
-      "El juez rechaza investigar a Zapatero por malversación — Segre.com"
-    ],
-    [
-      "07 NOV",
-      "Justicia española no investigará por malversación a Zapatero en el caso de las joyas — Noticias Venevisión"
-    ],
-    [
-      "07 NOV",
-      "La oportunidad de Leire Díez y Santos Cerdán: la Audiencia busca escalar en la trama de la SEPI y las cloacas — Vozpopuli"
-    ],
-    [
-      "07 NOV",
-      "El móvil de Koldo puso a la UCO en la pista del blanqueo de la trama — La Razón"
     ]
   ],
   "relojes": [
