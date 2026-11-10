@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-09",
+  "actualizado_ticker": "2026-11-10",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "09 NOV",
-      "El PP ofreció \"un pastizal\" a Koldo García a cambio de convertirse en un \"buen Aldama\", según la agenda de Leire Díez — Diario Público"
+      "10 NOV",
+      "La sala penal de la Audiencia Nacional y el caso Zapatero al inicio de la campaña — El Món"
     ],
     [
-      "09 NOV",
-      "Leire Díez recoge en su libreta que el PP ofreció \"un pastizal\" a Koldo si se convertía en \"un buen Aldama\" — El HuffPost"
+      "10 NOV",
+      "La Audiencia Nacional avala que se investigue a Zapatero por haber cobrado de un grupo en Bolivia — El Nacional.cat"
     ],
     [
-      "09 NOV",
-      "Delcy Rodríguez se querella contra Aldama por vincularla con la supuesta financiación irregular del PSOE — Noticias de Navarra"
+      "10 NOV",
+      "La Audiencia Nacional avala investigar a Zapatero por presunto tráfico de influencias en Bolivia — LaSexta"
     ],
     [
-      "09 NOV",
-      "Hacienda pide a Zapatero que explique sobre sus joyas y se niega hasta que el 'caso Plus Ultra' no finalice — MARCA"
+      "10 NOV",
+      "La Audiencia Nacional autoriza investigar los ingresos de Zapatero por presunto tráfico de influencias en Bolivia — Elplural.com"
     ],
     [
-      "09 NOV",
-      "Los apuntes de Leire Díez hace casi dos años: \"Koldo es un buen Aldama. PP ha ofrecido un pastizal\" — elDiario.es"
+      "10 NOV",
+      "La Audiencia Nacional mantiene bajo investigación los 200.000 euros que recibió Zapatero por sus gestiones en Bolivia — La Gaceta de Canarias"
     ],
     [
-      "09 NOV",
-      "Zapatero se niega a aclarar ante Hacienda el origen de sus joyas hasta que termine el caso Plus Ultra — Fuentes Informadas"
+      "10 NOV",
+      "La Audiencia Nacional da luz verde a investigar a Zapatero por un supuesto tráfico de influencias en Bolivia — EL PAÍS"
     ],
     [
-      "09 NOV",
-      "Biedma denuncia ante Pedraz que Sáenz de Tejada seguía una \"estrategia perfectamente coordinada\" por Leire Díez — Libertad Digital"
+      "10 NOV",
+      "La Audiencia Nacional avala que se investigue a Zapatero por cobrar de empresarios peruanos por su conexión con la causa — Diario Córdoba"
     ],
     [
-      "09 NOV",
-      "La constructora que contrató a Koldo recibió más contratos del AVE que las grandes — Artículo 14"
+      "10 NOV",
+      "La Audiencia Nacional avala investigar los negocios de Zapatero en Bolivia por presunto tráfico de influencias — La Razón"
     ],
     [
-      "08 NOV",
-      "Los tres choques entre juez y fiscal en la investigación al ex presidente Zapatero — El Mundo"
+      "10 NOV",
+      "La AN rechaza sacar del 'caso Plus Ultra' gestiones de Zapatero en Bolivia y niega investigación prospectiva — Andalucía Información"
     ],
     [
-      "08 NOV",
-      "Hacienda pide a Zapatero explicaciones sobre sus joyas y este se niega hasta que concluya el caso Plus Ultra — 20Minutos"
+      "10 NOV",
+      "La Audiencia desoye a Zapatero y avala investigar si medió con el Gobierno boliviano en favor de una empresa por 200.000€ — El Español"
     ],
     [
-      "08 NOV",
-      "Hacienda revisará las cuentas de la consultora que pagó 390.000 euros a Zapatero tras autorización de su dueño — estenerife.com"
+      "10 NOV",
+      "Foro Judicial Independiente se personará como acusación popular en el caso Leire Díez en apoyo a la jueza de Badajoz Beatriz Biedma — La Crónica de Badajoz"
     ],
     [
-      "08 NOV",
-      "El caso Plus Ultra enfrenta a Zapatero con Hacienda por unas joyas de más de un millón de euros — El Diario de Madrid"
+      "10 NOV",
+      "El juez del ‘caso Leire’ vuelve a citar al exviceministro venezolano Nervis Villalobos — The Objective"
     ],
     [
-      "08 NOV",
-      "Hacienda pide a Zapatero explicaciones sobre sus joyas y éste se niega hasta que concluya el 'caso Plus Ultra' — Servimedia"
+      "10 NOV",
+      "El fiscal Anticorrupción decide dejar son cargos a Alvaro Sánchez Manzanares. Alvarito el amigo de Koldo, el que según la UCO supuestamente decía que tras la… — Transcamion"
     ]
   ],
   "relojes": [
