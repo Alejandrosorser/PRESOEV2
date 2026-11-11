@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-10",
+  "actualizado_ticker": "2026-11-11",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "10 NOV",
-      "La sala penal de la Audiencia Nacional y el caso Zapatero al inicio de la campaña — El Món"
+      "11 NOV",
+      "El juez Pedraz se interesa por pagos por 100.000 euros al abogado de Zarrías que responden a una defensa de otro cliente durante 5 años — El Periódico"
+    ],
+    [
+      "11 NOV",
+      "El juez del 'caso Leire' investiga un pago de 105.000 euros del exabogado de Koldo García al letrado histórico del PSOE — El Español"
+    ],
+    [
+      "11 NOV",
+      "Pedraz pide a Leticia de la Hoz que detalle todos los honorarios que cobró por defender a Koldo — The Objective"
+    ],
+    [
+      "11 NOV",
+      "Ábalos pide desde prisión fraccionar el pago de las multas e indemnizaciones del \"caso Koldo\" — La Razón"
+    ],
+    [
+      "11 NOV",
+      "Koldo García pide al Tribunal Constitucional anular su condena por el caso mascarillas y salir de prisión mientras resuelve el amparo — ESdiario"
+    ],
+    [
+      "11 NOV",
+      "Koldo recurre al TC para anular su condena y solicita quedar en libertad hasta que se responda a su recurso — Infobae"
+    ],
+    [
+      "11 NOV",
+      "Koldo García pide al Constitucional que suspenda su condena a 19 años de cárcel por las comisiones de las m... — OkDiario"
+    ],
+    [
+      "11 NOV",
+      "El caso Hidrocarburos llega a Portugal e Irlanda: el juez investiga una red de blanqueo de la que no alertó Montero — Libertad Digital"
+    ],
+    [
+      "11 NOV",
+      "Bolivia también acorrala a Zapatero: la Audiencia Nacional avala investigarlo — MUNDIARIO"
+    ],
+    [
+      "11 NOV",
+      "La Audiencia Nacional rechaza sacar del 'caso Plus Ultra' las gestiones de Zapatero en Bolivia y niega estar realizando una investigación prospectiva — Diario Red"
+    ],
+    [
+      "11 NOV",
+      "El indulto de García Ortiz divide al Gobierno, que planea posponerlo hasta después del 29-N — The Objective"
     ],
     [
       "10 NOV",
-      "La Audiencia Nacional avala que se investigue a Zapatero por haber cobrado de un grupo en Bolivia — El Nacional.cat"
+      "Bolaños no dice si apoya el indulto al exfiscal pero destaca que \"todos los Gobiernos en funciones han dado indultos\" — Diario Siglo XXI"
     ],
     [
       "10 NOV",
-      "La Audiencia Nacional avala investigar a Zapatero por presunto tráfico de influencias en Bolivia — LaSexta"
-    ],
-    [
-      "10 NOV",
-      "La Audiencia Nacional autoriza investigar los ingresos de Zapatero por presunto tráfico de influencias en Bolivia — Elplural.com"
-    ],
-    [
-      "10 NOV",
-      "La Audiencia Nacional mantiene bajo investigación los 200.000 euros que recibió Zapatero por sus gestiones en Bolivia — La Gaceta de Canarias"
-    ],
-    [
-      "10 NOV",
-      "La Audiencia Nacional da luz verde a investigar a Zapatero por un supuesto tráfico de influencias en Bolivia — EL PAÍS"
-    ],
-    [
-      "10 NOV",
-      "La Audiencia Nacional avala que se investigue a Zapatero por cobrar de empresarios peruanos por su conexión con la causa — Diario Córdoba"
-    ],
-    [
-      "10 NOV",
-      "La Audiencia Nacional avala investigar los negocios de Zapatero en Bolivia por presunto tráfico de influencias — La Razón"
-    ],
-    [
-      "10 NOV",
-      "La AN rechaza sacar del 'caso Plus Ultra' gestiones de Zapatero en Bolivia y niega investigación prospectiva — Andalucía Información"
-    ],
-    [
-      "10 NOV",
-      "La Audiencia desoye a Zapatero y avala investigar si medió con el Gobierno boliviano en favor de una empresa por 200.000€ — El Español"
-    ],
-    [
-      "10 NOV",
-      "Foro Judicial Independiente se personará como acusación popular en el caso Leire Díez en apoyo a la jueza de Badajoz Beatriz Biedma — La Crónica de Badajoz"
-    ],
-    [
-      "10 NOV",
-      "El juez del ‘caso Leire’ vuelve a citar al exviceministro venezolano Nervis Villalobos — The Objective"
-    ],
-    [
-      "10 NOV",
-      "El fiscal Anticorrupción decide dejar son cargos a Alvaro Sánchez Manzanares. Alvarito el amigo de Koldo, el que según la UCO supuestamente decía que tras la… — Transcamion"
+      "La Audiencia Nacional confirma el informe de la UDEF sobre Focus — Estrella Digital"
     ]
   ],
   "relojes": [
