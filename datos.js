@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-11",
+  "actualizado_ticker": "2026-11-12",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "11 NOV",
-      "El juez Pedraz se interesa por pagos por 100.000 euros al abogado de Zarrías que responden a una defensa de otro cliente durante 5 años — El Periódico"
+      "12 NOV",
+      "Bolaños pide al PP que aclare si se reunió con Koldo García y Leire Díez: \"¿Cuál era el objetivo?\" — PressDigital"
     ],
     [
-      "11 NOV",
-      "El juez del 'caso Leire' investiga un pago de 105.000 euros del exabogado de Koldo García al letrado histórico del PSOE — El Español"
+      "12 NOV",
+      "El juez del 'caso Koldo' cita como investigado a Ignacio Zaldívar, excargo de Adif, el 17 de noviembre — La Gaceta de la Iberosfera"
     ],
     [
-      "11 NOV",
-      "Pedraz pide a Leticia de la Hoz que detalle todos los honorarios que cobró por defender a Koldo — The Objective"
+      "12 NOV",
+      "Leire Díez asegura en un libro que \"satélites\" del PP le ofrecieron dos millones de euros y pagar su defensa a cambio de mentir \"sobre Pedro Sánchez\" — El Constitucional"
     ],
     [
-      "11 NOV",
-      "Ábalos pide desde prisión fraccionar el pago de las multas e indemnizaciones del \"caso Koldo\" — La Razón"
+      "12 NOV",
+      "Leire Díez afirma que afines al PP le ofrecieron dos millones por mentir contra Sánchez — El Boletín"
     ],
     [
-      "11 NOV",
-      "Koldo García pide al Tribunal Constitucional anular su condena por el caso mascarillas y salir de prisión mientras resuelve el amparo — ESdiario"
+      "12 NOV",
+      "Leire Díez afirma en su libro que “satélites” del PP le ofrecieron dos millones para que mintiera sobre Pedro Sánchez — Demócrata"
     ],
     [
-      "11 NOV",
-      "Koldo recurre al TC para anular su condena y solicita quedar en libertad hasta que se responda a su recurso — Infobae"
+      "12 NOV",
+      "Leire Díez asegura en su libro que \"satélites\" del PP le ofrecieron dos millones para que \"mintiera sobre Pedro Sánchez\" — Europa Press"
     ],
     [
-      "11 NOV",
-      "Koldo García pide al Constitucional que suspenda su condena a 19 años de cárcel por las comisiones de las m... — OkDiario"
+      "12 NOV",
+      "La abogada de Koldo García asegura que OkDiario pagó \"la totalidad\" de su minuta durante su defensa — LaSexta"
     ],
     [
-      "11 NOV",
-      "El caso Hidrocarburos llega a Portugal e Irlanda: el juez investiga una red de blanqueo de la que no alertó Montero — Libertad Digital"
+      "12 NOV",
+      "El juez del \"caso Koldo\" cita a declarar al exalto cargo de Adif implicado en el enchufe de Jésica — La Razón"
     ],
     [
-      "11 NOV",
-      "Bolivia también acorrala a Zapatero: la Audiencia Nacional avala investigarlo — MUNDIARIO"
+      "12 NOV",
+      "El juez del caso Koldo imputa al excargo de Adif Ignacio Zaldívar y le cita a declarar el 17 de noviembre — Demócrata"
     ],
     [
-      "11 NOV",
-      "La Audiencia Nacional rechaza sacar del 'caso Plus Ultra' las gestiones de Zapatero en Bolivia y niega estar realizando una investigación prospectiva — Diario Red"
+      "12 NOV",
+      "El juez levanta el secreto de la pieza en la que ordenó el registro de la casa de Ábalos — The Objective"
     ],
     [
-      "11 NOV",
-      "El indulto de García Ortiz divide al Gobierno, que planea posponerlo hasta después del 29-N — The Objective"
+      "12 NOV",
+      "Moncloa planea indultar a Álvaro García Ortiz tras el 29-N si el Tribunal Supremo ratifica su condena — El Periódico de Ceuta"
     ],
     [
-      "10 NOV",
-      "Bolaños no dice si apoya el indulto al exfiscal pero destaca que \"todos los Gobiernos en funciones han dado indultos\" — Diario Siglo XXI"
+      "12 NOV",
+      "El exjuez Sáenz de Tejada se opone a que Cintia Rocho declare como testigo en el caso Leire Díez — La Crónica de Badajoz"
     ],
     [
-      "10 NOV",
-      "La Audiencia Nacional confirma el informe de la UDEF sobre Focus — Estrella Digital"
+      "12 NOV",
+      "El exabogado de Koldo García que canalizó 27.225 euros del PSOE a Leire Díez transfirió también 105.000 euros al letrado de Gaspar Zarrías — Infobae"
     ]
   ],
   "relojes": [
