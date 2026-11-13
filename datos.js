@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-12",
+  "actualizado_ticker": "2026-11-13",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "12 NOV",
-      "Bolaños pide al PP que aclare si se reunió con Koldo García y Leire Díez: \"¿Cuál era el objetivo?\" — PressDigital"
+      "13 NOV",
+      "Sánchez pone “la mano en el fuego” por Zapatero — El Boletín"
     ],
     [
-      "12 NOV",
-      "El juez del 'caso Koldo' cita como investigado a Ignacio Zaldívar, excargo de Adif, el 17 de noviembre — La Gaceta de la Iberosfera"
+      "13 NOV",
+      "Bolaños no despeja la incógnita del posible indulto al ex fiscal general del Estado — Infobae"
     ],
     [
-      "12 NOV",
-      "Leire Díez asegura en un libro que \"satélites\" del PP le ofrecieron dos millones de euros y pagar su defensa a cambio de mentir \"sobre Pedro Sánchez\" — El Constitucional"
+      "13 NOV",
+      "Pedro Sánchez cierra filas con Rodríguez Zapatero y asegura que pone \"la mano en el fuego\" por él — Andalucía Información"
     ],
     [
-      "12 NOV",
-      "Leire Díez afirma que afines al PP le ofrecieron dos millones por mentir contra Sánchez — El Boletín"
+      "13 NOV",
+      "Bolaños evita aclarar si el Gobierno indultará al ex fiscal general antes de las elecciones — Diario de Santiago"
     ],
     [
-      "12 NOV",
-      "Leire Díez afirma en su libro que “satélites” del PP le ofrecieron dos millones para que mintiera sobre Pedro Sánchez — Demócrata"
+      "13 NOV",
+      "Sánchez defiende a Zapatero y afirma que pone la mano en el fuego por su inocencia — Demócrata"
     ],
     [
-      "12 NOV",
-      "Leire Díez asegura en su libro que \"satélites\" del PP le ofrecieron dos millones para que \"mintiera sobre Pedro Sánchez\" — Europa Press"
+      "13 NOV",
+      "El AVE extremeño, entre los contratos del caso Koldo denunciados por la Fiscalía Anticorrupción — Hoy"
     ],
     [
-      "12 NOV",
-      "La abogada de Koldo García asegura que OkDiario pagó \"la totalidad\" de su minuta durante su defensa — LaSexta"
+      "13 NOV",
+      "La UCO investiga la adjudicación de 6,18 millones para conservar la AP-7 entre Cartagena y Vera en el caso Koldo — Onda Regional de Murcia | ORM"
     ],
     [
-      "12 NOV",
-      "El juez del \"caso Koldo\" cita a declarar al exalto cargo de Adif implicado en el enchufe de Jésica — La Razón"
+      "13 NOV",
+      "Rajoy clama contra el presunto acoso a la juez Biedma: \"Un atentado verdaderamente notable\" — ESdiario"
     ],
     [
-      "12 NOV",
-      "El juez del caso Koldo imputa al excargo de Adif Ignacio Zaldívar y le cita a declarar el 17 de noviembre — Demócrata"
+      "13 NOV",
+      "La UCO investiga un contrato de 28 millones del AVE a Extremadura por su conexión con el caso Koldo — COPE"
     ],
     [
-      "12 NOV",
-      "El juez levanta el secreto de la pieza en la que ordenó el registro de la casa de Ábalos — The Objective"
+      "13 NOV",
+      "Un «regalazo» de comienzo de campaña: Montero arropa a Begoña Gómez en su primer mitin, pendiente de juicio con jurado popular — El MIRA"
     ],
     [
-      "12 NOV",
-      "Moncloa planea indultar a Álvaro García Ortiz tras el 29-N si el Tribunal Supremo ratifica su condena — El Periódico de Ceuta"
+      "13 NOV",
+      "Del «caso Koldo» a Leire Díez y Zapatero: la entrevista de Sánchez con Jordi Wild, minuto a minuto — El Debate"
     ],
     [
-      "12 NOV",
-      "El exjuez Sáenz de Tejada se opone a que Cintia Rocho declare como testigo en el caso Leire Díez — La Crónica de Badajoz"
+      "13 NOV",
+      "Un audio de Ábalos da soporte a la denuncia de Koldo contra Inda por la cloaca de ‘OkDiario’: “Estaba yo también” — Elplural.com"
     ],
     [
-      "12 NOV",
-      "El exabogado de Koldo García que canalizó 27.225 euros del PSOE a Leire Díez transfirió también 105.000 euros al letrado de Gaspar Zarrías — Infobae"
+      "13 NOV",
+      "La UCO apunta que el empresario que hizo de chófer de Sánchez medió en contratos públicos — heraldo.es"
     ]
   ],
   "relojes": [
