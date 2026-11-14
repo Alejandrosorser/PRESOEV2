@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-13",
+  "actualizado_ticker": "2026-11-14",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "13 NOV",
-      "Sánchez pone “la mano en el fuego” por Zapatero — El Boletín"
+      "14 NOV",
+      "Hallan muerto en Madrid al abogado de 'El Pollo' Carvajal: El 'topo' venezolano entre el caso Plus Ultra y Zapatero — El Cierre Digital"
+    ],
+    [
+      "14 NOV",
+      "Mensajes de Koldo, el exchófer de Sánchez y Pardo de Vera ponen en duda el contrato del AVE extremeño — Hoy"
+    ],
+    [
+      "14 NOV",
+      "Zapatero, hijas y esposa fueron requeridos por Hacienda sobre las joyas y dividendos de Whathefav 20 días antes de que el juez paralizara la inspección — El Periódico"
+    ],
+    [
+      "14 NOV",
+      "Pedraz admite a Foro Judicial Independiente como acusación popular en el ‘caso Leire Díez’, pero dentro de la representación que dirige el PP — Confilegal"
+    ],
+    [
+      "14 NOV",
+      "Ábalos y su pareja alquilan por Airbnb el piso de Vallecas señalado por blanqueo — La Razón"
+    ],
+    [
+      "14 NOV",
+      "Del \"hermanísimo\" al \"caso Koldo\": todos los caminos llevan a Elvas (Portugal) — La Razón"
     ],
     [
       "13 NOV",
-      "Bolaños no despeja la incógnita del posible indulto al ex fiscal general del Estado — Infobae"
+      "Sánchez admite que 'no sabe muy bien' el delito de Leire Díez y Moncloa niega la reunión con Corvillo — MONCLOA.COM"
     ],
     [
       "13 NOV",
-      "Pedro Sánchez cierra filas con Rodríguez Zapatero y asegura que pone \"la mano en el fuego\" por él — Andalucía Información"
+      "El Gobierno se reserva la carta del indulto al ex fiscal general del Estado como una de las sorpresas de la campaña — El Independiente"
     ],
     [
       "13 NOV",
-      "Bolaños evita aclarar si el Gobierno indultará al ex fiscal general antes de las elecciones — Diario de Santiago"
+      "Jordi Wild perdona a Sánchez las preguntas más comprometidas y levanta las sospechas: ni rastro de tres nombres clave — ESdiario"
     ],
     [
       "13 NOV",
-      "Sánchez defiende a Zapatero y afirma que pone la mano en el fuego por su inocencia — Demócrata"
+      "La AN acepta la personación en el 'caso Leire' de la asociación judicial de la jueza que investigó al hermano de Sánchez — Infobae"
     ],
     [
       "13 NOV",
-      "El AVE extremeño, entre los contratos del caso Koldo denunciados por la Fiscalía Anticorrupción — Hoy"
+      "La Audiencia Nacional admite al Foro Judicial Independiente como acusación en el ‘caso Leire Díez’ — Demócrata"
     ],
     [
       "13 NOV",
-      "La UCO investiga la adjudicación de 6,18 millones para conservar la AP-7 entre Cartagena y Vera en el caso Koldo — Onda Regional de Murcia | ORM"
+      "Plus Ultra negocia con acreedores y prepara un ERE por el coste del combustible y la falta de liquidez — heraldo.es"
     ],
     [
       "13 NOV",
-      "Rajoy clama contra el presunto acoso a la juez Biedma: \"Un atentado verdaderamente notable\" — ESdiario"
-    ],
-    [
-      "13 NOV",
-      "La UCO investiga un contrato de 28 millones del AVE a Extremadura por su conexión con el caso Koldo — COPE"
-    ],
-    [
-      "13 NOV",
-      "Un «regalazo» de comienzo de campaña: Montero arropa a Begoña Gómez en su primer mitin, pendiente de juicio con jurado popular — El MIRA"
-    ],
-    [
-      "13 NOV",
-      "Del «caso Koldo» a Leire Díez y Zapatero: la entrevista de Sánchez con Jordi Wild, minuto a minuto — El Debate"
-    ],
-    [
-      "13 NOV",
-      "Un audio de Ábalos da soporte a la denuncia de Koldo contra Inda por la cloaca de ‘OkDiario’: “Estaba yo también” — Elplural.com"
-    ],
-    [
-      "13 NOV",
-      "La UCO apunta que el empresario que hizo de chófer de Sánchez medió en contratos públicos — heraldo.es"
+      "Pedro Sánchez asegura que pone \"la mano en el fuego\" por Zapatero: \"Creo en su inocencia\" — Telecinco"
     ]
   ],
   "relojes": [
