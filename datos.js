@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-14",
+  "actualizado_ticker": "2026-11-15",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "15 NOV",
+      "Ábalos pide al juez anular el registro de su casa en Valencia por no estar presente — El Correo Gallego"
+    ],
+    [
+      "15 NOV",
+      "Los tribunales no paran en campaña electoral con declaraciones de los casos 'Leire', 'Koldo', 'Plus Ultra' o Ceuta — Andalucía Información"
+    ],
+    [
+      "15 NOV",
+      "Ábalos pide la nulidad del registro de su vivienda alegando que se ha vulnerado la inviolabilidad del domicilio — LaSexta"
+    ],
+    [
+      "15 NOV",
+      "Un año de la condena a García Ortiz: el Gobierno mantiene el indulto en su mesa y el TC verá su amparo tras el 29N — Demócrata"
+    ],
+    [
+      "15 NOV",
+      "Un año de la condena a García Ortiz: un indulto \"en la mesa\" del Gobierno y el TC estudiará su amparo después del 29N — Europa Press"
+    ],
+    [
+      "15 NOV",
+      "Por qué hay que botar a Sánchez, quedan 14 días: su fiscal general condenado y camino del indulto — OkDiario"
+    ],
+    [
+      "14 NOV",
+      "Muere en Madrid el abogado del Pollo Carvajal: qué se sabe del caso — Estrella Digital"
+    ],
+    [
+      "14 NOV",
+      "La UCO constata que Koldo y Corvillo se reunieron en Ferraz y maniobraron para colocar a \"afines\" en las listas del PSOE — Onda Cero"
+    ],
+    [
+      "14 NOV",
+      "Caso Koldo: qué contratos investiga la UCO por 34 millones — Noticias Ciudadanas"
+    ],
+    [
+      "14 NOV",
+      "La UCO vincula a dos empresarios montillanos con la investigación sobre la trama del caso Koldo — Montilla Digital"
+    ],
+    [
       "14 NOV",
       "Hallan muerto en Madrid al abogado de 'El Pollo' Carvajal: El 'topo' venezolano entre el caso Plus Ultra y Zapatero — El Cierre Digital"
     ],
     [
       "14 NOV",
+      "El exchófer de Sánchez se vio con Koldo en Ferraz y maniobró para colocar a \"afines\" en las listas — La Razón"
+    ],
+    [
+      "14 NOV",
       "Mensajes de Koldo, el exchófer de Sánchez y Pardo de Vera ponen en duda el contrato del AVE extremeño — Hoy"
-    ],
-    [
-      "14 NOV",
-      "Zapatero, hijas y esposa fueron requeridos por Hacienda sobre las joyas y dividendos de Whathefav 20 días antes de que el juez paralizara la inspección — El Periódico"
-    ],
-    [
-      "14 NOV",
-      "Pedraz admite a Foro Judicial Independiente como acusación popular en el ‘caso Leire Díez’, pero dentro de la representación que dirige el PP — Confilegal"
-    ],
-    [
-      "14 NOV",
-      "Ábalos y su pareja alquilan por Airbnb el piso de Vallecas señalado por blanqueo — La Razón"
-    ],
-    [
-      "14 NOV",
-      "Del \"hermanísimo\" al \"caso Koldo\": todos los caminos llevan a Elvas (Portugal) — La Razón"
-    ],
-    [
-      "13 NOV",
-      "Sánchez admite que 'no sabe muy bien' el delito de Leire Díez y Moncloa niega la reunión con Corvillo — MONCLOA.COM"
-    ],
-    [
-      "13 NOV",
-      "El Gobierno se reserva la carta del indulto al ex fiscal general del Estado como una de las sorpresas de la campaña — El Independiente"
-    ],
-    [
-      "13 NOV",
-      "Jordi Wild perdona a Sánchez las preguntas más comprometidas y levanta las sospechas: ni rastro de tres nombres clave — ESdiario"
-    ],
-    [
-      "13 NOV",
-      "La AN acepta la personación en el 'caso Leire' de la asociación judicial de la jueza que investigó al hermano de Sánchez — Infobae"
-    ],
-    [
-      "13 NOV",
-      "La Audiencia Nacional admite al Foro Judicial Independiente como acusación en el ‘caso Leire Díez’ — Demócrata"
-    ],
-    [
-      "13 NOV",
-      "Plus Ultra negocia con acreedores y prepara un ERE por el coste del combustible y la falta de liquidez — heraldo.es"
-    ],
-    [
-      "13 NOV",
-      "Pedro Sánchez asegura que pone \"la mano en el fuego\" por Zapatero: \"Creo en su inocencia\" — Telecinco"
     ]
   ],
   "relojes": [
