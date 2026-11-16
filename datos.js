@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-15",
+  "actualizado_ticker": "2026-11-16",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "15 NOV",
-      "Ábalos pide al juez anular el registro de su casa en Valencia por no estar presente — El Correo Gallego"
+      "16 NOV",
+      "Ábalos denuncia que sería nulo el registro de su casa de Valencia: el juez no le avisó ni le permitió estar presente — La Razón"
+    ],
+    [
+      "16 NOV",
+      "Los tribunales no paran en campaña electoral con declaraciones de los casos 'Leire', 'Koldo', 'Plus Ultra' o Ceuta — Diario Red"
+    ],
+    [
+      "16 NOV",
+      "La conexión del caso Cerdán con Esteríbar: la candidata del PSN a la que Koldo pidió que enchufaran en una empresa pública — Navarra.com"
+    ],
+    [
+      "16 NOV",
+      "Chalets y fincas de caza: de 'exchófer' de Sánchez a proveer de lujos al entorno de Ábalos y Koldo — El Confidencial"
+    ],
+    [
+      "16 NOV",
+      "Moncloa guarda una grabación del abogado del PP para reventar la campaña electoral — ABC"
     ],
     [
       "15 NOV",
-      "Los tribunales no paran en campaña electoral con declaraciones de los casos 'Leire', 'Koldo', 'Plus Ultra' o Ceuta — Andalucía Información"
+      "La campaña electoral no frenará las declaraciones en los casos más mediáticos de la Audiencia Nacional — La Portada de Extremadura"
     ],
     [
       "15 NOV",
-      "Ábalos pide la nulidad del registro de su vivienda alegando que se ha vulnerado la inviolabilidad del domicilio — LaSexta"
+      "El indulto a García Ortiz sigue sobre la mesa un año después de la condena: el TC deja su amparo para después del 29-N — MONCLOA.COM"
     ],
     [
       "15 NOV",
-      "Un año de la condena a García Ortiz: el Gobierno mantiene el indulto en su mesa y el TC verá su amparo tras el 29N — Demócrata"
+      "Un año de la condena a García Ortiz: con el indulto \"en la mesa\" del Gobierno, el Constitucional estudiará su amparo después del 29N — heraldo.es"
     ],
     [
       "15 NOV",
-      "Un año de la condena a García Ortiz: un indulto \"en la mesa\" del Gobierno y el TC estudiará su amparo después del 29N — Europa Press"
+      "Ábalos pide al juez anular el registro de su casa en Valencia por no estar presente — El Periódico"
+    ],
+    [
+      "15 NOV",
+      "Tribunales siguen activos en campaña con casos 'Leire', 'Koldo' y más — Diario en Positivo"
     ],
     [
       "15 NOV",
       "Por qué hay que botar a Sánchez, quedan 14 días: su fiscal general condenado y camino del indulto — OkDiario"
     ],
     [
-      "14 NOV",
-      "Muere en Madrid el abogado del Pollo Carvajal: qué se sabe del caso — Estrella Digital"
+      "15 NOV",
+      "Sánchez asegura que pone \"la mano en el fuego\" por Zapatero: \"Creo en su inocencia\" — Diario Red"
     ],
     [
-      "14 NOV",
-      "La UCO constata que Koldo y Corvillo se reunieron en Ferraz y maniobraron para colocar a \"afines\" en las listas del PSOE — Onda Cero"
-    ],
-    [
-      "14 NOV",
-      "Caso Koldo: qué contratos investiga la UCO por 34 millones — Noticias Ciudadanas"
-    ],
-    [
-      "14 NOV",
-      "La UCO vincula a dos empresarios montillanos con la investigación sobre la trama del caso Koldo — Montilla Digital"
-    ],
-    [
-      "14 NOV",
-      "Hallan muerto en Madrid al abogado de 'El Pollo' Carvajal: El 'topo' venezolano entre el caso Plus Ultra y Zapatero — El Cierre Digital"
-    ],
-    [
-      "14 NOV",
-      "El exchófer de Sánchez se vio con Koldo en Ferraz y maniobró para colocar a \"afines\" en las listas — La Razón"
-    ],
-    [
-      "14 NOV",
-      "Mensajes de Koldo, el exchófer de Sánchez y Pardo de Vera ponen en duda el contrato del AVE extremeño — Hoy"
+      "15 NOV",
+      "Tres empresarios completan las detenciones de la Guardia Civil por el ‘caso Koldo’ — The Objective"
     ]
   ],
   "relojes": [
