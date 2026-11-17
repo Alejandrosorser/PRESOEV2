@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-16",
+  "actualizado_ticker": "2026-11-17",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "16 NOV",
-      "Ábalos denuncia que sería nulo el registro de su casa de Valencia: el juez no le avisó ni le permitió estar presente — La Razón"
+      "17 NOV",
+      "El juez Pedraz mantiene la declaración de Cintia Rocho porque \"podría poseer conocimiento\" sobre el 'caso Leire' — Europa Press"
     ],
     [
-      "16 NOV",
-      "Los tribunales no paran en campaña electoral con declaraciones de los casos 'Leire', 'Koldo', 'Plus Ultra' o Ceuta — Diario Red"
+      "17 NOV",
+      "Un ex alto cargo de Adif niega ante el juez un trato de favor a Jessica, ex-pareja de Ábalos — Telemadrid"
     ],
     [
-      "16 NOV",
-      "La conexión del caso Cerdán con Esteríbar: la candidata del PSN a la que Koldo pidió que enchufaran en una empresa pública — Navarra.com"
+      "17 NOV",
+      "Zapatero solicita una tercera tasación de las joyas intervenidas en su despacho en el marco del caso Plus Ultra — Fuentes Informadas"
     ],
     [
-      "16 NOV",
-      "Chalets y fincas de caza: de 'exchófer' de Sánchez a proveer de lujos al entorno de Ábalos y Koldo — El Confidencial"
+      "17 NOV",
+      "Zapatero propone un experto en diamantes y una docente de gemología como peritos para un tercer informe sobre sus joyas — La Región"
     ],
     [
-      "16 NOV",
-      "Moncloa guarda una grabación del abogado del PP para reventar la campaña electoral — ABC"
+      "17 NOV",
+      "El PP, citado a un acto de conciliación con Leire Díez por usar su imagen en vídeo de IA — Infobae"
     ],
     [
-      "15 NOV",
-      "La campaña electoral no frenará las declaraciones en los casos más mediáticos de la Audiencia Nacional — La Portada de Extremadura"
+      "17 NOV",
+      "Zapatero propone dos nuevos peritos para un tercer informe sobre sus joyas — Europa Press"
     ],
     [
-      "15 NOV",
-      "El indulto a García Ortiz sigue sobre la mesa un año después de la condena: el TC deja su amparo para después del 29-N — MONCLOA.COM"
+      "17 NOV",
+      "Zapatero pide que sus propios peritos tasen las joyas que la Policía incautó en su oficina — BioBioChile"
     ],
     [
-      "15 NOV",
-      "Un año de la condena a García Ortiz: con el indulto \"en la mesa\" del Gobierno, el Constitucional estudiará su amparo después del 29N — heraldo.es"
+      "17 NOV",
+      "Dos gemólogos valencianos, elegidos por la defensa de Zapatero para tasar las joyas del caso 'Plus Ultra' por tercera vez — Levante-EMV"
     ],
     [
-      "15 NOV",
-      "Ábalos pide al juez anular el registro de su casa en Valencia por no estar presente — El Periódico"
+      "17 NOV",
+      "¿Cuánto valen realmente las joyas de Zapatero? El expresidente pide una nueva tasación — MUNDIARIO"
     ],
     [
-      "15 NOV",
-      "Tribunales siguen activos en campaña con casos 'Leire', 'Koldo' y más — Diario en Positivo"
+      "17 NOV",
+      "Zapatero plantea un experto en diamantes y una profesora de gemología para un nuevo peritaje sobre sus joyas — Demócrata"
     ],
     [
-      "15 NOV",
-      "Por qué hay que botar a Sánchez, quedan 14 días: su fiscal general condenado y camino del indulto — OkDiario"
+      "17 NOV",
+      "Zapatero propone dos peritos propios para una nueva tasación de sus joyas incautadas — MONCLOA.COM"
     ],
     [
-      "15 NOV",
-      "Sánchez asegura que pone \"la mano en el fuego\" por Zapatero: \"Creo en su inocencia\" — Diario Red"
+      "17 NOV",
+      "Zapatero cuestiona la tasación de las joyas y encarga un informe propio a dos técnicos — Onda Cero"
     ],
     [
-      "15 NOV",
-      "Tres empresarios completan las detenciones de la Guardia Civil por el ‘caso Koldo’ — The Objective"
+      "17 NOV",
+      "Zapatero vuelve a cuestionar la tasación de las joyas y encarga un informe pericial propio — El Imparcial - Diario liberal e independiente"
     ]
   ],
   "relojes": [
