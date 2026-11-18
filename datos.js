@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-17",
+  "actualizado_ticker": "2026-11-18",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "17 NOV",
-      "El juez Pedraz mantiene la declaración de Cintia Rocho porque \"podría poseer conocimiento\" sobre el 'caso Leire' — Europa Press"
+      "18 NOV",
+      "El juez del caso Forestalia deja la instrucción en manos del encargado de investigar las cloacas del PSOE en la Audiencia Nacional — 20 Minutos"
     ],
     [
-      "17 NOV",
-      "Un ex alto cargo de Adif niega ante el juez un trato de favor a Jessica, ex-pareja de Ábalos — Telemadrid"
+      "18 NOV",
+      "El ex fiscal general del Estado y la Fiscalía se oponen de nuevo a las costas fijadas por el Supremo — El Confidencial"
     ],
     [
-      "17 NOV",
-      "Zapatero solicita una tercera tasación de las joyas intervenidas en su despacho en el marco del caso Plus Ultra — Fuentes Informadas"
+      "18 NOV",
+      "Bustinduy respalda la posibilidad de indultar al ex fiscal general del Estado — ABC"
     ],
     [
-      "17 NOV",
-      "Zapatero propone un experto en diamantes y una docente de gemología como peritos para un tercer informe sobre sus joyas — La Región"
+      "18 NOV",
+      "Nervis Villalobos niega haber recibido sobornos de Duro Felguera y atribuye a Hugo Chávez la adjudicación de Termocentro — AlbertoNews"
     ],
     [
-      "17 NOV",
-      "El PP, citado a un acto de conciliación con Leire Díez por usar su imagen en vídeo de IA — Infobae"
+      "18 NOV",
+      "Qué oculta el secreto profesional en el caso Leire Díez: las facturas de abogados que el PSOE entrega a Pedraz — Demócrata"
     ],
     [
-      "17 NOV",
-      "Zapatero propone dos nuevos peritos para un tercer informe sobre sus joyas — Europa Press"
+      "18 NOV",
+      "El juez del 'caso Koldo' avala el registro de la casa de Ábalos en Valencia y descarta que se vulneraran sus derechos — Confilegal"
     ],
     [
-      "17 NOV",
-      "Zapatero pide que sus propios peritos tasen las joyas que la Policía incautó en su oficina — BioBioChile"
+      "18 NOV",
+      "Yolanda Díaz y Bustinduy defienden la opción de indultar al ex fiscal general Álvaro García Ortiz — GaliciaPress"
     ],
     [
-      "17 NOV",
-      "Dos gemólogos valencianos, elegidos por la defensa de Zapatero para tasar las joyas del caso 'Plus Ultra' por tercera vez — Levante-EMV"
+      "18 NOV",
+      "El ex fiscal general y la Fiscalía se oponen de nuevo a las costas fijadas por el Supremo — Infobae"
     ],
     [
-      "17 NOV",
-      "¿Cuánto valen realmente las joyas de Zapatero? El expresidente pide una nueva tasación — MUNDIARIO"
+      "18 NOV",
+      "El PP denuncia la \"inmoralidad política y democrática\" del Gobierno ante un posible indulto a García Ortiz — Teleprensa"
     ],
     [
-      "17 NOV",
-      "Zapatero plantea un experto en diamantes y una profesora de gemología para un nuevo peritaje sobre sus joyas — Demócrata"
+      "18 NOV",
+      "La Fiscalía vuelve a apoyar a García Ortiz y tacha de «desproporcionadas» las costas de 38.500 euros que le impuso el Supremo — ABC"
     ],
     [
-      "17 NOV",
-      "Zapatero propone dos peritos propios para una nueva tasación de sus joyas incautadas — MONCLOA.COM"
+      "18 NOV",
+      "El juez del 'caso Koldo' descarta que se vulneraran derechos de Ábalos en el último registro de la UCO en su casa — Valencia Plaza"
     ],
     [
-      "17 NOV",
-      "Zapatero cuestiona la tasación de las joyas y encarga un informe propio a dos técnicos — Onda Cero"
+      "18 NOV",
+      "Pedraz acepta que el exviceministro venezolano Nervis Villalobos no declare como investigado — La Razón"
     ],
     [
-      "17 NOV",
-      "Zapatero vuelve a cuestionar la tasación de las joyas y encarga un informe pericial propio — El Imparcial - Diario liberal e independiente"
+      "18 NOV",
+      "El juez vincula el caso Forestalia con la investigación de la Audiencia Nacional que afecta a Cerdán y Leire — ESdiario"
     ]
   ],
   "relojes": [
