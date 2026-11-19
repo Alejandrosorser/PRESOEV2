@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-18",
+  "actualizado_ticker": "2026-11-19",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "18 NOV",
-      "El juez del caso Forestalia deja la instrucción en manos del encargado de investigar las cloacas del PSOE en la Audiencia Nacional — 20 Minutos"
+      "19 NOV",
+      "Cintia Rocho solicita escolta policial para su declaración como testigo en el 'caso Leire' por \"amenazas de muerte\" — El Periódico"
+    ],
+    [
+      "19 NOV",
+      "Cintia Rocho pide escolta al juez Pedraz para declarar el próximo martes en la Audiencia Nacional — Canal Extremadura"
+    ],
+    [
+      "19 NOV",
+      "Cintia Rocho pide escolta policial por miedo a represalias tras destapar las presuntas 'cloacas' del PSOE — ESdiario"
+    ],
+    [
+      "19 NOV",
+      "Un excargo de Sepi niega presiones del Gobierno o de Zapatero para rescatar Plus Ultra y destaca ante el juez el papel de los asesores externos — El Periódico"
+    ],
+    [
+      "19 NOV",
+      "Juanma Lorente, abogado laboralista, sobre la nueva subida del SMI a los 1.286 euros: \"Vas a poder saber cuánto ganan todos tus compañeros en tu empresa\" — La Razón"
+    ],
+    [
+      "19 NOV",
+      "El caso Forestalia acaba en la Audiencia Nacional tras su vinculación con Santos Cerdán — El Periódico de la Energía"
+    ],
+    [
+      "19 NOV",
+      "La agenda judicial no se detiene en campaña y marcará la agenda política — Artículo 14"
+    ],
+    [
+      "19 NOV",
+      "El juez devuelve una copia de más de 80 dispositivos clave del \"caso Koldo\" — La Razón"
+    ],
+    [
+      "19 NOV",
+      "Sánchez sobre el indulto a García Ortiz tras el 29-N que adelantó OKDIARIO: «Ya veremos cuándo lo hacemos»... — OkDiario"
     ],
     [
       "18 NOV",
-      "El ex fiscal general del Estado y la Fiscalía se oponen de nuevo a las costas fijadas por el Supremo — El Confidencial"
+      "La cúpula de Plus Ultra admite que no podrá devolver los 53 millones del rescate conseguidos por Zapatero — OkDiario"
     ],
     [
       "18 NOV",
-      "Bustinduy respalda la posibilidad de indultar al ex fiscal general del Estado — ABC"
+      "Sánchez acerca al Gobierno a un posible indulto para García Ortiz mientras el Supremo mantiene su rechazo — DDC"
     ],
     [
       "18 NOV",
-      "Nervis Villalobos niega haber recibido sobornos de Duro Felguera y atribuye a Hugo Chávez la adjudicación de Termocentro — AlbertoNews"
+      "El juez del caso Koldo avala el registro de la UCO de la Guardia Civil en la vivienda de Ábalos en Valencia — MONCLOA.COM"
     ],
     [
       "18 NOV",
-      "Qué oculta el secreto profesional en el caso Leire Díez: las facturas de abogados que el PSOE entrega a Pedraz — Demócrata"
-    ],
-    [
-      "18 NOV",
-      "El juez del 'caso Koldo' avala el registro de la casa de Ábalos en Valencia y descarta que se vulneraran sus derechos — Confilegal"
-    ],
-    [
-      "18 NOV",
-      "Yolanda Díaz y Bustinduy defienden la opción de indultar al ex fiscal general Álvaro García Ortiz — GaliciaPress"
-    ],
-    [
-      "18 NOV",
-      "El ex fiscal general y la Fiscalía se oponen de nuevo a las costas fijadas por el Supremo — Infobae"
-    ],
-    [
-      "18 NOV",
-      "El PP denuncia la \"inmoralidad política y democrática\" del Gobierno ante un posible indulto a García Ortiz — Teleprensa"
-    ],
-    [
-      "18 NOV",
-      "La Fiscalía vuelve a apoyar a García Ortiz y tacha de «desproporcionadas» las costas de 38.500 euros que le impuso el Supremo — ABC"
-    ],
-    [
-      "18 NOV",
-      "El juez del 'caso Koldo' descarta que se vulneraran derechos de Ábalos en el último registro de la UCO en su casa — Valencia Plaza"
-    ],
-    [
-      "18 NOV",
-      "Pedraz acepta que el exviceministro venezolano Nervis Villalobos no declare como investigado — La Razón"
-    ],
-    [
-      "18 NOV",
-      "El juez vincula el caso Forestalia con la investigación de la Audiencia Nacional que afecta a Cerdán y Leire — ESdiario"
+      "García Ortiz recurre las costas de su condena y la Fiscalía lo apoya porque la causa no tuvo 'especial complejidad' — La Voz de Galicia"
     ]
   ],
   "relojes": [
