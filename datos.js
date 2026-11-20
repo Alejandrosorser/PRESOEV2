@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-19",
+  "actualizado_ticker": "2026-11-20",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "19 NOV",
-      "Cintia Rocho solicita escolta policial para su declaración como testigo en el 'caso Leire' por \"amenazas de muerte\" — El Periódico"
+      "20 NOV",
+      "La Audiencia Nacional ofrece a Cintia Rocho declarar desde Badajoz en el 'Caso Leire' tras pedir protección por \"amenazas de muerte\" — COPE"
+    ],
+    [
+      "20 NOV",
+      "Cintia Rocho testificará por videoconferencia en la Audiencia Nacional — La Crónica de Badajoz"
+    ],
+    [
+      "20 NOV",
+      "La Audiencia Nacional ofrece declarar por videollamada a la mujer que denunció que querían \"eliminar\" a la jueza Biedma — ESdiario"
+    ],
+    [
+      "20 NOV",
+      "La Audiencia Nacional propone a la testigo del caso Leire declarar por videollamada tras alertar de planes para “eliminar” a la jueza Biedma — Demócrata"
+    ],
+    [
+      "20 NOV",
+      "La Audiencia Nacional ofrece a Cintia Rocho declarar por videoconferencia desde Extremadura en el caso cloacas — El Debate"
+    ],
+    [
+      "20 NOV",
+      "Cintia Rocho podrá declarar por videollamada en el caso de 'Leire Díez' — Canal Extremadura"
+    ],
+    [
+      "20 NOV",
+      "La condena al fiscal general cumple un año con Moncloa estudiando su posible indulto — Elplural.com"
+    ],
+    [
+      "20 NOV",
+      "La quiebra de una firma cripto destapa el pago de 93.500 euros a la joyería del ‘caso Zapatero’ — The Objective"
+    ],
+    [
+      "20 NOV",
+      "García Ortiz, entre el indulto de Sánchez y una factura de 39.000 euros: El Supremo afronta un nuevo pulso judicial — El Cierre Digital"
     ],
     [
       "19 NOV",
-      "Cintia Rocho pide escolta al juez Pedraz para declarar el próximo martes en la Audiencia Nacional — Canal Extremadura"
+      "K de Koldo — Diario Público"
     ],
     [
       "19 NOV",
-      "Cintia Rocho pide escolta policial por miedo a represalias tras destapar las presuntas 'cloacas' del PSOE — ESdiario"
+      "La condena al ex fiscal general cumple un año con el indulto \"sobre la mesa\" y el juicio contra González Amador todavía sin fecha — Diario Público"
     ],
     [
       "19 NOV",
-      "Un excargo de Sepi niega presiones del Gobierno o de Zapatero para rescatar Plus Ultra y destaca ante el juez el papel de los asesores externos — El Periódico"
+      "Andalucía en el libro de Leire Diez — Confidencial Andaluz"
     ],
     [
       "19 NOV",
-      "Juanma Lorente, abogado laboralista, sobre la nueva subida del SMI a los 1.286 euros: \"Vas a poder saber cuánto ganan todos tus compañeros en tu empresa\" — La Razón"
-    ],
-    [
-      "19 NOV",
-      "El caso Forestalia acaba en la Audiencia Nacional tras su vinculación con Santos Cerdán — El Periódico de la Energía"
-    ],
-    [
-      "19 NOV",
-      "La agenda judicial no se detiene en campaña y marcará la agenda política — Artículo 14"
-    ],
-    [
-      "19 NOV",
-      "El juez devuelve una copia de más de 80 dispositivos clave del \"caso Koldo\" — La Razón"
-    ],
-    [
-      "19 NOV",
-      "Sánchez sobre el indulto a García Ortiz tras el 29-N que adelantó OKDIARIO: «Ya veremos cuándo lo hacemos»... — OkDiario"
-    ],
-    [
-      "18 NOV",
-      "La cúpula de Plus Ultra admite que no podrá devolver los 53 millones del rescate conseguidos por Zapatero — OkDiario"
-    ],
-    [
-      "18 NOV",
-      "Sánchez acerca al Gobierno a un posible indulto para García Ortiz mientras el Supremo mantiene su rechazo — DDC"
-    ],
-    [
-      "18 NOV",
-      "El juez del caso Koldo avala el registro de la UCO de la Guardia Civil en la vivienda de Ábalos en Valencia — MONCLOA.COM"
-    ],
-    [
-      "18 NOV",
-      "García Ortiz recurre las costas de su condena y la Fiscalía lo apoya porque la causa no tuvo 'especial complejidad' — La Voz de Galicia"
+      "Leire Díez contraataca con un libro incendiario y sorprendentes revelaciones en torno a Sánchez — ESdiario"
     ]
   ],
   "relojes": [
