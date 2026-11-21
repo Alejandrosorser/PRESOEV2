@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-20",
+  "actualizado_ticker": "2026-11-21",
   "hub": {
     "k1": [
       430,
@@ -1254,8 +1254,32 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "21 NOV",
+      "Baltasar Garzón, Álvaro García Ortiz y Dolores Delgado, juntos en un foro en Rianxo — El Correo Gallego"
+    ],
+    [
+      "21 NOV",
+      "El juez bloquea el piso de la novia de Ábalos bajo sospecha de blanqueo — La Razón"
+    ],
+    [
+      "20 NOV",
+      "La principal asociación de la carrera ve \"inaplazable\" rehabilitar la \"vilipendiada\" autonomía de la Fiscalía — La Razón"
+    ],
+    [
+      "20 NOV",
+      "Cintia Rocho podrá declarar por videoconferencia en el caso Leire Díez por el riesgo de sufrir algún ataque — Radio Interior"
+    ],
+    [
+      "20 NOV",
+      "La Audiencia Nacional ofrece a Cintia Rocho declarar por videoconferencia — Extremadura 7Dias"
+    ],
+    [
       "20 NOV",
       "La Audiencia Nacional ofrece a Cintia Rocho declarar desde Badajoz en el 'Caso Leire' tras pedir protección por \"amenazas de muerte\" — COPE"
+    ],
+    [
+      "20 NOV",
+      "Cintia Rocho declarará por videoconferencia en el caso de Leire Díez — Canal Extremadura"
     ],
     [
       "20 NOV",
@@ -1280,30 +1304,6 @@ window.PRESOE_DATOS =
     [
       "20 NOV",
       "La condena al fiscal general cumple un año con Moncloa estudiando su posible indulto — Elplural.com"
-    ],
-    [
-      "20 NOV",
-      "La quiebra de una firma cripto destapa el pago de 93.500 euros a la joyería del ‘caso Zapatero’ — The Objective"
-    ],
-    [
-      "20 NOV",
-      "García Ortiz, entre el indulto de Sánchez y una factura de 39.000 euros: El Supremo afronta un nuevo pulso judicial — El Cierre Digital"
-    ],
-    [
-      "19 NOV",
-      "K de Koldo — Diario Público"
-    ],
-    [
-      "19 NOV",
-      "La condena al ex fiscal general cumple un año con el indulto \"sobre la mesa\" y el juicio contra González Amador todavía sin fecha — Diario Público"
-    ],
-    [
-      "19 NOV",
-      "Andalucía en el libro de Leire Diez — Confidencial Andaluz"
-    ],
-    [
-      "19 NOV",
-      "Leire Díez contraataca con un libro incendiario y sorprendentes revelaciones en torno a Sánchez — ESdiario"
     ]
   ],
   "relojes": [
