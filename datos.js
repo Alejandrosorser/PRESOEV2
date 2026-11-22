@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-21",
+  "actualizado_ticker": "2026-11-22",
   "hub": {
     "k1": [
       430,
@@ -1254,6 +1254,18 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "22 NOV",
+      "La mujer a la que le hablaron de \"eliminar\" a la jueza que investigó al hermano de Sánchez declara este martes — Infobae"
+    ],
+    [
+      "22 NOV",
+      "La mujer que recibió amenazas sobre \"eliminar\" a la jueza declara hoy — Diario en Positivo"
+    ],
+    [
+      "22 NOV",
+      "El indulto a García Ortiz sigue sobre la mesa un año después — Diario Palentino"
+    ],
+    [
       "21 NOV",
       "Baltasar Garzón, Álvaro García Ortiz y Dolores Delgado, juntos en un foro en Rianxo — El Correo Gallego"
     ],
@@ -1292,18 +1304,6 @@ window.PRESOE_DATOS =
     [
       "20 NOV",
       "La Audiencia Nacional propone a la testigo del caso Leire declarar por videollamada tras alertar de planes para “eliminar” a la jueza Biedma — Demócrata"
-    ],
-    [
-      "20 NOV",
-      "La Audiencia Nacional ofrece a Cintia Rocho declarar por videoconferencia desde Extremadura en el caso cloacas — El Debate"
-    ],
-    [
-      "20 NOV",
-      "Cintia Rocho podrá declarar por videollamada en el caso de 'Leire Díez' — Canal Extremadura"
-    ],
-    [
-      "20 NOV",
-      "La condena al fiscal general cumple un año con Moncloa estudiando su posible indulto — Elplural.com"
     ]
   ],
   "relojes": [
