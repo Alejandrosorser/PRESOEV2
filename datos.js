@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-22",
+  "actualizado_ticker": "2026-11-23",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "22 NOV",
-      "La mujer a la que le hablaron de \"eliminar\" a la jueza que investigó al hermano de Sánchez declara este martes — Infobae"
+      "23 NOV",
+      "Koldo denuncia ante la Fiscalía que el Govern de Prohens dejó caducar la reclamación de 2,6 millones del 'caso mascarillas' — Diario de Mallorca"
     ],
     [
-      "22 NOV",
-      "La mujer que recibió amenazas sobre \"eliminar\" a la jueza declara hoy — Diario en Positivo"
+      "23 NOV",
+      "La aerolínea Plus Ultra suspende todas sus operaciones desde este mismo lunes — Radio Intereconomía"
     ],
     [
-      "22 NOV",
-      "El indulto a García Ortiz sigue sobre la mesa un año después — Diario Palentino"
+      "23 NOV",
+      "Tellado acusa a Sánchez de proteger a Zapatero y plantea dos posibles motivos — Amazon.com"
     ],
     [
-      "21 NOV",
-      "Baltasar Garzón, Álvaro García Ortiz y Dolores Delgado, juntos en un foro en Rianxo — El Correo Gallego"
+      "23 NOV",
+      "El comandante imputado en el caso Koldo declara ante la Audiencia Nacional a petición propia — Canal Sur"
     ],
     [
-      "21 NOV",
-      "El juez bloquea el piso de la novia de Ábalos bajo sospecha de blanqueo — La Razón"
+      "23 NOV",
+      "La testigo que denunció planes para \"eliminar\" a la jueza que investigó al hermano de Sánchez, declarará este martes por videoconferencia en el caso 'Leire D… — El Constitucional"
     ],
     [
-      "20 NOV",
-      "La principal asociación de la carrera ve \"inaplazable\" rehabilitar la \"vilipendiada\" autonomía de la Fiscalía — La Razón"
+      "23 NOV",
+      "Cintia Rocho declarará por videoconferencia en el ‘caso Leire’ tras alegar que teme por su vida — The Objective"
     ],
     [
-      "20 NOV",
-      "Cintia Rocho podrá declarar por videoconferencia en el caso Leire Díez por el riesgo de sufrir algún ataque — Radio Interior"
+      "23 NOV",
+      "Cintia Rocho declarará por videoconferencia en la Audiencia Nacional en el caso Leire Díez — La Portada de Extremadura"
     ],
     [
-      "20 NOV",
-      "La Audiencia Nacional ofrece a Cintia Rocho declarar por videoconferencia — Extremadura 7Dias"
+      "23 NOV",
+      "Corrupción sanchista. El cerco judicial al PSOE en la Audiencia Nacional se estrecha: petróleo venezolano y cloacas socialistas — Hispanidad"
     ],
     [
-      "20 NOV",
-      "La Audiencia Nacional ofrece a Cintia Rocho declarar desde Badajoz en el 'Caso Leire' tras pedir protección por \"amenazas de muerte\" — COPE"
+      "23 NOV",
+      "Cintia Rocho declarará por videoconferencia en el caso Leire Díez tras pedir protección policial — Deia"
     ],
     [
-      "20 NOV",
-      "Cintia Rocho declarará por videoconferencia en el caso de Leire Díez — Canal Extremadura"
+      "23 NOV",
+      "Zapatero es el gurú de la campaña del PSOE desvela Sánchez — Hechos de Hoy"
     ],
     [
-      "20 NOV",
-      "Cintia Rocho testificará por videoconferencia en la Audiencia Nacional — La Crónica de Badajoz"
+      "23 NOV",
+      "Tellado acusa a Sánchez de proteger a Zapatero y apunta a dos motivos: \"O maneja información comprometida o está metido en el ajo\" — Estrella Digital"
     ],
     [
-      "20 NOV",
-      "La Audiencia Nacional ofrece declarar por videollamada a la mujer que denunció que querían \"eliminar\" a la jueza Biedma — ESdiario"
+      "23 NOV",
+      "Air Europa, el caso Leire Díez y Ceuta marcan la última semana electoral de Sánchez con declaraciones judiciales de Aagesen, Rocho y Gonzalo Sanz. — ESdiario"
     ],
     [
-      "20 NOV",
-      "La Audiencia Nacional propone a la testigo del caso Leire declarar por videollamada tras alertar de planes para “eliminar” a la jueza Biedma — Demócrata"
+      "23 NOV",
+      "Cintia Rocho declara este martes ante el juez Pedraz en el marco de la investigación sobre la presunta trama vinculada a Leire Díez — Onda Cero Sur Extremadura"
     ]
   ],
   "relojes": [
