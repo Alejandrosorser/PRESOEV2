@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-23",
+  "actualizado_ticker": "2026-11-24",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "23 NOV",
-      "Koldo denuncia ante la Fiscalía que el Govern de Prohens dejó caducar la reclamación de 2,6 millones del 'caso mascarillas' — Diario de Mallorca"
+      "24 NOV",
+      "Rocho ratifica que el exjuez amenazó a la jueza del caso Sánchez — La Tribuna de Ciudad Real"
     ],
     [
-      "23 NOV",
-      "La aerolínea Plus Ultra suspende todas sus operaciones desde este mismo lunes — Radio Intereconomía"
+      "24 NOV",
+      "Dos años del terremoto de Aldama que cercó a Santos Cerdán y al PSOE antes de su Congreso Federal — ESdiario"
     ],
     [
-      "23 NOV",
-      "Tellado acusa a Sánchez de proteger a Zapatero y plantea dos posibles motivos — Amazon.com"
+      "24 NOV",
+      "El juez del 'caso Leire Díez' pide al PSOE que amplíe la documentación presentada sobre la contratación de abogados — Europa Press"
     ],
     [
-      "23 NOV",
-      "El comandante imputado en el caso Koldo declara ante la Audiencia Nacional a petición propia — Canal Sur"
+      "24 NOV",
+      "El juez del \"caso Leire Díez\" reclama más documentación al PSOE sobre los pagos a sus abogados — Antena 3 Noticias"
     ],
     [
-      "23 NOV",
-      "La testigo que denunció planes para \"eliminar\" a la jueza que investigó al hermano de Sánchez, declarará este martes por videoconferencia en el caso 'Leire D… — El Constitucional"
+      "24 NOV",
+      "'Caso Leire Díez': El juez pide al PSOE que amplíe documentación sobre contratación de abogados — Europa Press"
     ],
     [
-      "23 NOV",
-      "Cintia Rocho declarará por videoconferencia en el ‘caso Leire’ tras alegar que teme por su vida — The Objective"
+      "24 NOV",
+      "Moncloa descarta el indulto a García Ortiz antes del 29N aunque la ley permite tramitarlo en funciones — MONCLOA.COM"
     ],
     [
-      "23 NOV",
-      "Cintia Rocho declarará por videoconferencia en la Audiencia Nacional en el caso Leire Díez — La Portada de Extremadura"
+      "24 NOV",
+      "El juez del caso Leire vuelve a reclamar al PSOE información sobre los abogados contratados — El Nacional.cat"
     ],
     [
-      "23 NOV",
-      "Corrupción sanchista. El cerco judicial al PSOE en la Audiencia Nacional se estrecha: petróleo venezolano y cloacas socialistas — Hispanidad"
+      "24 NOV",
+      "El juez Pedraz reclama al PSOE documentos pendientes sobre sus abogados para aclarar quién autorizó las contrataciones en el caso Leire Díez — El Constitucional"
     ],
     [
-      "23 NOV",
-      "Cintia Rocho declarará por videoconferencia en el caso Leire Díez tras pedir protección policial — Deia"
+      "24 NOV",
+      "Cintia Rocho ratifica en la Audiencia Nacional que el exjuez Sáenz de Tejada habló de \"eliminar\" a Beatriz Biedma, la jueza que investigó al hermano de Sánchez — El Constitucional"
     ],
     [
-      "23 NOV",
-      "Zapatero es el gurú de la campaña del PSOE desvela Sánchez — Hechos de Hoy"
+      "24 NOV",
+      "Pedraz pide al PSOE más documentos sobre abogados en el caso Leire Díez — el boletin"
     ],
     [
-      "23 NOV",
-      "Tellado acusa a Sánchez de proteger a Zapatero y apunta a dos motivos: \"O maneja información comprometida o está metido en el ajo\" — Estrella Digital"
+      "24 NOV",
+      "El juez del caso Leire requiere de nuevo al PSOE información sobre sus abogados — EFE - Agencia de noticias"
     ],
     [
-      "23 NOV",
-      "Air Europa, el caso Leire Díez y Ceuta marcan la última semana electoral de Sánchez con declaraciones judiciales de Aagesen, Rocho y Gonzalo Sanz. — ESdiario"
+      "24 NOV",
+      "El juez del ‘caso Leire Díez’ reclama más información al PSOE para saber quién autorizó los pagos a sus abogados — EL PAÍS"
     ],
     [
-      "23 NOV",
-      "Cintia Rocho declara este martes ante el juez Pedraz en el marco de la investigación sobre la presunta trama vinculada a Leire Díez — Onda Cero Sur Extremadura"
+      "24 NOV",
+      "El juez del caso Leire Díez exige al PSOE más datos sobre la contratación de abogados — Demócrata"
     ]
   ],
   "relojes": [
