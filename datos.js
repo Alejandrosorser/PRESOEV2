@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-24",
+  "actualizado_ticker": "2026-11-25",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "24 NOV",
-      "Rocho ratifica que el exjuez amenazó a la jueza del caso Sánchez — La Tribuna de Ciudad Real"
+      "25 NOV",
+      "María Corina Machado, sobre la imputación de Zapatero: «La verdad va a emerger y creo que se va a entender la magnitud de este entramado» — LA GACETA"
     ],
     [
-      "24 NOV",
-      "Dos años del terremoto de Aldama que cercó a Santos Cerdán y al PSOE antes de su Congreso Federal — ESdiario"
+      "25 NOV",
+      "Caso Leire Díez | La exmilitante del PSOE y el expresidente de Correos declararán el 9 de diciembre por presuntas irregularidades en contratos públicos — El Cronista"
     ],
     [
-      "24 NOV",
-      "El juez del 'caso Leire Díez' pide al PSOE que amplíe la documentación presentada sobre la contratación de abogados — Europa Press"
+      "25 NOV",
+      "Una juez cita a declarar como imputados a Leire Díez y al ex presidente de Correos por fraude, prevaricación, malversación y tráfico de influencias — El Mundo"
     ],
     [
-      "24 NOV",
-      "El juez del \"caso Leire Díez\" reclama más documentación al PSOE sobre los pagos a sus abogados — Antena 3 Noticias"
+      "25 NOV",
+      "Leire Díez y el expresidente de Correos, citados como investigados por presuntas irregularidades en contratos públicos — Confilegal"
     ],
     [
-      "24 NOV",
-      "'Caso Leire Díez': El juez pide al PSOE que amplíe documentación sobre contratación de abogados — Europa Press"
+      "25 NOV",
+      "Leire Díez y Juanma Serrano, citados a declarar el 9 de diciembre tras una querella de Vox por contratos de Correos — RTVE.es"
     ],
     [
-      "24 NOV",
-      "Moncloa descarta el indulto a García Ortiz antes del 29N aunque la ley permite tramitarlo en funciones — MONCLOA.COM"
+      "25 NOV",
+      "Una jueza imputa al ex jefe de Gabinete de Sánchez y a Leire Díez por contrataciones irregulares en Correos — El Periódico"
     ],
     [
-      "24 NOV",
-      "El juez del caso Leire vuelve a reclamar al PSOE información sobre los abogados contratados — El Nacional.cat"
+      "25 NOV",
+      "Trillo asegura que las \"dudas\" sobre el voto por correo no son \"sospechas\": \"En 2023 Leire Díez fue la fontanera\" — PressDigital"
     ],
     [
-      "24 NOV",
-      "El juez Pedraz reclama al PSOE documentos pendientes sobre sus abogados para aclarar quién autorizó las contrataciones en el caso Leire Díez — El Constitucional"
+      "25 NOV",
+      "Una juez imputa a Leire Díez y al exjefe de gabinete de Sánchez por cuatro delitos en Correos — El Correo"
     ],
     [
-      "24 NOV",
-      "Cintia Rocho ratifica en la Audiencia Nacional que el exjuez Sáenz de Tejada habló de \"eliminar\" a Beatriz Biedma, la jueza que investigó al hermano de Sánchez — El Constitucional"
+      "25 NOV",
+      "Una jueza cita como imputados por los contratos de Correos a Leire Díez y Juanma Serrano — Servimedia"
     ],
     [
-      "24 NOV",
-      "Pedraz pide al PSOE más documentos sobre abogados en el caso Leire Díez — el boletin"
+      "25 NOV",
+      "Una jueza de Madrid imputa a Leire Díez y al exjefe de gabinete de Pedro Sánchez por presuntas irregularidades en contratos de Correos — Infobae"
     ],
     [
-      "24 NOV",
-      "El juez del caso Leire requiere de nuevo al PSOE información sobre sus abogados — EFE - Agencia de noticias"
+      "25 NOV",
+      "Un juzgado imputa a Leire Díez y al exjefe de gabinete de Sánchez por irregularidades en Correos — Vozpopuli"
     ],
     [
-      "24 NOV",
-      "El juez del ‘caso Leire Díez’ reclama más información al PSOE para saber quién autorizó los pagos a sus abogados — EL PAÍS"
+      "25 NOV",
+      "Una jueza cita a Leire Díez y al exjefe de gabinete de Sánchez en el PSOE por presuntas irregularidades en Correos — EL PAÍS"
     ],
     [
-      "24 NOV",
-      "El juez del caso Leire Díez exige al PSOE más datos sobre la contratación de abogados — Demócrata"
+      "25 NOV",
+      "Santiago Pedraz investiga los controles internos del PSOE sobre las contrataciones atribuidas a Santos Cerdán por su gerente, Ana María Fuentes — ESdiario"
     ]
   ],
   "relojes": [
