@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-25",
+  "actualizado_ticker": "2026-11-26",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "25 NOV",
-      "María Corina Machado, sobre la imputación de Zapatero: «La verdad va a emerger y creo que se va a entender la magnitud de este entramado» — LA GACETA"
+      "26 NOV",
+      "El Supremo fija en 2042 el final de la pena de prisión de Ábalos y en 2040 la de Koldo por el caso mascarillas — Demócrata"
     ],
     [
-      "25 NOV",
-      "Caso Leire Díez | La exmilitante del PSOE y el expresidente de Correos declararán el 9 de diciembre por presuntas irregularidades en contratos públicos — El Cronista"
+      "26 NOV",
+      "Ábalos no saldrá de prisión hasta 2042 y Koldo García cumplirá condena hasta 2040 — Tribuna de Valladolid."
     ],
     [
-      "25 NOV",
-      "Una juez cita a declarar como imputados a Leire Díez y al ex presidente de Correos por fraude, prevaricación, malversación y tráfico de influencias — El Mundo"
+      "26 NOV",
+      "El Supremo fija el final de la condena de Ábalos en mayo de 2042 y la de Koldo García en noviembre de 2040 — Benavente Digital"
     ],
     [
-      "25 NOV",
-      "Leire Díez y el expresidente de Correos, citados como investigados por presuntas irregularidades en contratos públicos — Confilegal"
+      "26 NOV",
+      "Ábalos no terminará de cumplir su condena por el caso Koldo hasta mayo de 2042 y estará inhabilitado hasta 2057 — LaSexta"
     ],
     [
-      "25 NOV",
-      "Leire Díez y Juanma Serrano, citados a declarar el 9 de diciembre tras una querella de Vox por contratos de Correos — RTVE.es"
+      "26 NOV",
+      "El origen de las joyas de Zapatero apunta al novio de Delcy Rodríguez — Howl.Link"
     ],
     [
-      "25 NOV",
-      "Una jueza imputa al ex jefe de Gabinete de Sánchez y a Leire Díez por contrataciones irregulares en Correos — El Periódico"
+      "26 NOV",
+      "El Supremo fija en mayo de 2042 el tope de Ábalos en prisión — El Periódico"
     ],
     [
-      "25 NOV",
-      "Trillo asegura que las \"dudas\" sobre el voto por correo no son \"sospechas\": \"En 2023 Leire Díez fue la fontanera\" — PressDigital"
+      "26 NOV",
+      "La controversia en torno a García Ortiz desplaza las tomas de posesión de fiscales principales a salas menores del Tribunal Supremo — Nuevaradio"
     ],
     [
-      "25 NOV",
-      "Una juez imputa a Leire Díez y al exjefe de gabinete de Sánchez por cuatro delitos en Correos — El Correo"
+      "26 NOV",
+      "Caso Koldo | La UCO ve \"posibles irregularidades\" en la obra del túnel de Belate — RTVE.es"
     ],
     [
-      "25 NOV",
-      "Una jueza cita como imputados por los contratos de Correos a Leire Díez y Juanma Serrano — Servimedia"
+      "26 NOV",
+      "Rumores del indulto 'in extremis' al ex fiscal general, ¿puede hacerlo el Gobierno en funciones? — Diariocrítico.com"
     ],
     [
-      "25 NOV",
-      "Una jueza de Madrid imputa a Leire Díez y al exjefe de gabinete de Pedro Sánchez por presuntas irregularidades en contratos de Correos — Infobae"
+      "26 NOV",
+      "La UCO detecta posibles irregularidades en las obras de los túneles de Belate — El Imparcial - Diario liberal e independiente"
     ],
     [
-      "25 NOV",
-      "Un juzgado imputa a Leire Díez y al exjefe de gabinete de Sánchez por irregularidades en Correos — Vozpopuli"
+      "26 NOV",
+      "Saavedra exige explicaciones al PSOE por la estancia de Ábalos y Koldo en el Parador de la Alhambra — Granada es Noticia"
     ],
     [
-      "25 NOV",
-      "Una jueza cita a Leire Díez y al exjefe de gabinete de Sánchez en el PSOE por presuntas irregularidades en Correos — EL PAÍS"
+      "26 NOV",
+      "La UCO ve \"posibles indicios de delito\" en la obra del túnel de Belate en el marco del 'caso Koldo' — El Constitucional"
     ],
     [
-      "25 NOV",
-      "Santiago Pedraz investiga los controles internos del PSOE sobre las contrataciones atribuidas a Santos Cerdán por su gerente, Ana María Fuentes — ESdiario"
+      "26 NOV",
+      "La UCO señala que funcionarios alertaron sobre los contratos de los túneles de Belate vinculados a Cerdán — Libertad Digital"
     ]
   ],
   "relojes": [
