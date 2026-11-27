@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-26",
+  "actualizado_ticker": "2026-11-27",
   "hub": {
     "k1": [
       430,
@@ -1254,56 +1254,56 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
-      "26 NOV",
-      "El Supremo fija en 2042 el final de la pena de prisión de Ábalos y en 2040 la de Koldo por el caso mascarillas — Demócrata"
+      "27 NOV",
+      "La Audiencia Nacional mantiene la valoración de las joyas de Zapatero en un millón — Noticias de Gipuzkoa"
     ],
     [
-      "26 NOV",
-      "Ábalos no saldrá de prisión hasta 2042 y Koldo García cumplirá condena hasta 2040 — Tribuna de Valladolid."
+      "27 NOV",
+      "El juez cita a las hijas de Zapatero por los pagos de 203.280 euros a su agencia — El Diario de Madrid"
     ],
     [
-      "26 NOV",
-      "El Supremo fija el final de la condena de Ábalos en mayo de 2042 y la de Koldo García en noviembre de 2040 — Benavente Digital"
+      "27 NOV",
+      "La Audiencia Nacional respalda el rechazo del juez a la recusación de Zapatero contra la segunda joyería tasadora — Demócrata"
     ],
     [
-      "26 NOV",
-      "Ábalos no terminará de cumplir su condena por el caso Koldo hasta mayo de 2042 y estará inhabilitado hasta 2057 — LaSexta"
+      "27 NOV",
+      "La AN avala el 'no' del juez a la recusación presentada por Zapatero contra la segunda joyería que tasó sus joyas — Europa Press"
     ],
     [
-      "26 NOV",
-      "El origen de las joyas de Zapatero apunta al novio de Delcy Rodríguez — Howl.Link"
+      "27 NOV",
+      "Las hijas de Zapatero declararán el lunes como imputadas en el ‘caso Plus Ultra’ — Servimedia"
     ],
     [
-      "26 NOV",
-      "El Supremo fija en mayo de 2042 el tope de Ábalos en prisión — El Periódico"
+      "27 NOV",
+      "Nada menos que diez casos de corrupción cercan a Pedro Sánchez y a su entorno, ante las urnas — Hispanidad"
     ],
     [
-      "26 NOV",
-      "La controversia en torno a García Ortiz desplaza las tomas de posesión de fiscales principales a salas menores del Tribunal Supremo — Nuevaradio"
+      "27 NOV",
+      "El PP publica vídeos con IA de Ábalos, Koldo, Cerdán y Begoña: «Empecé en las saunas de papá y soy catedrática» — El Debate"
     ],
     [
-      "26 NOV",
-      "Caso Koldo | La UCO ve \"posibles irregularidades\" en la obra del túnel de Belate — RTVE.es"
+      "27 NOV",
+      "Plus Ultra y los sindicatos se citan la próxima semana para cerrar los 659 despidos — Radio Intereconomía"
     ],
     [
-      "26 NOV",
-      "Rumores del indulto 'in extremis' al ex fiscal general, ¿puede hacerlo el Gobierno en funciones? — Diariocrítico.com"
+      "27 NOV",
+      "Ábalos y Koldo cumplen un año en prisión pendientes del Constitucional y señalados por presuntos amaños de obras — Andalucía Información"
     ],
     [
-      "26 NOV",
-      "La UCO detecta posibles irregularidades en las obras de los túneles de Belate — El Imparcial - Diario liberal e independiente"
+      "27 NOV",
+      "Ábalos y Koldo cumplen un año en prisión pendientes del Constitucional y bajo investigación por amaños de obras — Noticias de Navarra"
     ],
     [
-      "26 NOV",
-      "Saavedra exige explicaciones al PSOE por la estancia de Ábalos y Koldo en el Parador de la Alhambra — Granada es Noticia"
+      "27 NOV",
+      "Ábalos y Koldo cumplen un año en prisión pendientes del TC y bajo investigación por presuntos amaños de obras públicas — Antena 3 Noticias"
     ],
     [
-      "26 NOV",
-      "La UCO ve \"posibles indicios de delito\" en la obra del túnel de Belate en el marco del 'caso Koldo' — El Constitucional"
+      "27 NOV",
+      "Ábalos y Koldo cumplen un año en prisión y esperan al Constitucional — el boletin"
     ],
     [
-      "26 NOV",
-      "La UCO señala que funcionarios alertaron sobre los contratos de los túneles de Belate vinculados a Cerdán — Libertad Digital"
+      "27 NOV",
+      "Ábalos y Koldo cumplen un año en prisión pendientes del TC y señalados por supuestos amaños de obras públicas — Demócrata"
     ]
   ],
   "relojes": [
