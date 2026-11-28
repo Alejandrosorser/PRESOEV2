@@ -1,7 +1,7 @@
 window.PRESOE_DATOS =
 {
   "actualizado_datos": "2026-11-07",
-  "actualizado_ticker": "2026-11-27",
+  "actualizado_ticker": "2026-11-28",
   "hub": {
     "k1": [
       430,
@@ -1254,8 +1254,40 @@ window.PRESOE_DATOS =
   ],
   "ticker": [
     [
+      "28 NOV",
+      "Se estrecha el cerco sobre Leire Díez: estos son todos los delitos que se le imputan a la fontanera — El Debate"
+    ],
+    [
+      "28 NOV",
+      "Las joyas de Zapatero apuntan a una joyería de Beirut — Estrella Digital"
+    ],
+    [
+      "28 NOV",
+      "La Audiencia Nacional cierra la vía de Zapatero para apartar al perito de Joyería Yanes — Heraldo de Aragón"
+    ],
+    [
       "27 NOV",
-      "La Audiencia Nacional mantiene la valoración de las joyas de Zapatero en un millón — Noticias de Gipuzkoa"
+      "La Audiencia Nacional rechaza los dos peritos propuestos por Zapatero para tasar las joyas — Howl.Link"
+    ],
+    [
+      "27 NOV",
+      "Zapatero en jaque: sus hijas declaran este lunes como imputadas en el 'caso Plus Ultra' — estenerife.com"
+    ],
+    [
+      "27 NOV",
+      "Las hijas de Zapatero declararán este lunes 30 de noviembre como imputadas en el 'caso Plus Ultra' — 20 Minutos"
+    ],
+    [
+      "27 NOV",
+      "La AN confirma la negativa del juez a la recusación de Zapatero contra la joyería — Diario en Positivo"
+    ],
+    [
+      "27 NOV",
+      "La AN ratifica la negativa del juez a la recusación de Zapatero sobre la joyería — Córdoba Buenas Noticias"
+    ],
+    [
+      "27 NOV",
+      "La Audiencia Nacional mantiene la valoración de las joyas de Zapatero en un millón — Noticias de Navarra"
     ],
     [
       "27 NOV",
@@ -1263,47 +1295,15 @@ window.PRESOE_DATOS =
     ],
     [
       "27 NOV",
+      "El PP sitúa a Santos Cerdán en la cárcel y pidiendo el indulto en un nuevo vídeo con IA — La Vanguardia"
+    ],
+    [
+      "27 NOV",
       "La Audiencia Nacional respalda el rechazo del juez a la recusación de Zapatero contra la segunda joyería tasadora — Demócrata"
     ],
     [
       "27 NOV",
-      "La AN avala el 'no' del juez a la recusación presentada por Zapatero contra la segunda joyería que tasó sus joyas — Europa Press"
-    ],
-    [
-      "27 NOV",
       "Las hijas de Zapatero declararán el lunes como imputadas en el ‘caso Plus Ultra’ — Servimedia"
-    ],
-    [
-      "27 NOV",
-      "Nada menos que diez casos de corrupción cercan a Pedro Sánchez y a su entorno, ante las urnas — Hispanidad"
-    ],
-    [
-      "27 NOV",
-      "El PP publica vídeos con IA de Ábalos, Koldo, Cerdán y Begoña: «Empecé en las saunas de papá y soy catedrática» — El Debate"
-    ],
-    [
-      "27 NOV",
-      "Plus Ultra y los sindicatos se citan la próxima semana para cerrar los 659 despidos — Radio Intereconomía"
-    ],
-    [
-      "27 NOV",
-      "Ábalos y Koldo cumplen un año en prisión pendientes del Constitucional y señalados por presuntos amaños de obras — Andalucía Información"
-    ],
-    [
-      "27 NOV",
-      "Ábalos y Koldo cumplen un año en prisión pendientes del Constitucional y bajo investigación por amaños de obras — Noticias de Navarra"
-    ],
-    [
-      "27 NOV",
-      "Ábalos y Koldo cumplen un año en prisión pendientes del TC y bajo investigación por presuntos amaños de obras públicas — Antena 3 Noticias"
-    ],
-    [
-      "27 NOV",
-      "Ábalos y Koldo cumplen un año en prisión y esperan al Constitucional — el boletin"
-    ],
-    [
-      "27 NOV",
-      "Ábalos y Koldo cumplen un año en prisión pendientes del TC y señalados por supuestos amaños de obras públicas — Demócrata"
     ]
   ],
   "relojes": [
